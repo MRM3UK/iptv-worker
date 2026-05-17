@@ -3,195 +3,125 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:31:27 PM 17-05-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779114690-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-ceab2851f3b42bf4c1b2ed5e9d7fa8df
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=b7bb956be84d474064fe5d9a39579372&x-time=1779028260
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779114693-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-04010fc9692136181e3818b580f3bba3
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/54044/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=c7fa6aeb24a647ab869c0db158518d54&x-time=1779028260
+#last update time: 9:31:25 PM 17-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=9bb2487f20eb15c24efdc79f99101bc0&x-time=1779028260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=f351dba4e5659e1df8ee3e60b57a121f&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=cdfdbd8ccecfc4611a3bce2ec086e3bc&x-time=1779028260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=79b2fce1ea8f9e754d543781dfbd78af&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779114703-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-1c47b1dac20e7481dd5138bbc9c0aa40
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779118293-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-22aecd281c6a91a185d78293331b2808
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=d14e45ff50f01c5d4bc47180ed6569d5&x-time=1779028260
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=21da930d86db364475e0403b0c9519ac&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=fbfb5a2cc632025175c5e3000fed0948&x-time=1779028260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=ff7cc7cbe8025baa141f3084c9b46be0&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=72570e8802c2f297d6b9ece786b78a26&x-time=1779028260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=110d824fea9aab6a5d7b3f72ce14be08&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779114712-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-3eb19a647b6093cd561fe396b8c6e8d1
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779118302-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-c4d160c3a7cf45618b1551facb608056
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=b27f73ed9aa66ed3e7d6d441c5a48d7f&x-time=1779028260
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=6960613699540fd0a6784ce88edc9411&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=228ae6186757819d1e7d542746726773&x-time=1779028260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=e0a540db709cb4d5f3df3a6364e80afe&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779114719-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-b04358be13a8c8c02ed0af628a3e2aea
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779118310-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-1100fdcbd93299cfb5ce142d0cd1f226
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779114720-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-9b86f1da98efc0fa2c71ad270116f78b
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779118311-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-db90087a022469e9a113341c48c5b77e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=d852b97952062bbbb31e46460d0eb6d8&x-time=1779028320
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=3ff50a5d314f24d232c83398338a9eb9&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=c94b926f47eb30a948adb3fa01e1492d&x-time=1779028320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=b7aba9030472545602574410eac2df9e&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=be6dd202c0a4089e531cd69a85024f15&x-time=1779028320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=12305755042fabc09467cca39bd6c4c7&x-time=1779031860
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779114729-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-2802288a400103468bbbd097f1d5ac94
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779118320-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-36592dc9d4287ef3c4a6026c15d12aed
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=91991dbd88ec740b74694ae2cb4c18cd&x-time=1779028320
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=d33a585d53120fe4377bd4e88aac500d&x-time=1779031920
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779114736-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-63a53d9c53f33036cdab129a91eed995
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779118327-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-844164975a29b3abfd570b223207a3b4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=8baef4ad434e963639bed62468de1b06&x-time=1779028320
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=7a04a67e5aaa0a0dab36e13df36d941a&x-time=1779031920
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779114742-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-854e0ea8f6db2871c4235ae8b513693b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779118333-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-8b244754136d07407b526d9ebbb916dc
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=ed810e59450257ef5916826e464434f7&x-time=1779028320
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald" group-title="Football", GKS Katowice VS Jagiellonia | Ekstraklasa [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779114748-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-15ebcadc7479b19f2b3dbb90fedb7057
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald" group-title="Football", GKS Katowice VS Jagiellonia | Ekstraklasa [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=365aa308b4133d54b868965dc634c1a0&x-time=1779028320
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Livingston%0AVS%0AKilmarnock%0APremiership&font=Oswald" group-title="Football", Livingston VS Kilmarnock | Premiership [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779114755-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-d3c0b4155042abc5d92a624450885b2f
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Livingston%0AVS%0AKilmarnock%0APremiership&font=Oswald" group-title="Football", Livingston VS Kilmarnock | Premiership [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274860/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=7e812e35423a8f7c12e6ca62780c0b55&x-time=1779028320
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arminia%20Bielefeld%0AVS%0AHertha%20BSC%0A2.%20Bundesliga&font=Oswald" group-title="Football", Arminia Bielefeld VS Hertha BSC | 2. Bundesliga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779114762-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-c78e310337c475f40c601cbe134a41d6
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arminia%20Bielefeld%0AVS%0AHertha%20BSC%0A2.%20Bundesliga&font=Oswald" group-title="Football", Arminia Bielefeld VS Hertha BSC | 2. Bundesliga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=e26caf5ad7256e38b5731d9f4c905ec9&x-time=1779028320
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=1.%20FC%20Magdeburg%0AVS%0A1.%20FC%20Kaiserslautern%0A2.%20Bundesliga&font=Oswald" group-title="Football", 1. FC Magdeburg VS 1. FC Kaiserslautern | 2. Bundesliga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779114770-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-572ae62a07ae9e457a094f8f18c1987f
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=1.%20FC%20Magdeburg%0AVS%0A1.%20FC%20Kaiserslautern%0A2.%20Bundesliga&font=Oswald" group-title="Football", 1. FC Magdeburg VS 1. FC Kaiserslautern | 2. Bundesliga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=9809d64ed2ffbecba2e10dc2cba5a597&x-time=1779028320
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FC%20Schalke%2004%0AVS%0AEintracht%20Braunschweig%0A2.%20Bundesliga&font=Oswald" group-title="Football", FC Schalke 04 VS Eintracht Braunschweig | 2. Bundesliga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779114776-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-eae6bf5e30780db61991c305b87a7a82
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FC%20Schalke%2004%0AVS%0AEintracht%20Braunschweig%0A2.%20Bundesliga&font=Oswald" group-title="Football", FC Schalke 04 VS Eintracht Braunschweig | 2. Bundesliga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=397afc296be0d42e27f8d0a15b9d0c66&x-time=1779028320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=9de247af3c6fb5ceed9fae99b32db0cf&x-time=1779031920
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mamelodi%20Sundowns%0AVS%0AFAR%20Rabat%0ACAF%20Champions%20League&font=Oswald" group-title="Football", Mamelodi Sundowns VS FAR Rabat | CAF Champions League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779114784-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-092af2b2c3b221133f9e9df5cebf19d4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779118340-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-cd9a2e7a22f4b91b0737b0a2daacd6da
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mamelodi%20Sundowns%0AVS%0AFAR%20Rabat%0ACAF%20Champions%20League&font=Oswald" group-title="Football", Mamelodi Sundowns VS FAR Rabat | CAF Champions League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=dc13049296ab475c30a0e6f56c465bde&x-time=1779028380
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=5d17ea29df7188ec8017cb6e2c41f2a1&x-time=1779031920
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Uni%C3%A3o%20de%20Leiria%0AVS%0AFeirense%0ASegunda%20Liga&font=Oswald" group-title="Football", União de Leiria VS Feirense | Segunda Liga [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/34464/chunks.m3u8?is_vip=false&token=1779114790-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-0a2003c20522617e65d696a3bf642a19
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779118347-Kv4cPTAAP5YTi-1779bfb0a2c6ad45625dc344540e97fd3e8fe030-d990bef559fd1fe3bbe3750c555ac9f8
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Uni%C3%A3o%20de%20Leiria%0AVS%0AFeirense%0ASegunda%20Liga&font=Oswald" group-title="Football", União de Leiria VS Feirense | Segunda Liga [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/34464/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=dc85e745c91d7e9ed682e4c8ab814ed2&x-time=1779028380
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779bfb0a2c6ad45625dc344540e97fd3e8fe030&x-sign=09714f52d00941cb3974ea803127e54e&x-time=1779031920
 
