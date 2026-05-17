@@ -1,28 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:22 AM 18-05-2026
+#last update time: 04:30:21 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/23/ed/2e/0123ed2e-397a-4260-959a-5f338686e676.png" group-title="FIFA Live", Kickstart Rush v St.Andrew Lions FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d92f66fe9cc93880a0eb9da23092f784:8d980d4dcba7527b185c3f222a71de4d
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_43_51_5b2ca49e-a20d-401c-a27f-6c2092b9b6eb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f1/d1/75/b5/f1d175b5-dda0-4f3d-b77c-1d5b196c0d12.png" group-title="FIFA Live", Jong Aruba v River Plate Aruba | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61ad0ac1010f3162b52c5a7d515a9f84:cd72e1de0ebf1256f241e0944d2f03a8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_09_2d554bf2-4cd8-4f0b-abb8-c13430194568/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/73/97/03/55/73970355-bc87-4497-a818-6692b98c2ab0.png" group-title="FIFA Live", Ávila FC v Dynamo Puerto | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfb141c89de93a20b9278410ce74e533:fb7b62920b71ae0a1e68d0c1a3695eda
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_05_59_6a1cf4e6-e044-4c6d-8d6f-400f032984e4/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a3/fd/aa/ec/a3fdaaec-ab58-4879-bd50-c09f2198d017.png" group-title="FIFA Live", Upala FC v San Ramón FF | Women's Second Division 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fea0167e27d3c24aa1d268763251f10:306f2c217589707c1cd736ee956823f7
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_28_e68a08af-e277-4999-a42e-e4baab529917/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779047340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/27/00/c3/99/2700c399-8874-455b-8cf8-ae1309f7f6c7.png" group-title="FIFA Live", Robinhood v Inter Moengo Tapoe | Suriname Major League 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,3 +13,28 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_48_f96d4326-c75c-412d-aff9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22456bb7b8cb38d9918abaa359453fa3:5de9fbc9168d5615abf5d68612afc6d2
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_50_c7c527cb-50b5-4dcd-a266-e7dfb809abca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049800
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/24/9e/ca/7c249eca-d00d-4227-9f95-0cdfe4771c2c.png" group-title="FIFA Live", Spartans FC v Roaring Lions FC | Anguilla Senior Men's League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc1105499aa234fc80137224b27b2731:98722baa068a90c61d921dcfd793c393
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_41_23_5fe4d175-f128-4461-b984-12473d4d6f26/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/40/95/97/fe409597-1f7c-4f98-a3d7-fde66f8a7718.png" group-title="FIFA Live", Brittons Hill FC v Wotton FC | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3988c3a9fa36353f9754e13adb574749:2f947645e280092d1a93f8003ca2bdc9
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_43_54_1d693b3e-96b6-4d61-a53d-6f36f4e7f441/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054540
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/eb/c4/ff/cf/ebc4ffcf-b6ec-45b0-ab13-55991e9943e8.png" group-title="FIFA Live", Nacional v FC San Nicolas | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=261ee922976b3a3eb1abab476b895498:9393aa460653c3d8637df371a9b73096
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_12_e529efb7-d814-4ee4-a2df-61eec7e4a6b6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054840
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/65/4a/bb/59654abb-01d0-4e10-aa8b-10ae07a9a2b8.png" group-title="FIFA Live", Dublanc FC v Bombers FC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71a8c17e7e33dc79233249186679d12:29add332a824dfd38330f803e64aba51
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_22_1d035cfa-170b-4829-a389-2f88416311d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/8a/72/3f/6b8a723f-bef0-4699-a9c5-dea675e60d58.png" group-title="FIFA Live", Mighty Avengers v We United FC | DFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa42bb8b126a3f72a5fbe67c1692eced:d93d7979a0514205a82af923999f1fa8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_27_7bd897c8-e2d5-4b66-94b8-14e4c4bed687/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
