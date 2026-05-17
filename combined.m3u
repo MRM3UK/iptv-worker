@@ -164,21 +164,9 @@ http://103.229.254.25:7001/play/a0h4/index.m3u8
 
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:19 PM 17-05-2026
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9f/ea/3b/73/9fea3b73-b5f7-4919-a34e-6e47ed153dda.png" group-title="FIFA Live", Municipale Laayoune v Hilal Témara | D1 Women's Championship  2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02cf763c767b3bffae84542c7bfc6eae:ab143289271448d1429e0ae82ea97e8f
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_27_f3f06f14-c395-4b98-960b-4e84f190c0f5/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/dc/e0/5c/b7dce05c-f98c-42b2-b91b-368ceb23b997.png" group-title="FIFA Live", Leones Vegetarianos FC v The Panthers CF | Equatorial Guinea Football League 2025-26
-#KODIPROP:inputstream.adaptive.license_key=31284084defa3b9a9a834e45c4e7af8c:04258b069c7e5154fb9068dc51b56c3c
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_51_30_9a5f3648-ee95-470e-ad86-2eda543793fd/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/9d/4b/c8/eb/9d4bc8eb-96ed-4cdc-b0cb-ade4ad129df6.png" group-title="FIFA Live", Caracas FC v ADIFFEM | Liga FUTVE Femenina 2026
-#KODIPROP:inputstream.adaptive.license_key=d9f2e8ff785d36c3937c75141efd6a76:e573b264dc92a9f31a85c5a3436c2de2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_12_30_05_cb49ccf9-1cf2-4dd2-a5e3-f4014a6f37d6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779029340
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6e/84/b1/0b/6e84b10b-083c-4e9d-827a-56f6ae12f799.png" group-title="FIFA Live", Coton FC v USS Krake FC | Ligue 1 2025
-#KODIPROP:inputstream.adaptive.license_key=72b004c5a31c3ab79f83871c93f4ac4a:4dba3df34a1e10eda873c36f35ce4c25
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_36_5893b64d-9c30-4863-af71-d174387301de/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
+#last update time: 11:30:19 PM 17-05-2026
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e2/48/21/c4/e24821c4-bbb4-4165-9a67-a690b930ef56.png" group-title="FIFA Live", Dynamo d'Abomey v Sobemap FC | Ligue 1 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52becee8986a34918c822859519c7851:184c61799f2cf115612d75cd84cc997c
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_28_33_14885140-7ed1-43d8-8723-44a87e950145/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779029340
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e8/e2/b8/38/e8e2b838-5019-406e-a6ef-271c89ad6c5d.png" group-title="FIFA Live", ASCK v Gomido FC | D1 Lonato 2025/26
@@ -205,9 +193,6 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_11_2b17d578-9256-4554-9d4f
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1b/2a/6c/f9/1b2a6cf9-2ebb-444e-bb25-24168e1319ec.png" group-title="FIFA Live", RSB Berkane v Raja Ait Iazza | D1 Women's Championship  2025-26
 #KODIPROP:inputstream.adaptive.license_key=be55db5c8a3033eaaff1b5b3c8462eba:04af2ae04b13cfddd1041e7fd4eef9ee
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_12_52_16_351cf4ea-870b-438d-a359-91a380f29638/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779032940
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/09/c6/17/91/09c61791-e8e2-4db0-b49b-7feccf2eaa94.png" group-title="FIFA Live", AS Tambo v AS Binah | D1 Lonato 2025/26
-#KODIPROP:inputstream.adaptive.license_key=ee0f935e420b3330bbf5ff3bc33283c3:98f1052518b3c0740688050987412050
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_08_02_43_8363848f-ed13-4e80-a5e5-81fb9c99723e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779033240
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3f/bd/4b/3b/3fbd4b3b-f163-40d7-876c-40ee8bd588ee.png" group-title="FIFA Live", Fortune v Samger FC | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_key=530207612ed639c49497b9e08f56638d:7846179b4a17760ef68cdffa3fe1bbf9
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_28_4f7dfa54-e2a2-4d19-9651-da39cb9b163f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
@@ -226,52 +211,100 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_36_849e597d-1524-44c3-b16a
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/b6/33/ec/0ab633ec-3e21-48a2-952e-dc0f54b006ad.png" group-title="FIFA Live", TMT FA v Greater Tomorrow | Gambia GFF League 25/26
 #KODIPROP:inputstream.adaptive.license_key=d2cbfa72dc62364f97771de1203cb0aa:0d8c952925d16b205e8f09dd6a35ed97
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_24_4cf6104c-58b5-4698-8961-c07b98b92a8e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/dc/93/b9/6fdc93b9-8bf4-4638-a1d5-cc111ed68fe6.png" group-title="FIFA Live", Nouakchott Kings v FC Nouadhibou | Super D-1 2025/26
+#KODIPROP:inputstream.adaptive.license_key=115e8822353233fe84067a643c7ac8f7:0543453a68e9dd11f6ea2fe48f25e7be
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_09_a80ca1dc-8c63-4198-8780-3ef1cf2ab90c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779035640
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ab/a0/c1/d8/aba0c1d8-72d3-44cf-831f-5a81c4401c26.png" group-title="FIFA Live", AF Elbasani v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26
+#KODIPROP:inputstream.adaptive.license_key=282063794bb43e7b80020596a85a5f20:36629e820e48d895d5e6800188597604
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_17_37792770-7c53-488d-a7d0-069025503474/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779036540
 #name: Bingstream Auto Update Playlist
-#last update time: 10:31:23 PM 17-05-2026
+#last update time: 11:31:26 PM 17-05-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%0AVS%0AWest%20Ham%0APremier%20League&font=Oswald" group-title="Football", Newcastle VS West Ham | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779121889-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-b46a0a980553b8160551b07430711075
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779125490-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-fc768eb33324428194788cdc89209ed3
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%0AVS%0AWest%20Ham%0APremier%20League&font=Oswald" group-title="Football", Newcastle VS West Ham | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779121890-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-96289bd5c263e6ce7786a8b5a0b8ebaf
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779125491-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-3c19463ee641370aa53656b9da90e0fc
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Newcastle%0AVS%0AWest%20Ham%0APremier%20League&font=Oswald" group-title="Football", Newcastle VS West Ham | Premier League [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=58ae0e3a5f879996764f859087bc3560&x-time=1779035460
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=05c276d06a9165ec00ae9baedc239a26&x-time=1779039060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Madrid%0AVS%0AGirona%0ALa%20Liga&font=Oswald" group-title="Football", Atletico Madrid VS Girona | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779125497-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-b499479781bc9a4d46967d8354fd2b39
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Madrid%0AVS%0AGirona%0ALa%20Liga&font=Oswald" group-title="Football", Atletico Madrid VS Girona | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=4b2757405f6aa0cf95168757499026d9&x-time=1779039060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sevilla%0AVS%0AReal%20Madrid%0ALa%20Liga&font=Oswald" group-title="Football", Sevilla VS Real Madrid | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779125504-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-01196961913bd9c26367f385f5d8c86d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sevilla%0AVS%0AReal%20Madrid%0ALa%20Liga&font=Oswald" group-title="Football", Sevilla VS Real Madrid | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=7a8ce43d0adf7cb805cec8f0c6798fae&x-time=1779039060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sevilla%0AVS%0AReal%20Madrid%0ALa%20Liga&font=Oswald" group-title="Football", Sevilla VS Real Madrid | La Liga [Server 3]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=76b2db19d275c73dbb22bb26a20d5b99&x-time=1779039060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779121898-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-ed2098fe856b491ae22bc3506ab057b1
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779125513-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-8198914e8feed0bb5480a03a88296293
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=49569f36ce3b993374b017b5073d60e9&x-time=1779035460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779121904-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-2a98fe32ffd8efd5d2549ff8a683dd02
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=99715b1932e325770af47ca77a173feb&x-time=1779035460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779121911-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-61c5013abceb36e936b5663d8935f905
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lechia%20Gdansk%0AVS%0ALegia%20Warszawa%0AEkstraklasa&font=Oswald" group-title="Football", Lechia Gdansk VS Legia Warszawa | Ekstraklasa [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=ea81f2978d93312cbb01a31e5f0e1818&x-time=1779035460
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=4b07c0fc8bdb6cbae2f00a5bdd2e9847&x-time=1779039060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779121917-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-03f75bd3e0f0b7b5615d4c7fc5af5663
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779125519-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-61046ebcee37a062c19b59095301ebfb
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=7460dbffae4c44d73429785b68eb6e5f&x-time=1779035460
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=10e089ca7d79d89987aad39dc4258312&x-time=1779039120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 3]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/54045/chunks.m3u8?is_vip=false&token=1779121919-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-26ca7e616c5cdaabbdec13352dfcc7fe
+https://livecdn-tc-iptv.rumsport10.live/live_abr/54045/chunks.m3u8?is_vip=false&token=1779125522-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-1cdc1f9cd3b9bb8498e84150cea332d6
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atalanta%0AVS%0ABologna%0ASerie%20A&font=Oswald" group-title="Football", Atalanta VS Bologna | Serie A [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/54045/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=481122664ee969583b3b2144b74d5d0d&x-time=1779035520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/54045/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=5d0b775d44a88dbbaeccff63019ba0c3&x-time=1779039120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Club%20Brugge%20KV%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Club Brugge KV VS Union St. Gilloise | Jupiler Pro League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779121925-Kv4cPTAAP5YTi-8e5d91db8099d73158742144fd5f45a4aafc9c21-809e9619950517b499468888ce924c21
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=d99f6039bea771d6464dcaa763bfe950&x-time=1779039120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Club%20Brugge%20KV%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Club Brugge KV VS Union St. Gilloise | Jupiler Pro League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=8e5d91db8099d73158742144fd5f45a4aafc9c21&x-sign=308e21fc7853e176c0d7941ad83eb43c&x-time=1779035520
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779125531-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-b5c8f1c9bf56ed7f354f95f41068c030
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leixoes%0AVS%0ALusit%C3%A2nia%20Lourosa%0ASegunda%20Liga&font=Oswald" group-title="Football", Leixoes VS Lusitânia Lourosa | Segunda Liga [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161358/chunks.m3u8?is_vip=false&token=1779125536-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-468902ed3cc7565ec51b358528ca446e
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leixoes%0AVS%0ALusit%C3%A2nia%20Lourosa%0ASegunda%20Liga&font=Oswald" group-title="Football", Leixoes VS Lusitânia Lourosa | Segunda Liga [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161358/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=49180a2bc7ca487b8d4818c6a4f61d77&x-time=1779039120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0ACelta%20Vigo%0ALa%20Liga&font=Oswald" group-title="Football", Athletic Club VS Celta Vigo | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779125544-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-98e8e247676ca4f3eee30c8087f0c357
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0ACelta%20Vigo%0ALa%20Liga&font=Oswald" group-title="Football", Athletic Club VS Celta Vigo | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=8cecb3db16de0cd83ba3fb6cba34fae6&x-time=1779039120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Elche%0AVS%0AGetafe%0ALa%20Liga&font=Oswald" group-title="Football", Elche VS Getafe | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779125554-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-1e678177746de2a59b319fbff93af32d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Elche%0AVS%0AGetafe%0ALa%20Liga&font=Oswald" group-title="Football", Elche VS Getafe | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=73c58888ae7ea94161152124bfaec521&x-time=1779039120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Levante%0AVS%0AMallorca%0ALa%20Liga&font=Oswald" group-title="Football", Levante VS Mallorca | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779125563-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-418dc3446b7bde57ebca88149cf995d4
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Levante%0AVS%0AMallorca%0ALa%20Liga&font=Oswald" group-title="Football", Levante VS Mallorca | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=b3ebc4b056eb2903757de4f5a65a5e35&x-time=1779039120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Osasuna%0AVS%0AEspanyol%0ALa%20Liga&font=Oswald" group-title="Football", Osasuna VS Espanyol | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779125569-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-c2fe0846ad59ebf4e99e31770c28e9b9
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Osasuna%0AVS%0AEspanyol%0ALa%20Liga&font=Oswald" group-title="Football", Osasuna VS Espanyol | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=5f513c0a7631476517e128992fe85c1f&x-time=1779039120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rayo%20Vallecano%0AVS%0AVillarreal%0ALa%20Liga&font=Oswald" group-title="Football", Rayo Vallecano VS Villarreal | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779125577-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-7054ce77f7672126dc168c7bde47b8eb
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rayo%20Vallecano%0AVS%0AVillarreal%0ALa%20Liga&font=Oswald" group-title="Football", Rayo Vallecano VS Villarreal | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=6f3a3b917ec2daef27b88f195a8c7ad4&x-time=1779039120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%0AVS%0AValencia%0ALa%20Liga&font=Oswald" group-title="Football", Real Sociedad VS Valencia | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779125583-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-7d32f44c82a2b6b0b3163e42542a7d76
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%0AVS%0AValencia%0ALa%20Liga&font=Oswald" group-title="Football", Real Sociedad VS Valencia | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=ee5e32b5a544c1bc1dc6bd8c22424a47&x-time=1779039180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oviedo%0AVS%0AAlaves%0ALa%20Liga&font=Oswald" group-title="Football", Oviedo VS Alaves | La Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779125590-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-c1e0226288c43e2837ca25c97d02422f
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oviedo%0AVS%0AAlaves%0ALa%20Liga&font=Oswald" group-title="Football", Oviedo VS Alaves | La Liga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=c090033d9667665e4177ec9eb61fcc91&x-time=1779039180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fenerbah%C3%A7e%0AVS%0AEy%C3%BCpspor%0AS%C3%BCper%20Lig&font=Oswald" group-title="Football", Fenerbahçe VS Eyüpspor | Süper Lig [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68908/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=a16088b340038cb0ce7bfeabbd9471f1&x-time=1779039180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fenerbah%C3%A7e%0AVS%0AEy%C3%BCpspor%0AS%C3%BCper%20Lig&font=Oswald" group-title="Football", Fenerbahçe VS Eyüpspor | Süper Lig [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/chunks.m3u8?is_vip=false&token=1779125598-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-e026b021b68aacaa0163c0f6cbe3fcd7
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kas%C4%B1mpa%C5%9Fa%0AVS%0AGalatasaray%0AS%C3%BCper%20Lig&font=Oswald" group-title="Football", Kasımpaşa VS Galatasaray | Süper Lig [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/chunks.m3u8?is_vip=false&token=7f68e20f2bac38b883119764d3f1bb48e5daa547&x-sign=41d7eaaaca9b3e6e4850be2c193b0e80&x-time=1779039180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kas%C4%B1mpa%C5%9Fa%0AVS%0AGalatasaray%0AS%C3%BCper%20Lig&font=Oswald" group-title="Football", Kasımpaşa VS Galatasaray | Süper Lig [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/chunks.m3u8?is_vip=false&token=1779125604-Kv4cPTAAP5YTi-7f68e20f2bac38b883119764d3f1bb48e5daa547-78bffb7c1a0b3a1e4b2bda6d1b704bb6
 # Playlist Name: Tapmad bd
-# Last Update: 10:40 PM 17-05-2026
+# Last Update: 11:40 PM 17-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-13038" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789295301020x576.jpg" group-title="Football", Newcastle vs West Ham | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779036906~acl=/hls/*~hmac=eb4ed8e14c83d4a1210989b163c885193cbdc3920a2e799702b8f75fcac67c3c
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779040506~acl=/hls/*~hmac=e30b4e22d3e19b68237d148e5756ecd5c2bcde128abb3929987fefc0e8b3c722
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:30:19 PM 17-05-2026
-#last update time: 10:30:21 PM 17-05-2026
+# last_update: 11:30:19 PM 17-05-2026
+#last update time: 11:30:20 PM 17-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131190_5427_ATH_CEV_FC-Web.png" group-title="Football", Athletic Club Vs Rc Celta | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_key=bd3a952aa6bc4401984644c72ad5cc4c:b705bf41975567733e8e0386a8982e5d
 https://bd-mc-flive.fancode.com/mumbai/131190_english_dash_86743_1drmta-di_h264/index.mpd
@@ -307,7 +340,7 @@ https://bd-mc-flive.fancode.com/mumbai/131193_english_dash_72599_1drmta-di_h264/
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131191_5427_ATL_GIR_FC-Web.png" group-title="Football", Atletico De Madrid Vs Girona Fc | LALIGA 2025-26 (ENGLISH) [DRM]
 #KODIPROP:inputstream.adaptive.license_key=ad6f8135eaf04b56b66318a600a7f939:c5cbe30c10ab4619c095d5adc48e32f3
 https://bd-mc-flive.fancode.com/mumbai/131191_english_dash_8350_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 1   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_142261_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web_1779011889906.jpg" group-title="Tennis", Finals: J. Sinner Vs C. Ruud | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/finals__j__sinner_vs_c__ruud_142757_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg" group-title="Golf", Day 4 | PGA Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_142630_english.m3u8
