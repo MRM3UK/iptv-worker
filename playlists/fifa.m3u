@@ -1,0 +1,30 @@
+#name: Fifa Plus Live Events
+#telegram: https://t.me/livesportsplay
+#owner: Md Sohanur Rahman Hady
+#last update time: 08:30:20 PM 17-05-2026
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/40/fd/b9/c840fdb9-76f5-4366-9123-0a6a3df43e50.png" group-title="FIFA Live", Dedza Dynamos FC v Blue Eagles | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd2addf08bf3551b4603d282b9e7ef1:e80fd95d204bfe21abbca3bb95e3e7e5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_20_62c2d592-5271-466f-bab7-09b325d7a900/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779020340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/48/56/d0/54/4856d054-8504-4085-862d-5f092f8cbb47.png" group-title="FIFA Live", FCB Nyasa Big Bullets v Red Lions | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4c73536dfbe3534a8c3ea7d8ae39e33:a4777e1e5beea71ade03cf87214c0a58
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_26_6bd4bc9d-4f97-444e-907c-ed8ea2b38486/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779020340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/05/da/28/6a05da28-4b37-401f-8aa2-13b199d0fa6d.png" group-title="FIFA Live", Silver Strikers FC v Masters FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8182081d67533ff89bccb9f0f24d86f:582d3db053234ec2dc119756cd29c2b8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_32_8d96e2e6-ab99-4931-831a-a1602a9bc08b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779020340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bc/15/b9/de/bc15b9de-cc0b-41c6-ba04-bbcdae8feac6.png" group-title="FIFA Live", Kafue Celtic v Roan United | ZPL National League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7142fda8e332bf8167ec2635e69fdb:9181d285edc1599e32835ffa98caadf5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_08_38_15_24e46a69-b919-431f-a566-0f0624a91679/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779022140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/04/fb/73/36/04fb7336-3b9a-4d55-9ead-d0556b130f8c.png" group-title="FIFA Live", Karonga United v MAFCO FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fda13692bbad377ab53e39c01d7ee972:c50f70ea394498599fee27657374edcb
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_38_a3abf753-3890-4fa2-ac61-08008774a44d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779023040

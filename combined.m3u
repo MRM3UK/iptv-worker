@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg?20250607164238" group-title="Entertainment",Zee Bangla
+http://172.16.29.3:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Entertainment",Star Jalsha
+http://172.16.29.3:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1634_2.jpg" group-title="Entertainment",Sony Aath
+http://172.16.29.3:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106" group-title="Entertainment",Colors Bangla
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bd-directory.com/Tsports-BD.JPG" group-title="SPORTS ⚽",Tsports
+http://172.16.29.3:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/960px-%26TV_2025.svg.png" group-title="Entertainment",&PictureHD
+http://172.16.29.3:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png/500px-SONY_MAX_Logo_2022.png" group-title="Entertainment",Sony Max
+https://padmaonline.duckdns.org:8088/SonyMaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/70/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Jalsha Movies HD
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="news",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="news",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="news",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="news",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="news",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/960px-Star_News_Bangladesh_Logo.svg.png" group-title="Entertainment",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="news",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="news",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/500px-Logo_of_GTV_%28Bangladesh%29.svg.png",Gazi TV
+http://172.16.29.3:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/250px-Banglavision.svg.png" group-title="Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/330px-Logo_of_Deepto_TV.svg.png" group-title="Entertainment",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="news",Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
+http://172.16.29.3:8090/hls/bbc_world.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/500px-Al_Jazeera_Media_Network_Logo.svg.png" group-title="News",Al jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Entertainment",Zee Bangla Cinema
+http://172.16.29.3:8090/hls/ZeeBanglaCinemaHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="news",Bengali Betas
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Goldmines_logo.png/1920px-Goldmines_logo.png?20250711062922" group-title="Entertainment",GoldMines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Entertainment",Hum TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://www.aajentertainment.tv/_img/logo.png" group-title="Entertainment",AAJ Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png" group-title="Entertainment",GEO Entertainment
+https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ur/f/f4/Green_Entertainment_logo.jpg?20230702081523" group-title="Entertainment",Green Entertainment
+https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS ⚽",PTV sports
+http://172.16.29.3:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS ⚽",A sports
+http://172.16.29.3:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png" group-title="SPORTS ⚽",Star Sports select 1 HD
+http://172.16.29.3:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png" group-title="SPORTS ⚽",Star sports select 2
+http://172.16.29.3:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/250px-Sony_Sports_Network.svg.png" group-title="SPORTS ⚽",Sony Ten 5
+http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="SPORTS ⚽",BeIN Sports
+http://172.16.29.3:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png/revision/latest?cb=20240322134434" group-title="SPORTS ⚽",Sangeet Bangla
+http://172.16.29.3:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106" group-title="Entertainment",Colors Bangla Cinema
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment",Sony Entertainment
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/500px-Zee_TV_2025.svg.png" group-title="Entertainment",Zee TV
+http://198.195.239.50:8095/ZeeTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1634_2.jpg" group-title="Entertainment",Sony Aath (backup)
+http://198.195.239.50:8095/SonyAath/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Entertainment",Bein USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Indian_Premier_League_Official_Logo.svg/500px-Indian_Premier_League_Official_Logo.svg.png" group-title="Entertainment",IPL (Bangla)
+http://premimum.online/live/jen12345/jen54321/705160.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Indian_Premier_League_Official_Logo.svg/500px-Indian_Premier_League_Official_Logo.svg.png" group-title="Entertainment",Star Sports 2 hindi
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/India_film_clapperboard_%28variant%29.svg/250px-India_film_clapperboard_%28variant%29.svg.png" group-title="Entertainment",Bollywood TV
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png" group-title="Entertainment",Star Sports
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png" group-title="Entertainment",TNT Sports
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entertainment",Nick Hindi
+http://103.157.248.140:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_Desh_TV.svg/500px-Logo_of_Desh_TV.svg.png" group-title="Entertainment",Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment",Islam Now
+http://157.245.116.246:8080/hls/islamnow/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Entertainment",Discovery Hindi
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/1e/%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.gif" group-title="Entertainment",Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://ncdn.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bb/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C_%E0%A6%9F%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF_%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%28%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8%29.webp" group-title="Entertainment",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Entertainment",Macca Live
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Enterr10-Bangla.png" group-title="Entertainment",Enteer10 Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Entertainment",Massrangaa TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/500px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Entertainment",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/500px-Channel9_bd.svg.png" group-title="Entertainment",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/960px-Eurosport_1_Logo_2015.svg.png",Eurosport
+http://172.16.29.3:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Discovery_kids_logo.png/500px-Discovery_kids_logo.png",Discovery Kids
+http://172.16.29.3:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/500px-Cartoon_Network_2010_logo.svg.png" group-title="2005 - Family",Cartoon Network
+http://172.16.29.3:8090/hls/CartoonNetworkHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/500px-Star_Movies_2023.svg.png" group-title="2009",Star Movies
+http://172.16.29.3:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="2017 - Drama",Discovery
+http://172.16.29.3:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Star_Gold_Network_logo.png/500px-Star_Gold_Network_logo.png" group-title="2016 - Drama",Star Gold
+http://172.16.29.3:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/SONY_MAX_Logo_2022.png/500px-SONY_MAX_Logo_2022.png",Sony Max HD
+http://172.16.29.3:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",Star Plus
+http://172.16.29.3:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/758/454/png-transparent-red-bull-logo-red-bull-music-academy-energy-drink-red-bull-tv-bull-mammal-animals-cat-like-mammal-thumbnail.png" group-title="ENGLISH",Redbull TV UK
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/49b496bca6d7c67d53431e9238f83397" group-title="News",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a676d2f5ddf6e5f978b3d51876dceecf" group-title="English",Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Movie_Bangla.png" group-title="BANGLADESH",Movie Bangla
+http://alvetv.com/mbtv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/RONGEEN_TV.png" group-title="Cartoon",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png",NAZARA
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MOVIES",GOLDMINES MOVIES
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/500px-SONY_SAB_SD_Logo_2022.png",Sony SAB
+http://103.229.254.25:7001/play/a0db/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="2019 - Documentary",Animal Planet
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1,Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343",Star Jalsha (BC)
+http://103.229.254.25:7001/play/a0c0/index.m3u8
+#EXTINF:-1,Sun Bangla
+http://103.229.254.25:7001/play/a0h4/index.m3u8
+
+#telegram: https://t.me/livesportsplay
+#owner: Md Sohanur Rahman Hady
+#last update time: 08:30:20 PM 17-05-2026
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/40/fd/b9/c840fdb9-76f5-4366-9123-0a6a3df43e50.png" group-title="FIFA Live", Dedza Dynamos FC v Blue Eagles | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cd2addf08bf3551b4603d282b9e7ef1:e80fd95d204bfe21abbca3bb95e3e7e5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_20_62c2d592-5271-466f-bab7-09b325d7a900/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779020340
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/48/56/d0/54/4856d054-8504-4085-862d-5f092f8cbb47.png" group-title="FIFA Live", FCB Nyasa Big Bullets v Red Lions | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_key=a4c73536dfbe3534a8c3ea7d8ae39e33:a4777e1e5beea71ade03cf87214c0a58
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_26_6bd4bc9d-4f97-444e-907c-ed8ea2b38486/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779020340
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/05/da/28/6a05da28-4b37-401f-8aa2-13b199d0fa6d.png" group-title="FIFA Live", Silver Strikers FC v Masters FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_key=d8182081d67533ff89bccb9f0f24d86f:582d3db053234ec2dc119756cd29c2b8
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_32_8d96e2e6-ab99-4931-831a-a1602a9bc08b/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779020340
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bc/15/b9/de/bc15b9de-cc0b-41c6-ba04-bbcdae8feac6.png" group-title="FIFA Live", Kafue Celtic v Roan United | ZPL National League 2025/26
+#KODIPROP:inputstream.adaptive.license_key=fe7142fda8e332bf8167ec2635e69fdb:9181d285edc1599e32835ffa98caadf5
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_08_38_15_24e46a69-b919-431f-a566-0f0624a91679/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779022140
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/04/fb/73/36/04fb7336-3b9a-4d55-9ead-d0556b130f8c.png" group-title="FIFA Live", Karonga United v MAFCO FC | FDH Bank Premiership
+#KODIPROP:inputstream.adaptive.license_key=fda13692bbad377ab53e39c01d7ee972:c50f70ea394498599fee27657374edcb
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_07_40_38_a3abf753-3890-4fa2-ac61-08008774a44d/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anya%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779023040
+#name: Bingstream Auto Update Playlist
+#last update time: 8:31:27 PM 17-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779114690-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-ceab2851f3b42bf4c1b2ed5e9d7fa8df
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=b7bb956be84d474064fe5d9a39579372&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 3]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779114693-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-04010fc9692136181e3818b580f3bba3
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Inter%0AVS%0AHellas%20Verona%0ASerie%20A&font=Oswald" group-title="Serie A", Inter VS Hellas Verona | Serie A [Server 4]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/54044/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=c7fa6aeb24a647ab869c0db158518d54&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=9bb2487f20eb15c24efdc79f99101bc0&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=cdfdbd8ccecfc4611a3bce2ec086e3bc&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779114703-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-1c47b1dac20e7481dd5138bbc9c0aa40
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brentford%0AVS%0ACrystal%20Palace%0APremier%20League&font=Oswald" group-title="Premier League", Brentford VS Crystal Palace | Premier League [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=d14e45ff50f01c5d4bc47180ed6569d5&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=fbfb5a2cc632025175c5e3000fed0948&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=72570e8802c2f297d6b9ece786b78a26&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779114712-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-3eb19a647b6093cd561fe396b8c6e8d1
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Everton%0AVS%0ASunderland%0APremier%20League&font=Oswald" group-title="Premier League", Everton VS Sunderland | Premier League [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=b27f73ed9aa66ed3e7d6d441c5a48d7f&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=228ae6186757819d1e7d542746726773&x-time=1779028260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779114719-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-b04358be13a8c8c02ed0af628a3e2aea
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779114720-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-9b86f1da98efc0fa2c71ad270116f78b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Leeds%0AVS%0ABrighton%0APremier%20League&font=Oswald" group-title="Football", Leeds VS Brighton | Premier League [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=d852b97952062bbbb31e46460d0eb6d8&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=c94b926f47eb30a948adb3fa01e1492d&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=be6dd202c0a4089e531cd69a85024f15&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779114729-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-2802288a400103468bbbd097f1d5ac94
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wolves%0AVS%0AFulham%0APremier%20League&font=Oswald" group-title="Football", Wolves VS Fulham | Premier League [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=91991dbd88ec740b74694ae2cb4c18cd&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779114736-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-63a53d9c53f33036cdab129a91eed995
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Women's%20Series%2011%20%26%2012%0AWomen's%20Series&font=Oswald" group-title="Women's Series", Women's Series 11 & 12 | Women's Series [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=8baef4ad434e963639bed62468de1b06&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779114742-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-854e0ea8f6db2871c4235ae8b513693b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2013%0AItalian%20Open%20Tennis&font=Oswald" group-title="Tennis", Day 13 | Italian Open Tennis [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=ed810e59450257ef5916826e464434f7&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald" group-title="Football", GKS Katowice VS Jagiellonia | Ekstraklasa [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1779114748-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-15ebcadc7479b19f2b3dbb90fedb7057
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=GKS%20Katowice%0AVS%0AJagiellonia%0AEkstraklasa&font=Oswald" group-title="Football", GKS Katowice VS Jagiellonia | Ekstraklasa [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=365aa308b4133d54b868965dc634c1a0&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Livingston%0AVS%0AKilmarnock%0APremiership&font=Oswald" group-title="Football", Livingston VS Kilmarnock | Premiership [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779114755-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-d3c0b4155042abc5d92a624450885b2f
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Livingston%0AVS%0AKilmarnock%0APremiership&font=Oswald" group-title="Football", Livingston VS Kilmarnock | Premiership [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274860/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=7e812e35423a8f7c12e6ca62780c0b55&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arminia%20Bielefeld%0AVS%0AHertha%20BSC%0A2.%20Bundesliga&font=Oswald" group-title="Football", Arminia Bielefeld VS Hertha BSC | 2. Bundesliga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779114762-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-c78e310337c475f40c601cbe134a41d6
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arminia%20Bielefeld%0AVS%0AHertha%20BSC%0A2.%20Bundesliga&font=Oswald" group-title="Football", Arminia Bielefeld VS Hertha BSC | 2. Bundesliga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=e26caf5ad7256e38b5731d9f4c905ec9&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=1.%20FC%20Magdeburg%0AVS%0A1.%20FC%20Kaiserslautern%0A2.%20Bundesliga&font=Oswald" group-title="Football", 1. FC Magdeburg VS 1. FC Kaiserslautern | 2. Bundesliga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779114770-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-572ae62a07ae9e457a094f8f18c1987f
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=1.%20FC%20Magdeburg%0AVS%0A1.%20FC%20Kaiserslautern%0A2.%20Bundesliga&font=Oswald" group-title="Football", 1. FC Magdeburg VS 1. FC Kaiserslautern | 2. Bundesliga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=9809d64ed2ffbecba2e10dc2cba5a597&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FC%20Schalke%2004%0AVS%0AEintracht%20Braunschweig%0A2.%20Bundesliga&font=Oswald" group-title="Football", FC Schalke 04 VS Eintracht Braunschweig | 2. Bundesliga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779114776-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-eae6bf5e30780db61991c305b87a7a82
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FC%20Schalke%2004%0AVS%0AEintracht%20Braunschweig%0A2.%20Bundesliga&font=Oswald" group-title="Football", FC Schalke 04 VS Eintracht Braunschweig | 2. Bundesliga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=397afc296be0d42e27f8d0a15b9d0c66&x-time=1779028320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mamelodi%20Sundowns%0AVS%0AFAR%20Rabat%0ACAF%20Champions%20League&font=Oswald" group-title="Football", Mamelodi Sundowns VS FAR Rabat | CAF Champions League [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779114784-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-092af2b2c3b221133f9e9df5cebf19d4
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mamelodi%20Sundowns%0AVS%0AFAR%20Rabat%0ACAF%20Champions%20League&font=Oswald" group-title="Football", Mamelodi Sundowns VS FAR Rabat | CAF Champions League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=dc13049296ab475c30a0e6f56c465bde&x-time=1779028380
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Uni%C3%A3o%20de%20Leiria%0AVS%0AFeirense%0ASegunda%20Liga&font=Oswald" group-title="Football", União de Leiria VS Feirense | Segunda Liga [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/34464/chunks.m3u8?is_vip=false&token=1779114790-Kv4cPTAAP5YTi-bfc08e5bd056bcc638f93d62c56918dad4aa3fdb-0a2003c20522617e65d696a3bf642a19
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Uni%C3%A3o%20de%20Leiria%0AVS%0AFeirense%0ASegunda%20Liga&font=Oswald" group-title="Football", União de Leiria VS Feirense | Segunda Liga [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/34464/chunks.m3u8?is_vip=false&token=bfc08e5bd056bcc638f93d62c56918dad4aa3fdb&x-sign=dc85e745c91d7e9ed682e4c8ab814ed2&x-time=1779028380
+# Playlist Name: Tapmad bd
+# Last Update: 08:40 PM 17-05-2026
+# Telegram: https://t.me/livesportsplay
+# Owner: Md Sohanur Rahman Hady
+# Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-13034" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789252511020x576.jpg" group-title="Football", Brentford vs Crystal Palace | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779029705~acl=/hls/*~hmac=f9b60776c35ac58bc1cb948d5a0a35665d11f1a697e85456beb597546b2d51ae
+#EXTINF:-1 tvg-id="tapmad-13035" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789290821020x576.jpg" group-title="Football", Leeds United vs Brighton | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779029723~acl=/hls/*~hmac=9109f2f49d9af69fe05bdfbaf91b62ca6fa615d12bd2818c864a93861835e12f
+#EXTINF:-1 tvg-id="tapmad-13036" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789293111020x576.jpg" group-title="Football", Wolves vs Fulham | EPL 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779029723~acl=/hls/*~hmac=9109f2f49d9af69fe05bdfbaf91b62ca6fa615d12bd2818c864a93861835e12f
+# name: SonyLiv Matches Full Data
+# telegram: https://t.me/livesportsplay
+# owner: Md Sohanur Rahman Hady
+# last_update: 08:30:20 PM 17-05-2026
+#last update time: 08:30:23 PM 17-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142432_6076_CYP_JER_fc-web.jpg" group-title="Cricket", Jersey Vs Cyprus | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jersey_vs_cyprus_142432_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142431_6076_SLO_AUT_fc-web.jpg" group-title="Cricket", Slovenia Vs Austria | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_austria_142431_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140506_5956_MBSG_EBFC_FC-Web_1772473907766.jpg" group-title="Football", Mohun Bagan Super Giant Vs East Bengal Fc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=c1cf77f4e1a94f9c9ed602e6979d1c07:c1560338a9986a97941f16ee4f645933
+https://bd-mc-flive.fancode.com/mumbai/140506_english_dash_34989_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140506_5956_MBSG_EBFC_FC-Web_1772473907766.jpg" group-title="Football", Mohun Bagan Super Giant Vs East Bengal Fc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=a0badc915e97438e85ca1faf0f4172b9:e20be882cefb9b438feef9b691e61710
+https://bd-mc-flive.fancode.com/mumbai/140506_hindi_dash_44132_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140506_5956_MBSG_EBFC_FC-Web_1772473907766.jpg" group-title="Football", Mohun Bagan Super Giant Vs East Bengal Fc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=a2cef026406e4d8a921f37a023ffd12a:ed9da4dd7eed494dd2f58091a4d721e2
+https://bd-mc-flive.fancode.com/mumbai/140506_malayalam_dash_81584_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140506_5956_MBSG_EBFC_FC-Web_1772473907766.jpg" group-title="Football", Mohun Bagan Super Giant Vs East Bengal Fc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=ed583123cc184975afe38a5192a510ec:4869875e4de43dd58208fe5a14f4cf28
+https://bd-mc-flive.fancode.com/mumbai/140506_bengali_dash_95584_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_trinidad___tobago_red_force_141958_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg" group-title="Golf", Day 4 | Amundi German Masters 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_142328_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 1   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_142261_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Spielberg   Day 2 | Ferrari Challenge Series 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/spielberg___day_2_142637_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Men's Doubles Finals | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/men_s_doubles_finals_142240_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 1   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_142268_english.m3u8
