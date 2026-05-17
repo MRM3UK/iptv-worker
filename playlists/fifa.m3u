@@ -1,13 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:23 AM 18-05-2026
+#last update time: 03:30:22 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/77/3e/67/c7773e67-7400-4168-99fa-7e74388da7b3.png" group-title="FIFA Live", Bolívar SC v Monagas B | Liga FUTVE 2 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a23b2a1c4983c55bb5f7e4b9f6d9791:99fb530d8299f8eb508896fe8ba59462
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_43_045274c6-28ac-44ec-b563-3198e66c9123/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779043740
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/01/23/ed/2e/0123ed2e-397a-4260-959a-5f338686e676.png" group-title="FIFA Live", Kickstart Rush v St.Andrew Lions FC | BFA Premier League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,3 +28,8 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_28_e68a08af-e277-4999-a42e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1399a3abd29d32c59072fb92c356051a:959afe8ab1ab5b9ad782a6301a3347a4
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_48_f96d4326-c75c-412d-aff9-61f3e369ad13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/71/c8/4a/92/71c84a92-39be-4b7e-8a64-a0f8ea20c059.png" group-title="FIFA Live", United FC v UB Mingoes | BFA Senior League 2025/2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22456bb7b8cb38d9918abaa359453fa3:5de9fbc9168d5615abf5d68612afc6d2
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_50_c7c527cb-50b5-4dcd-a266-e7dfb809abca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049800
