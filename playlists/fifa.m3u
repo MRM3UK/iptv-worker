@@ -1,40 +1,15 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:45:18 AM 18-05-2026
+#last update time: 01:45:18 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2a/cb/73/e5/2acb73e5-fa50-47ce-8016-b75f8beb735b.png" group-title="FIFA Live", Gambian Dutch Lions v Team Rhino | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbf1e89f677431619ccb8113ede43237:edfc940cd26591308ce0919ba0bc26e1
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_22_05_9df8409f-65d3-4e90-b36c-70df2dbfbbc8/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b5/7f/cc/7e/b57fcc7e-4517-455d-8b9a-3224bfbacefc.png" group-title="FIFA Live", Hawks v Bombada | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335e5c7487803b24b2b602ea73ba997f:3b28af02a28ea1769e17947a40ce2990
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_32_74b46dd9-ff8f-436d-aff8-8c32ff41beac/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c2/14/4c/df/c2144cdf-2318-4445-9c74-3476cbd6655e.png" group-title="FIFA Live", Real de Banjul v Brikama United | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aec1a4e8e4bd307190bd21f1080d826d:b301ca112f95a4915c8ae6bd3a492dc6
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_22_09_f0958fa2-71e1-4baa-bbef-eacb38d18255/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0a/b6/33/ec/0ab633ec-3e21-48a2-952e-dc0f54b006ad.png" group-title="FIFA Live", TMT FA v Greater Tomorrow | Gambia GFF League 25/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2cbfa72dc62364f97771de1203cb0aa:0d8c952925d16b205e8f09dd6a35ed97
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_07_21_24_4cf6104c-58b5-4698-8961-c07b98b92a8e/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779034740
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6f/dc/93/b9/6fdc93b9-8bf4-4638-a1d5-cc111ed68fe6.png" group-title="FIFA Live", Nouakchott Kings v FC Nouadhibou | Super D-1 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=115e8822353233fe84067a643c7ac8f7:0543453a68e9dd11f6ea2fe48f25e7be
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_07_09_a80ca1dc-8c63-4198-8780-3ef1cf2ab90c/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aara%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779035640
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/ab/a0/c1/d8/aba0c1d8-72d3-44cf-831f-5a81c4401c26.png" group-title="FIFA Live", AF Elbasani v KF Egnatia | Championship Playoff | Kategoria Superiore 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=282063794bb43e7b80020596a85a5f20:36629e820e48d895d5e6800188597604
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_55_17_37792770-7c53-488d-a7d0-069025503474/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Asqi%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779036540
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/3c/41/80/0e/3c41800e-5c2d-44a1-8979-1dd1ee615e0f.png" group-title="FIFA Live", Potenza v Ascoli | National Phase Play-offs - Second Round - First Leg | Serie C 2025/26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb482588c3593eb29d77c78a78e9c54d:c5cbc183e5b7a9ec5d4d16fff2afac46
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_15_08_49_51_2bdd762c-5c60-4560-b9e6-1a15f1ad5c2f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aita%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779040140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c7/77/3e/67/c7773e67-7400-4168-99fa-7e74388da7b3.png" group-title="FIFA Live", Bolívar SC v Monagas B | Liga FUTVE 2 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a23b2a1c4983c55bb5f7e4b9f6d9791:99fb530d8299f8eb508896fe8ba59462
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_14_09_04_43_045274c6-28ac-44ec-b563-3198e66c9123/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aspa%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779043740
