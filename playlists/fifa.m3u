@@ -1,18 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:21 AM 18-05-2026
+#last update time: 05:30:21 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/27/00/c3/99/2700c399-8874-455b-8cf8-ae1309f7f6c7.png" group-title="FIFA Live", Robinhood v Inter Moengo Tapoe | Suriname Major League 2025/26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1399a3abd29d32c59072fb92c356051a:959afe8ab1ab5b9ad782a6301a3347a4
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_48_f96d4326-c75c-412d-aff9-61f3e369ad13/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049140
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/71/c8/4a/92/71c84a92-39be-4b7e-8a64-a0f8ea20c059.png" group-title="FIFA Live", United FC v UB Mingoes | BFA Senior League 2025/2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22456bb7b8cb38d9918abaa359453fa3:5de9fbc9168d5615abf5d68612afc6d2
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_50_c7c527cb-50b5-4dcd-a266-e7dfb809abca/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779049800
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/24/9e/ca/7c249eca-d00d-4227-9f95-0cdfe4771c2c.png" group-title="FIFA Live", Spartans FC v Roaring Lions FC | Anguilla Senior Men's League 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,3 +28,18 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_22_1d035cfa-170b-4829-a389
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa42bb8b126a3f72a5fbe67c1692eced:d93d7979a0514205a82af923999f1fa8
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_27_7bd897c8-e2d5-4b66-94b8-14e4c4bed687/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/12/ec/0f/4b/12ec0f4b-7e05-4707-977a-528745207589.png" group-title="FIFA Live", Inter Nassau FC v Dynamos FC | BFA Senior League 2025/2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=076933b0eed1369eb7498f3596686a1b:abd831e3c1c64f7463bfb11d1dbeb9e0
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_30_53_2eb79723-a390-4c41-a1f3-e729f57c347f/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779058140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/82/95/4f/77/82954f77-c86d-43ad-9fcb-e9d9ecf5c1e7.png" group-title="FIFA Live", St. Peters FC v Old Road United Jets | SKNFA Premier League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd98d51511d735528467c6c9a680adfc:1fc2cf53584395ab3c0489b917a24095
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_04_d5812ee2-c369-496f-9d2e-5a4d7b4063cb/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-720&start=1779058140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c9/29/0a/2f/c9290a2f-a7b1-439f-beb0-c3904ee69354.png" group-title="FIFA Live", Leo Victor v Broki | Suriname Major League 2025/26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7204c91b686f30cbbb2ab2a96939c980:3e43eeec614a4ab46a8ec3f576558aa1
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_52_0b5b4b23-d71c-4a31-b3a0-890ad14c8ac1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779058140
