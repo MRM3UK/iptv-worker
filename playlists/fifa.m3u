@@ -1,33 +1,8 @@
 #name: Fifa Plus Live Events
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:21 AM 18-05-2026
+#last update time: 07:00:27 AM 18-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7c/24/9e/ca/7c249eca-d00d-4227-9f95-0cdfe4771c2c.png" group-title="FIFA Live", Spartans FC v Roaring Lions FC | Anguilla Senior Men's League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc1105499aa234fc80137224b27b2731:98722baa068a90c61d921dcfd793c393
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_08_41_23_5fe4d175-f128-4461-b984-12473d4d6f26/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fe/40/95/97/fe409597-1f7c-4f98-a3d7-fde66f8a7718.png" group-title="FIFA Live", Brittons Hill FC v Wotton FC | BFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3988c3a9fa36353f9754e13adb574749:2f947645e280092d1a93f8003ca2bdc9
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_43_54_1d693b3e-96b6-4d61-a53d-6f36f4e7f441/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054540
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/eb/c4/ff/cf/ebc4ffcf-b6ec-45b0-ab13-55991e9943e8.png" group-title="FIFA Live", Nacional v FC San Nicolas | Division Honor 2025-26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=261ee922976b3a3eb1abab476b895498:9393aa460653c3d8637df371a9b73096
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_12_e529efb7-d814-4ee4-a2df-61eec7e4a6b6/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779054840
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/65/4a/bb/59654abb-01d0-4e10-aa8b-10ae07a9a2b8.png" group-title="FIFA Live", Dublanc FC v Bombers FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71a8c17e7e33dc79233249186679d12:29add332a824dfd38330f803e64aba51
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_22_1d035cfa-170b-4829-a389-2f88416311d2/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
-
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/8a/72/3f/6b8a723f-bef0-4699-a9c5-dea675e60d58.png" group-title="FIFA Live", Mighty Avengers v We United FC | DFA Premier League 2026
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa42bb8b126a3f72a5fbe67c1692eced:d93d7979a0514205a82af923999f1fa8
-https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_10_16_27_7bd897c8-e2d5-4b66-94b8-14e4c4bed687/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779056340
 
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/12/ec/0f/4b/12ec0f4b-7e05-4707-977a-528745207589.png" group-title="FIFA Live", Inter Nassau FC v Dynamos FC | BFA Senior League 2025/2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,3 +18,13 @@ https://d7pd9oqdl4d44.cloudfront.net/2026_05_13_14_28_04_d5812ee2-c369-496f-9d2e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7204c91b686f30cbbb2ab2a96939c980:3e43eeec614a4ab46a8ec3f576558aa1
 https://d7pd9oqdl4d44.cloudfront.net/2026_05_17_15_54_52_0b5b4b23-d71c-4a31-b3a0-890ad14c8ac1/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Anld%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779058140
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/97/1d/2c/12/971d2c12-8898-4683-9dc4-bb0b2e741828.png" group-title="FIFA Live", Real Koyari v SV Atlantico Deportivo | Division Honor 2025-26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=306e49fa795636778cbd72b8c7bb992a:a7c7888555bffe1eef9c70d943ad2e9a
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_09_18_17_1612ee68-c71c-453d-8fdf-f635ce3a66e9/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779061740
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/14/b2/03/b7/14b203b7-2e28-40f7-a382-d4079c134501.png" group-title="FIFA Live", Weymouth Wales v UWI Blackbirds | BFA Premier League 2026
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=490b289dc37e369d9f6cef231e0ca7df:b64e3c762c516389574680119c33f844
+https://d7pd9oqdl4d44.cloudfront.net/2026_05_12_10_43_57_21250fbc-48ee-4f01-8bf5-20afd24e2991/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1779062640
