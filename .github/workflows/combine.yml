@@ -20,7 +20,7 @@ jobs:
 
       - name: Download Playlists
         run: |
-          curl -L "https://raw.githubusercontent.com/srhady/fifaplus/refs/heads/main/fifa_live.m3u" -o playlists/fifa.m3u
+          curl -L "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u" -o playlists/fifa.m3u
 
           curl -L "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u" -o playlists/bing.m3u
 
@@ -40,7 +40,7 @@ jobs:
           echo "" >> combined.m3u
 
           # AUTO PLAYLISTS
-          tail -n +2 playlists/fifa.m3u >> combined.m3u
+          tail -n +2 playlists/CricketLive.m3u >> combined.m3u
           echo "" >> combined.m3u
 
           tail -n +2 playlists/bing.m3u >> combined.m3u
