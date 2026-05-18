@@ -165,24 +165,24 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:26 AM 19-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=T8nMtKD148CJXG8EINRfDQ&expires=1779146427
+#last update time: 05:00:24 AM 19-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=vkRTaGgnnNaM2_QZukal5g&expires=1779146427
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=LkabHfL7wBU-XLiVjJloGQ&expires=1779150025
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
+https://cdn3.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=KqGEDXCh9G2kSH6zzSSReQ&expires=1779150025
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:46:26 AM 19-05-2026
+#last update time: 5:16:29 AM 19-05-2026
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 19-05-2026
+# Last Update: 05:10 AM 19-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-13400" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17789325131020x576.jpg" group-title="Football", FA Cup Final - Review Show Live | FA Cup 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779146710~acl=/hls/*~hmac=f8cff5a5fffc8ddf0d86fc244e2c7a57385a4fbda90acf01cf4a21b7c6b529d9
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:26 AM 19-05-2026
-#last update time: 04:00:21 AM 19-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_trinidad___tobago_red_force_141958_english.m3u8
+# last_update: 05:15:16 AM 19-05-2026
+#last update time: 05:15:17 AM 19-05-2026
