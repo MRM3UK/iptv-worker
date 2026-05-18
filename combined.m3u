@@ -165,53 +165,49 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:27 PM 18-05-2026
+#last update time: 11:00:46 PM 18-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=Np3Rlwjtu3trBcb7Vr-YqQ&expires=1779119429
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (STARHINDI)
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=usROLM0cy63vU3JQfMfEbg&expires=1779119429
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (SKYSCRIC)
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=DQh7jREGGCKk14-whBBT1g&expires=1779119429
+https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=5X0pgFU8wYfhzg_u3dK2Qg&expires=1779128447
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (WILLOWUSA)
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=CaCReZTh43cIpU6881Axfw&expires=1779119429
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8eUTgoBl8P-gfDcAU0z-sA&expires=1779128447
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (SKYSCRIC)
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=t8r_eh2QekHeVqzjpN2QNg&expires=1779128447
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (STARHINDI)
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=v0TaEdqizMUksgrW2A83Tg&expires=1779128447
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
-https://cdn1.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=H0sFLGeMGJ-Ie57ZDNtq_g&expires=1779119430
+https://cdn1.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=7k3LTm9JPP7BeDhTxrUxZQ&expires=1779128448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
-https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=-bPz9ZJv4lvKm9vh5VFwQA&expires=1779119430
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=iUz5kC6ujTO-3EVMZgAjKw&expires=1779128448
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 8:31:33 PM 18-05-2026
+#last update time: 11:16:41 PM 18-05-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 2 | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779201097-Kv4cPTAAP5YTi-1818666af3212191ef2965d76972786248c2b543-ffa9be7c346c07688b2a950378bf5511
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779211004-Kv4cPTAAP5YTi-24ec4d7c04466463c12c6799b6b049d2715cc3aa-95af1e1f45ff817041d8bb58e3c4b8ec
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 2 | Strasbourg Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1818666af3212191ef2965d76972786248c2b543&x-sign=f26e0dfeb36c158e76ae1108a2203056&x-time=1779114660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=24ec4d7c04466463c12c6799b6b049d2715cc3aa&x-sign=d0ca9979b4e8f0dc8f428bef4f3395e2&x-time=1779124560
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2017%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 17 | Players Championship [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779201104-Kv4cPTAAP5YTi-1818666af3212191ef2965d76972786248c2b543-9777fab8ee19597f366421e89231cf94
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779211012-Kv4cPTAAP5YTi-24ec4d7c04466463c12c6799b6b049d2715cc3aa-e68d005236579a866cfeecd6e3c0f0d8
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2017%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 17 | Players Championship [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1818666af3212191ef2965d76972786248c2b543&x-sign=cbdecf4837a9c3a27f5eed79dd33bafe&x-time=1779114660
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=24ec4d7c04466463c12c6799b6b049d2715cc3aa&x-sign=60ee62f77a91a6511c0040df1c54574a&x-time=1779124560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arka%20Gdynia%0AVS%0ANieciecza%0AEkstraklasa&font=Oswald" group-title="Football", Arka Gdynia VS Nieciecza | Ekstraklasa [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779211021-Kv4cPTAAP5YTi-24ec4d7c04466463c12c6799b6b049d2715cc3aa-bde9deae5a6b094760f69907f816da76
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arka%20Gdynia%0AVS%0ANieciecza%0AEkstraklasa&font=Oswald" group-title="Football", Arka Gdynia VS Nieciecza | Ekstraklasa [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=24ec4d7c04466463c12c6799b6b049d2715cc3aa&x-sign=07399c6f7fa3617376c0e5c150f766d8&x-time=1779124620
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 18-05-2026
+# Last Update: 11:10 PM 18-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:30:28 PM 18-05-2026
-#last update time: 08:30:28 PM 18-05-2026
+# last_update: 11:00:40 PM 18-05-2026
+#last update time: 11:15:27 PM 18-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", Guyana Harpy Eagles Vs Trinidad & Tobago Red Force | West Indies Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_harpy_eagles_vs_trinidad___tobago_red_force_141958_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (HINDI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_hindi.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (MALAYALAM)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_malayalam.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg" group-title="Football", Kerala Blasters Fc Vs Fc Goa | ISL 2025-26 (BENGALI)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kerala_blasters_fc_vs_fc_goa_140516_bengali.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 2   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_142269_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 2   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)

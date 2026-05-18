@@ -3,25 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:31:33 PM 18-05-2026
+#last update time: 11:16:41 PM 18-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 2 | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779201097-Kv4cPTAAP5YTi-1818666af3212191ef2965d76972786248c2b543-ffa9be7c346c07688b2a950378bf5511
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779211004-Kv4cPTAAP5YTi-24ec4d7c04466463c12c6799b6b049d2715cc3aa-95af1e1f45ff817041d8bb58e3c4b8ec
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 2 | Strasbourg Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1818666af3212191ef2965d76972786248c2b543&x-sign=f26e0dfeb36c158e76ae1108a2203056&x-time=1779114660
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=24ec4d7c04466463c12c6799b6b049d2715cc3aa&x-sign=d0ca9979b4e8f0dc8f428bef4f3395e2&x-time=1779124560
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2017%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 17 | Players Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779201104-Kv4cPTAAP5YTi-1818666af3212191ef2965d76972786248c2b543-9777fab8ee19597f366421e89231cf94
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779211012-Kv4cPTAAP5YTi-24ec4d7c04466463c12c6799b6b049d2715cc3aa-e68d005236579a866cfeecd6e3c0f0d8
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2017%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 17 | Players Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1818666af3212191ef2965d76972786248c2b543&x-sign=cbdecf4837a9c3a27f5eed79dd33bafe&x-time=1779114660
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=24ec4d7c04466463c12c6799b6b049d2715cc3aa&x-sign=60ee62f77a91a6511c0040df1c54574a&x-time=1779124560
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arka%20Gdynia%0AVS%0ANieciecza%0AEkstraklasa&font=Oswald" group-title="Football", Arka Gdynia VS Nieciecza | Ekstraklasa [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779211021-Kv4cPTAAP5YTi-24ec4d7c04466463c12c6799b6b049d2715cc3aa-bde9deae5a6b094760f69907f816da76
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Arka%20Gdynia%0AVS%0ANieciecza%0AEkstraklasa&font=Oswald" group-title="Football", Arka Gdynia VS Nieciecza | Ekstraklasa [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=24ec4d7c04466463c12c6799b6b049d2715cc3aa&x-sign=07399c6f7fa3617376c0e5c150f766d8&x-time=1779124620
 
