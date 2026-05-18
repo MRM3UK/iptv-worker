@@ -19,6 +19,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
@@ -28,7 +29,7 @@ jobs:
           mkdir -p playlists
           mkdir -p backup
 
-      # Download playlists with retry
+      # Download playlists
       - name: Download Playlists
         run: |
           curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u" -o playlists/cricket.m3u
@@ -78,19 +79,19 @@ jobs:
           echo '# ===== FANCODE =====' >> $OUTPUT
           tail -n +2 playlists/fancode.m3u >> $OUTPUT
 
-      # Smart duplicate removal
+      # Remove duplicates
       - name: Remove Duplicates
         run: |
           awk '!seen[$0]++' combined.m3u > clean.m3u
           mv clean.m3u combined.m3u
 
-      # Backup old playlist
+      # Backup playlist
       - name: Backup Playlist
         run: |
           cp combined.m3u backup/latest.m3u
 
       # Playlist statistics
-      - name: Playlist Stats
+      - name: Playlist Statistics
         run: |
           echo "Total Channels:"
           grep -c "#EXTINF" combined.m3u || true
@@ -107,13 +108,12 @@ jobs:
 
           git push
 
-      # Telegram notification (optional)
+      # Telegram notification
       - name: Telegram Notification
         if: success()
         run: |
-          curl -s -X POST https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage \
-          -d chat_id=${{ secrets.CHAT_ID }} \
-          -d text="✅ IPTV Playlist Updated Successfully
+          MESSAGE="✅ IPTV Playlist Updated Successfully - https://raw.githubusercontent.com/MRM3UK/iptv-worker/main/combined.m3u"
 
-📄 Playlist:
-https://raw.githubusercontent.com/MRM3UK/iptv-worker/main/combined.m3u"
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage" \
+          -d "chat_id=${{ secrets.CHAT_ID }}" \
+          -d "text=$MESSAGE"
