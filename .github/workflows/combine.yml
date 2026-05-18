@@ -1,4 +1,4 @@
-name: IPTV Merge
+name: IPTV Merge Advanced
 
 on:
   workflow_dispatch:
@@ -8,62 +8,112 @@ on:
 permissions:
   contents: write
 
+# Prevent queue spam
+concurrency:
+  group: iptv-merge
+  cancel-in-progress: true
+
 jobs:
   merge:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Create Folder
-        run: mkdir -p playlists
+      # Create folders
+      - name: Create Folders
+        run: |
+          mkdir -p playlists
+          mkdir -p backup
 
+      # Download playlists with retry
       - name: Download Playlists
         run: |
-          curl -L "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u" -o playlists/fifa.m3u
+          curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u" -o playlists/cricket.m3u
 
-          curl -L "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u" -o playlists/bing.m3u
+          curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u" -o playlists/bing.m3u
 
-          curl -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o playlists/tapmad.m3u
+          curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u" -o playlists/tapmad.m3u
 
-          curl -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o playlists/sonyliv.m3u
+          curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o playlists/sonyliv.m3u
 
-          curl -L "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u" -o playlists/fancode.m3u
+          curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u" -o playlists/fancode.m3u
 
-      - name: Create Combined Playlist
+      # Create combined playlist
+      - name: Merge Playlists
         run: |
-          echo "#EXTM3U" > combined.m3u
+          OUTPUT="combined.m3u"
 
-          # FIRST PLAYLIST
-          curl -L "https://raw.githubusercontent.com/MRM3UK/New-try/refs/heads/main/MOVIES%20-%20FTP.m3u" | tail -n +2 >> combined.m3u
+          echo "#EXTM3U" > $OUTPUT
 
-          echo "" >> combined.m3u
+          # MAIN FTP PLAYLIST FIRST
+          curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/MRM3UK/New-try/refs/heads/main/MOVIES%20-%20FTP.m3u" \
+          | tail -n +2 >> $OUTPUT
 
-          # AUTO PLAYLISTS
-          tail -n +2 playlists/CricketLive.m3u >> combined.m3u
-          echo "" >> combined.m3u
+          echo "" >> $OUTPUT
 
-          tail -n +2 playlists/bing.m3u >> combined.m3u
-          echo "" >> combined.m3u
+          # CRICKET
+          echo '# ===== CRICKET LIVE =====' >> $OUTPUT
+          tail -n +2 playlists/cricket.m3u >> $OUTPUT
+          echo "" >> $OUTPUT
 
-          tail -n +2 playlists/tapmad.m3u >> combined.m3u
-          echo "" >> combined.m3u
+          # BING
+          echo '# ===== BING STREAM =====' >> $OUTPUT
+          tail -n +2 playlists/bing.m3u >> $OUTPUT
+          echo "" >> $OUTPUT
 
-          tail -n +2 playlists/sonyliv.m3u >> combined.m3u
-          echo "" >> combined.m3u
+          # TAPMAD
+          echo '# ===== TAPMAD =====' >> $OUTPUT
+          tail -n +2 playlists/tapmad.m3u >> $OUTPUT
+          echo "" >> $OUTPUT
 
-          tail -n +2 playlists/fancode.m3u >> combined.m3u
+          # SONYLIV
+          echo '# ===== SONYLIV =====' >> $OUTPUT
+          tail -n +2 playlists/sonyliv.m3u >> $OUTPUT
+          echo "" >> $OUTPUT
 
+          # FANCODE
+          echo '# ===== FANCODE =====' >> $OUTPUT
+          tail -n +2 playlists/fancode.m3u >> $OUTPUT
+
+      # Smart duplicate removal
       - name: Remove Duplicates
         run: |
-          awk '!seen[$0]++' combined.m3u > temp.m3u
-          mv temp.m3u combined.m3u
+          awk '!seen[$0]++' combined.m3u > clean.m3u
+          mv clean.m3u combined.m3u
 
+      # Backup old playlist
+      - name: Backup Playlist
+        run: |
+          cp combined.m3u backup/latest.m3u
+
+      # Playlist statistics
+      - name: Playlist Stats
+        run: |
+          echo "Total Channels:"
+          grep -c "#EXTINF" combined.m3u || true
+
+      # Push changes
       - name: Push Playlist
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
           git add .
-          git commit -m "Updated playlist" || echo "No changes"
+
+          git commit -m "Auto updated playlist" || echo "No changes"
+
           git push
+
+      # Telegram notification (optional)
+      - name: Telegram Notification
+        if: success()
+        run: |
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage \
+          -d chat_id=${{ secrets.CHAT_ID }} \
+          -d text="✅ IPTV Playlist Updated Successfully
+
+📄 Playlist:
+https://raw.githubusercontent.com/MRM3UK/iptv-worker/main/combined.m3u"
