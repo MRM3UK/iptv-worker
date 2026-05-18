@@ -162,7 +162,6 @@ http://103.59.176.72:8083/mytv/tracks-v1a1/mono.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/330px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="",Nagorik TV
 http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 
-# ===== CRICKET LIVE =====
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -173,21 +172,17 @@ https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=gYGQRK9uBy_A5ibL4FtOvg&expir
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=bCeDNT3aIKCsd-0zg3KoWw&expires=1779076222
 # --- FOOTYSTREAM SECTION ---
-# ===== BING STREAM =====
 #name: Bingstream Auto Update Playlist
 #last update time: 8:46:23 AM 18-05-2026
-# ===== TAPMAD =====
 # Playlist Name: Tapmad bd
 # Last Update: 08:50 AM 18-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-# ===== SONYLIV =====
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
 # last_update: 08:45:17 AM 18-05-2026
-# ===== FANCODE =====
 #last update time: 08:45:18 AM 18-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Cook Islands Vs Samoa | ICC Men's T20 WC EAP Sub-regional Qualifier A + B (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/cook_islands_vs_samoa_142322_english.m3u8
