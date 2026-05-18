@@ -1,14 +1,15 @@
 name: IPTV Merge Advanced
+run-name: Auto IPTV Update
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/15 * * * *'
 
 permissions:
   contents: write
 
-# Prevent queue spam
+# Prevent queued workflows
 concurrency:
   group: iptv-merge
   cancel-in-progress: true
@@ -23,11 +24,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Create folders
-      - name: Create Folders
-        run: |
-          mkdir -p playlists
-          mkdir -p backup
+      # Create playlist folder
+      - name: Create Folder
+        run: mkdir -p playlists
 
       # Download playlists
       - name: Download Playlists
@@ -42,55 +41,45 @@ jobs:
 
           curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u" -o playlists/fancode.m3u
 
-      # Create combined playlist
+      # Merge playlists
       - name: Merge Playlists
         run: |
           OUTPUT="combined.m3u"
 
           echo "#EXTM3U" > $OUTPUT
 
-          # MAIN FTP PLAYLIST FIRST
+          # MAIN PLAYLIST FIRST
           curl --retry 3 --connect-timeout 20 -L "https://raw.githubusercontent.com/MRM3UK/New-try/refs/heads/main/MOVIES%20-%20FTP.m3u" \
           | tail -n +2 >> $OUTPUT
 
           echo "" >> $OUTPUT
 
           # CRICKET
-          echo '# ===== CRICKET LIVE =====' >> $OUTPUT
           tail -n +2 playlists/cricket.m3u >> $OUTPUT
           echo "" >> $OUTPUT
 
           # BING
-          echo '# ===== BING STREAM =====' >> $OUTPUT
           tail -n +2 playlists/bing.m3u >> $OUTPUT
           echo "" >> $OUTPUT
 
           # TAPMAD
-          echo '# ===== TAPMAD =====' >> $OUTPUT
           tail -n +2 playlists/tapmad.m3u >> $OUTPUT
           echo "" >> $OUTPUT
 
           # SONYLIV
-          echo '# ===== SONYLIV =====' >> $OUTPUT
           tail -n +2 playlists/sonyliv.m3u >> $OUTPUT
           echo "" >> $OUTPUT
 
           # FANCODE
-          echo '# ===== FANCODE =====' >> $OUTPUT
           tail -n +2 playlists/fancode.m3u >> $OUTPUT
 
-      # Remove duplicates
+      # Remove duplicate lines
       - name: Remove Duplicates
         run: |
           awk '!seen[$0]++' combined.m3u > clean.m3u
           mv clean.m3u combined.m3u
 
-      # Backup playlist
-      - name: Backup Playlist
-        run: |
-          cp combined.m3u backup/latest.m3u
-
-      # Playlist statistics
+      # Show statistics
       - name: Playlist Statistics
         run: |
           echo "Total Channels:"
@@ -102,18 +91,8 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          git add .
+          git add combined.m3u playlists/
 
           git commit -m "Auto updated playlist" || echo "No changes"
 
           git push
-
-      # Telegram notification
-      - name: Telegram Notification
-        if: success()
-        run: |
-          MESSAGE="✅ IPTV Playlist Updated Successfully - https://raw.githubusercontent.com/MRM3UK/iptv-worker/main/combined.m3u"
-
-          curl -s -X POST "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage" \
-          -d "chat_id=${{ secrets.CHAT_ID }}" \
-          -d "text=$MESSAGE"
