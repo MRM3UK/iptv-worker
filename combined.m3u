@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="",Star Jalsha (Backup)
+http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg?20250607164238" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg?20250607164238" group-title="Entertainment",Zee Bangla
 http://172.16.29.3:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Entertainment",Star Jalsha
@@ -74,9 +76,9 @@ http://172.16.29.3:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106" group-title="Entertainment",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment",Sony Entertainment
-http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+http://172.16.29.3:8090/hls/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/500px-Zee_TV_2025.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/500px-Zee_TV_2025.svg.png" group-title="Entertainment",Zee TV
-http://198.195.239.50:8095/ZeeTV/index.m3u8
+http://172.16.29.3:8090/hls/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/500px-BeIN_Sports_logo_%28horizontal_version%29.svg.png" group-title="Entertainment",Bein USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Indian_Premier_League_Official_Logo.svg/500px-Indian_Premier_League_Official_Logo.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Indian_Premier_League_Official_Logo.svg/500px-Indian_Premier_League_Official_Logo.svg.png" group-title="Entertainment",IPL (Bangla)
@@ -86,9 +88,9 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/India_film_clapperboard_%28variant%29.svg/250px-India_film_clapperboard_%28variant%29.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/India_film_clapperboard_%28variant%29.svg/250px-India_film_clapperboard_%28variant%29.svg.png" group-title="Entertainment",Bollywood TV
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Star_Sports_Network_logo.png" group-title="Entertainment",Star Sports
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
+http://103.59.176.72:8083/ss_select_2/video.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/500px-TNT_Sports_%282023%29.svg.png" group-title="Entertainment",TNT Sports
-http://46.225.94.157/hls/tnt/index.m3u8
+http://172.16.29.3:8090/hls/tntsports2hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Entertainment",Nick Hindi
 http://103.157.248.140:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_Desh_TV.svg/500px-Logo_of_Desh_TV.svg.png" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_Desh_TV.svg/500px-Logo_of_Desh_TV.svg.png" group-title="Entertainment",Desh TV
@@ -151,8 +153,7 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/500px-Rtv_bangladesh.svg.png" group-title="",RTV
 http://103.59.176.72:8083/rtv/tracks-v1a1/mono.m3u8?token=123
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="",Star Jalsha (Backup)
-http://103.59.176.72:8083/live2/tracks-v1a1/mono.m3u8?token=123
+
 #EXTINF:-1 tvg-logo="https://anandatv.tv/wp-content/uploads/2023/08/cropped-Atv_Web_Logo.jpg" group-title="",Anondo TV
 http://103.59.176.72:8083/ananda_tv/tracks-v1a1/mono.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="",Nexus TV
@@ -161,39 +162,54 @@ http://103.59.176.72:8083/nexus_tv/tracks-v1a1/mono.m3u8?token=123
 http://103.59.176.72:8083/mytv/tracks-v1a1/mono.m3u8?token=123
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/330px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="",Nagorik TV
 http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
-
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:23 AM 19-05-2026
+#last update time: 02:30:22 PM 19-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=CUwvBZSNqXlbwwmCcVlfEQ&expires=1779173425
+https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=x1sULyhHDkwTkumObJqsbw&expires=1779184223
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
-https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=sGTLkIotC4wFtt_eE9KkZw&expires=1779173425
+https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=H9RFIPm9qhWtASKYgg3dVQ&expires=1779184223
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 11:31:27 AM 19-05-2026
+#last update time: 2:46:28 PM 19-05-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779255091-Kv4cPTAAP5YTi-103c1c7f13429645c399e34248bd9a245c28f48a-263cc07ccd4887f3728ee1d0c79439a2
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779266792-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-d3c52f311b89fbcfe9a87a84a95347d0
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=103c1c7f13429645c399e34248bd9a245c28f48a&x-sign=9cb4f2ff1e29bf6a7a6595eebda7c46d&x-time=1779168660
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=836f3e0da5b2b9ee75e3144f18df113c&x-time=1779180360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779255098-Kv4cPTAAP5YTi-103c1c7f13429645c399e34248bd9a245c28f48a-649beaf7ff186c7bc8114773f12b022d
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779266799-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-b046954b37d79fe6a6d8efe10baebf53
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=103c1c7f13429645c399e34248bd9a245c28f48a&x-sign=8367ac645114e45a4d8742110cc6622d&x-time=1779168660
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=af801645362088a005d19279f03e8b9c&x-time=1779180360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779255105-Kv4cPTAAP5YTi-103c1c7f13429645c399e34248bd9a245c28f48a-76ceb677409043c25edb55f4faf0656b
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779266807-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-c83273f34b02fb03c350f5cb2532731e
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=103c1c7f13429645c399e34248bd9a245c28f48a&x-sign=35c9f90cebcb155006a6ffe1b35d5ddd&x-time=1779168660
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=37c53f2d1815a71fc3117b88b7ca4567&x-time=1779180360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779255112-Kv4cPTAAP5YTi-103c1c7f13429645c399e34248bd9a245c28f48a-dd2dca83f4d47f90fb6cced550b91c38
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779266813-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-1971535b3203e9bb241a35c3a2dba19b
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=103c1c7f13429645c399e34248bd9a245c28f48a&x-sign=06a1b8c375dd48d2ebeeeda78d32bf87&x-time=1779168660
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=5050920c21be7b38dec5ae53a8510223&x-time=1779180360
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 3 | Strasbourg Open [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779266819-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-ce67d7774ef4eddc0eede2a8c16dcdd8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 3 | Strasbourg Open [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=75c2d46ab7985e402b5a857bc573d37a&x-time=1779180420
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779266825-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-a6ad5b8b83d75d8a79da4665a2a82c4b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=5b1f8934703b94e26340447fe32fa508&x-time=1779180420
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Yomiuri Giants | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779266834-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-20d29f894d10e8f8f07418544d2c73e8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Yomiuri Giants | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=5ddeeedf1f8b48e7e7cb4d71572d98b7&x-time=1779180420
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Chiba Lotte Marines | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779266841-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-5823ae8850a44c7dd26d26c74f2a5b98
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Chiba Lotte Marines | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=c870f0366599519686f90cf4252ceffa&x-time=1779180420
 # Playlist Name: Tapmad bd
-# Last Update: 11:40 AM 19-05-2026
+# Last Update: 02:40 PM 19-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -202,11 +218,17 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:30:22 AM 19-05-2026
-#last update time: 11:30:26 AM 19-05-2026
+# last_update: 02:45:21 PM 19-05-2026
+#last update time: 02:45:28 PM 19-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=020c8893946b436288da804889721b04:3472ec1404d77c6fa42e5007fc3b18b3
-https://bd-mc-flive.fancode.com/mumbai/142741_english_dash_12695_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_region_vs_band_e_amir_region_142741_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142434_6076_SWE_SLO_fc-web.jpg" group-title="Cricket", Slovenia Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_sweden_142434_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142433_6076_JER_FRA_fc-web.jpg" group-title="Cricket", France Cricket Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_jersey_142433_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 3   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142270_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 3   M1 | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___m1_142263_english.m3u8
