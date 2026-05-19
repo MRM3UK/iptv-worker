@@ -165,51 +165,67 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:22 PM 19-05-2026
+#last update time: 06:00:25 PM 19-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=x1sULyhHDkwTkumObJqsbw&expires=1779184223
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ldLPngTPHrOFeTZML0i_Qw&expires=1779196826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
-https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=H9RFIPm9qhWtASKYgg3dVQ&expires=1779184223
+https://cdn1.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=1BI85CJlrTaKEhiIxvvbtA&expires=1779196826
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:46:28 PM 19-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
+#last update time: 6:01:27 PM 19-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Aston%20Villa%0AVS%0ALiverpool%0APremier%20League&font=Oswald" group-title="Premier League", Aston Villa VS Liverpool | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779266792-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-d3c52f311b89fbcfe9a87a84a95347d0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144254/chunks.m3u8?is_vip=false&token=1779278491-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-0048a8f37489f66bf0100f0b0e8438bb
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Aston%20Villa%0AVS%0ALiverpool%0APremier%20League&font=Oswald" group-title="Premier League", Aston Villa VS Liverpool | Premier League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=2959936037e6482c86c406477de1c26e&x-time=1779192060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779278498-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-f33413036f2e705bad8b80f46132e2fe
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=836f3e0da5b2b9ee75e3144f18df113c&x-time=1779180360
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=ecf21edd91e069274fed51486d41ae7d&x-time=1779192060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779266799-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-b046954b37d79fe6a6d8efe10baebf53
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779278505-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-2b839960b0b6ea5aa8e79933e8659101
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=af801645362088a005d19279f03e8b9c&x-time=1779180360
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=82430e3653edf7ea9d60e05a4f1a904b&x-time=1779192060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779266807-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-c83273f34b02fb03c350f5cb2532731e
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779278513-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-ee727685f2864cf127203bbd190875f2
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=37c53f2d1815a71fc3117b88b7ca4567&x-time=1779180360
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=ba79cf0a608554f69432529e9cb4008f&x-time=1779192060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779266813-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-1971535b3203e9bb241a35c3a2dba19b
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779278520-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-90668d458492c91e4b9e8b2d4242e55d
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 4 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=5050920c21be7b38dec5ae53a8510223&x-time=1779180360
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=1f2c420c653c484848a8038767cd08e2&x-time=1779192120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 3 | Strasbourg Open [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779266819-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-ce67d7774ef4eddc0eede2a8c16dcdd8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779278526-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-c5594e866692736f53f716714782548c
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%203%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 3 | Strasbourg Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=75c2d46ab7985e402b5a857bc573d37a&x-time=1779180420
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779266825-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-a6ad5b8b83d75d8a79da4665a2a82c4b
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=5b1f8934703b94e26340447fe32fa508&x-time=1779180420
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Yomiuri Giants | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779266834-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-20d29f894d10e8f8f07418544d2c73e8
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Yomiuri Giants | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=5ddeeedf1f8b48e7e7cb4d71572d98b7&x-time=1779180420
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=d8b42e02c2b215c63fa922f94bb01c0f&x-time=1779192120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald" group-title="NPB", Hanshin Tigers VS Chunichi Dragons | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779278533-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-a2a5ab52063bd8af13378831b9fff19c
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald" group-title="NPB", Hanshin Tigers VS Chunichi Dragons | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=453b203725a964b63192abc22c0b407e&x-time=1779192120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Chiba Lotte Marines | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779266841-Kv4cPTAAP5YTi-c4f6c5973c4dacbac1cb459ae48bbac04ba22537-5823ae8850a44c7dd26d26c74f2a5b98
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779278540-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-0f3d6044ab410801d9889a3d04d8d1c0
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Chiba Lotte Marines | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=c4f6c5973c4dacbac1cb459ae48bbac04ba22537&x-sign=c870f0366599519686f90cf4252ceffa&x-time=1779180420
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=0d10b3d5fd58d1604d3cfeaaf0fd386f&x-time=1779192120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779278547-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-8aeff46102f2704c2a0b2651df355ac3
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ORIX%20Buffaloes%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", ORIX Buffaloes VS Fukuoka SoftBank Hawks | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=d06ceb30ae4b63999226366286e40b2d&x-time=1779192120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Yomiuri Giants | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779278554-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-bde780bdd638466cbe6e4f73923e3715
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Yomiuri Giants | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=6e6aeb6316e0254a28d52db249c2d76f&x-time=1779192120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2010%0AGiro%20d%E2%80%99Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 10 | Giro d’Italia [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779278561-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-4a45ce731a64e3d6c1fd4ee89d4ce9df
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2010%0AGiro%20d%E2%80%99Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 10 | Giro d’Italia [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=9b38bb8af88cd048edb88c6c0300a23a&x-time=1779192120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2018%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 18 | Players Championship [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779278567-Kv4cPTAAP5YTi-ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c-2b88af74e28304ea31d6d5526e54570a
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2018%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 18 | Players Championship [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=ceb14fdc6ecf5a42f188d05bf19a8f0ea79b366c&x-sign=0a8337017c51118aa540bb317a572894&x-time=1779192120
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 PM 19-05-2026
+# Last Update: 06:00 PM 19-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -218,17 +234,27 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:21 PM 19-05-2026
-#last update time: 02:45:28 PM 19-05-2026
+# last_update: 06:00:24 PM 19-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="Cricket", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Speen Ghar Region Vs Band E Amir Region | Supercola Regional List A Tournament 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_region_vs_band_e_amir_region_142741_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142434_6076_SWE_SLO_fc-web.jpg" group-title="Cricket", Slovenia Vs Sweden | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/slovenia_vs_sweden_142434_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142433_6076_JER_FRA_fc-web.jpg" group-title="Cricket", France Cricket Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/france_cricket_vs_jersey_142433_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dc7efcaab3b4769a8c45cb955957d08:8ddee48121e572b3e110000b1197af6b
+https://bd-mc-flive.fancode.com/mumbai/140520_english_dash_71949_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=9af70147b3ac4e8d99b086287d843a4e:81455cafff18ffd0b0e60b5a57aba6b1
+https://bd-mc-flive.fancode.com/mumbai/140520_hindi_dash_48932_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (MALAYALAM) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=f7853629f59249f78cdc8124beaa43c9:cecdea73e1bfc85de2a5e7a5c042823d
+https://bd-mc-flive.fancode.com/mumbai/140520_malayalam_dash_57747_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140520_5956_NEUFC_MSC_FC-Web_1772478646401.jpg" group-title="Football", Northeast United Fc Vs Mohammedan Sc | ISL 2025-26 (BENGALI) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=3e5e9a1954b2446cb1789ebd84b4c006:da896ef95d48e24dd241df94dd7ed735
+https://bd-mc-flive.fancode.com/mumbai/140520_bengali_dash_34746_1drmta-di_h264/index.mpd
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 3   Main Feed | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142270_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 3   M1 | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___m1_142263_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 3   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_142883_english.m3u8
