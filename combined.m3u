@@ -165,37 +165,31 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:33 AM 22-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=o906vV3hlX7PAPPsHXoKjA&expires=1779402034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (SKYSCRIC)
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=G_HG_eYsWokxLduQL6xtcg&expires=1779402034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STARHINDI)
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=KF6zfdy_a2nuLeHk4kns9w&expires=1779402034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (WILLOWUSA)
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=BS8UR9F6Z800_Q5YAS97aQ&expires=1779402035
+#last update time: 04:30:23 AM 22-05-2026
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:01:33 AM 22-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald" group-title="Darts", Night 16 | Premier League [Server 1]
+#last update time: 4:31:30 AM 22-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico-MG%0AVS%0ACienciano%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Atletico-MG VS Cienciano | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779483701-Kv4cPTAAP5YTi-45ffff11ed0109ad1e31deb15d62858364009359-ed4a031b5298defcff4cf6b059356fe5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald" group-title="Darts", Night 16 | Premier League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=45ffff11ed0109ad1e31deb15d62858364009359&x-sign=a7d345af6815dc51b893747fccb48471&x-time=1779397260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Utrecht%0AVS%0AHeerenveen%0AEredivisie&font=Oswald" group-title="Football", Utrecht VS Heerenveen | Eredivisie
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=496cf54e51527695f6a05edef07574a67cd3cddd&x-sign=6a82f69db17a4b8723abfe37483f40b3&x-time=1779396360
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779489094-Kv4cPTAAP5YTi-7b3fdab6a7afb7dbf386349be9d15928ef69aea4-be048598fd79a77fbb5e73e9e00da3a9
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico-MG%0AVS%0ACienciano%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Atletico-MG VS Cienciano | CONMEBOL Sudamericana [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=7b3fdab6a7afb7dbf386349be9d15928ef69aea4&x-sign=329bac370a7a4889bcf11d288ce3f368&x-time=1779402660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20La%20Guaira%0AVS%0AIndepend.%20Rivadavia%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Deportivo La Guaira VS Independ. Rivadavia | CONMEBOL Libertadores [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779489101-Kv4cPTAAP5YTi-7b3fdab6a7afb7dbf386349be9d15928ef69aea4-8b8636424ec11f83419b92d3f71bb49e
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20La%20Guaira%0AVS%0AIndepend.%20Rivadavia%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Deportivo La Guaira VS Independ. Rivadavia | CONMEBOL Libertadores [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=7b3fdab6a7afb7dbf386349be9d15928ef69aea4&x-sign=1a2cd900a8094bdae5b0fc5003ab0e0e&x-time=1779402660
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 AM 22-05-2026
+# Last Update: 04:40 AM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:00:39 AM 22-05-2026
-#last update time: 03:00:29 AM 22-05-2026
+# last_update: 04:30:20 AM 22-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 1   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_142115_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 1   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
