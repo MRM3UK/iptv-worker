@@ -165,35 +165,79 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:30 PM 21-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=8kRUJ0w76DQf2kqQ-fBShQ&expires=1779387632
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STAR1IN)
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=-YHThyChTKTbtr-Hr28HGg&expires=1779387632
+#last update time: 01:00:28 AM 22-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (WILLOWUSA)
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=GDreWmn95eAe33myH5_KCw&expires=1779387632
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=QhZyBPuU4Ab-uikCed-YhA&expires=1779394829
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STARHINDI)
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=4hEDDXrDkdlsPNr-Rqdlng&expires=1779387632
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=ip5PJQGSoGsfZhVPJ8EC4w&expires=1779394829
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (SKYSCRIC)
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=dHKXR3Uw2ZqaUqkzvtUkKQ&expires=1779394829
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STAR1IN)
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=RRRGZSQUODO07dft3QOWjg&expires=1779394830
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 10:16:30 PM 21-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 5 | Strasbourg Open [Server 1]
+#last update time: 1:16:25 AM 22-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Al-Nassr%0AVS%0ADamac%0APro%20League&font=Oswald" group-title="Pro League", Al-Nassr VS Damac | Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779466593-Kv4cPTAAP5YTi-70fbcf2e2d8e7006ec9fa9de74bc81ea2ff02b8e-6693104f0c5749d55affff7fa3b70977
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%205%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 5 | Strasbourg Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=70fbcf2e2d8e7006ec9fa9de74bc81ea2ff02b8e&x-sign=faa6cb9735379a5a7cd1b67d734ddcfd&x-time=1779380160
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779477388-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-dce5523c8fd61da71b31ff731f52fc06
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Al-Nassr%0AVS%0ADamac%0APro%20League&font=Oswald" group-title="Pro League", Al-Nassr VS Damac | Pro League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=9bd3602095263f8006308241b0b33d89&x-time=1779390960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Al-Fayha%0AVS%0AAl-Hilal%20Saudi%20FC%0APro%20League&font=Oswald" group-title="Football", Al-Fayha VS Al-Hilal Saudi FC | Pro League [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779477397-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-83994d4717d4865599aa73e0b02f8070
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Al-Fayha%0AVS%0AAl-Hilal%20Saudi%20FC%0APro%20League&font=Oswald" group-title="Football", Al-Fayha VS Al-Hilal Saudi FC | Pro League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=1836d05d7245f8c0f945c780218dc767&x-time=1779390960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald" group-title="Darts", Night 16 | Premier League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779477403-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-320207c266ff5c15a14bede9e994fb83
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Night%2016%0APremier%20League&font=Oswald" group-title="Darts", Night 16 | Premier League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=ba800463e5f6f08c017e448ed54759e0&x-time=1779390960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=KV%20Mechelen%0AVS%0AClub%20Brugge%20KV%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", KV Mechelen VS Club Brugge KV | Jupiler Pro League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=f7dd42dc458ea4b422a0eea8c76ac3e6&x-time=1779390960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=KV%20Mechelen%0AVS%0AClub%20Brugge%20KV%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", KV Mechelen VS Club Brugge KV | Jupiler Pro League [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=1779477411-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-3a179503febfd64141439f7be02dfc5d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gent%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Gent VS Union St. Gilloise | Jupiler Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779477416-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-7253d4ae5599a67ea074894d4f349e37
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gent%0AVS%0AUnion%20St.%20Gilloise%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Gent VS Union St. Gilloise | Jupiler Pro League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=eb4c63f645553e43be2ef3988676f312&x-time=1779390960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Anderlecht VS St. Truiden | Jupiler Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779477423-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-cfb0e7de37c7ae3fd4023981e1ebffaf
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Anderlecht VS St. Truiden | Jupiler Pro League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=c492108f8e1235b737240450c5a587c6&x-time=1779391020
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Anderlecht%0AVS%0ASt.%20Truiden%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", Anderlecht VS St. Truiden | Jupiler Pro League [Server 3]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138846_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=d83a5296c124e5267bd400ac0bed426e&x-time=1779391020
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald" group-title="Football", VfL Wolfsburg VS SC Paderborn 07 | Bundesliga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779477431-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-0af49414c3d21da7771680ebe9fcaa4a
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald" group-title="Football", VfL Wolfsburg VS SC Paderborn 07 | Bundesliga [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=94ae49eb0f9fbdd3102fa1a27b8308c4&x-time=1779391020
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=VfL%20Wolfsburg%0AVS%0ASC%20Paderborn%2007%0ABundesliga&font=Oswald" group-title="Football", VfL Wolfsburg VS SC Paderborn 07 | Bundesliga [Server 3]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138851_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=256746ed56b2c9f62adb6f1baaa154e6&x-time=1779391020
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Partick%0AVS%0AST%20Mirren%0APremiership&font=Oswald" group-title="Football", Partick VS ST Mirren | Premiership [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=c49c5bed4cec6a6d2b8bab111429d611&x-time=1779391020
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Partick%0AVS%0AST%20Mirren%0APremiership&font=Oswald" group-title="Football", Partick VS ST Mirren | Premiership [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1779477441-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-bf0422b5fd155b8067f7a490a7f50b17
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Utrecht%0AVS%0AHeerenveen%0AEredivisie&font=Oswald" group-title="Football", Utrecht VS Heerenveen | Eredivisie [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=3bae789226701970cfc86f7ba96968bfee904e51&x-sign=ec665b3644bb1e650066c375b56b87e8&x-time=1779391020
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Utrecht%0AVS%0AHeerenveen%0AEredivisie&font=Oswald" group-title="Football", Utrecht VS Heerenveen | Eredivisie [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779477448-Kv4cPTAAP5YTi-3bae789226701970cfc86f7ba96968bfee904e51-d7779f10b8b82dfeef1863669c5f5661
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 21-05-2026
+# Last Update: 01:20 AM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-13741" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17793489771020x576.jpg" group-title="Tennis", RG26 Gael + Friends Live | French Open 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779392107~acl=/hls/*~hmac=ad1c89f18cdd3f047e5cee5d0b62c7014d55a1a1bc873d5285190e371eb990af
+#EXTINF:-1 tvg-id="tapmad-13477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17791851161020x576.jpg" group-title="Football", Wolfsburg vs Paderborn | Bundesliga 2025/26
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779392107~acl=/hls/*~hmac=ad1c89f18cdd3f047e5cee5d0b62c7014d55a1a1bc873d5285190e371eb990af
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:19 PM 21-05-2026
-#last update time: 11:15:23 PM 21-05-2026
+# last_update: 01:15:18 AM 22-05-2026
+#last update time: 01:15:19 AM 22-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Fayha-FC-vs-Al-Hilal-SFC_FC-web.jpg" group-title="Football", Al Fayha Fc Vs Al Hilal Sfc | Roshn Saudi League 2025-2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_fayha_fc_vs_al_hilal_sfc_142706_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Damac-FC_FC-web.jpg" group-title="Football", Al Nassr Fc Vs Damac Fc | Roshn Saudi League 2025-2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/al_nassr_fc_vs_damac_fc_142705_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 5   Main Feed | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___main_feed_142265_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Day 5   Men's Qf | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
@@ -204,7 +248,5 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_f
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___featured_groups_142118_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 1   Marquee Group | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___marquee_group_142116_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png" group-title="Tennis", Day 5   Centre Court | ATP 500 - Bitpanda Hamburg Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5___centre_court_142932_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 1   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___featured_holes_142117_english.m3u8
