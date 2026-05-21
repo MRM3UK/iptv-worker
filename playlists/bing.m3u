@@ -3,35 +3,65 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 4:46:32 AM 21-05-2026
+#last update time: 6:01:31 AM 21-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Boston River VS O'Higgins | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779403595-Kv4cPTAAP5YTi-b6ea5bdb514928e05b6dab362b314ed528a1d729-a500b1ad9e1e8fd5a7db1a151f1ec978
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779408095-Kv4cPTAAP5YTi-00e692c63da5e6f802acd033ab34fe56c4614811-ab6bc5184ddb4d8821ccd184bff5dd15
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Boston%20River%0AVS%0AO'Higgins%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Boston River VS O'Higgins | CONMEBOL Sudamericana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=b6ea5bdb514928e05b6dab362b314ed528a1d729&x-sign=5ab9cc5dd727b538684cf443d72ac1bc&x-time=1779317160
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=00e692c63da5e6f802acd033ab34fe56c4614811&x-sign=a3d66468da0c234bf342d0108a781690&x-time=1779321660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Santos%0AVS%0ASan%20Lorenzo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Santos VS San Lorenzo | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779403602-Kv4cPTAAP5YTi-b6ea5bdb514928e05b6dab362b314ed528a1d729-fc37e8e13b58b06a6b315d8c823fb825
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779408102-Kv4cPTAAP5YTi-00e692c63da5e6f802acd033ab34fe56c4614811-6790f8bcdc62b57152c89612fd7ddcbd
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Santos%0AVS%0ASan%20Lorenzo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Santos VS San Lorenzo | CONMEBOL Sudamericana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=b6ea5bdb514928e05b6dab362b314ed528a1d729&x-sign=2ebde66a0803c16bf22340b9138e2a11&x-time=1779317160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=00e692c63da5e6f802acd033ab34fe56c4614811&x-sign=0c3da3648bfed3a943ddb794a9877ecd&x-time=1779321660
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Club Nacional VS Universitario | CONMEBOL Libertadores [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779403608-Kv4cPTAAP5YTi-b6ea5bdb514928e05b6dab362b314ed528a1d729-d27c4c2b8b0dddd3f89d8a9929445182
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779408109-Kv4cPTAAP5YTi-00e692c63da5e6f802acd033ab34fe56c4614811-16e589cadc89df720b3c4f3e543faea7
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Club%20Nacional%0AVS%0AUniversitario%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Club Nacional VS Universitario | CONMEBOL Libertadores [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=b6ea5bdb514928e05b6dab362b314ed528a1d729&x-sign=46d7a770ac95a487fe88bfeb09acf388&x-time=1779317160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=00e692c63da5e6f802acd033ab34fe56c4614811&x-sign=5b6e12344676d94245422d5cac85893d&x-time=1779321660
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Am%C3%A9rica%20W%0AVS%0ANJ%2FNY%20Gotham%20FC%20W%0ACONCACAF%20W%20Champions%20Cup&font=Oswald" group-title="Football", América W VS NJ/NY Gotham FC W | CONCACAF W Champions Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779408117-Kv4cPTAAP5YTi-00e692c63da5e6f802acd033ab34fe56c4614811-c003ea2cad82458bf6f25d3237d94b7b
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Am%C3%A9rica%20W%0AVS%0ANJ%2FNY%20Gotham%20FC%20W%0ACONCACAF%20W%20Champions%20Cup&font=Oswald" group-title="Football", América W VS NJ/NY Gotham FC W | CONCACAF W Champions Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=00e692c63da5e6f802acd033ab34fe56c4614811&x-sign=26ff40716fe617b0bb6fc8e3d1b0f861&x-time=1779321660
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gremio%0AVS%0APalestino%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Gremio VS Palestino | CONMEBOL Sudamericana [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=1779408124-Kv4cPTAAP5YTi-00e692c63da5e6f802acd033ab34fe56c4614811-ed9a71b8da541c8b73cc8c465ebad51a
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gremio%0AVS%0APalestino%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Gremio VS Palestino | CONMEBOL Sudamericana [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=00e692c63da5e6f802acd033ab34fe56c4614811&x-sign=53a7652c51e28db2d8f52030cb3b12f3&x-time=1779321720
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20Petrolero%0AVS%0ABotafogo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Independiente Petrolero VS Botafogo | CONMEBOL Sudamericana [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161359_abrhd.m3u8?is_vip=false&token=00e692c63da5e6f802acd033ab34fe56c4614811&x-sign=b58000610be4515a87ee7bfb5d7d79e2&x-time=1779321720
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20Petrolero%0AVS%0ABotafogo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Independiente Petrolero VS Botafogo | CONMEBOL Sudamericana [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161359_abrhd.m3u8?is_vip=false&token=1779408132-Kv4cPTAAP5YTi-00e692c63da5e6f802acd033ab34fe56c4614811-3bd8358ad96e12d52aa43e2212db88c4
 
