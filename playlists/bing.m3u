@@ -3,65 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:31:33 PM 22-05-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2013%0AGiro%20d%E2%80%99Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 13 | Giro d’Italia [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=1779546698-Kv4cPTAAP5YTi-fe2f2640a1c466ffb12d00d996c44936e5de78af-3c8483e1688689972d9169544c348d47
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2013%0AGiro%20d%E2%80%99Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 13 | Giro d’Italia [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=fe2f2640a1c466ffb12d00d996c44936e5de78af&x-sign=c28ed13aa58cf9f53f301ec24a11531f&x-time=1779460260
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779546705-Kv4cPTAAP5YTi-fe2f2640a1c466ffb12d00d996c44936e5de78af-488d3d169abe9c3f98515881742e5a9b
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=fe2f2640a1c466ffb12d00d996c44936e5de78af&x-sign=372f7c2a6d8a59968c5a973c3f8b532e&x-time=1779460260
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%205)%0AWTA%20250&font=Oswald" group-title="Tennis", Rabat (Day 5) | WTA 250 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779546713-Kv4cPTAAP5YTi-fe2f2640a1c466ffb12d00d996c44936e5de78af-81a0dcfca5e10b57144655d6dd458329
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%205)%0AWTA%20250&font=Oswald" group-title="Tennis", Rabat (Day 5) | WTA 250 [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=fe2f2640a1c466ffb12d00d996c44936e5de78af&x-sign=2ad20b855433add0463208bbcd968a9e&x-time=1779460260
+#last update time: 10:31:27 PM 22-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 6 | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779546720-Kv4cPTAAP5YTi-fe2f2640a1c466ffb12d00d996c44936e5de78af-a2ccb7720071b21ece844055ac99e795
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779553890-Kv4cPTAAP5YTi-2a394663952ae90ee3e509dfc7f6aab1ecc0771d-e5f1dc7dedb23510543dd55dac47bd38
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Day 6 | Strasbourg Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=fe2f2640a1c466ffb12d00d996c44936e5de78af&x-sign=349563e3aa8e70c45144e58943b5c447&x-time=1779460320
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=2a394663952ae90ee3e509dfc7f6aab1ecc0771d&x-sign=7040c4135bd874a087f38266a1146c67&x-time=1779467460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ONE%20Friday%20Fights%20155%0AONE%20Friday%20Fights&font=Oswald" group-title="MMA", ONE Friday Fights 155 | ONE Friday Fights [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779546726-Kv4cPTAAP5YTi-fe2f2640a1c466ffb12d00d996c44936e5de78af-85e5928be7004a975496b68e0f0bb1e4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779553896-Kv4cPTAAP5YTi-2a394663952ae90ee3e509dfc7f6aab1ecc0771d-a6be65a04a4ffe16ea70052b192f46b9
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ONE%20Friday%20Fights%20155%0AONE%20Friday%20Fights&font=Oswald" group-title="MMA", ONE Friday Fights 155 | ONE Friday Fights [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=fe2f2640a1c466ffb12d00d996c44936e5de78af&x-sign=9da7177c790c82965750959989522a3f&x-time=1779460320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=2a394663952ae90ee3e509dfc7f6aab1ecc0771d&x-sign=5a86914538fdc18ff747e634ba4391d6&x-time=1779467460
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 FC Barcelona VS U18 Zalgiris Kaunas | Next Gen Euroleague [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%20Practice%201%0AFormula%201&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 Practice 1 | Formula 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779546733-Kv4cPTAAP5YTi-fe2f2640a1c466ffb12d00d996c44936e5de78af-2974d92493027c33b659bab50b1f0c89
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779553902-Kv4cPTAAP5YTi-2a394663952ae90ee3e509dfc7f6aab1ecc0771d-b92d7671697930f7f286e4802f9dea96
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20FC%20Barcelona%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 FC Barcelona VS U18 Zalgiris Kaunas | Next Gen Euroleague [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%20Practice%201%0AFormula%201&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 Practice 1 | Formula 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=fe2f2640a1c466ffb12d00d996c44936e5de78af&x-sign=14e2a49981c9485a0a616e0de1011146&x-time=1779460320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=2a394663952ae90ee3e509dfc7f6aab1ecc0771d&x-sign=92e4242522da4e68b39b0324874ba06e&x-time=1779467460
 
