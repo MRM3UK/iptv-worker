@@ -165,55 +165,31 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:25 AM 23-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8Dxv4Sw0-29Ysxc0gNE3hA&expires=1779486627
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STARHINDI)
-https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=VIYAC4kbm6SKqp7GiMMzTg&expires=1779486627
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STAR1IN)
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=liz0Q2qxrLqjM1m9Pp69VQ&expires=1779486627
+#last update time: 03:30:22 AM 23-05-2026
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:31:29 AM 23-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
+#last update time: 3:46:32 AM 23-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Sprint%20Race&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 | Formula 1 Sprint Race [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779568292-Kv4cPTAAP5YTi-cedf36b3d49292ea3fc6d6f087faaa7a391b7e70-7fd74b3789adee8544f393557d4b5c6f
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=57fda69c6bb86ea920d49d430b8389f6&x-time=1779481860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Trabzonspor%0AVS%0AKonyaspor%0AT%C3%BCrkiye%20Kupas%C4%B1&font=Oswald" group-title="Football", Trabzonspor VS Konyaspor | Türkiye Kupası [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_abrhd.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=6310436e903a493f7f098e97ff3696a1&x-time=1779481860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Trabzonspor%0AVS%0AKonyaspor%0AT%C3%BCrkiye%20Kupas%C4%B1&font=Oswald" group-title="Football", Trabzonspor VS Konyaspor | Türkiye Kupası [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905_abrhd.m3u8?is_vip=false&token=1779568300-Kv4cPTAAP5YTi-cedf36b3d49292ea3fc6d6f087faaa7a391b7e70-3a1cc6b106eb4ef9ae831eef252a16a1
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fiorentina%0AVS%0AAtalanta%0ASerie%20A&font=Oswald" group-title="Football", Fiorentina VS Atalanta | Serie A [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779568306-Kv4cPTAAP5YTi-cedf36b3d49292ea3fc6d6f087faaa7a391b7e70-f12724303b539e217a594b2bdabdc408
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fiorentina%0AVS%0AAtalanta%0ASerie%20A&font=Oswald" group-title="Football", Fiorentina VS Atalanta | Serie A [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=74f9a49c366e229055b2f7168c0524f3&x-time=1779481860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lens%0AVS%0ANice%0ACoupe%20de%20France&font=Oswald" group-title="Football", Lens VS Nice | Coupe de France [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/952_abrhd.m3u8?is_vip=false&token=1779568312-Kv4cPTAAP5YTi-cedf36b3d49292ea3fc6d6f087faaa7a391b7e70-6a443696100dff4bad1d72854275c60c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lens%0AVS%0ANice%0ACoupe%20de%20France&font=Oswald" group-title="Football", Lens VS Nice | Coupe de France [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/952_abrhd.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=9263d9c255fb9a45f2f3da80efde170c&x-time=1779481860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lens%0AVS%0ANice%0ACoupe%20de%20France&font=Oswald" group-title="Football", Lens VS Nice | Coupe de France [Server 3]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=7cfa2891b2b48fd22e4a9bece35d3572&x-time=1779481860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2030%0AMMA&font=Oswald" group-title="MMA", WOW FC 30 | MMA [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779568319-Kv4cPTAAP5YTi-cedf36b3d49292ea3fc6d6f087faaa7a391b7e70-aeedc16435b73bf15b920dfe287449d8
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2030%0AMMA&font=Oswald" group-title="MMA", WOW FC 30 | MMA [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=56354cd4e8ca291df693f2b0252d2a91&x-time=1779481920
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Sprint%20Race&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 | Formula 1 Sprint Race [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779568326-Kv4cPTAAP5YTi-cedf36b3d49292ea3fc6d6f087faaa7a391b7e70-759bfe9bca0c6c113ba034ca1054d7d6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779572796-Kv4cPTAAP5YTi-ef880782a86ed101f506e2da0c2d7669271be812-487568b4ca34bc68bfa2ba95e2010f8d
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Sprint%20Race&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 | Formula 1 Sprint Race [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=cedf36b3d49292ea3fc6d6f087faaa7a391b7e70&x-sign=b219353dec974cc771cb17f20c6df211&x-time=1779481920
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=ef880782a86ed101f506e2da0c2d7669271be812&x-sign=a96284daadecf3fb4ecca790b935885e&x-time=1779486360
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%0AF1%20Academy%20Qualifying&font=Oswald" group-title="Auto Racing", F1 ACADEMY, ROUND 2 CANADA, 2026 | F1 Academy Qualifying [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779572802-Kv4cPTAAP5YTi-ef880782a86ed101f506e2da0c2d7669271be812-7d1827cea24842094f820090061929e2
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%0AF1%20Academy%20Qualifying&font=Oswald" group-title="Auto Racing", F1 ACADEMY, ROUND 2 CANADA, 2026 | F1 Academy Qualifying [Server 2]
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 AM 23-05-2026
+# Last Update: 03:40 AM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:19 AM 23-05-2026
-#last update time: 02:30:28 AM 23-05-2026
+# last_update: 03:45:14 AM 23-05-2026
+#last update time: 03:45:26 AM 23-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 2   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_142120_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 2   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
