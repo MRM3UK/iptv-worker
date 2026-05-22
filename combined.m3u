@@ -165,59 +165,29 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:23 AM 22-05-2026
+#last update time: 11:30:24 AM 22-05-2026
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:31:27 AM 22-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Racing%20Club%0AVS%0ACaracas%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Racing Club VS Caracas FC | CONMEBOL Sudamericana [Server 1]
+#last update time: 11:46:26 AM 22-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tennis%20channel%0AAuto%20Racing&font=Oswald" group-title="Auto Racing", Tennis channel | Auto Racing [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=f8811bc87dc3c103134a54c4f990b21f&x-time=1779413460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Racing%20Club%0AVS%0ACaracas%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Racing Club VS Caracas FC | CONMEBOL Sudamericana [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274843_abrhd.m3u8?is_vip=false&token=1779499892-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-b5d404876caf27a50f8a72421df2c309
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=UFC%20BJJ%208%3A%20MUSUMECI%0AVS%0ADANTZLER%0AMMA&font=Oswald" group-title="MMA", UFC BJJ 8: MUSUMECI VS DANTZLER | MMA [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779499897-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-bdf54209b98e2423fbc91d867ebabaa5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=UFC%20BJJ%208%3A%20MUSUMECI%0AVS%0ADANTZLER%0AMMA&font=Oswald" group-title="MMA", UFC BJJ 8: MUSUMECI VS DANTZLER | MMA [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=32675d2c272fb00091a91223274997d7&x-time=1779413460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Blooming%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Blooming VS Carabobo FC | CONMEBOL Sudamericana [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1779499902-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-3a8927ed0cc61be3e29223427a4ff3b2
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Blooming%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Blooming VS Carabobo FC | CONMEBOL Sudamericana [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=793556f2528aa652225b0301a3ee5cb9&x-time=1779413460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Penarol%0AVS%0ACorinthians%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Penarol VS Corinthians | CONMEBOL Libertadores [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779499908-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-ddb7fcf0dc5b6f5c8ad20e36335be84f
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Penarol%0AVS%0ACorinthians%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Penarol VS Corinthians | CONMEBOL Libertadores [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=60e9af2c36254fbdcd97f3bfb66474d7&x-time=1779413460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U.%20Catolica%0AVS%0ABarcelona%20SC%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", U. Catolica VS Barcelona SC | CONMEBOL Libertadores [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779499914-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-822d9b1255fac611c9d117d26e3130c3
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U.%20Catolica%0AVS%0ABarcelona%20SC%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", U. Catolica VS Barcelona SC | CONMEBOL Libertadores [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=470c0d3b55dacb3df0417e2603b6940f&x-time=1779413460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779499920-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-da612689eae695e69524f5b7844259f2
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=529002d004276020423e432c1b308eac&x-time=1779413520
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779499926-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-7db784983aa575f546d8b8fc32309f26
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=c25259cd318d3503e00f8c698ee3d77a&x-time=1779413520
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779499933-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-ed7f6b1cf0bef0300755612383ac69b4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 3 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=f06ded04d389c0ad766e787ce112a23c&x-time=1779413520
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Free%20Practice%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Free Practice 1 | Super Formula [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779499939-Kv4cPTAAP5YTi-a86a7ebc689deea50619f5307ee92617db2b034c-f860c457333a5c3a0dca7f25f3de1711
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Free%20Practice%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Free Practice 1 | Super Formula [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=a86a7ebc689deea50619f5307ee92617db2b034c&x-sign=1dafe9f3db8acbf11a8566e252539462&x-time=1779413520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_abrhd.m3u8?is_vip=false&token=66c266c580c9cf957dbcbd507fb93e5eef632ceb&x-sign=c58191e31b887dcf18e5b7c35ebc1ee1&x-time=1779428760
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 AM 22-05-2026
+# Last Update: 11:40 AM 22-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:30:19 AM 22-05-2026
-#last update time: 07:30:19 AM 22-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skywarriors_web.png" group-title="Cricket", Kowloon Lions Vs Hong Kong Islanders | Skywarriors All Stars Plus Men’s T20 Series 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kowloon_lions_vs_hong_kong_islanders_142764_english.m3u8
+# last_update: 11:45:15 AM 22-05-2026
+#last update time: 11:45:20 AM 22-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Band E Amir Region Vs Boost Region | Supercola Regional List A Tournament 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_region_vs_boost_region_142744_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png" group-title="Cricket", Nepal Vs Usa | ICC CWC League 2 Nepal 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nepal_vs_usa_142294_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Skywarriors_web.png" group-title="Cricket", Hong Kong Islanders Vs New Territories Tigers | Skywarriors All Stars Plus Men’s T20 Series 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hong_kong_islanders_vs_new_territories_tigers_142766_english.m3u8
