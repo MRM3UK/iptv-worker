@@ -165,29 +165,34 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:28 AM 23-05-2026
+#last update time: 10:00:23 AM 23-05-2026
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 6:01:30 AM 23-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald" group-title="Boxing", Jones VS Gualtieri | Golden Boy Promotions [Server 1]
+#last update time: 10:01:30 AM 23-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779580893-Kv4cPTAAP5YTi-ed46a7750a7e15683e512f76310c9f202d91c3cd-ab3d8447e4066514ff76eb3f3bac1ff0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jones%0AVS%0AGualtieri%0AGolden%20Boy%20Promotions&font=Oswald" group-title="Boxing", Jones VS Gualtieri | Golden Boy Promotions [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ed46a7750a7e15683e512f76310c9f202d91c3cd&x-sign=9dca1c5fcc063ddf2062ba8601934294&x-time=1779494460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Qualifying 1 | Super Formula [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779580900-Kv4cPTAAP5YTi-ed46a7750a7e15683e512f76310c9f202d91c3cd-308f31c2eb782382ac99bd0c511d8e6b
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Qualifying%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Qualifying 1 | Super Formula [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ed46a7750a7e15683e512f76310c9f202d91c3cd&x-sign=6f7f965d03a45349a77a1da1a3ebbc3f&x-time=1779494460
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779595294-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-b2ddbaf591399742a30735426f31db35
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=f814a831e637262a7337e9e886a23725&x-time=1779508860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779595300-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-80a54f2f097f1eb399a829b8af9a794c
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=870d124f1853af12269178948984ae6a&x-time=1779508860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779595307-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-5d36fb7c5871a99453dbcca833764c4d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=bf3be81a7c2c45dd836e6ef2d0a056c5&x-time=1779508860
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 23-05-2026
+# Last Update: 10:00 AM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:00:22 AM 23-05-2026
-#last update time: 06:00:27 AM 23-05-2026
+# last_update: 10:00:20 AM 23-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="Motorsports", Japan   Day 1 | Ferrari Challenge Series 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan___day_1_142755_english.m3u8
