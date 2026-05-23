@@ -165,34 +165,66 @@ http://103.59.176.72:8083/nagorik_tv/tracks-v1a1/mono.m3u8?token=123
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:23 AM 23-05-2026
+#last update time: 12:30:20 PM 23-05-2026
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 10:01:30 AM 23-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 1]
+#last update time: 12:31:29 PM 23-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779595294-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-b2ddbaf591399742a30735426f31db35
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=f814a831e637262a7337e9e886a23725&x-time=1779508860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779595300-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-80a54f2f097f1eb399a829b8af9a794c
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779604292-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-7f966197c81e684873891860678c4b30
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=870d124f1853af12269178948984ae6a&x-time=1779508860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779595307-Kv4cPTAAP5YTi-0588ace2c581f1a45811a7fa73a2512c4ceef8a9-5d36fb7c5871a99453dbcca833764c4d
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 2 | PERODUA Malaysia Masters [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0588ace2c581f1a45811a7fa73a2512c4ceef8a9&x-sign=bf3be81a7c2c45dd836e6ef2d0a056c5&x-time=1779508860
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=2e87572b8dcbd42234e95db945a22215&x-time=1779517860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Avispa%20Fukuoka%0AVS%0AVissel%20Kobe%0AJ1%20League&font=Oswald" group-title="Football", Avispa Fukuoka VS Vissel Kobe | J1 League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779604298-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-8900905ca56989b130e4de7d28eac8c4
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Avispa%20Fukuoka%0AVS%0AVissel%20Kobe%0AJ1%20League&font=Oswald" group-title="Football", Avispa Fukuoka VS Vissel Kobe | J1 League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=306904072b26921245e1d8129dcb4db8&x-time=1779517860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sanfrecce%20Hiroshima%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald" group-title="Football", Sanfrecce Hiroshima VS Nagoya Grampus | J1 League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779604305-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-a314df8183d9aed130622236643823d4
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sanfrecce%20Hiroshima%0AVS%0ANagoya%20Grampus%0AJ1%20League&font=Oswald" group-title="Football", Sanfrecce Hiroshima VS Nagoya Grampus | J1 League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=541ff2beb4333354224ada51dbe0020c&x-time=1779517860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779604311-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-bf1a74877e7f970c76ba0fcc6a1ef51d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHokkaido%20Nippon-Ham%20Fighters%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Hokkaido Nippon-Ham Fighters | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=edc43877779eb33090b5e49b357bb1b9&x-time=1779517860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Race%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Race 1 | Super Formula [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779604318-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-b3682cd851cddc48f815711aa03325a6
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Suzuka%20-%20Race%201%0ASuper%20Formula&font=Oswald" group-title="Auto Racing", Suzuka - Race 1 | Super Formula [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=6ea97f8ce73f5e58cea9c957443eb21e&x-time=1779517860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sydney%20Swans%0AVS%0AGeelong%20Cats%0AAFL%20Premiership&font=Oswald" group-title="Football", Sydney Swans VS Geelong Cats | AFL Premiership [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779604324-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-c8bfbb171f70bcad0c1e99df94444691
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sydney%20Swans%0AVS%0AGeelong%20Cats%0AAFL%20Premiership&font=Oswald" group-title="Football", Sydney Swans VS Geelong Cats | AFL Premiership [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=efcadfdef98da9641c5baae7e1e7cf76&x-time=1779517920
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hurricanes%0AVS%0AHighlanders%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Hurricanes VS Highlanders | Super Rugby Pacific [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779604331-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-bcbc1b670ae48404c7faec4321936e07
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hurricanes%0AVS%0AHighlanders%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Hurricanes VS Highlanders | Super Rugby Pacific [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=154d18236405cfa7d6ba9b38c0ed9883&x-time=1779517920
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779604337-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-72320ea72f1e7f260c8ddb5d552dbd19
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=46711cef548496d70ed5cf6f969ca3a9b21e5bbf&x-sign=0158c0f1d1dac482dcb2a7a37327f84e&x-time=1779517920
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779604340-Kv4cPTAAP5YTi-46711cef548496d70ed5cf6f969ca3a9b21e5bbf-c0b678f3c238476f5c9060a3bae7e82c
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Moana%20Pasifika%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Moana Pasifika VS Queensland Reds | Super Rugby Pacific [Server 4]
 # Playlist Name: Tapmad bd
-# Last Update: 10:00 AM 23-05-2026
+# Last Update: 12:40 PM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-13334" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17793666431020x576.jpg" group-title="Football", Tokyo Verdy Beleza vs Naegohyang Women's FC | AFC Women's Champions League 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:20 AM 23-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg" group-title="Motorsports", Japan   Day 1 | Ferrari Challenge Series 2026 (ENGLISH)
+# last_update: 12:30:16 PM 23-05-2026
+#last update time: 12:30:23 PM 23-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Mis E Ainak Region Vs Amo Region | Supercola Regional List A Tournament 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_region_vs_amo_region_142745_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png" group-title="Cricket", Sri Lanka A Women Vs New Zealand A Women | New Zealand Women’s A tour of Sri Lanka 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_a_women_vs_new_zealand_a_women_142513_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779430932321/141770_CASACARDS_APP.png" group-title="Football", Tokyo Verdy Beleza Vs Naegohyang Women's Fc | AFC Women's Champions League 2025-26 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/tokyo_verdy_beleza_vs_naegohyang_women_s_fc_141770_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Motorsports", Japan   Day 1 | Ferrari Challenge Series 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/japan___day_1_142755_english.m3u8
