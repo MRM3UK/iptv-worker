@@ -3,85 +3,55 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:31:26 PM 23-05-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779622290-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-6e1a24fc0b6702571067653b89248424
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APERODUA%20Malaysia%20Masters&font=Oswald" group-title="Badminton", Court 1 | PERODUA Malaysia Masters [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=df59ea53678ec9b65a3dfaeebdfdcc27&x-time=1779535860
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Western%20Force%0AVS%0AFijian%20Drua%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Western Force VS Fijian Drua | Super Rugby Pacific [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779622296-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-7e1862962eaaa752dd537bc4bf19e9e9
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Western%20Force%0AVS%0AFijian%20Drua%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Western Force VS Fijian Drua | Super Rugby Pacific [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=c137e2190b7e7b6cf272f1b81fa339a0&x-time=1779535860
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Carlton%0AVS%0APort%20Adelaide%0AAFL%20Premiership&font=Oswald" group-title="Football", Carlton VS Port Adelaide | AFL Premiership [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779622302-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-d8fa2a74f764de54d89392f2528e1074
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Carlton%0AVS%0APort%20Adelaide%0AAFL%20Premiership&font=Oswald" group-title="Football", Carlton VS Port Adelaide | AFL Premiership [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=ba13c5f9b62b70e1013f52eb566f4d8a&x-time=1779535860
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kyoto%20Sanga%0AVS%0AV-varen%20Nagasaki%0AJ1%20League&font=Oswald" group-title="Football", Kyoto Sanga VS V-varen Nagasaki | J1 League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779622307-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-14606599694732f6414ef51d40fc491e
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kyoto%20Sanga%0AVS%0AV-varen%20Nagasaki%0AJ1%20League&font=Oswald" group-title="Football", Kyoto Sanga VS V-varen Nagasaki | J1 League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=0efde26dcd0b636df030ba0f7ffbc740&x-time=1779535860
+#last update time: 6:31:28 PM 23-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779622313-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-e22346835f1a8cace6e9d441388ef9ba
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779625892-Kv4cPTAAP5YTi-dad48e1349ca4e4908cbe6bff84e0f7fc41197c0-16f13741666e5dd95561fabfea7f4f67
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=5ed6263da166d719e4a90e142a0586c6&x-time=1779535860
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=dad48e1349ca4e4908cbe6bff84e0f7fc41197c0&x-sign=dce7fb9854ae27e4b239ed6ec56860be&x-time=1779539460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Charlton%20Athletic%20W%0AVS%0ALeicester%20City%20FC%20W%0AFA%20WSL&font=Oswald" group-title="Football", Charlton Athletic W VS Leicester City FC W | FA WSL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779622319-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-db6c84c3befc0debc981464ba023d836
+https://livecdn-tc-iptv.rumsport10.live/live_abr/136433_abrhd.m3u8?is_vip=false&token=1779625899-Kv4cPTAAP5YTi-dad48e1349ca4e4908cbe6bff84e0f7fc41197c0-7dcd5cf1b7117a35d860e4573c233f21
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Charlton%20Athletic%20W%0AVS%0ALeicester%20City%20FC%20W%0AFA%20WSL&font=Oswald" group-title="Football", Charlton Athletic W VS Leicester City FC W | FA WSL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=0cddce19d0f310dfa7359b5ffe01ba7f&x-time=1779535920
+https://livecdn-bp-iptv.rumsport7.live/live_abr/136433_abrhd.m3u8?is_vip=false&token=dad48e1349ca4e4908cbe6bff84e0f7fc41197c0&x-sign=df13c5aff8fa22eb039d75c85e78b26c&x-time=1779539460
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20Panathinaikos%20Athens%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Real Madrid VS U18 Panathinaikos Athens | Next Gen Euroleague [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779622325-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-3eb6030bbd378b64820a53dafc500077
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779625906-Kv4cPTAAP5YTi-dad48e1349ca4e4908cbe6bff84e0f7fc41197c0-7304c77b788b482b2791b88c6494b50d
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20Panathinaikos%20Athens%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Real Madrid VS U18 Panathinaikos Athens | Next Gen Euroleague [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=f54952e06f480f9aa1d66f280b4f8a20&x-time=1779535920
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=dad48e1349ca4e4908cbe6bff84e0f7fc41197c0&x-sign=5378e0506e5030d56966367ab08ca42f&x-time=1779539460
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Crvena%20Zvezda%20Belgrade%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Crvena Zvezda Belgrade VS U18 Zalgiris Kaunas | Next Gen Euroleague [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Final%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Final | Strasbourg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779622331-Kv4cPTAAP5YTi-a31ad7d877fae1dff083b34b1f30397cf37d34db-2a4afeeef5aee728211275d0bc271ffa
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779625912-Kv4cPTAAP5YTi-dad48e1349ca4e4908cbe6bff84e0f7fc41197c0-7b37a3bee4fed6be77b6b1231af9cc57
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Crvena%20Zvezda%20Belgrade%0AVS%0AU18%20Zalgiris%20Kaunas%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Crvena Zvezda Belgrade VS U18 Zalgiris Kaunas | Next Gen Euroleague [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Final%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Final | Strasbourg Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=a31ad7d877fae1dff083b34b1f30397cf37d34db&x-sign=f54952e06f480f9aa1d66f280b4f8a20&x-time=1779535920
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=dad48e1349ca4e4908cbe6bff84e0f7fc41197c0&x-sign=1a4811b2a942796d11677783f4edc17d&x-time=1779539460
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%206)%0AWTA%20250&font=Oswald" group-title="Tennis", Rabat (Day 6) | WTA 250 [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779625919-Kv4cPTAAP5YTi-dad48e1349ca4e4908cbe6bff84e0f7fc41197c0-b87e4885138641071d3bd10bd97e74dd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rabat%20(Day%206)%0AWTA%20250&font=Oswald" group-title="Tennis", Rabat (Day 6) | WTA 250 [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=dad48e1349ca4e4908cbe6bff84e0f7fc41197c0&x-sign=e31f75510202ce75725701a1ea9340d9&x-time=1779539520
 
