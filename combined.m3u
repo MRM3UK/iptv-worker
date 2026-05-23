@@ -176,77 +176,65 @@ http://172.16.29.3:8090/hls/AndPictureHD.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:23 PM 23-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=2A5GhxxKK1FyLjxv8Ofnjw&expires=1779549624
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (WILLOWUSA)
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=xZu1yf3qukmUzFLoJVvndQ&expires=1779549624
+#last update time: 09:30:22 PM 23-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STAR1IN)
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=YtCA65od5OFMuNUE0SQ02A&expires=1779549624
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=jw1s8t6hrRx1vuh0grxG3w&expires=1779555023
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STARHINDI)
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=F-jUOL7948tIdZu4eZLiJw&expires=1779555023
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (WILLOWUSA)
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=teFth6gEsvS_UYpo8OwGNA&expires=1779555023
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 8:01:31 PM 23-05-2026
+#last update time: 9:01:27 PM 23-05-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779631294-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-8eec27fd1e59d7390ced557cc5e3f403
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779634890-Kv4cPTAAP5YTi-94d3719cbd6a527e5e4e62fcda2f2999da66573a-50e8e790349f4c8aeddfb0eb6184eb8f
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=a2f071d14930969651534d578014063f&x-time=1779544860
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=94d3719cbd6a527e5e4e62fcda2f2999da66573a&x-sign=1df75c2880bd7255cffd88277d1c29ed&x-time=1779548460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 3]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779631296-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-0f60c498598f8c0533d285baf583aa8e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779634891-Kv4cPTAAP5YTi-94d3719cbd6a527e5e4e62fcda2f2999da66573a-a91ea79436c1b423a10f29fe393bb2f2
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=c022c100121c92efb6e2c15772a5edf2&x-time=1779544860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Charlton%20Athletic%20W%0AVS%0ALeicester%20City%20FC%20W%0AFA%20WSL&font=Oswald" group-title="Football", Charlton Athletic W VS Leicester City FC W | FA WSL [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779631303-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-8e006a0b823a7a00a6adbb89cf369669
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Charlton%20Athletic%20W%0AVS%0ALeicester%20City%20FC%20W%0AFA%20WSL&font=Oswald" group-title="Football", Charlton Athletic W VS Leicester City FC W | FA WSL [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=a2cb154c52c2683180e5f92bf71e9821&x-time=1779544860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Final%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Final | Strasbourg Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779631309-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-f9cb4c1a34c38fdd42995c94b6588ba4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Final%0AStrasbourg%20Open&font=Oswald" group-title="Tennis", Final | Strasbourg Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=9d82095950cb0218a88b08a6949300d2&x-time=1779544860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%20RACING%20SERIES%2C%20ROUND%202%20CANADA%2C%202026%0AF1%20Academy%20Race&font=Oswald" group-title="Auto Racing", F1 ACADEMY RACING SERIES, ROUND 2 CANADA, 2026 | F1 Academy Race [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779631316-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-3d19fa293120b89ab6cdfad2d351e0b6
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%20RACING%20SERIES%2C%20ROUND%202%20CANADA%2C%202026%0AF1%20Academy%20Race&font=Oswald" group-title="Auto Racing", F1 ACADEMY RACING SERIES, ROUND 2 CANADA, 2026 | F1 Academy Race [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=8596906fc07f52f5e36e9e97eeb65949&x-time=1779544860
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=94d3719cbd6a527e5e4e62fcda2f2999da66573a&x-sign=ef09fd22dbaf366b07c541cecae1b83a&x-time=1779548460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Next%20Gen%20Team%203SSB%0AVS%0AU18%20FC%20Barcelona%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Next Gen Team 3SSB VS U18 FC Barcelona | Next Gen Euroleague [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779631323-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-251ad86a3781837b628a25ef7976a002
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779634898-Kv4cPTAAP5YTi-94d3719cbd6a527e5e4e62fcda2f2999da66573a-9fe60891b469b796edda29fe65875aa6
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Next%20Gen%20Team%203SSB%0AVS%0AU18%20FC%20Barcelona%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Basketball", U18 Next Gen Team 3SSB VS U18 FC Barcelona | Next Gen Euroleague [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=eb8b0cda23663c950d07dd953fa41044&x-time=1779544920
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=94d3719cbd6a527e5e4e62fcda2f2999da66573a&x-sign=10b82dace9bc2d80da1703b4b5809f47&x-time=1779548460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Celtic%0AVS%0ADunfermline%0AFA%20Cup&font=Oswald" group-title="Football", Celtic VS Dunfermline | FA Cup [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779631329-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-fbac44edf03e879a442c8ef8878ad0f6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779634904-Kv4cPTAAP5YTi-94d3719cbd6a527e5e4e62fcda2f2999da66573a-e537a6703b1c4470fc437e8bd4cf1254
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Celtic%0AVS%0ADunfermline%0AFA%20Cup&font=Oswald" group-title="Football", Celtic VS Dunfermline | FA Cup [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=7e9b37b285029cda429711511303ccc0&x-time=1779544920
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Montreal%2C%20Canada%0AFIA%20Formula%202%20Championship&font=Oswald" group-title="Auto Racing", Montreal, Canada | FIA Formula 2 Championship [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779631335-Kv4cPTAAP5YTi-a092efbf71b513e7c82a2d0fed59618ecfedc7c8-75a653c7e58bb4e39b3bf1e9604e644c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Montreal%2C%20Canada%0AFIA%20Formula%202%20Championship&font=Oswald" group-title="Auto Racing", Montreal, Canada | FIA Formula 2 Championship [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=a092efbf71b513e7c82a2d0fed59618ecfedc7c8&x-sign=29f98d3c94851136ddb945a21326f512&x-time=1779544920
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=94d3719cbd6a527e5e4e62fcda2f2999da66573a&x-sign=ca79860e813f572b6829d5801792aba2&x-time=1779548460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hull%20City%0AVS%0AMiddlesbrough%0AChampionship&font=Oswald" group-title="Football", Hull City VS Middlesbrough | Championship [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1779634909-Kv4cPTAAP5YTi-94d3719cbd6a527e5e4e62fcda2f2999da66573a-cd3f2a782720998403633eaffdf32536
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hull%20City%0AVS%0AMiddlesbrough%0AChampionship&font=Oswald" group-title="Football", Hull City VS Middlesbrough | Championship [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=94d3719cbd6a527e5e4e62fcda2f2999da66573a&x-sign=0a3579d2e7c6e6838abd2f2c26da70fe&x-time=1779548460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Sprint%20Race&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 | Formula 1 Sprint Race [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779634915-Kv4cPTAAP5YTi-94d3719cbd6a527e5e4e62fcda2f2999da66573a-dd0f230f0bbdf37582fe680153bec0e3
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Sprint%20Race&font=Oswald" group-title="Auto Racing", CANADIAN GRAND PRIX 2026 | Formula 1 Sprint Race [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=94d3719cbd6a527e5e4e62fcda2f2999da66573a&x-sign=b4ad95d88ba7128745f316a7e53bbe77&x-time=1779548460
 # Playlist Name: Tapmad bd
-# Last Update: 08:10 PM 23-05-2026
+# Last Update: 09:30 PM 23-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13784" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795344691020x576.jpg" group-title="Football", Finals Day Live | Amateur Cup Finals Day 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779546306~acl=/hls/*~hmac=8a0d7bf629329a2f59eafe130694bfa8d42151f9698d1f88e73ea35d329b9f33
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:15:13 PM 23-05-2026
+# last_update: 09:30:18 PM 23-05-2026
 #EXTINF:-1 tvg-id="sonyliv-1090530596" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197445808297_EngW_vs_NZW_2t20i_19may_landscape_thumb.jpg" group-title="Cricket", New Zealand Women's Tour of England 2026 | 2nd T20I - 23 May 2026
 https://dai.google.com/ssai/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090530595" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749374548611_IFL_RD13_Diamond_Harbour_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg" group-title="Football", Star Cement Indian Football League 2025-26 | Diamond Harbour FC vs Shillong Lajong FC - 23 May 2026
 https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8
-#last update time: 08:15:15 PM 23-05-2026
+#last update time: 09:30:23 PM 23-05-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779508475492/142448_CASACARDS_APP.png" group-title="Cricket", Guernsey Vs Jersey | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142448_english_hls_c7e5f4c02076266_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1779508475476/142447_CASACARDS_APP.png" group-title="Cricket", Croatia Vs Austria | ICC Men's T20 WC Europe Sub Regional Qualifier A (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142447_english_hls_781615b85212232_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Kenya Vs Mali | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142909_english_hls_62f22403b154702_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Botswana Vs Sierra Leone | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142908_english_hls_f69d60096714840_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WSL_Web.jpg" group-title="Football", Charlton Athletic F.c Vs Leicester City Women | WSL Promotion Play-off 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142948_english_hls_ada864472f64452_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HUL_SOU_fc-web.jpg" group-title="Football", Hull City Vs Middlesbrough F.c. | EFL Championship 2025-26 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142703_english_hls_80e9a34c7878779_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg" group-title="Football", Celtic Vs Dunfermline | Scottish Cup 2025-26 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142515_english_hls_a0a8f8d18a15189_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Gonet-Geneva-Open,-ATP-250-old-.jpg" group-title="Tennis", Center Court | ATP 250 - Gonet Geneva Open 2026 (ENGLISH)
@@ -255,7 +243,11 @@ https://bd-mc-fblive.fancode.com/mumbai/142274_english_hls_d18e558faa42457_1ta-d
 https://bd-mc-fblive.fancode.com/mumbai/142971_english_hls_10ec2fc99979369_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1779171712400.png" group-title="Motorsports", Adac Gt Race 1   Zandvoort | DTM 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142532_english_hls_0f2ce488bb16480_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg" group-title="Motorsports", Day 2   Opening Race | F1 ACADEMY CANADA 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40585f4124d7446ea0bd52b467b7a699:665890cc8af3cac3492061152d1d6c7f
-https://bd-mc-flive.fancode.com/mumbai/139686_english_dash_59987_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Marquee Group | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142126_english_hls_1e8622009643810_1ta-di_h264/index.m3u8
