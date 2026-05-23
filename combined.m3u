@@ -176,126 +176,35 @@ http://172.16.29.3:8090/hls/AndPictureHD.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:19 AM 24-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=pXjeR5NiKqOEoTzlgAqf-g&expires=1779573020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STAR1IN)
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=F7Bol2Kg0cBLr1NmWBcEYA&expires=1779573020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (WILLOWUSA)
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6jD-R206JeYBwfVHbNpinw&expires=1779573020
+#last update time: 03:30:22 AM 24-05-2026
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
+# --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:31:28 AM 24-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Madrid%0AVS%0AAthletic%20Club%0ALa%20Liga&font=Oswald" group-title="La Liga", Real Madrid VS Athletic Club | La Liga [Server 1]
+#last update time: 3:46:26 AM 24-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Qualifying&font=Oswald" group-title="Formula 1 Qualifying", CANADIAN GRAND PRIX 2026 | Formula 1 Qualifying [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=78813a52f002591db7404cc7d252bdfa&x-time=1779568260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Madrid%0AVS%0AAthletic%20Club%0ALa%20Liga&font=Oswald" group-title="La Liga", Real Madrid VS Athletic Club | La Liga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779654692-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-1a050132dcb4ef702b468354ddfc3455
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Valencia%0AVS%0ABarcelona%0ALa%20Liga&font=Oswald" group-title="La Liga", Valencia VS Barcelona | La Liga [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=eb41eb8da38a5cd7ce1030311a516bb8&x-time=1779568260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Valencia%0AVS%0ABarcelona%0ALa%20Liga&font=Oswald" group-title="La Liga", Valencia VS Barcelona | La Liga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779654698-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-8af6ebd332b8d9e87fdc0ff02309a8fd
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=International%20Darts%20Open%0AInternational%20Darts%20Open&font=Oswald" group-title="Darts", International Darts Open | International Darts Open [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=cbed6261a9104721865a7ddce820e249&x-time=1779568260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lazio%0AVS%0APisa%0ASerie%20A&font=Oswald" group-title="Football", Lazio VS Pisa | Serie A [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=cce046bb2b22bac50cc1f37bc0deb936&x-time=1779568260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lazio%0AVS%0APisa%0ASerie%20A&font=Oswald" group-title="Football", Lazio VS Pisa | Serie A [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779654709-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-268f68cba8eafb6c7db137fc14dac2dc
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=OH%20Leuven%0AVS%0AGenk%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", OH Leuven VS Genk | Jupiler Pro League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779654714-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-84a420cb61856d8a4bf8a1610e839a6d
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=OH%20Leuven%0AVS%0AGenk%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", OH Leuven VS Genk | Jupiler Pro League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=bea2be2ae84da7eac8ae5b62ccf97776&x-time=1779568260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Alaves%0AVS%0ARayo%20Vallecano%0ALa%20Liga&font=Oswald" group-title="Football", Alaves VS Rayo Vallecano | La Liga [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779654720-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-e77bed649798a6dd00dd9c7b5595c373
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Alaves%0AVS%0ARayo%20Vallecano%0ALa%20Liga&font=Oswald" group-title="Football", Alaves VS Rayo Vallecano | La Liga [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=b928583d2ba3e5b8adcf0d4902bf9438&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Betis%0AVS%0ALevante%0ALa%20Liga&font=Oswald" group-title="Football", Real Betis VS Levante | La Liga [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=80dc498d2c1c2933e0e26c40365e6366&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Celta%20Vigo%0AVS%0ASevilla%0ALa%20Liga&font=Oswald" group-title="Football", Celta Vigo VS Sevilla | La Liga [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779654731-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-38df07f387812378af0fcfac6f1c3da0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Celta%20Vigo%0AVS%0ASevilla%0ALa%20Liga&font=Oswald" group-title="Football", Celta Vigo VS Sevilla | La Liga [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=12f8a90650f725c6c392714e328b2c4d&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Espanyol%0AVS%0AReal%20Sociedad%0ALa%20Liga&font=Oswald" group-title="Football", Espanyol VS Real Sociedad | La Liga [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779654737-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-77be0727539457d55dff92337a50b90e
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Espanyol%0AVS%0AReal%20Sociedad%0ALa%20Liga&font=Oswald" group-title="Football", Espanyol VS Real Sociedad | La Liga [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=7aad29e35bd55ecc6d77e771563815bf&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Getafe%0AVS%0AOsasuna%0ALa%20Liga&font=Oswald" group-title="Football", Getafe VS Osasuna | La Liga [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=10fc601794e868d78040907df212c446&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Getafe%0AVS%0AOsasuna%0ALa%20Liga&font=Oswald" group-title="Football", Getafe VS Osasuna | La Liga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779654744-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-dcfa15d61bbe6973ed7a4010274d1ccc
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Girona%0AVS%0AElche%0ALa%20Liga&font=Oswald" group-title="Football", Girona VS Elche | La Liga [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779654749-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-e745addd5147a6e9fef4535ecc1a2a30
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Girona%0AVS%0AElche%0ALa%20Liga&font=Oswald" group-title="Football", Girona VS Elche | La Liga [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=86e6c6e3e9153b214e3c9ca2d46763d1&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mallorca%0AVS%0AOviedo%0ALa%20Liga&font=Oswald" group-title="Football", Mallorca VS Oviedo | La Liga [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779654756-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-cac6a151b8d09b86dda17d1fdd32c349
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mallorca%0AVS%0AOviedo%0ALa%20Liga&font=Oswald" group-title="Football", Mallorca VS Oviedo | La Liga [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=80683792ba96cff29d00e6725f520244&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Qualifying&font=Oswald" group-title="Formula 1 Qualifying", CANADIAN GRAND PRIX 2026 | Formula 1 Qualifying [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=75b4346297ffef4f37da8153a8f97f93&x-time=1779568320
+https://livecdn-bp-iptv.rumsport7.live/live_abr/263_abrhd.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=3a54f78d64040c1506fd3fd28f58421b&x-time=1779572760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Qualifying&font=Oswald" group-title="Formula 1 Qualifying", CANADIAN GRAND PRIX 2026 | Formula 1 Qualifying [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=d1c22d87ab52cb2ff2a98d2dd409d2c3&x-time=1779572760
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Farense%0AVS%0ACF%20Os%20Belenenses%0ASegunda%20Liga&font=Oswald" group-title="Football", Farense VS CF Os Belenenses | Segunda Liga [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779654767-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-608d83566aace0f542e62afd5c454576
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779659195-Kv4cPTAAP5YTi-92827eff723e8b4d6cd97bdd36dfe5178bee338c-efbf0bde2aadabde9cdc193a99bdb394
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Farense%0AVS%0ACF%20Os%20Belenenses%0ASegunda%20Liga&font=Oswald" group-title="Football", Farense VS CF Os Belenenses | Segunda Liga [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=450e7c42c6da53591db0c08416ff4724&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald" group-title="DFB Pokal", Bayern München VS VfB Stuttgart | DFB Pokal [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=15b143ea0aaaf57b3df334f9c925dd34afb35ae9&x-sign=3adf7724b28f10986e7c2d19baeb9047&x-time=1779568320
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bayern%20M%C3%BCnchen%0AVS%0AVfB%20Stuttgart%0ADFB%20Pokal&font=Oswald" group-title="DFB Pokal", Bayern München VS VfB Stuttgart | DFB Pokal [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779654774-Kv4cPTAAP5YTi-15b143ea0aaaf57b3df334f9c925dd34afb35ae9-3c5fc94503cb2d8b14370e1921d733a9
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=92827eff723e8b4d6cd97bdd36dfe5178bee338c&x-sign=0886c2e5835b21cc0b9c425217c825d7&x-time=1779572760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%20Race%201%0AF1%20Academy%20Race&font=Oswald" group-title="Auto Racing", F1 ACADEMY, ROUND 2 CANADA, 2026 Race 1 | F1 Academy Race [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%20Race%201%0AF1%20Academy%20Race&font=Oswald" group-title="Auto Racing", F1 ACADEMY, ROUND 2 CANADA, 2026 Race 1 | F1 Academy Race [Server 2]
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 AM 24-05-2026
+# Last Update: 03:50 AM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13406" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792624521020x576.jpg" group-title="Mma", Habirora vs Henderson | PFL 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13443" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794466881020x576.jpg" group-title="Cricket", Glamorgan vs Gloucestershire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779569706~acl=/hls/*~hmac=5e353ff486b54ffe8646dc98ff3e653fddf1e4ab429e15527aa64a8dd5a0047e
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:14 AM 24-05-2026
-#EXTINF:-1 tvg-id="sonyliv-1090531100" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018189/1779371780326448_VitalityBlast26_Mens_Glamorgan_vs_Gloucestershire_21may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Glamorgan vs Gloucestershire - 23 May 2026
-https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
-#last update time: 02:45:15 AM 24-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1778484660700.png" group-title="Football", Fc Bayern München Vs Vfb Stuttgart | DFB Pokal 2025-26 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142281_english_hls_a750a7631d16301_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131209_5427_GIR_ELC_FC-Web.png" group-title="Football", Girona Fc Vs Elche Cf | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ec6cf8ad8bc4e72821ffeeb8f91eaff:0470c7bf1d32cc28ec7e4706e11a9683
-https://bd-mc-flive.fancode.com/mumbai/131209_english_dash_99313_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131208_5427_VAL_BAR_FC-Web.png" group-title="Football", Valencia Cf Vs Fc Barcelona | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=c131ae1498a64774b6e95487722c7132:9a17350805a2750c6695fd75410c8b63
-https://bd-mc-flive.fancode.com/mumbai/131208_english_dash_20562_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131206_5427_RM_ATH_FC-Web.png" group-title="Football", Real Madrid Vs Athletic Club | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=de6666a7ef1545deb55ff0fe12689dc5:ef3ff332bf817281daf1e0edbcdf39e7
-https://bd-mc-flive.fancode.com/mumbai/131206_english_dash_71906_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131205_5427_MRC_RO_FC-Web.png" group-title="Football", Rcd Mallorca Vs Real Oviedo | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=ba4e5484900541fb86d54ba487aed209:eacf3e5443d9c8bf98d61d9308ea3740
-https://bd-mc-flive.fancode.com/mumbai/131205_english_dash_88367_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png" group-title="Football", Getafe Cf Vs Ca Osasuna | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=1696e156ea8b47d291aeb8e371a90be3:32470beb6ab876fc827b18f9a89343bd
-https://bd-mc-flive.fancode.com/mumbai/131204_english_dash_10838_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131203_5427_ESL_RS_FC-Web.png" group-title="Football", Rcd Espanyol Vs Real Sociedad | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=76b7bd5496fb4daa83c78fe8814adb95:a38656055dc5da772b938ba7850f5a79
-https://bd-mc-flive.fancode.com/mumbai/131203_english_dash_48846_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png" group-title="Football", Rc Celta Vs Sevilla Fc | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=9f96dcd232844ebead1d5df2d9fe2bd0:40cfc1a0a345dd4a2616ca9aad0e7557
-https://bd-mc-flive.fancode.com/mumbai/131202_english_dash_74684_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131201_5427_RB_LE_FC-Web.png" group-title="Football", Real Betis Vs Levante | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=b56cbb58069347d79bb858e32954ba67:529a4f71bfe0fc5fc405cefacf43eaf2
-https://bd-mc-flive.fancode.com/mumbai/131201_english_dash_28372_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131200_5427_ALA_RVL_FC-Web.png" group-title="Football", Deportivo Alaves Vs Rayo Vallecano | LALIGA 2025-26 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=89914be43bd6443f856a9923fc57796c:d0a1b22270703a3c90c413eb702a7371
-https://bd-mc-flive.fancode.com/mumbai/131200_english_dash_91481_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142125_english_hls_a923a0325173253_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142128_english_hls_eb08929a9e8055_1ta-di_h264/index.m3u8
+# last_update: 03:45:15 AM 24-05-2026
+#last update time: 03:45:19 AM 24-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   Featured Groups | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142127_english_hls_5c893790f422990_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 3   World Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779185934255.jpg" group-title="Formula 1", Qualifying | F1 LENOVO GRAND PRIX DU CANADA 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=5f604a1095c04c03a8b8bd74e700e24c:3f51d9eac47fec41dea2b38932277dd7
-https://bd-mc-flive.fancode.com/mumbai/139445_english_dash_90667_1drmta-di_h264/index.mpd
