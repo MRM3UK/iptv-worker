@@ -3,90 +3,40 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:46:28 AM 25-05-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AC%20Milan%0AVS%0ACagliari%0ASerie%20A&font=Oswald" group-title="Football", AC Milan VS Cagliari | Serie A [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779741991-Kv4cPTAAP5YTi-14b0aae67f8b91c049e3e9629a677c641eae215a-99db9ec961648977c7219f8970cd1129
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AC%20Milan%0AVS%0ACagliari%0ASerie%20A&font=Oswald" group-title="Football", AC Milan VS Cagliari | Serie A [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=e888086ae8347d96b3440c489b40bd1f&x-time=1779655560
+#last update time: 3:46:30 AM 25-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Torino%0AVS%0AJuventus%0ASerie%20A&font=Oswald" group-title="Football", Torino VS Juventus | Serie A [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=283ab94864c3d40102032f550859a86f&x-time=1779655560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Villarreal%0AVS%0AAtletico%20Madrid%0ALa%20Liga&font=Oswald" group-title="Football", Villarreal VS Atletico Madrid | La Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=48d1d6a8e82beb41d2c00c90ad35c786&x-time=1779655560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Villarreal%0AVS%0AAtletico%20Madrid%0ALa%20Liga&font=Oswald" group-title="Football", Villarreal VS Atletico Madrid | La Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=94dcd2dad7a5107cc565af78818d99f8&x-time=1779655560
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ddb06d6b81b2c3f77fe79540814a87da3b9cbaef&x-sign=e893efe0888a73f2d35221cf4336abcf&x-time=1779659160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779742009-Kv4cPTAAP5YTi-14b0aae67f8b91c049e3e9629a677c641eae215a-e60cae18c2a0fe6b06bcc6bfe43d7b2f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779745598-Kv4cPTAAP5YTi-ddb06d6b81b2c3f77fe79540814a87da3b9cbaef-78addae42af3b00d3e7ad3dd4ff6c41e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=08d71ba1954567b3d21ba0d49b3243c6&x-time=1779655560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cremonese%0AVS%0AComo%0ASerie%20A&font=Oswald" group-title="Football", Cremonese VS Como | Serie A [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779742016-Kv4cPTAAP5YTi-14b0aae67f8b91c049e3e9629a677c641eae215a-624a3d72e021bd3b96f5ccc9c4b412ca
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cremonese%0AVS%0AComo%0ASerie%20A&font=Oswald" group-title="Football", Cremonese VS Como | Serie A [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=aad020d103c4f6db74890957c51a78cd&x-time=1779655560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lecce%0AVS%0AGenoa%0ASerie%20A&font=Oswald" group-title="Football", Lecce VS Genoa | Serie A [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779742024-Kv4cPTAAP5YTi-14b0aae67f8b91c049e3e9629a677c641eae215a-38f33f21532809af494fb2b4aada127c
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Lecce%0AVS%0AGenoa%0ASerie%20A&font=Oswald" group-title="Football", Lecce VS Genoa | Serie A [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=47d87e6a8843fbe188e13e17d7983cb4&x-time=1779655620
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hellas%20Verona%0AVS%0AAS%20Roma%0ASerie%20A&font=Oswald" group-title="Football", Hellas Verona VS AS Roma | Serie A [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=c44d7d0af6707e035713a185384457b3&x-time=1779655620
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FAR%20Rabat%0AVS%0AMamelodi%20Sundowns%0ACAF%20Champions%20League&font=Oswald" group-title="Football", FAR Rabat VS Mamelodi Sundowns | CAF Champions League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68907_abrhd.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=9cc14c64c1db596956efc8e28f2c5bba&x-time=1779655620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=ddb06d6b81b2c3f77fe79540814a87da3b9cbaef&x-sign=39c3dc7d890158e53deb4f4015171087&x-time=1779659160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Main%20Race&font=Oswald" group-title="Formula 1 Main Race", CANADIAN GRAND PRIX 2026 | Formula 1 Main Race [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=44b52ca23ffb6fdb40ae7a86a525d33f&x-time=1779655620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=ddb06d6b81b2c3f77fe79540814a87da3b9cbaef&x-sign=2b578707388c9ab4f60c643a28fcaa50&x-time=1779659160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CANADIAN%20GRAND%20PRIX%202026%0AFormula%201%20Main%20Race&font=Oswald" group-title="Formula 1 Main Race", CANADIAN GRAND PRIX 2026 | Formula 1 Main Race [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/263_abrhd.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=cedd3a015b6e534fc4ade9256e3c0d8a&x-time=1779655620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/263_abrhd.m3u8?is_vip=false&token=ddb06d6b81b2c3f77fe79540814a87da3b9cbaef&x-sign=6d0ee35bd0a90b86eea472cc6b979e29&x-time=1779659160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cavalry%20FC%0AVS%0APacific%20FC%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Cavalry FC VS Pacific FC | Canadian Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779742046-Kv4cPTAAP5YTi-14b0aae67f8b91c049e3e9629a677c641eae215a-18ef3aca11308c023dca39b1d93d3af1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779745613-Kv4cPTAAP5YTi-ddb06d6b81b2c3f77fe79540814a87da3b9cbaef-4d796f037e2d46083b1883449524062a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cavalry%20FC%0AVS%0APacific%20FC%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Cavalry FC VS Pacific FC | Canadian Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=14b0aae67f8b91c049e3e9629a677c641eae215a&x-sign=c17b1ff02c25bd06aa4034fe4e91f37d&x-time=1779655620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=ddb06d6b81b2c3f77fe79540814a87da3b9cbaef&x-sign=5e8e22e20aec13332baf5d61643f94a1&x-time=1779659160
 
