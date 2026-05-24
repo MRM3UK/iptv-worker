@@ -205,112 +205,99 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:28 PM 24-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=RZ_s0a6H89j3SuT8k0ht7g&expires=1779643229
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STAR1IN)
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=Hqz7EOdQ_F-01yD2erKqVw&expires=1779643229
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (WILLOWUSA)
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=DTSVuasOifqGP2wwsRtw7g&expires=1779643229
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-vjCg8XW9jrqO1WYhnPFng&expires=1779643230
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STARHINDI)
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=JkNaFVk0EUvV0zn0A6HOCw&expires=1779643230
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STAR1IN)
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=VGWEqd0zeEdN3eIHLMdSDQ&expires=1779643230
+#last update time: 11:00:22 PM 24-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (WILLOWUSA)
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=h1JMIyBbXKpofUG298C0WA&expires=1779643230
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=_MZ3G8JWhb99hvLfTZd1AA&expires=1779646823
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (SKYSCRIC)
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=WOOFbwAY3ETs3oN2tg8h8A&expires=1779646823
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STARHINDI)
+https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=6I77-HJCSMCwWtLAUV0DxA&expires=1779646823
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STAR1IN)
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=l9qqPUJERASp1FXHt5J82Q&expires=1779646823
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 10:01:26 PM 24-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald" group-title="Football", Brighton VS Manchester United | Premier League [Server 1]
+#last update time: 11:01:26 PM 24-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Burnley%0AVS%0AWolves%0APremier%20League&font=Oswald" group-title="Football", Burnley VS Wolves | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144257_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=1051e293762c410a4525e35a43d47886&x-time=1779638460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald" group-title="Football", Brighton VS Manchester United | Premier League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=302b678d54cc62a81722ae850a04e3e4&x-time=1779638460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald" group-title="Football", Brighton VS Manchester United | Premier League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779724894-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-fa589fc40c8f9b391a81d29f4db09e4a
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Burnley%0AVS%0AWolves%0APremier%20League&font=Oswald" group-title="Football", Burnley VS Wolves | Premier League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779724899-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-08da1e70e34101cfa07837a607a37ab5
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779728489-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-45ca25b0e36faa7abef848dbe517c67c
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Burnley%0AVS%0AWolves%0APremier%20League&font=Oswald" group-title="Football", Burnley VS Wolves | Premier League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=2c1233639442296b1caee46bf0352902&x-time=1779638460
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=ebf91bbe77478f6f29cb551692a459d9&x-time=1779642060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Burnley%0AVS%0AWolves%0APremier%20League&font=Oswald" group-title="Football", Burnley VS Wolves | Premier League [Server 3]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52433_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=9d8c85bff838d92ddc4b8463ec3ec7f1&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0AArsenal%0APremier%20League&font=Oswald" group-title="Football", Crystal Palace VS Arsenal | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=1cae8dda936f36dd330bb34b80237af2&x-time=1779638460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144254_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=e92b343ded2bd80eeda7320014a09fd4&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0AArsenal%0APremier%20League&font=Oswald" group-title="Football", Crystal Palace VS Arsenal | Premier League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=e31d6d25781e40283414af9fe6066248&x-time=1779638460
+https://livecdn-bp-livestream.rumsport7.live/stream/15/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=bb7babbad6f589b1edbac22dc844de93&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0AArsenal%0APremier%20League&font=Oswald" group-title="Football", Crystal Palace VS Arsenal | Premier League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779724908-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-9f848d4d53af4fbea561e6ee7914a1fe
+https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779728499-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-c31c400949e3348bd40eacb5986ad216
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fulham%0AVS%0ANewcastle%0APremier%20League&font=Oswald" group-title="Football", Fulham VS Newcastle | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52434_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=ed9a9b73ac9b6d38c922c43023f90928&x-time=1779638460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fulham%0AVS%0ANewcastle%0APremier%20League&font=Oswald" group-title="Football", Fulham VS Newcastle | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779724914-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-137d2bb4c4ff384adf011d9e5facb42c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fulham%0AVS%0ANewcastle%0APremier%20League&font=Oswald" group-title="Football", Fulham VS Newcastle | Premier League [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=723907eb48d2d69b01068b27d12eb349&x-time=1779638460
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52434_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=e46a9e25c31dd506076069ccce8354de&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liverpool%0AVS%0ABrentford%0APremier%20League&font=Oswald" group-title="Football", Liverpool VS Brentford | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144258_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=d706d71730ba8d27d7cdd6305b89ac2e&x-time=1779638520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144258_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=3d230e5ee7c501acfc964797fc399f12&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liverpool%0AVS%0ABrentford%0APremier%20League&font=Oswald" group-title="Football", Liverpool VS Brentford | Premier League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=14c708cc07cc7c2016c345f904fa2180&x-time=1779638520
+https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=e16461246497a26a06de58a141a2c559&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liverpool%0AVS%0ABrentford%0APremier%20League&font=Oswald" group-title="Football", Liverpool VS Brentford | Premier League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779724922-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-d5e3763dfcc9c23695bc246a22f08b7c
+https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779728510-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-1078827a541f025f3896c32b2cc01a27
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Manchester%20City%0AVS%0AAston%20Villa%0APremier%20League&font=Oswald" group-title="Premier League", Manchester City VS Aston Villa | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144256_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=abf294bd5c34d772a14238f5782d56c4&x-time=1779638520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144256_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=75a8869baa3225a1034fa98caa071d99&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Manchester%20City%0AVS%0AAston%20Villa%0APremier%20League&font=Oswald" group-title="Premier League", Manchester City VS Aston Villa | Premier League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=9ef752c05e54c623572031eb91e22d95&x-time=1779638520
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=9505cea2ba34afc9c8fdde0bf09c1168&x-time=1779642060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Manchester%20City%0AVS%0AAston%20Villa%0APremier%20League&font=Oswald" group-title="Premier League", Manchester City VS Aston Villa | Premier League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779724929-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-86dc241272e0eeec1a5da1cfb9169c72
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779728519-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-b3573a2b8572aa86011951ffed6749c6
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald" group-title="Football", Nottingham Forest VS Bournemouth | Premier League [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=df22cf6f4b9f17d24d450e63b1d2f9c1&x-time=1779638520
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=b8c0abd35be9826c237dbdb88e0a7eb5&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald" group-title="Football", Nottingham Forest VS Bournemouth | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779724935-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-1e5b0f84128e6b4e8977f6df33fa9be5
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779728526-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-1b32e273a6b6e74d77eab0180a36d936
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nottingham%20Forest%0AVS%0ABournemouth%0APremier%20League&font=Oswald" group-title="Football", Nottingham Forest VS Bournemouth | Premier League [Server 3]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52437_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=b9da08e90bf90af6fd4b4f59ba4cfb3c&x-time=1779638520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52437_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=9b306a45b59355b56435d84f6ce7f0a5&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sunderland%0AVS%0AChelsea%0APremier%20League&font=Oswald" group-title="Football", Sunderland VS Chelsea | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/52429_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=63c5e36566fa774b519e5e9a89dc9526&x-time=1779638520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/52429_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=c20e8946ba867583145c97b6b5d9c9a7&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sunderland%0AVS%0AChelsea%0APremier%20League&font=Oswald" group-title="Football", Sunderland VS Chelsea | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779724944-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-2044c9a454cf4f741b2f8b268d3eb5f9
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779728534-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-2b025fd04a641ce6ab26914e4e1aa1c2
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sunderland%0AVS%0AChelsea%0APremier%20League&font=Oswald" group-title="Football", Sunderland VS Chelsea | Premier League [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=0440b71bb9af60ab5679dfc5118b14d3&x-time=1779638520
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=0ac530d3a6c06941568e659cafaab173&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sunderland%0AVS%0AChelsea%0APremier%20League&font=Oswald" group-title="Football", Sunderland VS Chelsea | Premier League [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144259_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=106c92a40018a5119fb5faab6a5105b7&x-time=1779638520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144259_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=984f68d2f5b1ee909e7c9ad197160d58&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tottenham%0AVS%0AEverton%0APremier%20League&font=Oswald" group-title="Football", Tottenham VS Everton | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144261_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=c621f95f76f333826a1fac538c494bfb&x-time=1779638520
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779728542-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-bf8c8a0a05a90aa7132518fdf95d7ef1
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tottenham%0AVS%0AEverton%0APremier%20League&font=Oswald" group-title="Football", Tottenham VS Everton | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779724954-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-b2b701997af7fdb45a7286f023139bc9
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tottenham%0AVS%0AEverton%0APremier%20League&font=Oswald" group-title="Football", Tottenham VS Everton | Premier League [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=5882df8d8b94926d1d031338331569a1&x-time=1779638520
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=7e2ef2372955b9e7989625af3ce11bca&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=West%20Ham%0AVS%0ALeeds%0APremier%20League&font=Oswald" group-title="Football", West Ham VS Leeds | Premier League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/144262_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=6fa047b1c6b1eb9037762833bb65c73d&x-time=1779638520
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779728550-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-c496759365fb291e1059e00758ef7053
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=West%20Ham%0AVS%0ALeeds%0APremier%20League&font=Oswald" group-title="Football", West Ham VS Leeds | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779724960-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-d05a14c61c0651f4448408f4c73e0eb4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=West%20Ham%0AVS%0ALeeds%0APremier%20League&font=Oswald" group-title="Football", West Ham VS Leeds | Premier League [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=1472312b76895f265bbe8f7f92afa2a7&x-time=1779638520
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=af22af4f3a67b26af8b5e6fa57bac485&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779724967-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-2ca4a6438d8386d8fbdaf7e6eb6694ad
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779728556-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-39617c544686c877efc722b797b99006
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 1 | Roland Garros [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=891533d85043435cd3d34ef252bc71d8&x-time=1779638520
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20FC%20Barcelona%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Next Gen Euroleague", U18 Real Madrid VS U18 FC Barcelona | Next Gen Euroleague [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779724979-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-b66190af901cbe75b33c6499fcb1bd20
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=U18%20Real%20Madrid%0AVS%0AU18%20FC%20Barcelona%0ANext%20Gen%20Euroleague&font=Oswald" group-title="Next Gen Euroleague", U18 Real Madrid VS U18 FC Barcelona | Next Gen Euroleague [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=b11ddeacf9a85fbcadf2053b6a4c3a7f&x-time=1779638580
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Napoli%0AVS%0AUdinese%0ASerie%20A&font=Oswald" group-title="Football", Napoli VS Udinese | Serie A [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779724985-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-db33ed9af4e69fade0384cb402581409
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=353da309910c5d8dd2d87c1a516f770b&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Napoli%0AVS%0AUdinese%0ASerie%20A&font=Oswald" group-title="Football", Napoli VS Udinese | Serie A [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=a1f408d214313cfaa6c787555a6de785&x-time=1779638580
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779728563-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-74afc17d63e65b874588a03a9a3d8d46
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Napoli%0AVS%0AUdinese%0ASerie%20A&font=Oswald" group-title="Football", Napoli VS Udinese | Serie A [Server 3]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=8e3798f8aca34c9d6ce5932ad6549911&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Juventus%20W%0AVS%0ARoma%20W%0ACoppa%20Italia%20Women&font=Oswald" group-title="Football", Juventus W VS Roma W | Coppa Italia Women [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779724991-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-03a60b679937b2ba74f96eeaef4f2e6c
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779728569-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-cac96225ac4516ccbe96f2e2251c52cf
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Juventus%20W%0AVS%0ARoma%20W%0ACoppa%20Italia%20Women&font=Oswald" group-title="Football", Juventus W VS Roma W | Coppa Italia Women [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=636add890bf3decf679f0095b69a7ce6&x-time=1779638580
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=b2ea16d901da5b9a5b6c723f77e91aa8&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Montreal%2C%20Canada%0AFIA%20Formula%202%20Championship&font=Oswald" group-title="Auto Racing", Montreal, Canada | FIA Formula 2 Championship [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=cc3e444eaad1f7aa902650afa58eec09&x-time=1779638580
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=2c752b29c956672d1225210324704ddb&x-time=1779642120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sporting%20CP%0AVS%0ATorreense%0ATa%C3%A7a%20de%20Portugal&font=Oswald" group-title="Football", Sporting CP VS Torreense | Taça de Portugal [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779725002-Kv4cPTAAP5YTi-554a5147e47da1738bb2f113922bee3cc20bcdcb-29dc8e291f7babc7082d1a698c4582d7
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779728581-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-e6e107c10214f05455f03f2a0512d57a
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sporting%20CP%0AVS%0ATorreense%0ATa%C3%A7a%20de%20Portugal&font=Oswald" group-title="Football", Sporting CP VS Torreense | Taça de Portugal [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=554a5147e47da1738bb2f113922bee3cc20bcdcb&x-sign=b9b16541c824830077484c97f578e07a&x-time=1779638580
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%20Race%202%0AF1%20Academy%20Race&font=Oswald" group-title="Auto Racing", F1 ACADEMY, ROUND 2 CANADA, 2026 Race 2 | F1 Academy Race [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=05f3d61e8f70d847fea5b22ac083c917&x-time=1779642180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=St.%20Truiden%0AVS%0AKV%20Mechelen%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", St. Truiden VS KV Mechelen | Jupiler Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779728586-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-51bbb013aa0fc27a4574e511947deb0b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=St.%20Truiden%0AVS%0AKV%20Mechelen%0AJupiler%20Pro%20League&font=Oswald" group-title="Football", St. Truiden VS KV Mechelen | Jupiler Pro League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=87fc82c42ce19fe718b090dcb2e716a4&x-time=1779642180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald" group-title="Football", Brighton VS Manchester United | Premier League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/144257_abrhd.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=bc1794a74c6917c1237261ceea3c5773&x-time=1779642180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald" group-title="Football", Brighton VS Manchester United | Premier League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=b2c0d6fd4199542dd52bbc7187d6407ea2e01655&x-sign=77b35382b8341dfdf9ffbe1e5991980b&x-time=1779642180
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brighton%0AVS%0AManchester%20United%0APremier%20League&font=Oswald" group-title="Football", Brighton VS Manchester United | Premier League [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779728594-Kv4cPTAAP5YTi-b2c0d6fd4199542dd52bbc7187d6407ea2e01655-3299a95bee13b059f8b923cd67ee4461
 # Playlist Name: Tapmad bd
-# Last Update: 10:10 PM 24-05-2026
+# Last Update: 11:10 PM 24-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -320,45 +307,31 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13611" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795822831020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794409121020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792630681020x576.jpg" group-title="Mma", Muhammad Yahya vs Mehdi Saadi | PFL 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13042" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794959491020x576.jpg" group-title="Football", Man City vs Aston Villa | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b
-#EXTINF:-1 tvg-id="tapmad-13043" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794960481020x576.jpg" group-title="Football", Brighton vs Man United | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b
-#EXTINF:-1 tvg-id="tapmad-13044" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794991391020x576.jpg" group-title="Football", Fulham vs Newcastle | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b
 #EXTINF:-1 tvg-id="tapmad-13045" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794992421020x576.jpg" group-title="Football", Tottenham vs Everton | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b
-#EXTINF:-1 tvg-id="tapmad-13046" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794993421020x576.jpg" group-title="Football", Liverpool vs Brentford | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/liver2412pool/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b
-#EXTINF:-1 tvg-id="tapmad-13047" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794994331020x576.jpg" group-title="Football", Burnley vs Wolves | EPL 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/arsenal3254798543798/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a9043f66e3c22b6327a4a2d5795216dc18bc6528d3b98990cfa2caf381f5e20b
-#EXTINF:-1 tvg-id="tapmad-13048" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794995281020x576.jpg" group-title="Football", Nottm Forest vs Bournemouth | EPL 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13049" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794996301020x576.jpg" group-title="Football", West Ham vs Leeds United | EPL 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a6aac6ac8a4f5de1d2f5301145e3c21fe9f86cd07c29b10270458ae8a54a85b6
+https://premierleageplnew2.akamaized.net/hls/live/2107109/Nginx2341TAp/master.m3u8?hdnts=exp=1779643510~acl=/hls/*~hmac=218563fd6efd25d3ea544b4045af03b132f3f8360909e3dc53dcaf28fff8fab9
 #EXTINF:-1 tvg-id="tapmad-13050" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794997061020x576.jpg" group-title="Football", Sunderland vs Chelsea | EPL 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a6aac6ac8a4f5de1d2f5301145e3c21fe9f86cd07c29b10270458ae8a54a85b6
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1779643510~acl=/hls/*~hmac=5d75fea59f90a2e20febae9ae264414c1708766ab38d64b8f406d0cb491ce0f6
 #EXTINF:-1 tvg-id="tapmad-13051" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17794998051020x576.jpg" group-title="Football", Crystal Palace vs Arsenal | EPL 2025/26
-https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779639906~acl=/hls/*~hmac=a6aac6ac8a4f5de1d2f5301145e3c21fe9f86cd07c29b10270458ae8a54a85b6
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1779643510~acl=/hls/*~hmac=5d75fea59f90a2e20febae9ae264414c1708766ab38d64b8f406d0cb491ce0f6
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:22 PM 24-05-2026
+# last_update: 11:15:16 PM 24-05-2026
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018292/1779630399759421_RG26_Round1_Fonseca_vs_Pavlovic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Joao Fonseca vs Luka Pavlovic - Round 1 - 24 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018281/1779591432000761_RG26_Andreeva_vs_Ferro_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 24 May 2026
-https://dai.google.com/ssai/event/hLD1ztoKQDSyQ8w2fAJPrg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018282/1779591428000252_RG26_Fritz_vs_Basavareddy_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Taylor Fritz vs Nishesh Basavareddy - Men's Singles - 24 May 2026
 https://dai.google.com/ssai/event/289XpT05TqS1xkA1I_kwvg/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Francesca Jones vs Beatriz Haddad Maia - Women's Singles - 24 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Sofia Kenin vs Peyton Stearns - Women's Singles - 24 May 2026
 https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090530616" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774893987139_DP_World_Soudal_Open_Day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Soudal Open - Day 4 - 24 May 2026
-https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8
-#last update time: 10:00:24 PM 24-05-2026
+#last update time: 11:15:18 PM 24-05-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777596615/142702_CASACARDS_APP.png" group-title="Football", Real Valladolid Vs Deportivo La Coruna | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142702_english_hls_02388e4dcb94489_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777834399/142700_CASACARDS_APP.png" group-title="Football", Málaga Vs Racing Club | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142700_english_hls_f44fd5b5e796934_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778777894887/142699_CASACARDS_APP.png" group-title="Football", Las Palmas Vs Real Zaragoza | LALIGA Hypermotion 2025-26 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142699_english_hls_9bde25b02c16881_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Main Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142130_english_hls_d2299e4d7e646_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   Featured Holes | The CJ Cup Byron Nelson 2026 (ENGLISH)
@@ -371,3 +344,5 @@ https://bd-mc-fblive.fancode.com/mumbai/142131_english_hls_eb214487a576805_1ta-d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec812c6aa88640fc8e3e1dfd884643ce:8b00767d6880561be78f1fdbfa4f53e5
 https://bd-mc-flive.fancode.com/mumbai/142090_english_dash_48626_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png" group-title="Golf", Day 4   World Feed | The CJ Cup Byron Nelson 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142129_english_hls_288d6edf7a20445_1ta-di_h264/index.m3u8
