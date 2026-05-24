@@ -3,10 +3,25 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:46:29 AM 24-05-2026
+#last update time: 8:46:30 AM 24-05-2026
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F1%20ACADEMY%2C%20ROUND%202%20CANADA%2C%202026%20Race%201%0AF1%20Academy%20Race&font=Oswald" group-title="Auto Racing", F1 ACADEMY, ROUND 2 CANADA, 2026 Race 1 | F1 Academy Race
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brisbane%20Lions%0AVS%0AGWS%20GIANTS%0AAFL%20Premiership&font=Oswald" group-title="Football", Brisbane Lions VS GWS GIANTS | AFL Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=4ef863a8f98f9a51ab846161cd180edb84c5875e&x-sign=45260ddcab903ba0bfaf9c4168bba7ab&x-time=1779578160
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779677193-Kv4cPTAAP5YTi-15f3af179929cecee9b3ddebd7c8b1c673237edd-1fe597586891d5d4eb6971dba1dde256
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brisbane%20Lions%0AVS%0AGWS%20GIANTS%0AAFL%20Premiership&font=Oswald" group-title="Football", Brisbane Lions VS GWS GIANTS | AFL Premiership [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=15f3af179929cecee9b3ddebd7c8b1c673237edd&x-sign=77f543492aa9bbc96d9c3ca757e98308&x-time=1779590760
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Toowoomba%0AAustralian%20Motocross%20Championship&font=Oswald" group-title="Auto Racing", Toowoomba | Australian Motocross Championship [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779677200-Kv4cPTAAP5YTi-15f3af179929cecee9b3ddebd7c8b1c673237edd-5a5951072ba9bc2540370465571cde8b
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Toowoomba%0AAustralian%20Motocross%20Championship&font=Oswald" group-title="Auto Racing", Toowoomba | Australian Motocross Championship [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=15f3af179929cecee9b3ddebd7c8b1c673237edd&x-sign=580a70ccd34d7182ca5d9cc9935d1879&x-time=1779590760
 
