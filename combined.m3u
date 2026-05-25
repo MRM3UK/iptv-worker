@@ -205,28 +205,24 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:23 PM 25-05-2026
+#last update time: 11:00:23 PM 25-05-2026
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 9:31:30 PM 25-05-2026
+#last update time: 11:16:29 PM 25-05-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AFeed%209%20%7C%20Roland%20Garros&font=Oswald" group-title="Roland Garros", Day 2 | Feed 9 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=18943d206f4226b4cde55f4f72ba214667e1ed7c&x-sign=3a3db27caee899fc5a498825c6939be2&x-time=1779723060
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=84b346c56e3dfeb8976ddd91e293b049e3fac160&x-sign=09024295540d41d227106e1477edaa6f&x-time=1779729360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AFeed%208%20%7C%20Roland%20Garros&font=Oswald" group-title="Roland Garros", Day 2 | Feed 8 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=18943d206f4226b4cde55f4f72ba214667e1ed7c&x-sign=ae92f4c55dba075a166d60b22e82e964&x-time=1779723060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0AFeed%206%20%7C%20Roland%20Garros&font=Oswald" group-title="Roland Garros", Day 2 | Feed 6 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=18943d206f4226b4cde55f4f72ba214667e1ed7c&x-sign=b0a386d17eabd4fbd245bc34e676ca25&x-time=1779723060
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=84b346c56e3dfeb8976ddd91e293b049e3fac160&x-sign=49f5b917ff2d94ad66c893b1d1876884&x-time=1779729360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 2 | Roland Garros [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779809509-Kv4cPTAAP5YTi-18943d206f4226b4cde55f4f72ba214667e1ed7c-8425b78a1aa10ec0d5630821e7ece211
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779815803-Kv4cPTAAP5YTi-84b346c56e3dfeb8976ddd91e293b049e3fac160-bf00f75e7b0d708ccede64e49bfb3002
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 2 | Roland Garros [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=18943d206f4226b4cde55f4f72ba214667e1ed7c&x-sign=0380dcedbaf9b2b075df2c53b5540e11&x-time=1779723060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Notts%20County%0AVS%0ASalford%20City%0ALeague%20Two&font=Oswald" group-title="Football", Notts County VS Salford City | League Two [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=18943d206f4226b4cde55f4f72ba214667e1ed7c&x-sign=be0dbe927d00af5ee9c27b5c4a433ebe&x-time=1779723060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=84b346c56e3dfeb8976ddd91e293b049e3fac160&x-sign=e534121006226d6da2da95babb7099e2&x-time=1779729360
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 25-05-2026
+# Last Update: 11:20 PM 25-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -238,24 +234,16 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13615" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796887401020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13556" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796892301020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 1st Round - Philippe Chatrier Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:21 PM 25-05-2026
+# last_update: 11:15:19 PM 25-05-2026
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018339/1779615782000805_Roland_Garros_2026_Ruud_vs_Safiullin_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Casper Ruud vs Roman Safiullin - Round 1 - 25 May 2026
 https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090530723" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197455610297_EngW_vs_NZW_3t20i_19may_landscape_thumb.jpg" group-title="Cricket", New Zealand Women's Tour of England 2026 | 3rd T20I - 25 May 2026
-https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018320/177961581400058_RG26_Rajaonah_vs_Anisimova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Tiantsoa Sarah Rakotomanga Rajaonah vs Amanda Anisimova - Women's Singles - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018316/1779615824000327_RG26_Merida_vs_Shelton_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Daniel Merida vs Ben Shelton - Men's Singles - 25 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779608826534580_RG26_Round1_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 25 May 2026
-https://dai.google.com/ssai/event/nTNP47S9Smqb0l7kFi-rbw/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018309/1779615806000355_RG26_Cobolli_vs_Pellegrino_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Flavio Cobolli vs Andrea Pellegrino - Men's Singles - 25 May 2026
 https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
-#last update time: 09:30:24 PM 25-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142936_6089_MDW_INDW_FC-Web_1779706388717.jpg" group-title="Football", Maldives Women Vs India Women | SAFF Women's Championship 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142936_english_hls_edd205a76331217_1ta-di_h264/index.m3u8
+#last update time: 11:15:17 PM 25-05-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1778931436016/142736_CASACARDS_APP.png" group-title="Football", Notts County Vs Salford City | League Two 2025-26 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142736_english_hls_688b0bf1a326363_1ta-di_h264/index.m3u8
