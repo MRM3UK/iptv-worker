@@ -201,74 +201,40 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:30 AM 28-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=vO22AsmXecDdcbGnywn9PQ&expires=1779916831
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STAR1IN)
-https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=xqnV_vZe27vZCw4r-IfTpg&expires=1779916831
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NDbq94qWCJcJBJA-F_RrbQ&expires=1779916832
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STARHINDI)
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=KByGnGrKNpzBPCHTCcDUnQ&expires=1779916832
+#last update time: 04:00:28 AM 28-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=7AQiib4YXmWJOAcc1pDz0A&expires=1779916832
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=5NMZR3mMyFfAs1WG1jDbsw&expires=1779924029
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=JRc5EsXSEEQgNIScDrLN0A&expires=1779916832
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=lOsbtoHIIGbk2YPlm2TnYA&expires=1779924029
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NDbq94qWCJcJBJA-F_RrbQ&expires=1779916832
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=F_VBmYX2XbYydhWiObcuog&expires=1779924029
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn4.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=t5PLkhRo_hV3VVw_2A5OyA&expires=1779916833
+https://cdn5.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=LXLWUcCSk0xkwJHg9QRL0g&expires=1779924029
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:01:29 AM 28-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0ARayo%20Vallecano%0AUEFA%20Europa%20Conference%20League&font=Oswald" group-title="UEFA Europa Conference League", Crystal Palace VS Rayo Vallecano | UEFA Europa Conference League [Server 1]
+#last update time: 4:01:28 AM 28-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Caracas%20FC%0AVS%0ABotafogo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Caracas FC VS Botafogo | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=4160cae26d9c17a00f1e327d88cf367f04c9fe82&x-sign=e8d820b65db1f16c022dee7300b11432&x-time=1779912060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0ARayo%20Vallecano%0AUEFA%20Europa%20Conference%20League&font=Oswald" group-title="UEFA Europa Conference League", Crystal Palace VS Rayo Vallecano | UEFA Europa Conference League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4160cae26d9c17a00f1e327d88cf367f04c9fe82&x-sign=4c414bd94e2c14ce3c96d1c16fe0e48d&x-time=1779912060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0ARayo%20Vallecano%0AUEFA%20Europa%20Conference%20League&font=Oswald" group-title="UEFA Europa Conference League", Crystal Palace VS Rayo Vallecano | UEFA Europa Conference League [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779998494-Kv4cPTAAP5YTi-4160cae26d9c17a00f1e327d88cf367f04c9fe82-b9c9e18828673e8900a8d706e9d9ce08
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Crystal%20Palace%0AVS%0ARayo%20Vallecano%0AUEFA%20Europa%20Conference%20League&font=Oswald" group-title="UEFA Europa Conference League", Crystal Palace VS Rayo Vallecano | UEFA Europa Conference League [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=4160cae26d9c17a00f1e327d88cf367f04c9fe82&x-sign=5d07cddb4919c1ce23e31d081f2c0dae&x-time=1779912060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 4 | Feed 3 | Roland Garros [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779998500-Kv4cPTAAP5YTi-4160cae26d9c17a00f1e327d88cf367f04c9fe82-46a7abcf2236a3ba524f4c503acc8af4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 4 | Feed 3 | Roland Garros [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4160cae26d9c17a00f1e327d88cf367f04c9fe82&x-sign=8faeaeca01215ba358ca2dee77d898fc&x-time=1779912060
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=1780005691-Kv4cPTAAP5YTi-f48e09d9d919fc8ba7f6b7fdb83c44851e51da22-54ed22a8c78b8537d4e4a2075e7cc193
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Caracas%20FC%0AVS%0ABotafogo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Caracas FC VS Botafogo | CONMEBOL Sudamericana [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=f48e09d9d919fc8ba7f6b7fdb83c44851e51da22&x-sign=66535501b60ae1eb18cd32413662dd94&x-time=1779919260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cienciano%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Cienciano VS Juventud | CONMEBOL Sudamericana [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780005697-Kv4cPTAAP5YTi-f48e09d9d919fc8ba7f6b7fdb83c44851e51da22-18d496b1f0a24c7840f9df2dfd40fe63
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cienciano%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Cienciano VS Juventud | CONMEBOL Sudamericana [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=f48e09d9d919fc8ba7f6b7fdb83c44851e51da22&x-sign=657619ae9ed1f57db6bca0a47a6039a7&x-time=1779919260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ARosario%20Central%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Rosario Central | CONMEBOL Libertadores [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780005707-Kv4cPTAAP5YTi-f48e09d9d919fc8ba7f6b7fdb83c44851e51da22-87e29878ccebabbae4d84de6dc03a7f2
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ARosario%20Central%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Rosario Central | CONMEBOL Libertadores [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=f48e09d9d919fc8ba7f6b7fdb83c44851e51da22&x-sign=6326847c7d94e1243513d495b8956329&x-time=1779919260
 # Playlist Name: Tapmad bd
-# Last Update: 02:10 AM 28-05-2026
+# Last Update: 04:00 AM 28-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13562" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797827231020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 2nd Round - Suzanne Lenglen Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13563" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797829021020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 2nd Round - World Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13814" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797823381020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 2nd Round - Simonne Mathieu Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796936761020x576.jpg" group-title="Cricket", Leicestershire vs Derbyshire Live | Vitality Blast Men 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13565" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17797854461020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 2nd Round - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13841" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799022551020x576.jpg" group-title="Football", Crystal Palace vs Rayo Vallecano | UEFA Conference League 2025/26
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779913506~acl=/hls/*~hmac=e2dcc40bc4f07dcc702f03bc7de9ddec0d59b9e20d74369129bceca5ed993b76
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:00:27 AM 28-05-2026
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018491/1779799876000741_RG26_Machac_vs_Zverev_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Tomas Machac vs Alexander Zverev - Round 2 - 27 May 2026
-https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090531275" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018544/1779907741241920_UECL_26_FINAL_Crystal-Palace-vs-Rayo-Vallecano_landscape_thumb_rev.jpg" group-title="Football", UEFA Conference League 2025-26 | Crystal Palace vs Rayo Vallecano - Final - 28 May 2026
-https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018499/1779843240000468_RG26_Ruud_vs_Medjedovic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Casper Ruud vs Hamad Medjedovic - Men's Singles - 28 May 2026
-https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018464/1779799868000143_RG26_Andreeva_V_Bassols_Ribera_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 27 May 2026
-https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090531304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018241/1779540063014222_VitalityBlast26_Mens_Leicestershire_vs_Derbyshire_23may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Leicestershire vs Derbyshire - 27 May 2026
-https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
-#last update time: 02:00:24 AM 28-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/India-vs-Jamaica_fc-web_1779794137670.jpg" group-title="Football", India Vs Jamaica | Unity Cup 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142667_english_hls_a583759b9587118_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
+# last_update: 04:00:25 AM 28-05-2026
+#last update time: 04:00:27 AM 28-05-2026
