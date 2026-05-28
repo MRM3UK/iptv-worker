@@ -201,44 +201,36 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:25 AM 28-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=on9Zg06-SDfaBOBRkRFB2A&expires=1779929426
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=0ukXBlWg8XS0Eens-P4s6Q&expires=1779929427
+#last update time: 07:00:26 AM 28-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=Ck-vkpOj0Ws3325Mmmw4xQ&expires=1779929427
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=7C7Ap-jNYye3mkXbVWm72w&expires=1779934827
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=GJopxV2qMOMtPLwWNwVRBA&expires=1779934827
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=cG84yT8Z372pJwFeuMzGVw&expires=1779934828
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn5.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=MwhuDsx8jSzDCmPbbDaY1w&expires=1779929427
+https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=oJ6lSv4724joBzn_-tJgxw&expires=1779934828
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 5:31:29 AM 28-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Caracas%20FC%0AVS%0ABotafogo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Caracas FC VS Botafogo | CONMEBOL Sudamericana [Server 1]
+#last update time: 7:16:34 AM 28-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RB%20Bragantino%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", RB Bragantino VS Carabobo FC | CONMEBOL Sudamericana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=1780011094-Kv4cPTAAP5YTi-97ed383b480b3642e9554d456bfccc7c846d1642-20ee0a6dcb3ce3e46d1813104a99ffe3
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Caracas%20FC%0AVS%0ABotafogo%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Caracas FC VS Botafogo | CONMEBOL Sudamericana [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161358_abrhd.m3u8?is_vip=false&token=97ed383b480b3642e9554d456bfccc7c846d1642&x-sign=f1fdd1791d6907ed2d68345ac44b14eb&x-time=1779924660
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cienciano%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Cienciano VS Juventud | CONMEBOL Sudamericana [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780011100-Kv4cPTAAP5YTi-97ed383b480b3642e9554d456bfccc7c846d1642-f40cd11f9017edb947742109efe13182
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cienciano%0AVS%0AJuventud%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", Cienciano VS Juventud | CONMEBOL Sudamericana [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=97ed383b480b3642e9554d456bfccc7c846d1642&x-sign=02d52b6c06220e21c1da79dfba49f33e&x-time=1779924660
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ARosario%20Central%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Rosario Central | CONMEBOL Libertadores [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780011107-Kv4cPTAAP5YTi-97ed383b480b3642e9554d456bfccc7c846d1642-3df10f208ab3321d3f1896de59c5b83a
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Independiente%20del%20Valle%0AVS%0ARosario%20Central%0ACONMEBOL%20Libertadores&font=Oswald" group-title="Football", Independiente del Valle VS Rosario Central | CONMEBOL Libertadores [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=97ed383b480b3642e9554d456bfccc7c846d1642&x-sign=c8699b13f87af6425b9adc97dd41fc91&x-time=1779924660
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Shakedown%20Kuragaike%20Park%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Shakedown Kuragaike Park | WRC [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=1780011113-Kv4cPTAAP5YTi-97ed383b480b3642e9554d456bfccc7c846d1642-3c651a572caf7a5e0214e7f3c599e406
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Shakedown%20Kuragaike%20Park%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Shakedown Kuragaike Park | WRC [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=97ed383b480b3642e9554d456bfccc7c846d1642&x-sign=e5ff5ed2777e3f94826a6e974325e584&x-time=1779924660
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780017397-Kv4cPTAAP5YTi-3ec4e90d86a56c2bcce370b7de9b2a9221d7e006-c49099125ea7dcc3530a36cd80382006
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RB%20Bragantino%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", RB Bragantino VS Carabobo FC | CONMEBOL Sudamericana [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=3ec4e90d86a56c2bcce370b7de9b2a9221d7e006&x-sign=730332eb392d40a04d0378ba63582596&x-time=1779930960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ABlooming%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", River Plate VS Blooming | CONMEBOL Sudamericana [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780017405-Kv4cPTAAP5YTi-3ec4e90d86a56c2bcce370b7de9b2a9221d7e006-0c41f17d77fc21f8af6d9afa83358711
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ABlooming%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", River Plate VS Blooming | CONMEBOL Sudamericana [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=3ec4e90d86a56c2bcce370b7de9b2a9221d7e006&x-sign=a2db7f292206d75716f0e38531cdfbc9&x-time=1779930960
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 AM 28-05-2026
+# Last Update: 07:20 AM 28-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:30:23 AM 28-05-2026
-#last update time: 05:30:40 AM 28-05-2026
+# last_update: 07:15:19 AM 28-05-2026
+#last update time: 07:15:17 AM 28-05-2026
