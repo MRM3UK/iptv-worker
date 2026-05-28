@@ -201,36 +201,53 @@ https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:26 AM 28-05-2026
+#last update time: 11:30:21 AM 28-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=7C7Ap-jNYye3mkXbVWm72w&expires=1779934827
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=mtki92dALY_iZ1i8gNS7dA&expires=1779951022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=GJopxV2qMOMtPLwWNwVRBA&expires=1779934827
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=jB0BwFPjVXTkxkso1OioaA&expires=1779951022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=cG84yT8Z372pJwFeuMzGVw&expires=1779934828
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=4a8rT75kQb-43Vq7F0c6dA&expires=1779951022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=oJ6lSv4724joBzn_-tJgxw&expires=1779934828
+https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=FEPbJvS16p4hcYcKBpRong&expires=1779951023
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:16:34 AM 28-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RB%20Bragantino%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", RB Bragantino VS Carabobo FC | CONMEBOL Sudamericana [Server 1]
+#last update time: 11:31:27 AM 28-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780017397-Kv4cPTAAP5YTi-3ec4e90d86a56c2bcce370b7de9b2a9221d7e006-c49099125ea7dcc3530a36cd80382006
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RB%20Bragantino%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", RB Bragantino VS Carabobo FC | CONMEBOL Sudamericana [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=3ec4e90d86a56c2bcce370b7de9b2a9221d7e006&x-sign=730332eb392d40a04d0378ba63582596&x-time=1779930960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ABlooming%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", River Plate VS Blooming | CONMEBOL Sudamericana [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780017405-Kv4cPTAAP5YTi-3ec4e90d86a56c2bcce370b7de9b2a9221d7e006-0c41f17d77fc21f8af6d9afa83358711
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ABlooming%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", River Plate VS Blooming | CONMEBOL Sudamericana [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=3ec4e90d86a56c2bcce370b7de9b2a9221d7e006&x-sign=a2db7f292206d75716f0e38531cdfbc9&x-time=1779930960
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780032691-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-42c52a2fdc8e3106f1699ed2453e5720
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=25b4aca568ac631ead3bf0365cb2177a&x-time=1779946260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=INKA%20MMA%2057%0AMMA&font=Oswald" group-title="MMA", INKA MMA 57 | MMA [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780032698-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-e2d41de20ff949a36721692b443c32b7
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=INKA%20MMA%2057%0AMMA&font=Oswald" group-title="MMA", INKA MMA 57 | MMA [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=d5aef19b754b64cc537ca06b865bb6f5&x-time=1779946260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Korea | LIV Golf [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abrhd.m3u8?is_vip=false&token=1780032704-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-60585fcb603f98ea928b3447e2dba334
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Korea | LIV Golf [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=51e7cd428cfa4f5c6ec3195d95225044&x-time=1779946260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Hanshin Tigers VS Saitama Seibu Lions | NPB Farm Leagues [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780032713-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-1adf8a84b7a33fa9291d9c9ff9cd234b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Hanshin Tigers VS Saitama Seibu Lions | NPB Farm Leagues [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=e85dfc235d08d25eb5916502e7b1a1f3&x-time=1779946260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oisix%20Niigata%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Oisix Niigata VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780032719-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-f727b283ddc06cc23560f98ef47f0207
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oisix%20Niigata%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Oisix Niigata VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=482fd1d9bfb3a92e93d460359ec07bc2&x-time=1779946320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Yomiuri Giants VS Tokyo Yakult Swallows | NPB Farm Leagues [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780032727-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-79e6dbeda50c7377fca619024e8ab748
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Yomiuri Giants VS Tokyo Yakult Swallows | NPB Farm Leagues [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=97dad38da42bd9fc3845ab26bcbbe057&x-time=1779946320
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 AM 28-05-2026
+# Last Update: 11:40 AM 28-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:15:19 AM 28-05-2026
-#last update time: 07:15:17 AM 28-05-2026
+# last_update: 11:45:40 AM 28-05-2026
+#EXTINF:-1 tvg-id="sonyliv-1090530926" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778070904528681_LIV_Golf_South_Korea_2026_DAY-1_landscape_thumb.jpg" group-title="Golf", LIV Golf | South Korea - Day 1 - 28 May 2026
+https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8

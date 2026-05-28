@@ -3,25 +3,65 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:16:34 AM 28-05-2026
+#last update time: 11:31:27 AM 28-05-2026
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RB%20Bragantino%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", RB Bragantino VS Carabobo FC | CONMEBOL Sudamericana [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780017397-Kv4cPTAAP5YTi-3ec4e90d86a56c2bcce370b7de9b2a9221d7e006-c49099125ea7dcc3530a36cd80382006
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780032691-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-42c52a2fdc8e3106f1699ed2453e5720
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RB%20Bragantino%0AVS%0ACarabobo%20FC%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", RB Bragantino VS Carabobo FC | CONMEBOL Sudamericana [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=3ec4e90d86a56c2bcce370b7de9b2a9221d7e006&x-sign=730332eb392d40a04d0378ba63582596&x-time=1779930960
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=25b4aca568ac631ead3bf0365cb2177a&x-time=1779946260
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ABlooming%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", River Plate VS Blooming | CONMEBOL Sudamericana [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=INKA%20MMA%2057%0AMMA&font=Oswald" group-title="MMA", INKA MMA 57 | MMA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780017405-Kv4cPTAAP5YTi-3ec4e90d86a56c2bcce370b7de9b2a9221d7e006-0c41f17d77fc21f8af6d9afa83358711
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780032698-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-e2d41de20ff949a36721692b443c32b7
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=River%20Plate%0AVS%0ABlooming%0ACONMEBOL%20Sudamericana&font=Oswald" group-title="Football", River Plate VS Blooming | CONMEBOL Sudamericana [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=INKA%20MMA%2057%0AMMA&font=Oswald" group-title="MMA", INKA MMA 57 | MMA [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=3ec4e90d86a56c2bcce370b7de9b2a9221d7e006&x-sign=a2db7f292206d75716f0e38531cdfbc9&x-time=1779930960
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=d5aef19b754b64cc537ca06b865bb6f5&x-time=1779946260
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Korea | LIV Golf [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abrhd.m3u8?is_vip=false&token=1780032704-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-60585fcb603f98ea928b3447e2dba334
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Korea | LIV Golf [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=51e7cd428cfa4f5c6ec3195d95225044&x-time=1779946260
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Hanshin Tigers VS Saitama Seibu Lions | NPB Farm Leagues [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780032713-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-1adf8a84b7a33fa9291d9c9ff9cd234b
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hanshin%20Tigers%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Hanshin Tigers VS Saitama Seibu Lions | NPB Farm Leagues [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=e85dfc235d08d25eb5916502e7b1a1f3&x-time=1779946260
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oisix%20Niigata%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Oisix Niigata VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780032719-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-f727b283ddc06cc23560f98ef47f0207
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oisix%20Niigata%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Oisix Niigata VS Hiroshima Toyo Carp | NPB Farm Leagues [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=482fd1d9bfb3a92e93d460359ec07bc2&x-time=1779946320
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Yomiuri Giants VS Tokyo Yakult Swallows | NPB Farm Leagues [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780032727-Kv4cPTAAP5YTi-5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d-79e6dbeda50c7377fca619024e8ab748
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ATokyo%20Yakult%20Swallows%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Yomiuri Giants VS Tokyo Yakult Swallows | NPB Farm Leagues [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=5fe06f20bd8bfc86bb4c7dd03693ebf2be73ea1d&x-sign=97dad38da42bd9fc3845ab26bcbbe057&x-time=1779946320
 
