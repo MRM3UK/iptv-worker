@@ -1,20 +1,14 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:29 PM 29-05-2026
+#last update time: 01:30:21 AM 30-05-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women's-T20I-Tri-Series_fc-web.jpg" group-title="Cricket", Pakistan Women Vs West Indies Women | Women's T20I Tri-Series in Ireland 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/143053_english_hls_2b78fb4b823267_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
 https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Simonne Mathieu | Roland Garros 2026 (ENGLISH)
 https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court 14 | Roland Garros 2026 (ENGLISH)
-https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Top Seeds In Action | Roland Garros 2026 (ENGLISH)
 https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8
@@ -39,9 +33,6 @@ https://bd-mc-fblive.fancode.com/mumbai/142893_english_hls_851fd53d6672264_1ta-d
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Main Feed | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142892_english_hls_0c9061c0ab87186_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_N_Balaji_Doubles_FC-WEB.jpg" group-title="Tennis", Men's Doubles Ft. India | Roland Garros 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/143193_english_hls_6caa9d7e0f17610_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-di_h264/index.m3u8
