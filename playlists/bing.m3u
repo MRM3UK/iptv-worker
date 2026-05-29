@@ -3,80 +3,40 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:31:27 PM 29-05-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | KFF Singapore Badminton Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780147892-Kv4cPTAAP5YTi-7d0454d9fe0feb890083b84136bab93327ff53c7-fe6b94ba4e4fdad2348dcf50cb759918
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | KFF Singapore Badminton Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=968b7d4e00b347c4fca6ef8772a3e06b&x-time=1780061460
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Valladolid%20Day%201%0AWorld%20Rugby%20Sevens%20Series&font=Oswald" group-title="Rugby", Valladolid Day 1 | World Rugby Sevens Series [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=5a90bd26d56e0c2c12907377886b33ca&x-time=1780061460
+#last update time: 10:46:42 PM 29-05-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0ACourt%207%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 6 | Court 7 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1780147905-Kv4cPTAAP5YTi-7d0454d9fe0feb890083b84136bab93327ff53c7-5192863057e45aef40cf02f68b2afe21
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1780159606-Kv4cPTAAP5YTi-a5324cb55dd2309f46bb09966b8841ae482734ee-d63944278611d3cfea5bd9a76a83fd3a
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0ACourt%207%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 6 | Court 7 | Roland Garros [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=67ba7fb0e23675b2855a6d8f5e12578c&x-time=1780061460
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=a5324cb55dd2309f46bb09966b8841ae482734ee&x-sign=e598aee518fa314c4269a6ed545d619a&x-time=1780073160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0ACourt%209%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 6 | Court 9 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780147915-Kv4cPTAAP5YTi-7d0454d9fe0feb890083b84136bab93327ff53c7-2b521894f59cbad8b590016d3556e569
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780159612-Kv4cPTAAP5YTi-a5324cb55dd2309f46bb09966b8841ae482734ee-f83d4501a9e69c1ca6b0e2b782ac74e8
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0ACourt%209%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 6 | Court 9 | Roland Garros [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=66558e3a40f51a5018bb646669c211f4&x-time=1780061460
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a5324cb55dd2309f46bb09966b8841ae482734ee&x-sign=9d2e0d69645a9f5e0eedd6c3c6909add&x-time=1780073160
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 6 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=b072a0ce236737233c84510a034793e2&x-time=1780061520
+https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=a5324cb55dd2309f46bb09966b8841ae482734ee&x-sign=777e4bd5e190a53c7b186033533d63ca&x-time=1780073220
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2019%0AGiro%20d'Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 19 | Giro d'Italia [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Joao%20Fonseca%0AVS%0ANovak%20Djokovic%20-%20(Men's%20Singles)%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Joao Fonseca VS Novak Djokovic - (Men's Singles) | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=1780147930-Kv4cPTAAP5YTi-7d0454d9fe0feb890083b84136bab93327ff53c7-83e775fb417a95464a0fdbd9d7e40cc1
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=a5324cb55dd2309f46bb09966b8841ae482734ee&x-sign=0dc367d547be63a77f2ccbf4765a8a42&x-time=1780073220
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2019%0AGiro%20d'Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 19 | Giro d'Italia [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald" group-title="Darts", Baltic Sea Darts Open | Baltic Sea Darts Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_abrhd.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=d742be37fa0f854cff2630efef7954ba&x-time=1780061520
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Alex%20Michelsen%0AVS%0ARafael%20Jodar%20-%20(Men's%20Singles)%0ARoland%20Garros&font=Oswald" group-title="Tennis", Alex Michelsen VS Rafael Jodar - (Men's Singles) | Roland Garros [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=1b93637df19bd2df53b353861e222853&x-time=1780061520
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald" group-title="Darts", Baltic Sea Darts Open | Baltic Sea Darts Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1780147945-Kv4cPTAAP5YTi-7d0454d9fe0feb890083b84136bab93327ff53c7-5a05af0b9d59bb54e548ff65652739d7
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald" group-title="Darts", Baltic Sea Darts Open | Baltic Sea Darts Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=f994f8cc28ea944324055a9b71617793&x-time=1780061520
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ROAD%20TO%20UFC%20S5%3A%20OPENING%20ROUND%20EPISODE%204%0AMMA&font=Oswald" group-title="MMA", ROAD TO UFC S5: OPENING ROUND EPISODE 4 | MMA [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780147952-Kv4cPTAAP5YTi-7d0454d9fe0feb890083b84136bab93327ff53c7-1c148c00fda0a0190e5d7d10a47bbed7
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ROAD%20TO%20UFC%20S5%3A%20OPENING%20ROUND%20EPISODE%204%0AMMA&font=Oswald" group-title="MMA", ROAD TO UFC S5: OPENING ROUND EPISODE 4 | MMA [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=7d0454d9fe0feb890083b84136bab93327ff53c7&x-sign=5c6cdea177cc88c9f85268352c3b39ef&x-time=1780061520
 
