@@ -275,30 +275,38 @@ http://103.99.249.139/starjalsha/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:27 AM 30-05-2026
+#last update time: 04:30:23 AM 30-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xC218FQ83S1hSfiRHydtZw&expires=1780093229
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yWf4_AradXzH3--ndBGlGw&expires=1780098625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=EnzEJwy0vp2BuY87Fso1dg&expires=1780093229
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=aHMRpTYsGy8SCG7J9VZ34g&expires=1780098625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=R6vo57OkSjIzolrV1c0OZw&expires=1780093229
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=FQXtoYUHsI8zmoEUTr4Lng&expires=1780098625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=glcmeMi3WXwMxe_y9IAMDA&expires=1780093229
+https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=voQXHc21kvwAx_iz1kzIjQ&expires=1780098626
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:16:32 AM 30-05-2026
+#last update time: 4:46:30 AM 30-05-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 6 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=b2db0f0710180c73289ab2e9d36b697847923d02&x-sign=f5782e1cb3ca9b8443a97692bd022bb6&x-time=1780089360
+https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=8ab8822027b59b455f3a0fc29ea5b1f39d474f9c&x-sign=694d8eacddb92f1b5dc9c2752e2529de&x-time=1780094760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%207%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 7 | WRC [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=1780181199-Kv4cPTAAP5YTi-8ab8822027b59b455f3a0fc29ea5b1f39d474f9c-d88db59e55209ef9726cb67892b65a03
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%207%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 7 | WRC [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=8ab8822027b59b455f3a0fc29ea5b1f39d474f9c&x-sign=091ea69d98b23593d276dfaf97c08e91&x-time=1780094760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Supra%20du%20Quebec%0AVS%0AYork%20United%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Supra du Quebec VS York United | Canadian Premier League [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780181206-Kv4cPTAAP5YTi-8ab8822027b59b455f3a0fc29ea5b1f39d474f9c-10b5860b241a26d59a85a303a1302d04
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Supra%20du%20Quebec%0AVS%0AYork%20United%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Supra du Quebec VS York United | Canadian Premier League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=8ab8822027b59b455f3a0fc29ea5b1f39d474f9c&x-sign=695668865512a26782dfd8e16f473b9a&x-time=1780094760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SHOOTO%20BRAZIL%20137%0AMMA&font=Oswald" group-title="MMA", SHOOTO BRAZIL 137 | MMA
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SAMOURAI%20MMA%2019%0AMMA&font=Oswald" group-title="MMA", SAMOURAI MMA 19 | MMA
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 AM 30-05-2026
+# Last Update: 04:50 AM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13570" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799782391020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13571" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799785681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799792781020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - 3rd Round - Philippe Chatrier Live | French Open 2026
@@ -306,18 +314,12 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:15:19 AM 30-05-2026
+# last_update: 04:45:17 AM 30-05-2026
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018710/1780018450000596_RG26_Halys_vs_Zverev_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Quentin Halys vs Alexander Zverev - Round 3 - 29 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018650/1779972696000357_RG26_Ruud_V_Paul_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Casper Ruud vs Tommy Paul - Men's Singles - 29 May 2026
-https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8
-#last update time: 03:15:20 AM 30-05-2026
+#last update time: 04:45:20 AM 30-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Featured Groups | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142894_english_hls_e9fa45f8ba46172_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Marquee Group | Charles Schwab Challenge 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142893_english_hls_851fd53d6672264_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Main Feed | Charles Schwab Challenge 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142892_english_hls_0c9061c0ab87186_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142895_english_hls_e81ca2f1df93911_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 2   World Feed | Charles Schwab Challenge 2026 (ENGLISH)
