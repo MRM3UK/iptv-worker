@@ -291,58 +291,62 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:23 PM 30-05-2026
+#last update time: 10:30:21 PM 30-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Cp9yV5maoIKIoR4a2SpRPg&expires=1780159825
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=S0eNy15HLiKiQ55qZZEppA&expires=1780159825
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Ic0JkL3UR_VcGwp2RPnAYw&expires=1780163422
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=QBvfsIqK0g9HmNZxrCSCDA&expires=1780159825
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=PBrXBkigbqNdKxBsZdzAKw&expires=1780163422
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Vs4ljyjvz-GMmlGJ4lqxaQ&expires=1780163422
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn8.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=U40UeHNjCC-nxK_pgc5FQA&expires=1780159826
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=PgOgwokqrh7XsMlZphW66w&expires=1780159826
+https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=vL8LNBqZvdp20jQ8BTKI4A&expires=1780163423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
-https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=GetZQwGS-_yQxGW9Y5_jug&expires=1780159826
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ccTK8wkp1uVF9G_rVSlXqw&expires=1780163423
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=OqA2F5hG9Ey8gwxc3R2hiA&expires=1780163423
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 9:31:30 PM 30-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 2 | Roland Garros [Server 1]
+#last update time: 10:31:26 PM 30-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20Saint%20Germain%0AVS%0AArsenal%0AUEFA%20Champions%20League&font=Oswald" group-title="UEFA Champions League", Paris Saint Germain VS Arsenal | UEFA Champions League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=acc219e49eaa2626f1e1443c36da97a8&x-time=1780155060
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780245090-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-953760032f5e3595b82788760b830a1b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20Saint%20Germain%0AVS%0AArsenal%0AUEFA%20Champions%20League&font=Oswald" group-title="UEFA Champions League", Paris Saint Germain VS Arsenal | UEFA Champions League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=71ddf5725d30b439049b1fb402746f41&x-time=1780158660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20Saint%20Germain%0AVS%0AArsenal%0AUEFA%20Champions%20League&font=Oswald" group-title="UEFA Champions League", Paris Saint Germain VS Arsenal | UEFA Champions League [Server 3]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/325_abrhd.m3u8?is_vip=false&token=1780245094-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-0ae4852fda3374f14b7bf7bfe66681ef
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20Saint%20Germain%0AVS%0AArsenal%0AUEFA%20Champions%20League&font=Oswald" group-title="UEFA Champions League", Paris Saint Germain VS Arsenal | UEFA Champions League [Server 4]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/325_abrhd.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=85a11db0eb5331095bcaed4ee22cc418&x-time=1780158660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20Saint%20Germain%0AVS%0AArsenal%0AUEFA%20Champions%20League&font=Oswald" group-title="UEFA Champions League", Paris Saint Germain VS Arsenal | UEFA Champions League [Server 5]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1780245097-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-b7d831cf4f87c9e9f6f40b30edf4ce04
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paris%20Saint%20Germain%0AVS%0AArsenal%0AUEFA%20Champions%20League&font=Oswald" group-title="UEFA Champions League", Paris Saint Germain VS Arsenal | UEFA Champions League [Server 6]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=83c069e48647c0c0dc1c4e0c32e5bcb3&x-time=1780158660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 2 | Roland Garros [Server 1]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=f0ef3f0d743d3151a60d8d601981503a&x-time=1780158660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 2 | Roland Garros [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780241498-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-d757b289b6276b86a8859728e0f3ad41
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780245106-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-b54c33638872174ecc05323a6a0b1b6c
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 3 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=5d40ccbb3406452cbed220f2e54f4ec8&x-time=1780155060
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=d810210191f5f053c82bc94b7a158924&x-time=1780158660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 3 | Roland Garros [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780241506-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-e194ccf44ab42d46fe74108b9002f71f
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780245116-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-860696aab01c2a34ead28232d56e9e8a
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Roland Garros [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=da857a48fd64080540797a0f3afce896&x-time=1780155060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=874fa6b7513059dd372558db520aab27&x-time=1780158720
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 1 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=15809cba068ca52cb6f408ce2d2e840d&x-time=1780155120
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=16e34e3e5a0592cedc82cead6d53a37b&x-time=1780158720
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 1 | Roland Garros [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780241521-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-e2abbb8aa424cfd2df3e1973cd9099e5
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780245128-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-ee0597e55511e015d929154302fd9d90
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Super%20Rugby%20Pacific%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Super Rugby Pacific | Super Rugby Pacific [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143071_abrhd.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=49b901af6b2884278b2865789c9b3498&x-time=1780155120
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780245133-Kv4cPTAAP5YTi-d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f-b455c1306257190cec18c26a55f8866e
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Super%20Rugby%20Pacific%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Super Rugby Pacific | Super Rugby Pacific [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=dca996d970387650a81f4f146a192798&x-time=1780155120
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Northampton%0AVS%0AGloucester%20Rugby%0APREM%20Rugby&font=Oswald" group-title="PREM Rugby", Northampton VS Gloucester Rugby | PREM Rugby [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780241535-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-77ccf584f7f3361429d0396fc2975d63
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Northampton%0AVS%0AGloucester%20Rugby%0APREM%20Rugby&font=Oswald" group-title="PREM Rugby", Northampton VS Gloucester Rugby | PREM Rugby [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=c9ea2c82a6a9fa7490f5308276b23d8c&x-time=1780155120
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%20II%0AVS%0ACultural%20Leonesa%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="Football", Real Sociedad II VS Cultural Leonesa | Segunda División [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/136437_abrhd.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=f29ffacff1966baca8193cb5303d7677&x-time=1780155120
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%20II%0AVS%0ACultural%20Leonesa%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="Football", Real Sociedad II VS Cultural Leonesa | Segunda División [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=6f1456dee09ca442cb662aeb2fbbcd8e&x-time=1780155120
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d3f2f7c6b30541ca4ce5250e4b70fc6b25429e7f&x-sign=01407e66f513ee812620c0ee5df379b1&x-time=1780158720
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 30-05-2026
+# Last Update: 10:40 PM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-13342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17790816741020x576.jpg" group-title="Football", PSG vs Arsenal | UEFA Champions League 2025/26
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780155915~acl=/hls/*~hmac=9fbde9f3ab97974078df2753c0e88a5a2f759ada65ce1b1c4fb3aa7a1221d474
+https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13574" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13575" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
@@ -355,18 +359,17 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800181361020x576.jpg" group-title="Racing", McLaren Trophy Europe - Race 1 Live | GT World Challenge EU & Asia 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800186821020x576.jpg" group-title="Racing", GT4 European Series - Race 1 Live | GT World Challenge EU & Asia 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:21 PM 30-05-2026
+# last_update: 10:15:27 PM 30-05-2026
 #EXTINF:-1 tvg-id="sonyliv-1090532721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="Football", UEFA Champions League 2025-26 | PSG vs Arsenal - Final - 30 May 2026
 https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090532710" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 2nd T20I - 30 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018785/1780059416000646_RG26_Gauff_vs_Potapova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018785/1780059416000646_RG26_Gauff_vs_Potapova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Coco Gauff vs Anastasia Potapova - Women's Singles - 30 May 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018793/1780059426000972_RG26_Berrettini_V_Comesana_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Matteo Berrettini vs Francisco Comesana - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
@@ -374,17 +377,7 @@ https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018639/1779989234805690_RG26_Round3_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Matteo Arnaldi vs Raphael Collignon - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090531489" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774841837239_DP_World_Austrian_Alpine_Open_Day3_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 3 - 30 May 2026
-https://dai.google.com/ssai/event/Ty728LbuSBaDCHpYmkpitg/master.m3u8
-#last update time: 09:30:20 PM 30-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Rwanda Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="Cricket", Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/143003_english_hls_a43a14b18940033_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/India-vs-Zimbabwe_fc-web.jpg" group-title="Football", India Vs Zimbabwe | Unity Cup 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png" group-title="MotoGP", Italy Gp | BREMBO GRAND PRIX OF ITALY 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/139946_english_hls_5797e10a2635939_1ta-di_h264/index.m3u8
+#last update time: 10:30:22 PM 30-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Main Feed | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Featured Holes | Charles Schwab Challenge 2026 (ENGLISH)
