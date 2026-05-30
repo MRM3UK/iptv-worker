@@ -6,16 +6,16 @@ http://172.16.29.3:8090/hls/StarJalshaHD.m3u8
 http://172.16.29.3:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="Indian Bangla",Star Jalsha (BC)
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1634_2.jpg" group-title="Indian Bangla",Sony Aath
+http://172.16.29.3:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla HD
 https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla Cinema
-http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="StarJalsha HD" group-title="Indian Bangla",StarJalsha HD
+http://103.99.249.139/starjalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest?cb=20210509111354" group-title="Indian Bangla",Zee Bangla Cinema HD
 http://172.16.29.3:8090/hls/ZeeBanglaCinemaHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.smartads.in/images/product/television/Enterr10-Bangla.png" group-title="Indian Bangla",Enterr10 Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1634_2.jpg" group-title="Indian Bangla",Sony Aath
-http://172.16.29.3:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png/revision/latest?cb=20240322134434" group-title="Indian Bangla",Sangeet Bangla
 http://172.16.29.3:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="Indian Bangla",Bengali Beats
@@ -220,70 +220,129 @@ https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-name="StarJalsha HD" group-title="Indian Bangla",StarJalsha HD
-http://103.99.249.139/starjalsha/index.m3u8
+# ==================== BANGLADESH ====================
+#EXTINF:-1 tvg-id="anirban" tvg-logo="https://i.imgur.com/rwd1rei.png" tvg-name="ASH TV" group-title="Bangladesh",Anirban
+https://ashtv.com.bd/server/channels/toffee_movies.m3u8
+#EXTINF:-1 tvg-id="ashtv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg" tvg-name="ASH TV" group-title="Bangladesh",ASH TV
+#EXTINF:-1 tvg-id="rajdhanitv" tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" tvg-name="Rajdhani TV" group-title="Bangladesh",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+# ==================== INDIA ====================
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://i.imgur.com/FF7DDNN.png" tvg-name="MTV" group-title="India",MTV
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C655/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtiFn2v.png" group-title="India",Sananda TV
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="India",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fC9Xe8c.png" group-title="India",Sheemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
+#EXTINF:-1 tvg-id="289" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="India",SONY MAX 2
+https://ashtv.com.bd/server/channels/sony_max_2.m3u8
+#EXTINF:-1 tvg-id="jalshamovies" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" tvg-name="Jalsha Movie" group-title="India",Jalsha Movie
+https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%8E%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="India",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8 
+#EXTINF:-1 tvg-id="zee bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zee_Bollywood_%282025%29.svg" tvg-name="zee bollywood" group-title="India",Z Bollywood
+https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_bollywood&e=.m3u8
+#EXTINF:-1 tvg-id="zee action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Zee_Action_%282025%29.svg" tvg-name="zee action" group-title="India",Z ACTION
+https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_action&e=.m3u8
+# ==================== INDIAN BANGLA ====================
+#EXTINF:-1 tvg-logo="https://www.sonyaath.com/assets/media/images/AathLogo.png" group-title="INDIAN BANGLA",Sony Aath (BC)
+https://ashtv.com.bd/server/channels/sony_aath.m3u8
+# ==================== SPORTS ====================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8e08XtE.png" group-title="Sports",FIFA World Cup
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="ten cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TEN_Cricket.png" tvg-name="ten cricket" group-title="Sports",TEN CRICKET
+https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.imgur.com/fuChl2l.jpeg" tvg-name="ESPN" group-title="Sports",ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="Sports",TSN 1
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae" group-title="Sports",TSN 2
+https://tvsen7.aynaott.com/tsn2/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7" group-title="Sports",TSN 3
+https://tvsen7.aynaott.com/tsn3/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46" group-title="Sports",Sports Grid
+https://tvsen6.aynaott.com/SportsGrid/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8" group-title="Sports",Bloomberg TV
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b" group-title="Sports",NFL Network
+https://tvsen6.aynaott.com/nfl/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QnPI1Z.jpeg" group-title="Sports",REAL MADRID
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+# ==================== PAKISTAN ====================
+#EXTINF:-1 tvg-id="hum tv" tvg-logo="https://i.imgur.com/ybR52iU.png" tvg-name="hum tv" group-title="Pakistan",HUM TV
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_tv/index.m3u8
+#EXTINF:-1 tvg-id="hum masala" tvg-logo="https://i.imgur.com/sPkuvkl.png" tvg-name="hum masala" group-title="Pakistan",Hum Masala
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_masala/index.m3u8
+#EXTINF:-1 tvg-id="hum sitarey" tvg-logo="https://i.imgur.com/3szQDQi.png" tvg-name="hum sitarey" group-title="Pakistan",Hum Sitaray World
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_sitaray/index.m3u8
+# ==================== DOCUMENTARY ====================
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://i.imgur.com/n4FwCmT.png" group-title="Documentary",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Documentary",TLC HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=tlc_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Documentary",TLC
+https://ottbanglaplatform.com/tv/toffee/live.php?id=tlc_sd&e=.m3u8
+# ==================== ENGLISH ====================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/America%27s_Got_Talent_2015_logo.png" group-title="English",America's Got Talent
+https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/American_Idol_logo.svg" group-title="English",American Idol
+https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:25 PM 30-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=KuWQU30aGZSew1ZeFIZzxw&expires=1780154426
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=6U3PM9cDVhOeYEM_mQ_STw&expires=1780154426
+#last update time: 09:30:23 PM 30-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=37xQiv88KdgofuZF4F1QAA&expires=1780154426
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Cp9yV5maoIKIoR4a2SpRPg&expires=1780159825
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=S0eNy15HLiKiQ55qZZEppA&expires=1780159825
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=QBvfsIqK0g9HmNZxrCSCDA&expires=1780159825
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=rsZG-Bg7T8RVYKHrq0wxRA&expires=1780154426
+https://cdn8.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=U40UeHNjCC-nxK_pgc5FQA&expires=1780159826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=1cYqS6NTvFPfCmw6PNc3Cg&expires=1780154426
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=PgOgwokqrh7XsMlZphW66w&expires=1780159826
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=DZxrcwM9E8pZaUyxQ8oTKA&expires=1780154427
+https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=GetZQwGS-_yQxGW9Y5_jug&expires=1780159826
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:46:32 PM 30-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1.%20Giro%20d'Italia%2C%20Stage%2020%0AGiro%20d'Italia&font=Oswald" group-title="Cycling", ES1. Giro d'Italia, Stage 20 | Giro d'Italia [Server 1]
+#last update time: 9:31:30 PM 30-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 2 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=f0ad94cffe1fb559f4a7741724eb51e7&x-time=1780148760
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 2 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=a79b54d874971c74b790a4b05c7f3258&x-time=1780148760
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=acc219e49eaa2626f1e1443c36da97a8&x-time=1780155060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%202%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 2 | Roland Garros [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780235207-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-f9a4f98510f0409d47f4ce5908b68330
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780241498-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-d757b289b6276b86a8859728e0f3ad41
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 3 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=8ad6534d9dfb477f04ae270b55be71a5&x-time=1780148760
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=5d40ccbb3406452cbed220f2e54f4ec8&x-time=1780155060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%203%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 3 | Roland Garros [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780235215-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-8740b253e686253cebaa7eef351baa90
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780241506-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-e194ccf44ab42d46fe74108b9002f71f
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0ARoland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Roland Garros [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=e7e8eac0a50f1610c6c15db95967afdd&x-time=1780148820
+https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=da857a48fd64080540797a0f3afce896&x-time=1780155060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 1 | Roland Garros [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=a92974c74d7a48c71407be7682752ac3&x-time=1780148820
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=15809cba068ca52cb6f408ce2d2e840d&x-time=1780155120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%207%0AFeed%201%20%7C%20Roland%20Garros&font=Oswald" group-title="Tennis", Day 7 | Feed 1 | Roland Garros [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780235229-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-8baaef71853907ebe639ea1cdb71f612
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SONG%0AVS%0AFIGUEIREDO%0AUFC%20FIGHT%20NIGHT&font=Oswald" group-title="MMA", SONG VS FIGUEIREDO | UFC FIGHT NIGHT [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/53768_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=a1ccd1b6799cc9fb8e0b3b4f32cb7ec0&x-time=1780148820
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald" group-title="Darts", Baltic Sea Darts Open | Baltic Sea Darts Open [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1780235240-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-9c5be8d09d616aa6549184cd64849b7a
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Baltic%20Sea%20Darts%20Open%0ABaltic%20Sea%20Darts%20Open&font=Oswald" group-title="Darts", Baltic Sea Darts Open | Baltic Sea Darts Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=78b5c52aadbe71cf358337db62844180&x-time=1780148820
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Scotland%0AVS%0ACura%C3%A7ao%0AFriendlies&font=Oswald" group-title="Football", Scotland VS Curaçao | Friendlies [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=1dc750ada727b871c20c848b679c65ae&x-time=1780148820
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saracens%0AVS%0AHarlequins%0APREM%20Rugby&font=Oswald" group-title="Rugby", Saracens VS Harlequins | PREM Rugby [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=9c2149597b940e71d2ca8b8e7d724f85&x-time=1780148820
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Montauban%0AVS%0AStade%20Rochelais%0ATop%2014&font=Oswald" group-title="Rugby", Montauban VS Stade Rochelais | Top 14 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780235261-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-5743610dd51b3fa77710ebf8655fde3b
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Montauban%0AVS%0AStade%20Rochelais%0ATop%2014&font=Oswald" group-title="Rugby", Montauban VS Stade Rochelais | Top 14 [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=eaa8404e470e3a5806cbd9f90beb7755&x-time=1780148820
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780241521-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-e2abbb8aa424cfd2df3e1973cd9099e5
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Super%20Rugby%20Pacific%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Super Rugby Pacific | Super Rugby Pacific [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5&x-sign=7900c4f867ee1f034e1fc4875ac28c7c&x-time=1780148820
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=vs%0APREM%20Rugby&font=Oswald" group-title="Rugby", vs | PREM Rugby [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780235276-Kv4cPTAAP5YTi-5772b1ef6733fc2aa5557e1bdfd25289a4fef6c5-a5fe8a8d17dfaf39be3f371e2a7c63d9
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=vs%0APREM%20Rugby&font=Oswald" group-title="Rugby", vs | PREM Rugby [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143071_abrhd.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=49b901af6b2884278b2865789c9b3498&x-time=1780155120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Super%20Rugby%20Pacific%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Super Rugby Pacific | Super Rugby Pacific [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=dca996d970387650a81f4f146a192798&x-time=1780155120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Northampton%0AVS%0AGloucester%20Rugby%0APREM%20Rugby&font=Oswald" group-title="PREM Rugby", Northampton VS Gloucester Rugby | PREM Rugby [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780241535-Kv4cPTAAP5YTi-6a512d106aeb373e3870478fe97601367c35b6ab-77ccf584f7f3361429d0396fc2975d63
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Northampton%0AVS%0AGloucester%20Rugby%0APREM%20Rugby&font=Oswald" group-title="PREM Rugby", Northampton VS Gloucester Rugby | PREM Rugby [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=c9ea2c82a6a9fa7490f5308276b23d8c&x-time=1780155120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%20II%0AVS%0ACultural%20Leonesa%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="Football", Real Sociedad II VS Cultural Leonesa | Segunda División [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/136437_abrhd.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=f29ffacff1966baca8193cb5303d7677&x-time=1780155120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Real%20Sociedad%20II%0AVS%0ACultural%20Leonesa%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="Football", Real Sociedad II VS Cultural Leonesa | Segunda División [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=6a512d106aeb373e3870478fe97601367c35b6ab&x-sign=6f1456dee09ca442cb662aeb2fbbcd8e&x-time=1780155120
 # Playlist Name: Tapmad bd
-# Last Update: 08:10 PM 30-05-2026
+# Last Update: 09:30 PM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-13342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17790816741020x576.jpg" group-title="Football", PSG vs Arsenal | UEFA Champions League 2025/26
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780155915~acl=/hls/*~hmac=9fbde9f3ab97974078df2753c0e88a5a2f759ada65ce1b1c4fb3aa7a1221d474
 #EXTINF:-1 tvg-id="tapmad-13574" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13575" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
@@ -294,37 +353,30 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13576" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796943161020x576.jpg" group-title="Mma", Song vs Figueiredo | UFC 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13895" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800119971020x576.jpg" group-title="Racing", GT2 European Series - Race 1 Live | GT World Challenge EU & Asia 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13853" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17799101161020x576.jpg" group-title="Football", Scotland vs Curaco | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/testtapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13757" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17801027221020x576.jpg" group-title="Racing", Sprint Race 1 - Italy Live | UIM F1H2O World Championship 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/T@p305t@P!23@25!95/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800181361020x576.jpg" group-title="Racing", McLaren Trophy Europe - Race 1 Live | GT World Challenge EU & Asia 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800186821020x576.jpg" group-title="Racing", GT4 European Series - Race 1 Live | GT World Challenge EU & Asia 2026
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:00:25 PM 30-05-2026
-#EXTINF:-1 tvg-id="sonyliv-1090532721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="Football", UEFA Champions League 2025-26 | PSG vs Arsenal - Final - 30 May 2026
+# last_update: 09:30:21 PM 30-05-2026
+#EXTINF:-1 tvg-id="sonyliv-1090532721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780061881398358_UCL_Final_PSG_vs_Arsenal_live_landscape_thumb_SP.jpg" group-title="Football", UEFA Champions League 2025-26 | PSG vs Arsenal - Final - 30 May 2026
 https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090532710" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 2nd T20I - 30 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018800/1780121868037750_RG26_round3_Sabalenka_vs_Kasatkina_live_30may_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 30 May 2026
-https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018783/1780059414000342_RG26_Parry_vs_Anisimova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Diane Parry vs Amanda Anisimova - Women's Singles - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018785/1780059416000646_RG26_Gauff_vs_Potapova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 30 May 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018793/1780059426000972_RG26_Berrettini_V_Comesana_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Matteo Berrettini vs Francisco Comesana - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018639/1779989234805690_RG26_Round3_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Anna Kalinskaya vs Camila Osorio - Women's Singles - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018789/1780059446000212_RG26_Kouame_vs_Tabilo_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Moise Kouame vs Alejandro Tabilo - Men's Singles - 30 May 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018639/1779989234805690_RG26_Round3_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Matteo Arnaldi vs Raphael Collignon - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090531577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778150032356950_INT_Friendlies26_Scotland-vs-Curaco_landscape_thumb.jpg" group-title="Football", European Qualifiers For 2026 FIFA World Cup | Scotland vs Curaco - 30 May 2026
-https://dai.google.com/ssai/event/baS0o0i_QLiYmhye6b6_FQ/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090531489" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774841837239_DP_World_Austrian_Alpine_Open_Day3_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 3 - 30 May 2026
 https://dai.google.com/ssai/event/Ty728LbuSBaDCHpYmkpitg/master.m3u8
-#last update time: 08:00:27 PM 30-05-2026
+#last update time: 09:30:20 PM 30-05-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png" group-title="Cricket", Rwanda Vs Botswana | ICC Men's T20 WC Africa Sub Regional Qualifier (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142927_english_hls_46d60607fc24413_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SC-W_BD-W.jpg" group-title="Cricket", Bangladesh Women Vs Scotland Women | Scotland Women's T20I Tri-Series 2026 (ENGLISH)
@@ -339,3 +391,5 @@ https://bd-mc-fblive.fancode.com/mumbai/142897_english_hls_cf3c7cefd948526_1ta-d
 https://bd-mc-fblive.fancode.com/mumbai/142900_english_hls_6f5ceeb0e098411_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Featured Groups | Charles Schwab Challenge 2026 (ENGLISH)
 https://bd-mc-fblive.fancode.com/mumbai/142899_english_hls_8fabe9b13036316_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-web.jpg" group-title="Golf", Day 3   Marquee Group | Charles Schwab Challenge 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142898_english_hls_8f06bd52b125270_1ta-di_h264/index.m3u8
