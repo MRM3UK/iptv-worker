@@ -275,41 +275,43 @@ http://103.99.249.139/starjalsha/index.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:31 AM 30-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=iAnt8XKcKiPfU7z0yuB3zw&expires=1780104032
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=SDEv9m_lYHYqlcOhNtCEtA&expires=1780104032
+#last update time: 10:00:30 AM 30-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=_IOJxSEDmwNoi5SlRZUOcg&expires=1780104033
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5RAMXaA2BNRPr-8P0-BT1w&expires=1780118432
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=GgC91fxieQD9aopKz4TkHA&expires=1780118432
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=eMvc9iZjhn5f5oi_VyZdmQ&expires=1780118432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=ozHBrvCeTjtmiomdT0Y1eQ&expires=1780104033
+https://cdn8.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=bCTPBV-t6ETWb_HcypYkeQ&expires=1780118433
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 6:01:28 AM 30-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%207%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 7 | WRC [Server 1]
+#last update time: 10:01:26 AM 30-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LUX%20061%0AMMA&font=Oswald" group-title="MMA", LUX 061 | MMA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=2df612db8d287c1afeb50600b34c0ca1&x-time=1780099260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Supra%20du%20Quebec%0AVS%0AYork%20United%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Supra du Quebec VS York United | Canadian Premier League [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780185697-Kv4cPTAAP5YTi-d8f239943d06dc3dcf584c2831463973c794e6a8-4cd3749dd4f4e089b5c20eae55df9bb6
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Supra%20du%20Quebec%0AVS%0AYork%20United%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Supra du Quebec VS York United | Canadian Premier League [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=6ed4474ee61198416bd90fd6677ac7bc&x-time=1780099260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SAMOURAI%20MMA%2019%0AMMA&font=Oswald" group-title="MMA", SAMOURAI MMA 19 | MMA [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780185704-Kv4cPTAAP5YTi-d8f239943d06dc3dcf584c2831463973c794e6a8-013c1dcb7e7a22717d0317f50e3fcb93
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SAMOURAI%20MMA%2019%0AMMA&font=Oswald" group-title="MMA", SAMOURAI MMA 19 | MMA [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=6e6372f39623aa43862b2c12c1ab2610&x-time=1780099260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SHOOTO%20BRAZIL%20137%0AMMA&font=Oswald" group-title="MMA", SHOOTO BRAZIL 137 | MMA [Server 1]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=94727fe215e3ac65785c5b557006d81a&x-time=1780099260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%208%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 8 | WRC [Server 1]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=e5e085dcafc458f92177998df078567d&x-time=1780113660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Studio%20-%20Coverage%20at%20Enakyo%20Park%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Studio - Coverage at Enakyo Park | WRC [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=d583655bb1db1355716bfb15066aa5ca&x-time=1780113660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 1]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=f5b334fbadd0a31aa61206cc712f0fac&x-time=1780113660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2010%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 10 | WRC [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brumbies%0AVS%0AMoana%20Pasifika%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Brumbies VS Moana Pasifika | Super Rugby Pacific [Server 1]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=006b629d0a9a722288bd537f0dc03a1a&x-time=1780113660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Korea | LIV Golf [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=b21e7e5bb967fc44ce4ed10aacbbc7fd&x-time=1780113720
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 30-05-2026
+# Last Update: 10:10 AM 30-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:00:28 AM 30-05-2026
-#last update time: 06:00:26 AM 30-05-2026
+# last_update: 10:15:19 AM 30-05-2026
+#EXTINF:-1 tvg-id="sonyliv-1090531335" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778071297125681_LIV_Golf_South_Korea_2026_DAY-3_landscape_thumb.jpg" group-title="Golf", LIV Golf | South Korea - Day 3 - 30 May 2026
+https://dai.google.com/ssai/event/siChDnEpT4SAouxCP40sIQ/master.m3u8
+#last update time: 10:15:21 AM 30-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Mis E Ainak Region Vs Speen Ghar Region | Supercola Regional List A Tournament 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142748_english_hls_7ae2504f0712693_1ta-di_h264/index.m3u8

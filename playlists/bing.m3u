@@ -3,40 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 6:01:28 AM 30-05-2026
+#last update time: 10:01:26 AM 30-05-2026
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%207%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 7 | WRC [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LUX%20061%0AMMA&font=Oswald" group-title="MMA", LUX 061 | MMA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=2df612db8d287c1afeb50600b34c0ca1&x-time=1780099260
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=e5e085dcafc458f92177998df078567d&x-time=1780113660
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Supra%20du%20Quebec%0AVS%0AYork%20United%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Supra du Quebec VS York United | Canadian Premier League [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Studio%20-%20Coverage%20at%20Enakyo%20Park%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Studio - Coverage at Enakyo Park | WRC [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780185697-Kv4cPTAAP5YTi-d8f239943d06dc3dcf584c2831463973c794e6a8-4cd3749dd4f4e089b5c20eae55df9bb6
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=d583655bb1db1355716bfb15066aa5ca&x-time=1780113660
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Supra%20du%20Quebec%0AVS%0AYork%20United%0ACanadian%20Premier%20League&font=Oswald" group-title="Football", Supra du Quebec VS York United | Canadian Premier League [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=6ed4474ee61198416bd90fd6677ac7bc&x-time=1780099260
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=f5b334fbadd0a31aa61206cc712f0fac&x-time=1780113660
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SAMOURAI%20MMA%2019%0AMMA&font=Oswald" group-title="MMA", SAMOURAI MMA 19 | MMA [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2010%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 10 | WRC [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780185704-Kv4cPTAAP5YTi-d8f239943d06dc3dcf584c2831463973c794e6a8-013c1dcb7e7a22717d0317f50e3fcb93
+https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=d583655bb1db1355716bfb15066aa5ca&x-time=1780113660
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SAMOURAI%20MMA%2019%0AMMA&font=Oswald" group-title="MMA", SAMOURAI MMA 19 | MMA [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brumbies%0AVS%0AMoana%20Pasifika%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Brumbies VS Moana Pasifika | Super Rugby Pacific [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=6e6372f39623aa43862b2c12c1ab2610&x-time=1780099260
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=006b629d0a9a722288bd537f0dc03a1a&x-time=1780113660
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SHOOTO%20BRAZIL%20137%0AMMA&font=Oswald" group-title="MMA", SHOOTO BRAZIL 137 | MMA [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Korea | LIV Golf [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=94727fe215e3ac65785c5b557006d81a&x-time=1780099260
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%208%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 8 | WRC [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=d8f239943d06dc3dcf584c2831463973c794e6a8&x-sign=2df612db8d287c1afeb50600b34c0ca1&x-time=1780099260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=f62def1ff8d950c2b91f62d4407285802a212872&x-sign=b21e7e5bb967fc44ce4ed10aacbbc7fd&x-time=1780113720
 
