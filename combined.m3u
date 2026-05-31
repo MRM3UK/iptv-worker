@@ -291,42 +291,63 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:21 AM 31-05-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=T1JhqVTfAYRxDDYIZf3qKw&expires=1780195821
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=fpbUXZ73JzBtmExMKCTmSg&expires=1780195822
+#last update time: 12:00:26 PM 31-05-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Um3V4Aud5nv_d9sl-Ssiog&expires=1780195822
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=TUidqo97kGvgWIB46Xo8mQ&expires=1780212027
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=zANqcxlLNYiwp2mkWRJOtQ&expires=1780212027
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=pbqm1ghlHV98c8pBvF0B3g&expires=1780212027
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=f7_9RQtSHYjn8BchU_rOXQ&expires=1780195822
-# --- FOOTYSTREAM SECTION ---
+https://cdn2.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=TEiLpmq6frgXCXjGIrCFug&expires=1780212028
 #name: Bingstream Auto Update Playlist
-#last update time: 7:46:27 AM 31-05-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Toluca%0AVS%0ATigres%20UANL%0ACONCACAF%20Champions%20League&font=Oswald" group-title="Football", Toluca VS Tigres UANL | CONCACAF Champions League [Server 1]
+#last update time: 12:01:27 PM 31-05-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%20Day%3A%20Morgan%20Park%0AAustralian%20Superbikes%20Championship&font=Oswald" group-title="Australian Superbikes Championship", Race Day: Morgan Park | Australian Superbikes Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451_abrhd.m3u8?is_vip=false&token=1780278390-Kv4cPTAAP5YTi-771f7d9d9b248f86e25c3e1bd1e90793d4f91b88-f72abaad25a38aaa819afc5e60d75454
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Toluca%0AVS%0ATigres%20UANL%0ACONCACAF%20Champions%20League&font=Oswald" group-title="Football", Toluca VS Tigres UANL | CONCACAF Champions League [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=771f7d9d9b248f86e25c3e1bd1e90793d4f91b88&x-sign=df2b307d43dbc1f4419207e2f9a03a3e&x-time=1780191960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Foster%0AVS%0AFord%0AMatchroom%20Boxing&font=Oswald" group-title="Boxing", Foster VS Ford | Matchroom Boxing [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780278397-Kv4cPTAAP5YTi-771f7d9d9b248f86e25c3e1bd1e90793d4f91b88-e80a2ea8eca7b6dc6dc09d21da43a3e4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Foster%0AVS%0AFord%0AMatchroom%20Boxing&font=Oswald" group-title="Boxing", Foster VS Ford | Matchroom Boxing [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=771f7d9d9b248f86e25c3e1bd1e90793d4f91b88&x-sign=c2cafdecd345525050d727dbe1bf0279&x-time=1780191960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2018%0AWRC&font=Oswald" group-title="WRC", FORUM8 Rally Japan: Stage 18 | WRC [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=771f7d9d9b248f86e25c3e1bd1e90793d4f91b88&x-sign=af1b96fb88cf9ac42a61b3d984b049c9&x-time=1780191960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0AAustralia%0AFriendlies&font=Oswald" group-title="Football", Mexico VS Australia | Friendlies [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1780278412-Kv4cPTAAP5YTi-771f7d9d9b248f86e25c3e1bd1e90793d4f91b88-2089410b7b414f9dfbf4b4dd32d20466
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780293691-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-56c681babb9dbe3948d77d911653ab67
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%20Day%3A%20Morgan%20Park%0AAustralian%20Superbikes%20Championship&font=Oswald" group-title="Australian Superbikes Championship", Race Day: Morgan Park | Australian Superbikes Championship [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=940057a759249d8cdc111595cea95fe6&x-time=1780207260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chiba%20Lotte%20Marines%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Chiba Lotte Marines VS Hanshin Tigers | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780293699-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-c062232ea40141aef3c3715454822d03
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chiba%20Lotte%20Marines%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Chiba Lotte Marines VS Hanshin Tigers | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=289512d2b478585a369c971d1cad70e2&x-time=1780207260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS Yomiuri Giants | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780293705-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-45997cac7695dd7357daa20b5f90e54f
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS Yomiuri Giants | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=d4e2332dca0bd924e8816fe2ec9be0e3&x-time=1780207260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=St.%20George%20Illawarra%20Dragons%0AVS%0ABrisbane%20Broncos%0ANRL%20Rugby&font=Oswald" group-title="Rugby", St. George Illawarra Dragons VS Brisbane Broncos | NRL Rugby [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=c34912f093c92d9a3c12226c9cff772f&x-time=1780207260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="LIV Golf", LIV Golf Korea | LIV Golf [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780293718-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-b5d5c3d345ec7f8f14f4119e13063eee
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Korea%0ALIV%20Golf&font=Oswald" group-title="LIV Golf", LIV Golf Korea | LIV Golf [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=956313079345faf13b58fba3c70e35ca&x-time=1780207260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS YOKOHAMA DeNA BAYSTARS | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1780293724-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-65f53ba62862b55afe320e899566b20a
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS YOKOHAMA DeNA BAYSTARS | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=c03417417885c8e90accfa4f712eb296&x-time=1780207320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2020%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 20 | WRC [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/238_abrhd.m3u8?is_vip=false&token=1780293731-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-5ffd4484f0a0820c37a65eb58ceb0299
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FORUM8%20Rally%20Japan%3A%20Stage%2020%0AWRC&font=Oswald" group-title="Auto Racing", FORUM8 Rally Japan: Stage 20 | WRC [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=8e86b89fb87f08256dc85f51b3e517de&x-time=1780207320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780293737-Kv4cPTAAP5YTi-4f8577b2dda94909f9d17234013b50a338d69729-5e3c7cdcd3bba5bfad4a77587cb6dce2
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0AKFF%20Singapore%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | KFF Singapore Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=4f8577b2dda94909f9d17234013b50a338d69729&x-sign=cd02de76c81406d85f943c68967d832e&x-time=1780207320
 # Playlist Name: Tapmad bd
-# Last Update: 07:40 AM 31-05-2026
+# Last Update: 12:10 PM 31-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:45:18 AM 31-05-2026
-#last update time: 07:45:23 AM 31-05-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778573841376.png" group-title="Football", Toluca Vs Tigres | CONCACAF Champions Cup 2026 (ENGLISH)
-https://bd-mc-fblive.fancode.com/mumbai/142625_english_hls_12db87922425590_1ta-di_h264/index.m3u8
+# last_update: 12:15:18 PM 31-05-2026
+#EXTINF:-1 tvg-id="sonyliv-1090531802" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778072097682681_LIV_Golf_South_Korea_2026_DAY-4_landscape_thumb.jpg" group-title="Golf", LIV Golf | South Korea - Day 4 - 31 May 2026
+https://dai.google.com/ssai/event/yeDoxYs3Q9uN1D6JCpyKAg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090531792" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774843370739_DP_World_Austrian_Alpine_Open_Day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 4 - 31 May 2026
+https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
+#last update time: 12:15:18 PM 31-05-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Speen Ghar Region Vs Boost Region | Supercola Regional List A Tournament 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142750_english_hls_4acbc9bcd087060_1ta-di_h264/index.m3u8
