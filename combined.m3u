@@ -291,23 +291,26 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:22 AM 01-06-2026
+#last update time: 12:30:22 PM 01-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=raPzzKr5Bp7i1tpEARswKA&expires=1780282223
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=yl52-W6QZtsZ5jr3UnTivQ&expires=1780282223
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=fR8n44mDkxlrdTrPfWdUUQ&expires=1780300223
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=TPCxuquMmOfETHcGIbb5gA&expires=1780282224
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xAosZg5G-bK54_Jj5f_kRQ&expires=1780300223
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=KHhy9y-RKVx2B67c1oHChQ&expires=1780300223
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:31:30 AM 01-06-2026
+#last update time: 12:31:26 PM 01-06-2026
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 AM 01-06-2026
+# Last Update: 12:30 PM 01-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:30:20 AM 01-06-2026
+# last_update: 12:30:19 PM 01-06-2026
+#last update time: 12:30:20 PM 01-06-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg" group-title="Cricket", Band E Amir Region Vs Amo Region | Supercola Regional List A Tournament 2026 (ENGLISH)
+https://bd-mc-fblive.fancode.com/mumbai/142752_english_hls_c6c0ae4e2927340_1ta-di_h264/index.m3u8
