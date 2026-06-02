@@ -291,35 +291,38 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:36 PM 02-06-2026
+#last update time: 01:00:34 AM 03-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=l9ZRrlVAVaMIT6EJNBQn0Q&expires=1780419037
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Q6ygOfgBLi40yMCulkHysw&expires=1780419037
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=5RHvNRkvLucxsQdm_00eSw&expires=1780431635
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=QhZRZ7AqXlVPopLDZoF2gw&expires=1780419037
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=26xCX6rACBiyVSZz1jQPpg&expires=1780419038
+https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=y0qcIHsIzWeEwd9ZXmYjZg&expires=1780431635
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=TxhG6tDUNrbEKrGSGW1AzQ&expires=1780431636
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
-https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=taVNZ01xxgxcYOFYi60LfA&expires=1780419038
+https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=AqRvPzsxsGQUwJH5f5G3SA&expires=1780431636
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uQJuWpBDI78i6lT3zMXvhQ&expires=1780431636
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 9:31:39 PM 02-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Players%20Championship%2019%0APlayers%20Championship&font=Oswald" group-title="Darts", Players Championship 19 | Players Championship [Server 1]
+#last update time: 1:01:34 AM 03-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2010%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Day 10 | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=a2567b0fa9074f408c993427d10a4ae703da9da3&x-sign=42cc6ed1a42c32e2ed55e16dc1741b56&x-time=1780414260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rafael%20Jodar%0AVS%0AAlexander%20Zverev%20-%20(Men's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Rafael Jodar VS Alexander Zverev - (Men's Singles) - QF1 | Roland Garros [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780500707-Kv4cPTAAP5YTi-a2567b0fa9074f408c993427d10a4ae703da9da3-41d3aefd0a1c47f524ef3c9874dbdda0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rafael%20Jodar%0AVS%0AAlexander%20Zverev%20-%20(Men's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Rafael Jodar VS Alexander Zverev - (Men's Singles) - QF1 | Roland Garros [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=a2567b0fa9074f408c993427d10a4ae703da9da3&x-sign=24b46f8ba1f8041a06246d8252c62f02&x-time=1780414260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rafael%20Jodar%0AVS%0AAlexander%20Zverev%20-%20(Men's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Rafael Jodar VS Alexander Zverev - (Men's Singles) - QF1 | Roland Garros [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780500710-Kv4cPTAAP5YTi-a2567b0fa9074f408c993427d10a4ae703da9da3-d0dba280d50d55956c132e4a01835ff9
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rafael%20Jodar%0AVS%0AAlexander%20Zverev%20-%20(Men's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Rafael Jodar VS Alexander Zverev - (Men's Singles) - QF1 | Roland Garros [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=a2567b0fa9074f408c993427d10a4ae703da9da3&x-sign=0f8eedb3d15c4b02a183678c1e0ac1a0&x-time=1780414260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=6f4a05162b93fe36df72ed74cfbb2a779f0c665f&x-sign=2a3b0eeae1236dedcfe4da4e3258ca3b&x-time=1780426860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%2010%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Day 10 | Roland Garros [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1780513298-Kv4cPTAAP5YTi-6f4a05162b93fe36df72ed74cfbb2a779f0c665f-7d4be31e737d099a6b331ad7da744af8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jakub%20Mensik%0AVS%0AJoao%20Fonseca%20-%20(Men's%20Singles)%20-%20QF2%0ARoland%20Garros&font=Oswald" group-title="Tennis", Jakub Mensik VS Joao Fonseca - (Men's Singles) - QF2 | Roland Garros [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780513303-Kv4cPTAAP5YTi-6f4a05162b93fe36df72ed74cfbb2a779f0c665f-8c580b678992b9fe8a72eba9e7ff1661
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jakub%20Mensik%0AVS%0AJoao%20Fonseca%20-%20(Men's%20Singles)%20-%20QF2%0ARoland%20Garros&font=Oswald" group-title="Tennis", Jakub Mensik VS Joao Fonseca - (Men's Singles) - QF2 | Roland Garros [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=6f4a05162b93fe36df72ed74cfbb2a779f0c665f&x-sign=92adb18c6033e279f7032e9133b3e48e&x-time=1780426860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jakub%20Mensik%0AVS%0AJoao%20Fonseca%20-%20(Men's%20Singles)%20-%20QF2%0ARoland%20Garros&font=Oswald" group-title="Tennis", Jakub Mensik VS Joao Fonseca - (Men's Singles) - QF2 | Roland Garros [Server 3]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Jakub%20Mensik%0AVS%0AJoao%20Fonseca%20-%20(Men's%20Singles)%20-%20QF2%0ARoland%20Garros&font=Oswald" group-title="Tennis", Jakub Mensik VS Joao Fonseca - (Men's Singles) - QF2 | Roland Garros [Server 4]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1780513307-Kv4cPTAAP5YTi-6f4a05162b93fe36df72ed74cfbb2a779f0c665f-9cae8c4efde0ed4780072b1c2a13804d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wales%0AVS%0AGhana%0AFriendlies&font=Oswald" group-title="Football", Wales VS Ghana | Friendlies [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=6f4a05162b93fe36df72ed74cfbb2a779f0c665f&x-sign=8cb3cdd71c0244abc4606645fef79ab4&x-time=1780426860
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 02-06-2026
+# Last Update: 01:00 AM 03-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -327,27 +330,22 @@ https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&t
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapuefa/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13586" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803203731020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's & Doubles - Quarter Finals - Suzanne Lenglen Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13587" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803207201020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's & Doubles - Quarter Finals - World Feed Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803208791020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - Quarter Finals - Philippe Chatrier Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13826" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803157271020x576.jpg" group-title="Tennis", Mixed Doubles - 3rd Round - Simonne Mathieu Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13827" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803158781020x576.jpg" group-title="Tennis", Wheelchair - 1st Round - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13931" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803859681020x576.jpg" group-title="Football", Croatia vs Belgium | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780415106~acl=/hls/*~hmac=13402835e870b8a345a057f6a8e5afc78aec4a8c2f68b5353702804957b91dcc
+#EXTINF:-1 tvg-id="tapmad-13589" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803210591020x576.jpg" group-title="Tennis", Ladies' or Gentlemen's Singles1 "Great" match - Quarter Finals - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803864511020x576.jpg" group-title="Football", Wales vs Ghana | European Qualifiers FIFA World Cup 2026
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780427707~acl=/hls/*~hmac=d445c1b5fda1b268e481b2e4365292553881cb00e96510969a220c20f70b5b4c
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:33 PM 02-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018698/178003487902035_RG26_studio_show_29may_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 10 - 2 Jun 2026
+# last_update: 01:00:35 AM 03-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090533245" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 3rd T20I - 2 Jun 2026
+https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018989/1780324935661226_RG26_Mensik-v-Fonseca_live_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Jakub Mensik vs Joao Fonseca - QF - 2 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320739928200_RG26_Quarter_Final_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Nouza/Oberleitner vs Bolelli/Vavassori - Men's Doubles - 02 Jun 2026
-https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090533246" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194139245918_INT_Friendlies26_Croatia_vs_Belgium_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Croatia vs Belgium - 2 Jun 2026
-https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
-#last update time: 09:30:33 PM 02-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090533248" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194389499918_INT_Friendlies26_Wales_vs_Ghana_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Wales vs Ghana - 3 Jun 2026
+https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Rafael-Jodar-vs-Alexander-Zverev_FC-WEB.jpg" group-title="Tennis", Jodar Vs Zverev | Roland Garros 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Rafael-Jodar-vs-Alexander-Zverev_FC-WEB.jpg" group-title="Tennis", Jodar Vs Zverev | Roland Garros 2026 (HINDI)
@@ -358,5 +356,3 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zvere
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_telugu.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/RG_Rafael-Jodar-vs-Alexander-Zverev_FC-WEB.jpg" group-title="Tennis", Jodar Vs Zverev | Roland Garros 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jodar_vs_zverev_142698_kannada.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg" group-title="Tennis", Court Suzanne Lenglen | Roland Garros 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/court_suzanne_lenglen_142697_english.m3u8
