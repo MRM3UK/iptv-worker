@@ -3,65 +3,85 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:31:29 PM 02-06-2026
+#last update time: 5:01:31 PM 02-06-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 1 | POLYTRON Indonesia Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780468292-Kv4cPTAAP5YTi-899a2b65d2c9a5159218a980b21492c9d2699e7f-9f3d0f86ad68f11d5120317805380b86
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780484494-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-96343e2daa14d503c6db6b9baa653fcc
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 1 | POLYTRON Indonesia Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=899a2b65d2c9a5159218a980b21492c9d2699e7f&x-sign=90992d561869eb0b6873f7367b15b405&x-time=1780381860
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=79a528e593275af4a03285c3f359077b&x-time=1780398060
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 2 | POLYTRON Indonesia Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780468299-Kv4cPTAAP5YTi-899a2b65d2c9a5159218a980b21492c9d2699e7f-6ff31128addc7ce900eff127362b4272
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780484500-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-e3e63114de96c713a2f529165129ea7f
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 2 | POLYTRON Indonesia Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=899a2b65d2c9a5159218a980b21492c9d2699e7f&x-sign=ddedeaad506d126fd526a67d6f075a10&x-time=1780381860
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=3cafb222d55c7334a4aa63c2b3a12ef9&x-time=1780398060
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 3 | POLYTRON Indonesia Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780468305-Kv4cPTAAP5YTi-899a2b65d2c9a5159218a980b21492c9d2699e7f-c0eb105e1ab789e4d7a9f27f5ef1c9f5
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780484506-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-befcd911ee4d2b11929c7cfd78d33257
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 3 | POLYTRON Indonesia Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=899a2b65d2c9a5159218a980b21492c9d2699e7f&x-sign=45801be981464404d985b769d80e3a2f&x-time=1780381860
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=e74f8b0e14b33d25b3b343572464d1a5&x-time=1780398060
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AAlbirex%20Niigata%0ANPB%20Farm%20Leagues&font=Oswald" group-title="NPB Farm Leagues", Tokyo Yakult Swallows VS Albirex Niigata | NPB Farm Leagues [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Chiba Lotte Marines | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780468311-Kv4cPTAAP5YTi-899a2b65d2c9a5159218a980b21492c9d2699e7f-0d80a7b504910d3c8252d0cb59d9b25c
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780484512-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-902564491016dfa413158d658becc22a
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AAlbirex%20Niigata%0ANPB%20Farm%20Leagues&font=Oswald" group-title="NPB Farm Leagues", Tokyo Yakult Swallows VS Albirex Niigata | NPB Farm Leagues [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Chiba Lotte Marines | NPB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=899a2b65d2c9a5159218a980b21492c9d2699e7f&x-sign=0b573ab9117a0c952e27375d2b91c3d0&x-time=1780381860
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=104dbb28400d80575bb8c5c0d8dc4044&x-time=1780398060
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kufu%20Hayate%0AVS%0AYomiuri%20Giants%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Kufu Hayate VS Yomiuri Giants | NPB Farm Leagues [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald" group-title="NPB", Yomiuri Giants VS ORIX Buffaloes | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780468317-Kv4cPTAAP5YTi-899a2b65d2c9a5159218a980b21492c9d2699e7f-317760ee0eebc8714cd06fef07b70213
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780484518-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-3b3aecc8fecaba6817f477181d7e4bb3
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kufu%20Hayate%0AVS%0AYomiuri%20Giants%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Kufu Hayate VS Yomiuri Giants | NPB Farm Leagues [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald" group-title="NPB", Yomiuri Giants VS ORIX Buffaloes | NPB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=899a2b65d2c9a5159218a980b21492c9d2699e7f&x-sign=7b30876bf9ced20a455d36f173aeef60&x-time=1780381860
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=2cd171edd34da54efa6be6b897a915eb&x-time=1780398060
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AChiba%20Lotte%20Marines%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Tohoku Rakuten Golden Eagles VS Chiba Lotte Marines | NPB Farm Leagues [Server 1]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Chunichi Dragons | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780468323-Kv4cPTAAP5YTi-899a2b65d2c9a5159218a980b21492c9d2699e7f-c67dda3138fc2cbb8127d9fd7e071718
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780484524-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-06563ff1c6dfe8757f7b12eeab5a1824
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tohoku%20Rakuten%20Golden%20Eagles%0AVS%0AChiba%20Lotte%20Marines%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Tohoku Rakuten Golden Eagles VS Chiba Lotte Marines | NPB Farm Leagues [Server 2]
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AChunichi%20Dragons%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Chunichi Dragons | NPB [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=899a2b65d2c9a5159218a980b21492c9d2699e7f&x-sign=47e141a822075f236644981678e732f4&x-time=1780381920
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=3a1dc411db5ca52a15350f4a2fe33d22&x-time=1780398120
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mirra%20Andreeva%0AVS%0ASorana%20Cirstea%20-%20(Women's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Mirra Andreeva VS Sorana Cirstea - (Women's Singles) - QF1 | Roland Garros [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780484529-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-ca6f89a81f04a2f6772fb33f79cb2912
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mirra%20Andreeva%0AVS%0ASorana%20Cirstea%20-%20(Women's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Mirra Andreeva VS Sorana Cirstea - (Women's Singles) - QF1 | Roland Garros [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=c31b31144295039d83976dd9569cf2f2&x-time=1780398120
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mirra%20Andreeva%0AVS%0ASorana%20Cirstea%20-%20(Women's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Mirra Andreeva VS Sorana Cirstea - (Women's Singles) - QF1 | Roland Garros [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780484531-Kv4cPTAAP5YTi-ab8059439e607a252a040ff2cf6b49f4d76b5ffc-0e0eb9c0a1e53ff9bae5b8a9071a0824
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mirra%20Andreeva%0AVS%0ASorana%20Cirstea%20-%20(Women's%20Singles)%20-%20QF1%0ARoland%20Garros&font=Oswald" group-title="Roland Garros", Mirra Andreeva VS Sorana Cirstea - (Women's Singles) - QF1 | Roland Garros [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ab8059439e607a252a040ff2cf6b49f4d76b5ffc&x-sign=9cf3479c7b2d61313c6ed9cff91d16e4&x-time=1780398120
 
