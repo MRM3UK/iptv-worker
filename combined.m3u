@@ -291,30 +291,28 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:29 AM 04-06-2026
+#last update time: 05:30:22 AM 04-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=eC7QaMkboYsy77K-MXB1xQ&expires=1780528830
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=xhnZb_q48bJRufhUbhyt7Q&expires=1780534223
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=xSYfxPiyrgF9gql6UGqTzw&expires=1780528830
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=Cu1bK5jG0DZQ2drfVoXMMg&expires=1780534223
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-_3oSoLOxB1RUD1Axt88yQ&expires=1780528831
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP2)
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=gegD8vo0nTDvL54gBR9aIA&expires=1780528831
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=tXV-00E1dtdGjDCNhGeu7Q&expires=1780534223
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 4:01:34 AM 04-06-2026
+#last update time: 5:46:28 AM 04-06-2026
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 04-06-2026
+# Last Update: 05:50 AM 04-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-13956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17803914501020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780524906~acl=/hls/*~hmac=59b06dfb5336533067670eeac39dafc763c9f6b56ec4d4b040f50cc5c0663d31
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780531514~acl=/hls/*~hmac=e3e5ddb05fd3d8b11eb4172a988018519952936db1641fff116b404852f1c700
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:26 AM 04-06-2026
-#last update time: 04:00:24 AM 04-06-2026
+# last_update: 05:45:20 AM 04-06-2026
+#last update time: 05:45:19 AM 04-06-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142972_english.m3u8
