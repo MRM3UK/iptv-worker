@@ -291,39 +291,33 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:30 AM 05-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=GF3KV4VH5_pakuik9wmaPQ&expires=1780611630
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=vYE7Ah-_9FKUIeYXei_NFQ&expires=1780611631
+#last update time: 04:30:25 AM 05-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=2uYtQwFOWOmvb5QezcMeRA&expires=1780611631
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yZsAnM0AUMFhYTtI9ORLyw&expires=1780611631
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=vYE7Ah-_9FKUIeYXei_NFQ&expires=1780611631
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=YboYPzQ_LaeK3PZW1Px8XQ&expires=1780617026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=89tzYhhq2OgPNSWxv-SxrA&expires=1780617026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qZaL5h9GsGUYgrseyOHIYw&expires=1780617026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=ManAShM5BqepB_czpmKybw&expires=1780611631
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
-https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=uPJkdnYF-jNe8nxcMcC1tg&expires=1780611631
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=nrWipI0K4VsEmw7M2M5FTw&expires=1780617027
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=TmlhpCw-VDVeF4MEo3jSmw&expires=1780617027
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NMymzLCYmYPdwZVuJiT3Ow&expires=1780617027
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kjTv1YJU1CxMrtWZegO8IA&expires=1780611632
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ji6G9tpS7Wx-VguQxvKgcw&expires=1780617027
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=9VDksmXmcQgQm8XytB2Nhw&expires=1780617027
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:16:37 AM 05-06-2026
+#last update time: 4:46:32 AM 05-06-2026
 # Playlist Name: Tapmad bd
-# Last Update: 03:20 AM 05-06-2026
+# Last Update: 04:50 AM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804715581020x576.jpg" group-title="Cricket", Somerset vs Glamorgan Live | Vitality Blast Men 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780608920~acl=/hls/*~hmac=e21dccfd725e15df08a97b99bc58be801ae86872d158002523464170ff1a9bed
-#EXTINF:-1 tvg-id="tapmad-14297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805754541020x576.jpg" group-title="Football", Bundesliga Original Series | Bundesliga 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:15:18 AM 05-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090533649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454020742287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Somerset vs Glamorgan - 4 Jun 2026
-https://dai.google.com/ssai/event/rQKSTlwXTlyPVx05Yvs1BQ/master.m3u8
+# last_update: 04:45:18 AM 05-06-2026
