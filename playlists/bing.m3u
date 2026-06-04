@@ -3,95 +3,35 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:46:31 PM 04-06-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 1 | POLYTRON Indonesia Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780659994-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-424649b361596b0d65e412a081d74ccc
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 1 | POLYTRON Indonesia Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=5c33bdf6f08cb1984185025f523e8a93&x-time=1780573560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 2 | POLYTRON Indonesia Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780660000-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-15fd3f2c2b746e402ee2a03138d8e31e
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 2 | POLYTRON Indonesia Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=7126b81842d6b638646823775064bd8b&x-time=1780573560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 3 | POLYTRON Indonesia Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780660005-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-b28541a5af7354a21746f6053844a542
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0APOLYTRON%20Indonesia%20Open&font=Oswald" group-title="Badminton", Court 3 | POLYTRON Indonesia Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=e61ff05386c5c49ef362ab3ebd1d0ee1&x-time=1780573560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Chiba Lotte Marines | NPB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780660011-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-b262a584224f967db58dced200da0bf3
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Chiba Lotte Marines | NPB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=3573041af475dffb38026870f53ffcac&x-time=1780573560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald" group-title="Baseball", YOKOHAMA DeNA BAYSTARS VS Tohoku Rakuten Golden Eagles | NPB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780660017-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-ad15e02511ecd08521044eeb4e175624
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=YOKOHAMA%20DeNA%20BAYSTARS%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB&font=Oswald" group-title="Baseball", YOKOHAMA DeNA BAYSTARS VS Tohoku Rakuten Golden Eagles | NPB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=a8688ad7ed488eaf90a19bb2aac6ff91&x-time=1780573560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Hanshin Tigers | NPB [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780660023-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-74d31c15295c22523280f1c94ce9f648
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Hanshin Tigers | NPB [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=5506df8bc07ba7b4e2a878bae5612e3d&x-time=1780573620
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sara%20Errani%2FAndrea%20Vavassori%0AVS%0AGabriela%20Dabrowski%2FEvan%20King%20(Mixed%20Doubles)%20-%20Final%0ARoland%20Garros&font=Oswald" group-title="Tennis", Sara Errani/Andrea Vavassori VS Gabriela Dabrowski/Evan King (Mixed Doubles) - Final | Roland Garros [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780660029-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-91e1fea56a198268890ce18585d9ad29
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sara%20Errani%2FAndrea%20Vavassori%0AVS%0AGabriela%20Dabrowski%2FEvan%20King%20(Mixed%20Doubles)%20-%20Final%0ARoland%20Garros&font=Oswald" group-title="Tennis", Sara Errani/Andrea Vavassori VS Gabriela Dabrowski/Evan King (Mixed Doubles) - Final | Roland Garros [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=bd2f1e4e1f9ebe781b77cf2292865089&x-time=1780573620
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sara%20Errani%2FAndrea%20Vavassori%0AVS%0AGabriela%20Dabrowski%2FEvan%20King%20(Mixed%20Doubles)%20-%20Final%0ARoland%20Garros&font=Oswald" group-title="Tennis", Sara Errani/Andrea Vavassori VS Gabriela Dabrowski/Evan King (Mixed Doubles) - Final | Roland Garros [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780660031-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-544812df37f0ec2bdcbf49ab3d686f80
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sara%20Errani%2FAndrea%20Vavassori%0AVS%0AGabriela%20Dabrowski%2FEvan%20King%20(Mixed%20Doubles)%20-%20Final%0ARoland%20Garros&font=Oswald" group-title="Tennis", Sara Errani/Andrea Vavassori VS Gabriela Dabrowski/Evan King (Mixed Doubles) - Final | Roland Garros [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=916e7ce4777030ad9d11d24025e27bb8&x-time=1780573620
+#last update time: 8:46:36 PM 04-06-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Andalucia%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Andalucia | LIV Golf [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1780660036-Kv4cPTAAP5YTi-2e93ecec963fefdbb28e639e38db386fdb147a38-f965e1496f7c8e02e6a777ff1c452db7
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1780670799-Kv4cPTAAP5YTi-2860f6f7990ec78e33c0270f97e07f8425de33ef-03fdf3cba293da0e2472ad72bfa47fb3
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=LIV%20Golf%20Andalucia%0ALIV%20Golf&font=Oswald" group-title="Golf", LIV Golf Andalucia | LIV Golf [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=2e93ecec963fefdbb28e639e38db386fdb147a38&x-sign=35f768549da9d0b09f5ba08cc08447aa&x-time=1780573620
+https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=2860f6f7990ec78e33c0270f97e07f8425de33ef&x-sign=735e81839d0772213fda98387f59c70d&x-time=1780584360
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Marta%20Kostyuk%0AVS%0AMirra%20Andreeva%20(Women's%20Singles)%20-%20SF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Marta Kostyuk VS Mirra Andreeva (Women's Singles) - SF1 | Roland Garros [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780670805-Kv4cPTAAP5YTi-2860f6f7990ec78e33c0270f97e07f8425de33ef-6e151731ae58ece425c7f4ff64faf6bb
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Marta%20Kostyuk%0AVS%0AMirra%20Andreeva%20(Women's%20Singles)%20-%20SF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Marta Kostyuk VS Mirra Andreeva (Women's Singles) - SF1 | Roland Garros [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=2860f6f7990ec78e33c0270f97e07f8425de33ef&x-sign=e65988531210c724733e64fa1ffd23ee&x-time=1780584360
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Marta%20Kostyuk%0AVS%0AMirra%20Andreeva%20(Women's%20Singles)%20-%20SF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Marta Kostyuk VS Mirra Andreeva (Women's Singles) - SF1 | Roland Garros [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780670807-Kv4cPTAAP5YTi-2860f6f7990ec78e33c0270f97e07f8425de33ef-505eba720293948397e31a756ac2c48e
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Marta%20Kostyuk%0AVS%0AMirra%20Andreeva%20(Women's%20Singles)%20-%20SF1%0ARoland%20Garros&font=Oswald" group-title="Tennis", Marta Kostyuk VS Mirra Andreeva (Women's Singles) - SF1 | Roland Garros [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2860f6f7990ec78e33c0270f97e07f8425de33ef&x-sign=76ac7f012415c690b8198cab7ab9888b&x-time=1780584360
 
