@@ -1,15 +1,17 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:40 PM 05-06-2026
+# Last Update: 08:40 PM 05-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
 #EXTINF:-1 tvg-id="tapmad-14071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17804906871020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780660506~acl=/hls/*~hmac=82d4336e92c38738be74f9a7d5ae28b34e2dbcc852383c91cdf434c4907e44a9
-#EXTINF:-1 tvg-id="tapmad-13598" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806466431020x576.jpg" group-title="Tennis", Wheelchair - Semi Finals - Suzanne Lenglen Live | French Open 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780671306~acl=/hls/*~hmac=75fdb9013d3ba5d9b59239737db6eec08a48649cfb9aff434ee180a0132a1fe9
+#EXTINF:-1 tvg-id="tapmad-13599" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806468891020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - Semi Finals - World Feed Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13833" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806462811020x576.jpg" group-title="Tennis", Juniors Singles & Doubles - 1/2 Finals - Court 14 Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13832" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806460501020x576.jpg" group-title="Tennis", Ladies' Doubles - 1/2 Finals - Simonne Mathieu Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13600" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806483521020x576.jpg" group-title="Tennis", Gentlemen's Single - Semi Finals - Philippe Chatrier Live | French Open 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
