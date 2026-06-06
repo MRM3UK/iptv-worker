@@ -291,68 +291,90 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:26 PM 06-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=nmoMeb9YW8gC2r-ymfhdDA&expires=1780771827
+#last update time: 12:30:47 AM 07-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=oWuH1G3aTw0gadKuLPkgIA&expires=1780771828
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=tgAhgC8zR3kyUD9WkcLYew&expires=1780775447
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=HaTDcLtjEQpwCNj736qNPw&expires=1780775447
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=KA2kQyo92Le2uKpSV_pGvQ&expires=1780771828
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=jmyeoN3KN0mZDsyyt-2dTQ&expires=1780775448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=-1gb2vhzaAC4UFYGfRaxRw&expires=1780771828
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=xI3JVUFXPC4yf6H_qM1onQ&expires=1780775448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=3UuQRdOMy17nUrwOrPsqcw&expires=1780771829
+https://cdn6.zohanayaan.com:1686/hls/willowextra.m3u8?md5=rAuJJD7j5L379dDvREnt_w&expires=1780775448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qQL35UojRLc1H7d8F08ixA&expires=1780771829
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP3)
-https://cdn7.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=SCdFZjVQMLAUalRdZRcphA&expires=1780771829
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=jmyeoN3KN0mZDsyyt-2dTQ&expires=1780775448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=aZPFmzvSk7vjhLlFTupi3A&expires=1780771829
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=GHhY9ogozjL4dLh-ffoqXA&expires=1780775448
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP3)
+https://cdn4.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=R8J_CygX2QKKvQINBfO8iA&expires=1780775448
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 11:31:29 PM 06-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%20U20%0AVS%0AC%C3%B4te%20d'Ivoire%20U20%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", Portugal U20 VS Côte d'Ivoire U20 | Tournoi Maurice Revello [Server 1]
+#last update time: 12:46:31 AM 07-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0AChile%0AFriendlies&font=Oswald" group-title="Friendlies", Portugal VS Chile | Friendlies [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=2b4c46b1b3b861f9bb9d859d35e4788690553e0c&x-sign=16d218343fbcc73b0648854df1c4bca2&x-time=1780767060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%20U20%0AVS%0AC%C3%B4te%20d'Ivoire%20U20%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", Portugal U20 VS Côte d'Ivoire U20 | Tournoi Maurice Revello [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780853492-Kv4cPTAAP5YTi-2b4c46b1b3b861f9bb9d859d35e4788690553e0c-2be589c05ad423c2fd9ef8043ff78a61
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gibraltar%0AVS%0ACayman%20Islands%0AFriendlies&font=Oswald" group-title="Football", Gibraltar VS Cayman Islands | Friendlies [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=2b4c46b1b3b861f9bb9d859d35e4788690553e0c&x-sign=92c5846c1eb2ab220f23fd8eb2bdb7f9&x-time=1780767060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gibraltar%0AVS%0ACayman%20Islands%0AFriendlies&font=Oswald" group-title="Football", Gibraltar VS Cayman Islands | Friendlies [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1780853497-Kv4cPTAAP5YTi-2b4c46b1b3b861f9bb9d859d35e4788690553e0c-91c4afe7769ae016a38b2637f76c7826
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald" group-title="Darts", Day 2 | Nordic Darts Masters [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=2b4c46b1b3b861f9bb9d859d35e4788690553e0c&x-sign=e2376a21502d46eba2348792512510a3&x-time=1780767060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald" group-title="Darts", Day 2 | Nordic Darts Masters [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780853502-Kv4cPTAAP5YTi-2b4c46b1b3b861f9bb9d859d35e4788690553e0c-653744e260e53e6bdb941c96f237d070
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2031%0AMMA&font=Oswald" group-title="MMA", WOW FC 31 | MMA [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780853505-Kv4cPTAAP5YTi-2b4c46b1b3b861f9bb9d859d35e4788690553e0c-5f70c7cb447c18573e604eb35ca1671e
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2031%0AMMA&font=Oswald" group-title="MMA", WOW FC 31 | MMA [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=2b4c46b1b3b861f9bb9d859d35e4788690553e0c&x-sign=9476081855fee020e5db151f5fc77c2d&x-time=1780767060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0AChile%0AFriendlies&font=Oswald" group-title="Friendlies", Portugal VS Chile | Friendlies [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780853509-Kv4cPTAAP5YTi-2b4c46b1b3b861f9bb9d859d35e4788690553e0c-27cb0937bb311bf597c190790b7c5aad
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780857994-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-32d71ed3fd79231d4e63779b5ab44f74
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0AChile%0AFriendlies&font=Oswald" group-title="Friendlies", Portugal VS Chile | Friendlies [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=2b4c46b1b3b861f9bb9d859d35e4788690553e0c&x-sign=4faf6a11f1ff946fd80195a309dcaa82&x-time=1780767060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143080/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=786b9a1320bf3610706760f9c133849a&x-time=1780771560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0AChile%0AFriendlies&font=Oswald" group-title="Friendlies", Portugal VS Chile | Friendlies [Server 3]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143080/720p/chunks.m3u8?is_vip=false&token=1780857995-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-920652f209116469e399e584e5b8461c
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0AChile%0AFriendlies&font=Oswald" group-title="Friendlies", Portugal VS Chile | Friendlies [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=d313a2d2b2b7a18a9113178711ed0459&x-time=1780771560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=USA%0AVS%0AGermany%0AFriendlies&font=Oswald" group-title="Friendlies", USA VS Germany | Friendlies [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=6375fc84adc535618254e2e4908da9ed&x-time=1780771560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=USA%0AVS%0AGermany%0AFriendlies&font=Oswald" group-title="Friendlies", USA VS Germany | Friendlies [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1780857999-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-95700935fdf8d1e5d92093d2bb57e819
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gibraltar%0AVS%0ACayman%20Islands%0AFriendlies&font=Oswald" group-title="Football", Gibraltar VS Cayman Islands | Friendlies [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=224466824561e2e259fd6efa82736f72&x-time=1780771560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gibraltar%0AVS%0ACayman%20Islands%0AFriendlies&font=Oswald" group-title="Football", Gibraltar VS Cayman Islands | Friendlies [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1780858003-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-e8b3936982f10e9b45e0aef205cc9243
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald" group-title="Darts", Day 2 | Nordic Darts Masters [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780858007-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-b1a940384174274916a31521c1d08a13
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ANordic%20Darts%20Masters&font=Oswald" group-title="Darts", Day 2 | Nordic Darts Masters [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=a2db7eb39eb2f234d4220d03976a2109&x-time=1780771560
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Romania%0AVS%0AWales%0AFriendlies&font=Oswald" group-title="Football", Romania VS Wales | Friendlies [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=2b4c46b1b3b861f9bb9d859d35e4788690553e0c&x-sign=4ad4e5e39942273f0836ac974eaab885&x-time=1780767060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=fed5a873a066c61542ab875f3325e124&x-time=1780771560
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Romania%0AVS%0AWales%0AFriendlies&font=Oswald" group-title="Football", Romania VS Wales | Friendlies [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=1780853514-Kv4cPTAAP5YTi-2b4c46b1b3b861f9bb9d859d35e4788690553e0c-f2dea22dbf1d9266d5795ac314993382
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=1780858012-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-3fb59b72f80ce045b065ff53855d7c41
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Albania%0AVS%0ALuxembourg%0AFriendlies&font=Oswald" group-title="Football", Albania VS Luxembourg | Friendlies [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=a4c745b38050c48867fa281cc6713e2a&x-time=1780771560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Albania%0AVS%0ALuxembourg%0AFriendlies&font=Oswald" group-title="Football", Albania VS Luxembourg | Friendlies [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=1780858016-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-81ed2d705c57ff050286593fde4c4bae
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2031%0AMMA&font=Oswald" group-title="MMA", WOW FC 31 | MMA [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780858020-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-2015261d9d0a78c7a3ce14500d52eca7
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=WOW%20FC%2031%0AMMA&font=Oswald" group-title="MMA", WOW FC 31 | MMA [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=02997e599c747afe13ebdb0c73995dd1&x-time=1780771620
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FCC%2046%0AMMA&font=Oswald" group-title="MMA", FCC 46 | MMA [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=1780858024-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-1d722b7430f68ac30a5fc33b5de18f61
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FCC%2046%0AMMA&font=Oswald" group-title="MMA", FCC 46 | MMA [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/53766/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=679c5538db7ddd5e6f297b5091057001&x-time=1780771620
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Australia%0AVS%0ASwitzerland%0AFriendlies&font=Oswald" group-title="Football", Australia VS Switzerland | Friendlies [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=efed0ea1fa8e84337631492160f0765107bbe991&x-sign=19d371712c560939317a9b19af87b265&x-time=1780771620
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Australia%0AVS%0ASwitzerland%0AFriendlies&font=Oswald" group-title="Football", Australia VS Switzerland | Friendlies [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780858029-Kv4cPTAAP5YTi-efed0ea1fa8e84337631492160f0765107bbe991-83fc1e6d639b7d0ddbd8a9e06e90694e
 # Playlist Name: Tapmad bd
-# Last Update: 11:30 PM 06-06-2026
+# Last Update: 12:50 AM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-13454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806582481020x576.jpg" group-title="Cricket", Durham vs Northampton Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780772707~acl=/hls/*~hmac=f776c5ebb8612948d6fb7d38b5f6173fb9b9a18cd0f4b0bfc7f3691427e0cbec
+#EXTINF:-1 tvg-id="tapmad-14300" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17806601481020x576.jpg" group-title="Football", Albania vs Luxembourg | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807692041020x576.jpg" group-title="Football", Switzerland vs Australia | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:30:25 PM 06-06-2026
+# last_update: 12:45:17 AM 07-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090534036" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623306451941_INT_Friendlies26_Portugal_vs_Chile_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Portugal vs Chile - 6 Jun 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534066" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Durham vs Northampton - 6 Jun 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090534018" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Bastar Bisons vs Raipur Rhinos - 6 Jun 2026
-https://dai.google.com/ssai/event/813DDHcDSWWib_FAwAwM0A/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534118" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Switzerland vs Australia - 7 Jun 2026
+https://dai.google.com/ssai/event/pBx_vqLkQuS62_X9rlAWrw/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534035" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623396404940_INT_Friendlies26_Romania_vs_Wales_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Romania vs Wales - 6 Jun 2026
 https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 4 - Men's & Women's  Match - 6 Jun 2026
