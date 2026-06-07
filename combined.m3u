@@ -291,61 +291,67 @@ https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:27 PM 07-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=I0iwVd4B4oMih-F1iS9bCw&expires=1780854628
+#last update time: 12:00:25 AM 08-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=Ic6VT2jCdTWz7ceaAoeGHg&expires=1780854629
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Lgy51gXDxt-izOz6SKTlHg&expires=1780860026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=tBYShoUyGhYoOtd3E9Ciyw&expires=1780860026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=_BXUN0STrxR6YkZ3DbhFng&expires=1780854629
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=X4qzHdRpOezPmrOQ-idHqA&expires=1780854629
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=wOa8U6eZzN37nNIRjNu68w&expires=1780854629
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=6-qUL_5DbSOavirm7dfI3g&expires=1780860026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=nC0617I0JmF9bhow8Dii2A&expires=1780854630
+https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=Lgy51gXDxt-izOz6SKTlHg&expires=1780860026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=5MNRWH637K2OjHnxFXJJmw&expires=1780860026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=tBYShoUyGhYoOtd3E9Ciyw&expires=1780860026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP3)
-https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=hQVmyamTvbgjIigrWVFj_Q&expires=1780854630
+https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=YPInIuD1PCw968j6HDdtjg&expires=1780860027
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=f9GAZ6ivStamM14iyahLyw&expires=1780854630
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=DiIS51WQR4-J95jyJaZHLQ&expires=1780860027
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTESPN)
-https://cdn5.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=x-zNl0V3l2vK38daYutdpw&expires=1780854631
+https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=eSdMLG2yAHb6MspFsKy81A&expires=1780860027
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 10:46:29 PM 07-06-2026
+#last update time: 11:46:27 PM 07-06-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Men%20Final%0ARoland%20Garros&font=Oswald" group-title="Tennis", Men Final | Roland Garros [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780937191-Kv4cPTAAP5YTi-f6c74ea516a37e12465c4d3c2df07ed9dce0e748-ed2ad81b57069f726eaf3158ecb9e447
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780940790-Kv4cPTAAP5YTi-2586f2be551604d909c530b9a3e2863248b4df91-e3a65306846958bbe609128413e5efb4
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Men%20Final%0ARoland%20Garros&font=Oswald" group-title="Tennis", Men Final | Roland Garros [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=f6c74ea516a37e12465c4d3c2df07ed9dce0e748&x-sign=59710aa66dbb161bb490191dfb6b454d&x-time=1780850760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=2586f2be551604d909c530b9a3e2863248b4df91&x-sign=ffe9656a85d00a272efa1aede67a1caa&x-time=1780854360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Denmark%0AVS%0AUkraine%0AFriendlies&font=Oswald" group-title="Football", Denmark VS Ukraine | Friendlies [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=f6c74ea516a37e12465c4d3c2df07ed9dce0e748&x-sign=29a9ea33db31c9a80ea4517cf03d94d7&x-time=1780850760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=2586f2be551604d909c530b9a3e2863248b4df91&x-sign=409ae9d846d9d8cfe596352402dae869&x-time=1780854360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Denmark%0AVS%0AUkraine%0AFriendlies&font=Oswald" group-title="Football", Denmark VS Ukraine | Friendlies [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1780937196-Kv4cPTAAP5YTi-f6c74ea516a37e12465c4d3c2df07ed9dce0e748-b045193d00b7d6c9ecc34075d8393253
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1780940794-Kv4cPTAAP5YTi-2586f2be551604d909c530b9a3e2863248b4df91-c7a31efee602229049107ffd76cfff25
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=China%20PR%20U20%0AVS%0ATunisia%20U23%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", China PR U20 VS Tunisia U23 | Tournoi Maurice Revello [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=f6c74ea516a37e12465c4d3c2df07ed9dce0e748&x-sign=db2e04e515585b0c6fecc18dbd1ed143&x-time=1780850760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=2586f2be551604d909c530b9a3e2863248b4df91&x-sign=1676bbabcdc57b93b0f3971093ab9dd8&x-time=1780854360
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=China%20PR%20U20%0AVS%0ATunisia%20U23%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", China PR U20 VS Tunisia U23 | Tournoi Maurice Revello [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780937200-Kv4cPTAAP5YTi-f6c74ea516a37e12465c4d3c2df07ed9dce0e748-4483d2422098e34944fb198be13d9936
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780940798-Kv4cPTAAP5YTi-2586f2be551604d909c530b9a3e2863248b4df91-9655998231d6d8f64548d9cbcfe57542
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kosovo%0AVS%0AAndorra%0AFriendlies&font=Oswald" group-title="Football", Kosovo VS Andorra | Friendlies [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=2586f2be551604d909c530b9a3e2863248b4df91&x-sign=3f5a588a9ad4f770f14b3e0c3b5a9244&x-time=1780854360
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kosovo%0AVS%0AAndorra%0AFriendlies&font=Oswald" group-title="Football", Kosovo VS Andorra | Friendlies [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1780940802-Kv4cPTAAP5YTi-2586f2be551604d909c530b9a3e2863248b4df91-0985e499a1ab54d74a0dc6f77eb6d58d
 # Playlist Name: Tapmad bd
-# Last Update: 10:40 PM 07-06-2026
+# Last Update: 11:50 PM 07-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-13607" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807852101020x576.jpg" group-title="Tennis", Gentlemen's Single - Finals - Philippe Chatrier Live | French Open 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14324" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17807855521020x576.jpg" group-title="Football", Denmark vs Ukraine | European Qualifiers FIFA World Cup 2026
-https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780851307~acl=/hls/*~hmac=a2921f279ea9bae703bccb7f33501a486076a6b8f787706bc1577c3a672e8fb8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780855507~acl=/hls/*~hmac=27c3c912de3875d5b38cb62441c956fc23b56c359528fb686b3c55ba388f67c8
+#EXTINF:-1 tvg-id="tapmad-14325" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808450571020x576.jpg" group-title="Football", Kosovo vs Andorra | European Qualifiers FIFA World Cup 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:45:20 PM 07-06-2026
+# last_update: 12:00:25 AM 08-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
 https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534121" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623779723941_INT_Friendlies26_Denmark_vs_Ukraine_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Denmark vs Ukraine - 7 Jun 2026
 https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534263" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019397/1780834316817980_CCPL26_Raigarh_Lions_vs_Bilaspur_Bulls_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raigarh Lions vs Bilaspur Bulls - 7 Jun 2026
 https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090534214" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg" group-title="Golf", LIV Golf | Andalucia - Day 4 - 7 Jun 2026
-https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534249" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019409/1780853572297759_INT_Friendlies26_Kosovo_vs_Andorra_6jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Kosovo vs  Andorra - 7 Jun 2026
+https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
