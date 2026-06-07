@@ -309,36 +309,33 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:29 AM 08-06-2026
+#last update time: 04:00:30 AM 08-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=sRjmUicqFPxPaojQJNVHOQ&expires=1780870830
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=9fVz-zCrg4tk8msTlY68OQ&expires=1780874431
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=uUO8_viAKeljKBjXUbY4JA&expires=1780870830
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=4PblAmLlclwzrs212kISZg&expires=1780874431
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=9ufTGJfy4pRdQoMTuusx1g&expires=1780870830
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=L_ocFHzMqMlmovlhvHk8Tw&expires=1780874432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=m74efKQuxb02eQf2fb8S_g&expires=1780870830
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=K0BeYutWiNkk2Lqag0HVAg&expires=1780874432
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=H3-_8jo5Llpz_7MPKyU9SQ&expires=1780874432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=laDM7aO0hhdXcsIYdOP7Mg&expires=1780870831
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP3)
-https://cdn4.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=XzvYmX8C7Qfs5vw5qoyyVw&expires=1780870831
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=L_ocFHzMqMlmovlhvHk8Tw&expires=1780874432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=GUGPUUMv6_q_HmxaE5mf8Q&expires=1780870831
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=CwNfgY5-Oqo2Eb7uAAyCUA&expires=1780874433
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=Lli9F7ZNigqQEJ8V6NZ-DQ&expires=1780874433
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:01:30 AM 08-06-2026
+#last update time: 4:16:30 AM 08-06-2026
 # Playlist Name: Tapmad bd
-# Last Update: 03:00 AM 08-06-2026
+# Last Update: 04:10 AM 08-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808457351020x576.jpg" group-title="Football", Greece vs Italy | European Qualifiers FIFA World Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:00:25 AM 08-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090534251" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623998568941_INT_Friendlies26_Greece_vs_Italy_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Greece vs Italy - 8 Jun 2026
-https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8
+# last_update: 04:15:17 AM 08-06-2026
