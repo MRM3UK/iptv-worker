@@ -3,35 +3,25 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:46:39 PM 08-06-2026
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 1 | BOSS Open [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781020002-Kv4cPTAAP5YTi-8703171aad6e5de8be61525dd736850f33242141-629a32326b0f5d2e635a5612e8043253
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%201%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 1 | BOSS Open [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8703171aad6e5de8be61525dd736850f33242141&x-sign=ea0b3d91759d2c55bd9a3301b9a29946&x-time=1780933560
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20Tour%20Auvergne-Rh%C3%B4ne-Alpes%2C%20Stage%202%0AUCI%20World%20Tour&font=Oswald" group-title="Cycling", ES1, Tour Auvergne-Rhône-Alpes, Stage 2 | UCI World Tour [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1781020007-Kv4cPTAAP5YTi-8703171aad6e5de8be61525dd736850f33242141-2aea9803cce335a6a97e4b294ce142a9
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20Tour%20Auvergne-Rh%C3%B4ne-Alpes%2C%20Stage%202%0AUCI%20World%20Tour&font=Oswald" group-title="Cycling", ES1, Tour Auvergne-Rhône-Alpes, Stage 2 | UCI World Tour [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=8703171aad6e5de8be61525dd736850f33242141&x-sign=b969d17cdb48063f529f0130a7cd37b7&x-time=1780933560
+#last update time: 12:16:38 AM 09-06-2026
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%201%0AWTA%20500&font=Oswald" group-title="WTA 500", London: Day 1 | WTA 500 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781020012-Kv4cPTAAP5YTi-8703171aad6e5de8be61525dd736850f33242141-8b5e1389374bbbd628f4384eff0688c5
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781029001-Kv4cPTAAP5YTi-822440db0587cdef98bdcee314dda2b43fc125a9-68f7815a794cc829f8794f42536dbf2e
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%201%0AWTA%20500&font=Oswald" group-title="WTA 500", London: Day 1 | WTA 500 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=8703171aad6e5de8be61525dd736850f33242141&x-sign=8bf2b754fd5ed3322c766f306e8cd1e1&x-time=1780933560
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=822440db0587cdef98bdcee314dda2b43fc125a9&x-sign=21e544e5e5f26c1f00502f2491daf280&x-time=1780942560
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Venezuela%20U20%0AVS%0APortugal%20U20%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", Venezuela U20 VS Portugal U20 | Tournoi Maurice Revello [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1781029006-Kv4cPTAAP5YTi-822440db0587cdef98bdcee314dda2b43fc125a9-2d56b6c79f95c431640ffbebff1244ea
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Venezuela%20U20%0AVS%0APortugal%20U20%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", Venezuela U20 VS Portugal U20 | Tournoi Maurice Revello [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=822440db0587cdef98bdcee314dda2b43fc125a9&x-sign=6fa30cf66b4755cc5f2a6be82a09ef33&x-time=1780942560
 
