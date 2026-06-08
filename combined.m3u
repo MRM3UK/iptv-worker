@@ -309,34 +309,46 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:33 AM 09-06-2026
+#last update time: 05:30:23 AM 09-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=km44WfgAGn4RYtwU2K9AOg&expires=1780960834
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=EDygicQnTFdUGuFf0Ta2eA&expires=1780960834
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=iip98VzxkDknOD1gwd0_IQ&expires=1780966224
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=0QFudWCe2i_KdDNjibSYZg&expires=1780960834
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=1dIhXW9YxUmcY4_y3-ig7A&expires=1780960835
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=T9MJ1XVlHtYaaAX0bmzCkw&expires=1780960835
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=CLskMOpViuVATKjkIEAIdQ&expires=1780966224
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-K9aphpe9-L8M58QVABL3Q&expires=1780966225
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
-https://cdn5.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=YmWponIr6NCwte6prvnVcg&expires=1780960835
+https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=nJj_Go9xzVOXY426xGpAqA&expires=1780966225
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=7T4CmERnyhhBG6-tncrLfA&expires=1780966225
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP1)
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 4:01:32 AM 09-06-2026
+#last update time: 5:31:27 AM 09-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="SATHIO GROUP Australian Badminton Open", Court 1 | SATHIO GROUP Australian Badminton Open [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781047890-Kv4cPTAAP5YTi-484ddd1e5ff5367fbafc9dd549587c234d967d83-e86eb24135ad1b5d7b719fb6993af706
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="SATHIO GROUP Australian Badminton Open", Court 1 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=484ddd1e5ff5367fbafc9dd549587c234d967d83&x-sign=b5e67fb28a3b63599e6f0d4ea0e5b209&x-time=1780961460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 2 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781047894-Kv4cPTAAP5YTi-484ddd1e5ff5367fbafc9dd549587c234d967d83-b6c6f7eaca10b931a64e1f2cd27d57a4
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 2 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=484ddd1e5ff5367fbafc9dd549587c234d967d83&x-sign=815513008858cf247e1360fb3f16ff12&x-time=1780961460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781047899-Kv4cPTAAP5YTi-484ddd1e5ff5367fbafc9dd549587c234d967d83-224884c025889d6c6c0f9f9734896824
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=484ddd1e5ff5367fbafc9dd549587c234d967d83&x-sign=c1e7c8642736c8fd628822123e5778f9&x-time=1780961460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 4 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781047904-Kv4cPTAAP5YTi-484ddd1e5ff5367fbafc9dd549587c234d967d83-99583970ee6b7b89869113009047a8a8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 4 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=484ddd1e5ff5367fbafc9dd549587c234d967d83&x-sign=8d8c9610a25161b0e522e84c3581c11e&x-time=1780961460
 # Playlist Name: Tapmad bd
-# Last Update: 04:10 AM 09-06-2026
+# Last Update: 05:30 AM 09-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17808996221020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780957532~acl=/hls/*~hmac=20d7793f7bcc95899a54c02f5baf56c4bcfb171373d7928dc0457b47854b3947
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:25 AM 09-06-2026
+# last_update: 05:30:23 AM 09-06-2026
