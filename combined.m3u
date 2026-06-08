@@ -309,43 +309,42 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:25 AM 08-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=BBkESUUXnwU6fHDuIU1B0w&expires=1780887026
+#last update time: 12:30:29 PM 08-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=ABwwku40aJJiRzaIKOxkag&expires=1780887026
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=XdnM6eVXV7kNUk1OtaPUMw&expires=1780905030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=bb0PiP5FYi3g4CODOxLrvA&expires=1780887026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=BBkESUUXnwU6fHDuIU1B0w&expires=1780887026
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=1LBW27X5QMKdG0DuPTJzTA&expires=1780905031
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=6fn8eEG2s-EI-VxLzL3cCg&expires=1780905031
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=6ioIROkyjxQ15s3M0L2b2g&expires=1780887027
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=7RWJlADufBp-YQ5RkAaaBQ&expires=1780905031
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=Lky3uL7_n3DhaS8dR5MjBw&expires=1780887027
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=PQX4ZWqrcA3TC82v_lRzBg&expires=1780905032
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=wUU9tkbrQ8kXNvnMu8KHiQ&expires=1780887027
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=H2svjm8-17CCMS6nd-5-dg&expires=1780905032
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
-https://cdn9.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=Aq-sHLzqV8F8A9N1WrzM2A&expires=1780887027
+https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=_D2DgaVH6MPGorjQIpy6gQ&expires=1780905032
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:46:29 AM 08-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=UWC%2058%0AMMA&font=Oswald" group-title="MMA", UWC 58 | MMA [Server 1]
+#last update time: 12:46:28 PM 08-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fride%209%3A%20New%20Blood%0ANaciones%20MMA&font=Oswald" group-title="Naciones MMA", Fride 9: New Blood | Naciones MMA [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780969592-Kv4cPTAAP5YTi-feb1a94e7afcbbcd937b924c9cbd9d52762897ef-28c767b96761bf3aeb97bcaa958cd32c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=UWC%2058%0AMMA&font=Oswald" group-title="MMA", UWC 58 | MMA [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=feb1a94e7afcbbcd937b924c9cbd9d52762897ef&x-sign=0e190f6d63cbd02694b719591d7f0eeb&x-time=1780883160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=UWC%2058%0AMMA&font=Oswald" group-title="MMA", UWC 58 | MMA [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780969593-Kv4cPTAAP5YTi-feb1a94e7afcbbcd937b924c9cbd9d52762897ef-c249f468f417a8edfb59686aeb0db59b
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=UWC%2058%0AMMA&font=Oswald" group-title="MMA", UWC 58 | MMA [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=feb1a94e7afcbbcd937b924c9cbd9d52762897ef&x-sign=23518ba60484a14967a48c4c87d72820&x-time=1780883160
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780987590-Kv4cPTAAP5YTi-5b5306d9075cc0d47182798429b0b48f29ac6c98-b8593539ddf1f4aa0f1f2cf336800d2e
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fride%209%3A%20New%20Blood%0ANaciones%20MMA&font=Oswald" group-title="Naciones MMA", Fride 9: New Blood | Naciones MMA [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=5b5306d9075cc0d47182798429b0b48f29ac6c98&x-sign=d7702d134c058b492dcc19791b55d9c4&x-time=1780901160
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Melbourne%0AVS%0ACollingwood%20Magpies%0AAFL%20Premiership&font=Oswald" group-title="Football", Melbourne VS Collingwood Magpies | AFL Premiership [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=5b5306d9075cc0d47182798429b0b48f29ac6c98&x-sign=1206e8fcdf4518aa55591b8469d92a18&x-time=1780901160
 # Playlist Name: Tapmad bd
-# Last Update: 07:40 AM 08-06-2026
+# Last Update: 12:50 PM 08-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-14078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17805559211020x576.jpg" group-title="Cricket", India vs Afghanistan | Afghanistan Tour of India 2026
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:45:19 AM 08-06-2026
+# last_update: 12:45:21 PM 08-06-2026
