@@ -309,58 +309,66 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:25 AM 09-06-2026
+#last update time: 03:30:35 PM 09-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=1A5VvaDjVooYuIq6Ps2G2A&expires=1780987826
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=4ZlVGlW4iLH8MsgxpVG_cQ&expires=1781002236
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Qi-bQUH2u7ku5MuTekqaTw&expires=1780987826
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=UjMGMopAiHm5gmPigoAP6A&expires=1781002236
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=OANQVnRuIrPTs4oiiOf5Mg&expires=1780987826
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
-https://cdn5.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=3PevCetaO5EBtxQyW1FRRA&expires=1780987826
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=vBfSJ9_zLuryZbi1SwxzgQ&expires=1781002236
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=NX53QRIWBiTLSanIHULaGQ&expires=1780987826
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=YA6mw53Qf-Ktn_udwVhF4A&expires=1781002237
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=PI8Jt7qt2oJnUUmDeb7TmQ&expires=1781002237
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP1)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
-https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=aZMmmjfNvEU3qCuCUoy2Jw&expires=1780987827
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP3)
-https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=0Njw6XJBDkzrwnrtECSiEw&expires=1780987827
+https://cdn7.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=XN_9zcMDJKH-wgLnm90Wfg&expires=1781002238
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=I9caXDOrMgIIv2jiaGuzCw&expires=1781002238
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 11:46:31 AM 09-06-2026
+#last update time: 3:31:32 PM 09-06-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | SATHIO GROUP Australian Badminton Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781070393-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-9584714005d99e051298281d30efe1f8
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781083895-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-ac5a01ed97589105f0f3fe7926076b63
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | SATHIO GROUP Australian Badminton Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=42010c98755d985b355013b8f6579235&x-time=1780983960
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=51f40af68686b281f6bf45ea0f770004&x-time=1780997460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 2 | SATHIO GROUP Australian Badminton Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781070398-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-ff5cc5d2b825c2b39113335d35fc5cb8
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781083900-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-8b9e10a791d014e6f069460f71e5449e
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 2 | SATHIO GROUP Australian Badminton Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=ca5ed0e5d4cd98d7086d1829d151e2a7&x-time=1780983960
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=ff2b7fe51114b1b171b7198a62e61b9d&x-time=1780997460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | SATHIO GROUP Australian Badminton Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781070402-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-daedfdc4427380bfe04211d551442d1a
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781083905-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-d5417bf4a3f917f9ef9b1f7376b3d3df
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | SATHIO GROUP Australian Badminton Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=65669d25749cd59cbd6491acb2224b97&x-time=1780983960
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=84691ceaba7cde27bb97143193521074&x-time=1780997460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 4 | SATHIO GROUP Australian Badminton Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781070406-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-8c1e178025b2548f3454476fb4b42ceb
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781083911-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-b2c9424d8b09c081c8e45ef421298185
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 4 | SATHIO GROUP Australian Badminton Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=59d83e919cd7560f4d92596fc1992cb1&x-time=1780983960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Tohoku Rakuten Golden Eagles | NPB Farm Leagues [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781070410-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-7b32138939290276b32b278b9c8a3788
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0ATohoku%20Rakuten%20Golden%20Eagles%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Tohoku Rakuten Golden Eagles | NPB Farm Leagues [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=d4f95d3ef2bf6516ca197c1b59ab32f0&x-time=1780983960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hayate%20Shizuoka%0AVS%0ADragons%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Hayate Shizuoka VS Dragons | NPB Farm Leagues [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781070414-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-716537fc406c351c9e5ccf168ac8421d
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hayate%20Shizuoka%0AVS%0ADragons%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Hayate Shizuoka VS Dragons | NPB Farm Leagues [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=adde2b5cedf27c1ec6c6737eaff73e82&x-time=1780983960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Yomiuri Giants VS Saitama Seibu Lions | NPB Farm Leagues [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781070418-Kv4cPTAAP5YTi-127cc630d4f53b2540fb3a1de74e204daedd85c4-426f7982184cda4428347391ca9b811c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Yomiuri%20Giants%0AVS%0ASaitama%20Seibu%20Lions%0ANPB%20Farm%20Leagues&font=Oswald" group-title="Baseball", Yomiuri Giants VS Saitama Seibu Lions | NPB Farm Leagues [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=127cc630d4f53b2540fb3a1de74e204daedd85c4&x-sign=b163df571a00576423d490be74a7128d&x-time=1780983960
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=38c4802306950a03ef1116c7d4a09647&x-time=1780997460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Australia%20W%0AVS%0AMexico%20W%0AFriendlies%20Women&font=Oswald" group-title="Football", Australia W VS Mexico W | Friendlies Women [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781083916-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-f2308f12fcc93ccfa282b4c5fe728549
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Australia%20W%0AVS%0AMexico%20W%0AFriendlies%20Women&font=Oswald" group-title="Football", Australia W VS Mexico W | Friendlies Women [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=e4910dbf396547a68292376f56448660&x-time=1780997460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS YOKOHAMA DeNA BAYSTARS | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781083921-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-afd67fa079244863b6aae943668aeda6
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AYOKOHAMA%20DeNA%20BAYSTARS%0ANPB&font=Oswald" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS YOKOHAMA DeNA BAYSTARS | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=a016933f1e3b72357177819638502745&x-time=1780997520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Hanshin Tigers | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781083926-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-cbaad5e77fd566b294775fe48e8613b0
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fukuoka%20SoftBank%20Hawks%0AVS%0AHanshin%20Tigers%0ANPB&font=Oswald" group-title="Baseball", Fukuoka SoftBank Hawks VS Hanshin Tigers | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=374426062203a0f902cee5725b5c448c&x-time=1780997520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Hiroshima Toyo Carp | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781083931-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-9edc38d144bcb3e481ca58ed08a48432
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Hiroshima Toyo Carp | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=379854407f52a57c19e126eac52d729b&x-time=1780997520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 2 | BOSS Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781083937-Kv4cPTAAP5YTi-1a01f311eb528b2168c56575ca79b5f9c15b61d0-3ab0abc935b82e3fe19a6cd3b6e4c0f5
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 2 | BOSS Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=1a01f311eb528b2168c56575ca79b5f9c15b61d0&x-sign=306dc6180fc75c8c82ff4f45f22459bc&x-time=1780997520
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 AM 09-06-2026
+# Last Update: 03:30 PM 09-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -369,6 +377,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:45:22 AM 09-06-2026
+# last_update: 03:30:31 PM 09-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090534410" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019451/1780945977230567_Talent_TV_Cup_Tri_series_Sri_Lanka_A_vs_India_A_landscape_Thumb.jpg" group-title="Cricket", Talent TV Cup | Sri Lanka A vs India A - 9 Jun 2026
 https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086291755785_CCPL26_Rajnandgaon_Panthers_vs_Bastar_Bisons_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Rajnandgaon Panthers vs Bastar Bisons - 9 Jun 2026
+https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8
