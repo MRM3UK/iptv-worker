@@ -309,27 +309,57 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:30 AM 10-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=aZlaZHUXc5KQqIqVPaMeag&expires=1781050831
+#last update time: 07:30:23 AM 10-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=akDk1YsDGhHl8THgjGuKsg&expires=1781050831
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=VMRtF2wH-dlGUGLPFGhUkQ&expires=1781059824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=oNIKIHwxTxAZiSGtdXTc-A&expires=1781050831
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=6I9oqS1ItVaKyyIxgwoI2g&expires=1781059824
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=iNCWI_5uLkjiTFVB7t5SpA&expires=1781059824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Z-UwfRfjQDuYM0yUpEUMsg&expires=1781050831
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=SxtrOyZgEO0j4Dz3786iZQ&expires=1781059824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
-https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=0qWdzZLFKITb_Q5uZDHb7g&expires=1781050831
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=P8O60GuHkUFe1ovbZiM2Zg&expires=1781059825
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 5:01:29 AM 10-06-2026
+#last update time: 7:31:29 AM 10-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AIceland%0AFriendlies&font=Oswald" group-title="Friendlies", Argentina VS Iceland | Friendlies [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=1781141492-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-4e0ccfb7fddf51894a34aeba04599110
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AIceland%0AFriendlies&font=Oswald" group-title="Friendlies", Argentina VS Iceland | Friendlies [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=1bdf5e87eec3ab3013a72676fb9d289b&x-time=1781055060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AIceland%0AFriendlies&font=Oswald" group-title="Friendlies", Argentina VS Iceland | Friendlies [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781141493-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-45abc67b32335baf27025f2ff0c22e7e
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Argentina%0AVS%0AIceland%0AFriendlies&font=Oswald" group-title="Friendlies", Argentina VS Iceland | Friendlies [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=d2f37a42b8b908821e1723ac96dd74f4&x-time=1781055060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781141498-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-bf91fffdfc275cba46494bfe16169277
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=76955000fd04cbe6be5ab74bf131cee3&x-time=1781055060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 2 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781141503-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-a8d371f8e382dbb538c6b68237cf7691
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 2 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=0ad06700513efc65320fce713f4f915b&x-time=1781055060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781141508-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-66b0bafe7b39d9497cf7b496dc144ed7
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%203%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 3 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=a44cdcf861a71e36196e757c5ee9c888&x-time=1781055060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 4 | SATHIO GROUP Australian Badminton Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781141513-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-4a8d5e6dfcacbf9ec6c936f2500a5f58
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%204%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 4 | SATHIO GROUP Australian Badminton Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=6089fe867fedf9b55b639457e53ea47e&x-time=1781055060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%0AVS%0AGuatemale%0AFriendlies&font=Oswald" group-title="Football", Ecuador VS Guatemale | Friendlies [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1781141518-Kv4cPTAAP5YTi-a5d2c673b29a52782d936843174258dd4b8d6c4e-ddbe83d328b56834d3497f84ca60fa63
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ecuador%0AVS%0AGuatemale%0AFriendlies&font=Oswald" group-title="Football", Ecuador VS Guatemale | Friendlies [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=a5d2c673b29a52782d936843174258dd4b8d6c4e&x-sign=62af87313007eea0021f1d0f7cdba8f6&x-time=1781055060
 # Playlist Name: Tapmad bd
-# Last Update: 05:10 AM 10-06-2026
+# Last Update: 07:30 AM 10-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:45:19 AM 10-06-2026
+# last_update: 07:30:23 AM 10-06-2026
