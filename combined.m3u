@@ -309,43 +309,29 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:30 AM 12-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5KZj7FyNNnSQBXggjG0Uww&expires=1781218231
+#last update time: 05:00:29 AM 12-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=7BxkiC8MpcAyEJiYmSukzg&expires=1781218231
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=m4tvvqRnxL-yDdC2gzNtXw&expires=1781223630
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Rde2wbAv6NpTAGzea2Z2KA&expires=1781223630
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=ZhpqRE5wTEScGjVezSdA5Q&expires=1781218231
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (SONYTEN1)
-https://cdn5.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=WznY3P6d8pgu4Dmqi5FvqQ&expires=1781218231
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (WILLOWUSA)
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uhc-zYNq8eQ5w3dQVa1N3A&expires=1781218231
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=tSmpuVrrfJKI63-cRuTCXQ&expires=1781223630
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:31:28 AM 12-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 1]
+#last update time: 5:01:34 AM 12-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=64ba53fa6607603cd47e1875e5250219c64ea699&x-sign=693ccb9f5f208e19b15666c62d339e01&x-time=1781213460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781299892-Kv4cPTAAP5YTi-64ba53fa6607603cd47e1875e5250219c64ea699-9956992c9f7458e92a78f4f04788b697
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=64ba53fa6607603cd47e1875e5250219c64ea699&x-sign=16d8450127be85243f7bbf8501cad217&x-time=1781213460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781299897-Kv4cPTAAP5YTi-64ba53fa6607603cd47e1875e5250219c64ea699-514116974947b5322cb8221503db64fb
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781305298-Kv4cPTAAP5YTi-8d18a0ec888e9e95cfcf886a888a2e3b16ba135d-4e411d5e76b8ff9287fec93ccbca80fc
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=64ba53fa6607603cd47e1875e5250219c64ea699&x-sign=0911221529bb86e1684a372792b19109&x-time=1781213460
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%0ALe%20Mans%2024hours%20%7C%20Free%20practice%204%20%7C%20FIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC | Le Mans 24hours | Free practice 4 | FIA World Endurance Championship [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781299902-Kv4cPTAAP5YTi-64ba53fa6607603cd47e1875e5250219c64ea699-ebd0493cd65ed8509b20bc2064fa3494
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%0ALe%20Mans%2024hours%20%7C%20Free%20practice%204%20%7C%20FIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC | Le Mans 24hours | Free practice 4 | FIA World Endurance Championship [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=64ba53fa6607603cd47e1875e5250219c64ea699&x-sign=0e19c871bfee4ae8183a947fd72433fe&x-time=1781213460
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=8d18a0ec888e9e95cfcf886a888a2e3b16ba135d&x-sign=05fd2c254941d71dcf62921970018913&x-time=1781218860
 # Playlist Name: Tapmad bd
-# Last Update: 03:30 AM 12-06-2026
+# Last Update: 05:10 AM 12-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:30:24 AM 12-06-2026
+# last_update: 05:00:44 AM 12-06-2026
