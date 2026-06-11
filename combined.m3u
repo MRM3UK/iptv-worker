@@ -309,76 +309,49 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:32 PM 11-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=MkxsUl78UxCKwCt9WDvS5w&expires=1781184032
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=QWhd2Mamz-Lru4NdzF5Wfw&expires=1781184033
+#last update time: 10:30:40 PM 11-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=iX1gbnQjFHRjxkKUcHmsLg&expires=1781184033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (SONYTEN1)
-https://cdn9.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=HH9U3Us-Wp-EzQ62m9z2sQ&expires=1781184033
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=nazkb-awQtyM0CHTJwY5FQ&expires=1781200241
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=4CA5teQZ0nWsusfRy5PLUg&expires=1781200241
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bgMPfgjizA-L2dLYKwv5AA&expires=1781200241
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (WILLOWUSA)
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=jRhoDd1b6Zit2emOYygygQ&expires=1781184033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
-https://cdn6.zohanayaan.com:1686/hls/willowextra.m3u8?md5=MEkcEZCb3g9R8Klg6YeKSA&expires=1781184033
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=H1GR1ahne0J8h-67ld6ZAA&expires=1781200241
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (SONYTEN1)
+https://cdn9.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=9yQYRFPnWd_kbSJogr8zPA&expires=1781200241
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP2)
-https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=u8uZztCWBO7pWMoZMYvSSw&expires=1781184033
+https://cdn3.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=j75_X4Oq0lFpCgk33awqBw&expires=1781200241
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
+https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=l8t5ffj_6UBvQQnGKzdbyA&expires=1781200241
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 6:16:36 PM 11-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Hiroshima Toyo Carp | NPB [Server 1]
+#last update time: 10:31:36 PM 11-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781266599-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-0c6089031f689a2057759524ee3b3cb4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Hiroshima Toyo Carp | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=2f6bc103bc64000bacf21b0d48cf29b9&x-time=1781180160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chunichi%20Dragons%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Chunichi Dragons VS Chiba Lotte Marines | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781266605-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-21a4b964ab1477d7c7c1d347ac739bbd
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chunichi%20Dragons%0AVS%0AChiba%20Lotte%20Marines%0ANPB&font=Oswald" group-title="Baseball", Chunichi Dragons VS Chiba Lotte Marines | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=f29ca5c31cb2738fa718ff4f7ce00e8d&x-time=1781180160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ALibema%20Open&font=Oswald" group-title="Tennis", Day 4 | Libema Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781266610-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-e76aac1042debb5614cb72aafd057ec5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ALibema%20Open&font=Oswald" group-title="Tennis", Day 4 | Libema Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=7381f80e62b19fd6b66be70bbf5650fd&x-time=1781180160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=5e40e18e9e29cc2511a75fb89205f861&x-time=1781180160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=085d0e1f40487d4d7d55d2597b64bc52740c5ea8&x-sign=01917a59fdd93cc6a594dbcedccb2e95&x-time=1781195460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781266617-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-b162510c644b438aac4e420a9d440743
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781281899-Kv4cPTAAP5YTi-085d0e1f40487d4d7d55d2597b64bc52740c5ea8-3d6b82df734ad5e1fe70813297e8029c
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%0ABOSS%20Open&font=Oswald" group-title="BOSS Open", Day 4 | BOSS Open [Server 3]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=71fa2e995be8103bb4370b838206ac52&x-time=1781180160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Adelaide%20Crows%0AVS%0AWestern%20Bulldogs%0AAFL%20Premiership&font=Oswald" group-title="Football", Adelaide Crows VS Western Bulldogs | AFL Premiership [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=93e37522d3583d146667ecb3b3a29cb1&x-time=1781180220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Venezuela%20U20%0AVS%0AJapan%20U20%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", Venezuela U20 VS Japan U20 | Tournoi Maurice Revello [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1781266627-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-6876dc7102f7268770e265a819a9c40f
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Venezuela%20U20%0AVS%0AJapan%20U20%0ATournoi%20Maurice%20Revello&font=Oswald" group-title="Football", Venezuela U20 VS Japan U20 | Tournoi Maurice Revello [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=a393c0ada00a57e0fb1aaea59a72ea8d&x-time=1781180220
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=085d0e1f40487d4d7d55d2597b64bc52740c5ea8&x-sign=b51803094d2c8aa998c9ca18d1947593&x-time=1781195460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%204%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 4 | WTA 500 [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781266633-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-175b7acfc462c21f837ab7c6ec7b3c10
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781281904-Kv4cPTAAP5YTi-085d0e1f40487d4d7d55d2597b64bc52740c5ea8-fcdf1559debf3808d16d28af5a8a6b5e
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%204%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 4 | WTA 500 [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=3678144bb7c7bf7174156af64f649744&x-time=1781180220
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=085d0e1f40487d4d7d55d2597b64bc52740c5ea8&x-sign=72e7235ae86f334a130a773c6b0c4bb5&x-time=1781195460
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%204%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 4 | WTA 500 [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781266634-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-a5d14c0b1427a6678830fc8708775a6b
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781281904-Kv4cPTAAP5YTi-085d0e1f40487d4d7d55d2597b64bc52740c5ea8-69ffd01ca2cb84f77c3672598bf28b54
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%204%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 4 | WTA 500 [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=aea560bb4fbf9cd47a03e165239f69fa&x-time=1781180220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES2%2C%20FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Free%20practice%203%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", ES2, FIA WEC, Le Mans 24hours, Free practice 3 | FIA World Endurance Championship [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781266639-Kv4cPTAAP5YTi-cc828cd7795174d5a864d88eeba988f8106738c4-5ac4f86d4f822fee43bd1c7f0657c113
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES2%2C%20FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Free%20practice%203%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", ES2, FIA WEC, Le Mans 24hours, Free practice 3 | FIA World Endurance Championship [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=cc828cd7795174d5a864d88eeba988f8106738c4&x-sign=23e1fd9435dddec6e1316cc1c508a238&x-time=1781180220
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=085d0e1f40487d4d7d55d2597b64bc52740c5ea8&x-sign=6765767f9e0a90aa4b5dbd7df78bc44c&x-time=1781195460
 # Playlist Name: Tapmad bd
-# Last Update: 06:20 PM 11-06-2026
+# Last Update: 10:30 PM 11-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809370811020x576.jpg" group-title="Cricket", Bangladesh vs Australia | Australia Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14490" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810959921020x576.jpg" group-title="Multisports", Women's Semi Final B Session - World Cup Budapest, Hungary Live | UIPM 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14484" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17810955251020x576.jpg" group-title="Multisports", Women's Semi Final A Session - World Cup Budapest, Hungary Live | UIPM 2026
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:15:23 PM 11-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090534542" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg" group-title="Cricket", Talent TV Cup | India A vs Afghanistan A - 11 Jun 2026
-https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
+# last_update: 10:30:38 PM 11-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090534576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071041324362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day1_6jun_landscape_thumb.jpg" group-title="Golf", Asian Tour 2026 | International Series Morocco - Day 1 - 11 Jun 2026
+https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
