@@ -309,122 +309,184 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:40 PM 13-06-2026
+#last update time: 06:30:33 PM 13-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=Dzz0IUMeuHWBrZJuyoHAwQ&expires=1781351440
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=lDfmQtowu1Ss-aRrfOH2fg&expires=1781358634
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=O2f6UYCqgLi2C7zlAi_F1Q&expires=1781351441
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=xFduYArzpx0hfmUSvN-gBw&expires=1781358634
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Gh9mVp3FHAuAuL8BtKaE-g&expires=1781351441
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=fiuWQfFrV3_6GagxS_A6ow&expires=1781351441
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=WYPBqPYtXx54bX1CXWaN8w&expires=1781358634
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
-https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=qtBVjNBihKWlJEqGdetb4A&expires=1781351441
+https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=SnjtbUw9P8zRYIaJE5vQ_w&expires=1781358634
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=66oY28DHEjupIQ4838Hwjw&expires=1781351441
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=vMMSLiwk2DOMmy7ARM1qPA&expires=1781358634
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=rOin4J-xZu2t0m1RnutMsA&expires=1781358635
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 4:46:29 PM 13-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | SATHIO GROUP Australian Badminton Open [Server 1]
+#last update time: 6:46:32 PM 13-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20Lib%C3%A9ma%0ALibema%20Open&font=Oswald" group-title="Tennis", Day 6: Libéma | Libema Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781433992-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-37db61783a8196d5799b8802622f1aa0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASATHIO%20GROUP%20Australian%20Badminton%20Open&font=Oswald" group-title="Badminton", Court 1 | SATHIO GROUP Australian Badminton Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=40bebc97eb739194fbc9fa5d843ef0e0&x-time=1781347560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Yomiuri Giants | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781433997-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-26815747a416f07dd3264ff2ed1227f5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AYomiuri%20Giants%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS Yomiuri Giants | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=6b0fda5bdfa8dedee0ca5ed3dd392c6f&x-time=1781347560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20Lib%C3%A9ma%0ALibema%20Open&font=Oswald" group-title="Tennis", Day 6: Libéma | Libema Open [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1781434002-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-a9007e1a03daf2e94ec94cf422401f6b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1781441195-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-20efb4662a1142dff718bd9122228c0c
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20Lib%C3%A9ma%0ALibema%20Open&font=Oswald" group-title="Tennis", Day 6: Libéma | Libema Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=e84b9eb6f1044106c1199a8d490503b8&x-time=1781347560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Canberra%20Raiders%0AVS%0AParramatta%20Eels%0ANRL%20Rugby&font=Oswald" group-title="Rugby", Canberra Raiders VS Parramatta Eels | NRL Rugby [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=4ec289a38e291220449cbc790ca5b152&x-time=1781347560
+https://livecdn-bp-iptv.rumsport7.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=d7acce0410da986a090593bce3e971e0&x-time=1781354760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gj%C3%B8vik-Lyn%0AVS%0ADr%C3%B8bak%20%2F%20Frogn%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Gjøvik-Lyn VS Drøbak / Frogn | 3. Division - Girone 6 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adbf/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=7cffb2d7c13916bb081455f930f54c95&x-time=1781354760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Gj%C3%B8vik-Lyn%0AVS%0ADr%C3%B8bak%20%2F%20Frogn%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Gjøvik-Lyn VS Drøbak / Frogn | 3. Division - Girone 6 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adbf/chunks.m3u8?is_vip=false&token=1781441201-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ee079c65d1f4aa44f9c4880557c00af0
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%206%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 6 | WTA 500 [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781441206-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-fdd659e2c6c3fd0b70e4ee0e05a3af6e
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%206%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 6 | WTA 500 [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=0aeb1c537226b62ad4b7103da459acdf&x-time=1781354760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%2C%20Spain%0AFIA%20Formula%202%20Championship%20Sprint&font=Oswald" group-title="Auto Racing", Barcelona, Spain | FIA Formula 2 Championship Sprint [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1781441211-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-aad8c8ea3a4adb10b9586f68070f62c3
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%2C%20Spain%0AFIA%20Formula%202%20Championship%20Sprint&font=Oswald" group-title="Auto Racing", Barcelona, Spain | FIA Formula 2 Championship Sprint [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=89f6f101193cf0f7b6028f19de6c8978&x-time=1781354760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=HIFK%20Helsinki%0AVS%0APEPO%0AKakkonen%20-%20Lohko%20A&font=Oswald" group-title="Kakkonen - Lohko A", HIFK Helsinki VS PEPO | Kakkonen - Lohko A [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625ae/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=53ed3efbf7a51fe4e6e1378b452ab429&x-time=1781354760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=HIFK%20Helsinki%0AVS%0APEPO%0AKakkonen%20-%20Lohko%20A&font=Oswald" group-title="Kakkonen - Lohko A", HIFK Helsinki VS PEPO | Kakkonen - Lohko A [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625ae/chunks.m3u8?is_vip=false&token=1781441217-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ff78d82578ef4b289d291cd09af48a3b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sandviken%20W%0AVS%0AHusqvarna%20W%0AElitettan&font=Oswald" group-title="Elitettan", Sandviken W VS Husqvarna W | Elitettan [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929999/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=6d6d471033e246c990e69679a8a427b7&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sandviken%20W%0AVS%0AHusqvarna%20W%0AElitettan&font=Oswald" group-title="Elitettan", Sandviken W VS Husqvarna W | Elitettan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929999/chunks.m3u8?is_vip=false&token=1781441222-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-96603788508275998511e3892f93343d
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Eskilstuna%20United%20W%0AVS%0AMalm%C3%B6%20FF%20W%0ADamallsvenskan&font=Oswald" group-title="Football", Eskilstuna United W VS Malmö FF W | Damallsvenskan [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929995/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=3b1416f3be559e28f018600be0ed721b&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Eskilstuna%20United%20W%0AVS%0AMalm%C3%B6%20FF%20W%0ADamallsvenskan&font=Oswald" group-title="Football", Eskilstuna United W VS Malmö FF W | Damallsvenskan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929995/chunks.m3u8?is_vip=false&token=1781441228-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-7590117eb092b4019f2684aef08c5d4f
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Vidar%0AVS%0APors%20Grenland%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="Football", Vidar VS Pors Grenland | 2. Division - Group 1 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adac/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=32de8dfec44ca3b62df3fc6a9b706c4e&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Vidar%0AVS%0APors%20Grenland%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="Football", Vidar VS Pors Grenland | 2. Division - Group 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adac/chunks.m3u8?is_vip=false&token=1781441233-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ce9cdbb48d5ec7007af4558beae59fd5
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ull%2FKisa%0AVS%0AGrorud%0A2.%20Division%20-%20Group%202&font=Oswald" group-title="Football", Ull/Kisa VS Grorud | 2. Division - Group 2 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ada5/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=2390206530d6788da1a76d3dbc12ca8f&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ull%2FKisa%0AVS%0AGrorud%0A2.%20Division%20-%20Group%202&font=Oswald" group-title="Football", Ull/Kisa VS Grorud | 2. Division - Group 2 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ada5/chunks.m3u8?is_vip=false&token=1781441239-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-f669ab87fbc14f2bcbb1045ad75da232
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Str%C3%B8msgodset%20II%0AVS%0AHarstad%0A3.%20Division%20-%20Girone%205&font=Oswald" group-title="Football", Strømsgodset II VS Harstad | 3. Division - Girone 5 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d3/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=1b859d6c7377b29e1bd63b35f9f5defe&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Str%C3%B8msgodset%20II%0AVS%0AHarstad%0A3.%20Division%20-%20Girone%205&font=Oswald" group-title="Football", Strømsgodset II VS Harstad | 3. Division - Girone 5 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d3/chunks.m3u8?is_vip=false&token=1781441244-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-2f2ad762af0bd69aaa5c8e2e75eab128
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oppsal%0AVS%0ASandefjord%20II%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Oppsal VS Sandefjord II | 3. Division - Girone 6 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc2/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=e0771706f914d34cfefad4bd26202e73&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Oppsal%0AVS%0ASandefjord%20II%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Oppsal VS Sandefjord II | 3. Division - Girone 6 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc2/chunks.m3u8?is_vip=false&token=1781441249-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-cb22bc74a7e7450c0a677b9c45eef3b3
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ask%C3%B8y%0AVS%0AOs%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Askøy VS Os | 3. Division - Girone 3 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b6/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=883e3b4ef2c1b272e772a79ccdf5f90a&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ask%C3%B8y%0AVS%0AOs%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Askøy VS Os | 3. Division - Girone 3 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b6/chunks.m3u8?is_vip=false&token=1781441255-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-0aa2b5eed5c322ee9c2c8a31db66240a
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%0ALe%20Mans%2024hours%20%7C%20Warm%20Up%20%7C%20FIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC | Le Mans 24hours | Warm Up | FIA World Endurance Championship [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781434012-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-c895b5cd7103cf045763ca51e6c586ce
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781441260-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ee298111c6b176f3af4755c751cccce0
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%0ALe%20Mans%2024hours%20%7C%20Warm%20Up%20%7C%20FIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC | Le Mans 24hours | Warm Up | FIA World Endurance Championship [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=3e1b215de8cf341de1c3803580386b31&x-time=1781347560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Downhill%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Downhill: Leogang | UCI Mountain Bike World Series [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781434016-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-7417203f8dccd2576edf5f7e9963ba07
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Downhill%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Downhill: Leogang | UCI Mountain Bike World Series [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=d23a24fb121335baf6deb13a0a741076&x-time=1781347560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20BOSS%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 6: BOSS | BOSS Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781434021-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-f33fdd2f87451a19d9bf7b9aff9ddd7d
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20BOSS%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 6: BOSS | BOSS Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=a0c6c32963a10662219cdc2f04729450&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SF%20Grei%0AVS%0AIF%20Ready%0A3.%20Division%20-%20Girone%201&font=Oswald" group-title="Football", SF Grei VS IF Ready | 3. Division - Girone 1 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062574/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=a7de3fe29d86186841026c565034b1d0&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=SF%20Grei%0AVS%0AIF%20Ready%0A3.%20Division%20-%20Girone%201&font=Oswald" group-title="Football", SF Grei VS IF Ready | 3. Division - Girone 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062574/chunks.m3u8?is_vip=false&token=1781434028-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-1cd934d9f190ce51fb98652e93c98947
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kingsley%20Westside%0AVS%0AInglewood%20United%0AWestern%20Australia%20State%20League%201&font=Oswald" group-title="Football", Kingsley Westside VS Inglewood United | Western Australia State League 1 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062575/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=af048785b865258b373c3a7f70a0c104&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kingsley%20Westside%0AVS%0AInglewood%20United%0AWestern%20Australia%20State%20League%201&font=Oswald" group-title="Football", Kingsley Westside VS Inglewood United | Western Australia State League 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062575/chunks.m3u8?is_vip=false&token=1781434033-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-9812d3e0f5db4490bc4c39c892cecfac
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RTC%0AVS%0ADrukpa%0APremier%20League&font=Oswald" group-title="Football", RTC VS Drukpa | Premier League [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25c6bc09143f2c854212c6/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=437750ff4e75d37924bf849a57fa4eae&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RTC%0AVS%0ADrukpa%0APremier%20League&font=Oswald" group-title="Football", RTC VS Drukpa | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25c6bc09143f2c854212c6/chunks.m3u8?is_vip=false&token=1781434038-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-88557722e31f0d8e3f8dabfee47e0f23
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Orsha%0AVS%0ALida%0A1.%20Division&font=Oswald" group-title="Football", Orsha VS Lida | 1. Division [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625ed/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=a4e773dcd126ce8a0d99af7f1f40c727&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Orsha%0AVS%0ALida%0A1.%20Division&font=Oswald" group-title="Football", Orsha VS Lida | 1. Division [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625ed/chunks.m3u8?is_vip=false&token=1781434043-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-2489a74f00ef6e3514ee69935fb17c0f
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hunters%0AVS%0AKhovd%0APremier%20League&font=Oswald" group-title="Football", Hunters VS Khovd | Premier League [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062573/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=90586a392865bea0717321b567d78e97&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hunters%0AVS%0AKhovd%0APremier%20League&font=Oswald" group-title="Football", Hunters VS Khovd | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062573/chunks.m3u8?is_vip=false&token=1781434048-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-bcf23331bbf8fd7f75e9b9a6df9251b3
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Avangard%20Kursk%0AVS%0ARyazan%0ASecond%20League%20-%20Group%203&font=Oswald" group-title="Second League - Group 3", Avangard Kursk VS Ryazan | Second League - Group 3 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad8c/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=1ef6969f182c13a116fa58388b2fda31&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Avangard%20Kursk%0AVS%0ARyazan%0ASecond%20League%20-%20Group%203&font=Oswald" group-title="Second League - Group 3", Avangard Kursk VS Ryazan | Second League - Group 3 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad8c/chunks.m3u8?is_vip=false&token=1781434053-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-e17694945325d15d5133ba960503d0c1
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20Grand%20Prix%202026%20-%20Practice%203%0AFormula%201%20Practice&font=Oswald" group-title="Auto Racing", Barcelona Grand Prix 2026 - Practice 3 | Formula 1 Practice [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1781434058-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-2a3eb643e83deed034cf166659c17854
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20Grand%20Prix%202026%20-%20Practice%203%0AFormula%201%20Practice&font=Oswald" group-title="Auto Racing", Barcelona Grand Prix 2026 - Practice 3 | Formula 1 Practice [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=82c0db10f1d1c204efb17a0e4c67f5dd&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Pite%C3%A5%20W%0AVS%0ABrommapojkarna%20W%0ADamallsvenskan&font=Oswald" group-title="Football", Piteå W VS Brommapojkarna W | Damallsvenskan [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929993/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=b11e916c799f88f1be5b2771a6aa4b07&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Pite%C3%A5%20W%0AVS%0ABrommapojkarna%20W%0ADamallsvenskan&font=Oswald" group-title="Football", Piteå W VS Brommapojkarna W | Damallsvenskan [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929993/chunks.m3u8?is_vip=false&token=1781434063-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-44f9a8aff50abf0c474cc4928e28bc7a
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sogndal%20II%0AVS%0ADjerv%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Sogndal II VS Djerv | 3. Division - Girone 3 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062583/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=164bc48c9c344a9dcae839448b1b033a&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sogndal%20II%0AVS%0ADjerv%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Sogndal II VS Djerv | 3. Division - Girone 3 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062583/chunks.m3u8?is_vip=false&token=1781434068-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-236c6321692a15e75ca9673acbc33635
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F%C3%B8rde%0AVS%0AVard%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Førde VS Vard | 3. Division - Girone 3 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062584/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=2a74eaa50ce6ef1412c0590510fb3698&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=F%C3%B8rde%0AVS%0AVard%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Førde VS Vard | 3. Division - Girone 3 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062584/chunks.m3u8?is_vip=false&token=1781434073-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-de5a41c4cd8cd39731af82d7a497eb37
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Konnerud%0AVS%0AUnion%20Carl%20Berner%0A3.%20Division%20-%20Girone%201&font=Oswald" group-title="Football", Konnerud VS Union Carl Berner | 3. Division - Girone 1 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062585/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=cf71246f972c2354801e99ff2dbabb22&x-time=1781347620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Konnerud%0AVS%0AUnion%20Carl%20Berner%0A3.%20Division%20-%20Girone%201&font=Oswald" group-title="Football", Konnerud VS Union Carl Berner | 3. Division - Girone 1 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062585/chunks.m3u8?is_vip=false&token=1781434078-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-31b095a2ddfd019513ad54263b88d7b9
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AIK%20W%0AVS%0ADjurg%C3%A5rden%20W%0ADamallsvenskan&font=Oswald" group-title="Football", AIK W VS Djurgården W | Damallsvenskan [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929996/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=9be28c5ea4c0d728fbcf2193d3ac84f9&x-time=1781347680
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AIK%20W%0AVS%0ADjurg%C3%A5rden%20W%0ADamallsvenskan&font=Oswald" group-title="Football", AIK W VS Djurgården W | Damallsvenskan [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929996/chunks.m3u8?is_vip=false&token=1781434083-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-8c840ab73bf9f1eec626c4d466a0873c
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=e2eba35d97e2bcbd61d48ef7196e9e0e&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Varegg%0AVS%0AGneist%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Varegg VS Gneist | 3. Division - Girone 3 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b5/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=78d5546cf91b1ee66e3ba83bd8250b55&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Varegg%0AVS%0AGneist%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Varegg VS Gneist | 3. Division - Girone 3 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b5/chunks.m3u8?is_vip=false&token=1781441266-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ae7c3df8e3c3dd9a3309eefc9d1b5bc8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brodd%0AVS%0AMandalskameratene%0A3.%20Division%20-%20Girone%204&font=Oswald" group-title="Football", Brodd VS Mandalskameratene | 3. Division - Girone 4 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b4/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=ef1ee2f2fe70a019f60539a51fcd3223&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brodd%0AVS%0AMandalskameratene%0A3.%20Division%20-%20Girone%204&font=Oswald" group-title="Football", Brodd VS Mandalskameratene | 3. Division - Girone 4 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b4/chunks.m3u8?is_vip=false&token=1781441271-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-3ca96085745b7ea99b7b4a8426ff3602
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Orkla%0AVS%0AVolda%0A3.%20Division%20-%20Girone%202&font=Oswald" group-title="Football", Orkla VS Volda | 3. Division - Girone 2 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b3/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=3d22fff0084261be20771c7b790f5f7b&x-time=1781354820
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Orkla%0AVS%0AVolda%0A3.%20Division%20-%20Girone%202&font=Oswald" group-title="Football", Orkla VS Volda | 3. Division - Girone 2 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b3/chunks.m3u8?is_vip=false&token=1781441276-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-d607ecd0c499b275131dcf84274f6762
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bumprom%0AVS%0AShakhter%20Soligorsk%0A1.%20Division&font=Oswald" group-title="Football", Bumprom VS Shakhter Soligorsk | 1. Division [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625f1/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=47726a0d1687f26d6f769dc17040356f&x-time=1781347680
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625f1/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=f3d8e7e853b79509413306a2a506cace&x-time=1781354880
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bumprom%0AVS%0AShakhter%20Soligorsk%0A1.%20Division&font=Oswald" group-title="Football", Bumprom VS Shakhter Soligorsk | 1. Division [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625f1/chunks.m3u8?is_vip=false&token=1781434088-Kv4cPTAAP5YTi-ac07ef4f1c7bfa780841760d63dae6956b887ec4-4350c797cf6043d5820f742c9bc8a08a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625f1/chunks.m3u8?is_vip=false&token=1781441282-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-e1e0b0f0a8a54acd7f58dcc11477a5dd
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AIK%20W%0AVS%0ADjurg%C3%A5rden%20W%0ADamallsvenskan&font=Oswald" group-title="Football", AIK W VS Djurgården W | Damallsvenskan [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929996/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=615da12e422e6b575d5ae0f87dfb0a0c&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AIK%20W%0AVS%0ADjurg%C3%A5rden%20W%0ADamallsvenskan&font=Oswald" group-title="Football", AIK W VS Djurgården W | Damallsvenskan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929996/chunks.m3u8?is_vip=false&token=1781441287-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-964149b662f01227aee5a35646d56912
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Konnerud%0AVS%0AUnion%20Carl%20Berner%0A3.%20Division%20-%20Girone%201&font=Oswald" group-title="Football", Konnerud VS Union Carl Berner | 3. Division - Girone 1 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062585/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=5d2ea72b840cc4f5c29d9f3bac729b93&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Konnerud%0AVS%0AUnion%20Carl%20Berner%0A3.%20Division%20-%20Girone%201&font=Oswald" group-title="Football", Konnerud VS Union Carl Berner | 3. Division - Girone 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a3062585/chunks.m3u8?is_vip=false&token=1781441292-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-941caf7b7612f700892cd62e6bceb399
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=ac07ef4f1c7bfa780841760d63dae6956b887ec4&x-sign=96252798c5d8f86e102a9784c2d5e7e8&x-time=1781347680
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=5bd173c42e0d246841c862e2bed12ef9&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RTC%0AVS%0ADrukpa%0APremier%20League&font=Oswald" group-title="Football", RTC VS Drukpa | Premier League [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25c6bc09143f2c854212c6/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=798668d3a195119110a7f4106710840c&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=RTC%0AVS%0ADrukpa%0APremier%20League&font=Oswald" group-title="Football", RTC VS Drukpa | Premier League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25c6bc09143f2c854212c6/chunks.m3u8?is_vip=false&token=1781441303-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-4f95fa4698c21f9f75903ef92bf76834
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20BOSS%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 6: BOSS | BOSS Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781441307-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-64c65d6475f4d1f1aae72ea38be31429
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20BOSS%0ABOSS%20Open&font=Oswald" group-title="Tennis", Day 6: BOSS | BOSS Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=ebe49a65b5d49f8429abc38d8ccdbba2&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Downhill%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Downhill: Leogang | UCI Mountain Bike World Series [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781441313-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ed7e3200b31d7a9c7c087d20e32dbe83
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Downhill%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Downhill: Leogang | UCI Mountain Bike World Series [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=81e4438ac8ea73e81eab2bd83845ee32&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Skedsmo%0AVS%0ASkjerv%C3%B8y%0A3.%20Division%20-%20Girone%205&font=Oswald" group-title="Football", Skedsmo VS Skjervøy | 3. Division - Girone 5 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d4/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=2fe6ab302d3943dc2b54521923cdb3c3&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Skedsmo%0AVS%0ASkjerv%C3%B8y%0A3.%20Division%20-%20Girone%205&font=Oswald" group-title="Football", Skedsmo VS Skjervøy | 3. Division - Girone 5 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d4/chunks.m3u8?is_vip=false&token=1781441318-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-46ccb84474afc6ae6823fabd8a6ecb6a
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Eik-T%C3%B8nsberg%0AVS%0AArendal%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="Football", Eik-Tønsberg VS Arendal | 2. Division - Group 1 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adb2/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=9dabb0be97901bdb00996c9cec92bb86&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Eik-T%C3%B8nsberg%0AVS%0AArendal%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="Football", Eik-Tønsberg VS Arendal | 2. Division - Group 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adb2/chunks.m3u8?is_vip=false&token=1781441324-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-749a7b23774565b5bb4dccb12c238d8b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mjondalen%0AVS%0AKvik%20Halden%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="Football", Mjondalen VS Kvik Halden | 2. Division - Group 1 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adaf/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=8c6f21bf2267b0e214397493e2159f8d&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mjondalen%0AVS%0AKvik%20Halden%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="Football", Mjondalen VS Kvik Halden | 2. Division - Group 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adaf/chunks.m3u8?is_vip=false&token=1781441329-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-36c341fbdb343a550ea738f0e260cfb8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fyllingsdalen%0AVS%0AFana%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Fyllingsdalen VS Fana | 3. Division - Girone 3 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad83/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=d5c14816922900a691a6e39ae43aad12&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Fyllingsdalen%0AVS%0AFana%0A3.%20Division%20-%20Girone%203&font=Oswald" group-title="Football", Fyllingsdalen VS Fana | 3. Division - Girone 3 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad83/chunks.m3u8?is_vip=false&token=1781441334-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-3d0874585b1bb2e730e44e93e97a280b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=R%C3%A5de%0AVS%0ARaelingen%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Råde VS Raelingen | 3. Division - Girone 6 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc0/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=cdffa94b8f6010ffc9d70d0e92f589e8&x-time=1781354880
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=R%C3%A5de%0AVS%0ARaelingen%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Råde VS Raelingen | 3. Division - Girone 6 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc0/chunks.m3u8?is_vip=false&token=1781441340-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-2e3ff688dac0330c9eec1552eb45baad
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=%C3%98rn%20Horten%0AVS%0AElverum%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Ørn Horten VS Elverum | 3. Division - Girone 6 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc1/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=a77c21463ffa61c65ba0ad7d433c8af6&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=%C3%98rn%20Horten%0AVS%0AElverum%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Ørn Horten VS Elverum | 3. Division - Girone 6 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc1/chunks.m3u8?is_vip=false&token=1781441345-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-23f9427681c432e7d8ccc714dbed50d8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brumunddal%0AVS%0ASarpsborg%2008%20II%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Brumunddal VS Sarpsborg 08 II | 3. Division - Girone 6 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d0/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=629db7e83926c3463336e36039cfe781&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brumunddal%0AVS%0ASarpsborg%2008%20II%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Brumunddal VS Sarpsborg 08 II | 3. Division - Girone 6 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d0/chunks.m3u8?is_vip=false&token=1781441350-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-a471fcf4547263e37cdca27f512a8928
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bj%C3%B8rkelangen%0AVS%0ALillehammer%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Bjørkelangen VS Lillehammer | 3. Division - Girone 6 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d1/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=1f70df298196a6c38d0e9cc588a8ce39&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bj%C3%B8rkelangen%0AVS%0ALillehammer%0A3.%20Division%20-%20Girone%206&font=Oswald" group-title="Football", Bjørkelangen VS Lillehammer | 3. Division - Girone 6 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d1/chunks.m3u8?is_vip=false&token=1781441356-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-081666d6bad479ffca80c7b3c84a19d8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Strindheim%0AVS%0ASpjelkavik%0A3.%20Division%20-%20Girone%202&font=Oswald" group-title="Football", Strindheim VS Spjelkavik | 3. Division - Girone 2 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d9/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=7510a1ad1f8ddeb77ccdf08456df649d&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Strindheim%0AVS%0ASpjelkavik%0A3.%20Division%20-%20Girone%202&font=Oswald" group-title="Football", Strindheim VS Spjelkavik | 3. Division - Girone 2 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625d9/chunks.m3u8?is_vip=false&token=1781441363-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-8901e73abddae85c61e296f938539c63
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Molodechno-DYuSSh%204%0AVS%0AFC%20Energetik-Bgu%20Minsk%0A1.%20Division&font=Oswald" group-title="Football", Molodechno-DYuSSh 4 VS FC Energetik-Bgu Minsk | 1. Division [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625ee/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=2d2275416adb56e959232c3fdf5ce38f&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Molodechno-DYuSSh%204%0AVS%0AFC%20Energetik-Bgu%20Minsk%0A1.%20Division&font=Oswald" group-title="Football", Molodechno-DYuSSh 4 VS FC Energetik-Bgu Minsk | 1. Division [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625ee/chunks.m3u8?is_vip=false&token=1781441368-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-4059ee15f94890533f0a9af77d27e321
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hammarby%20W%0AVS%0AH%C3%A4cken%20W%0ADamallsvenskan&font=Oswald" group-title="Football", Hammarby W VS Häcken W | Damallsvenskan [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929994/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=18f34c005f6825cc3468366eb75d35df&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hammarby%20W%0AVS%0AH%C3%A4cken%20W%0ADamallsvenskan&font=Oswald" group-title="Football", Hammarby W VS Häcken W | Damallsvenskan [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929994/chunks.m3u8?is_vip=false&token=1781441374-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-9c9ffd37e93861e9d1eee57fa162b159
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rosenborg%20II%0AVS%0AMolde%20II%0A3.%20Division%20-%20Girone%202&font=Oswald" group-title="Football", Rosenborg II VS Molde II | 3. Division - Girone 2 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625da/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=c8964e547f68e8fe18778b4818733911&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rosenborg%20II%0AVS%0AMolde%20II%0A3.%20Division%20-%20Girone%202&font=Oswald" group-title="Football", Rosenborg II VS Molde II | 3. Division - Girone 2 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625da/chunks.m3u8?is_vip=false&token=1781441379-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-b7389a58856ae646e97f6208b768a04b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%201%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC, Le Mans 24hours, Race, part 1 | FIA World Endurance Championship [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781441384-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-feee2c23ee387baa6585989824189264
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%201%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC, Le Mans 24hours, Race, part 1 | FIA World Endurance Championship [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=ffe0a5a46d77f02aabf6d0dee2275f8b&x-time=1781354940
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=vs%0AEHF%20Champions%20League&font=Oswald" group-title="Handball", vs | EHF Champions League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781441389-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-bd68ce8b58c6d75bdcab17ee8edd1cb1
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=vs%0AEHF%20Champions%20League&font=Oswald" group-title="Handball", vs | EHF Champions League [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=6120a69d3616ac5d49351d7e2c70236e&x-time=1781354940
 # Playlist Name: Tapmad bd
-# Last Update: 04:40 PM 13-06-2026
+# Last Update: 06:50 PM 13-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-14079" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812505331020x576.jpg" group-title="Cricket", India vs Afghanistan | Afghanistan Tour of India 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14514" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812598381020x576.jpg" group-title="Multisports", Men's Final Session - World Cup Budapest, Hungary Live | UIPM 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812686351020x576.jpg" group-title="Boat Racing", Session 3 - Group Races E1 Croatia Live | E1 Series 2026
+#EXTINF:-1 tvg-id="tapmad-14357" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17812693631020x576.jpg" group-title="Boat Racing", Session 4 - Race OFF E1 Croatia Live | E1 Series 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:45:23 PM 13-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090534675" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="Cricket", Talent TV Cup | Sri Lanka A vs Afghanistan A - 13 Jun 2026
-https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
+# last_update: 06:45:24 PM 13-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090534687" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198966873129_ArcheryWC26_Antalya_Turkiye_Compound_mixed_Team_landscape_thumb.jpg" group-title="Archery", Hyundai Archery World Cup Stage 3 - Antalya, Turkiye | Compound Mixed Team And Individual Finals- 13 Jun 2026
 https://dai.google.com/ssai/event/sOwA5A2UQJuw2u-eli66dg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534689" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071039727662_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day3_6jun_landscape_thumb.jpg" group-title="Golf", Asian Tour 2026 | International Series Morocco - Day 3 - 13 Jun 2026
