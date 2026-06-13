@@ -309,83 +309,59 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:38 AM 14-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=1LV6afvtgyQkZYKbmfA6CA&expires=1781382039
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=0C8Aib4sQvrW_Xeev5QTsA&expires=1781382039
+#last update time: 02:30:30 AM 14-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=U1sl1rGqT5Q40r8q_vz6Rg&expires=1781382039
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=lK0JgJgdE8slXAOYU1qLWg&expires=1781387431
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=vxKEwMQdFq0JI2Q01amIGw&expires=1781387431
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=as98WPGX7uIBNID4gmxRsA&expires=1781387431
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=RjiS2yT_EtWw6Ja3M990yA&expires=1781382039
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=Zj5ylESicO6B6JQsPk0HBg&expires=1781382040
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=KPyb-_Nxg-A7ajkHymbdoA&expires=1781387432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=57JN2RyOKbVtCXccxbg3uw&expires=1781382040
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=tJ8t5z9yGliimpFvX9sZTw&expires=1781387432
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
+https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=T8fAJ6cCNUqxqvKw3rPTSA&expires=1781387432
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:16:31 AM 14-06-2026
+#last update time: 2:31:35 AM 14-06-2026
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=dbbf6821900533333570014660829a97&x-time=1781378160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=fb65dfb323d9e6594f19da82ce02f478&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=1781464594-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-2a5d86860280957f36ad6f9b969b3b50
+https://livecdn-tc-iptv.rumsport10.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=1781469098-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-5c36a19d31d965a4261acb4cbea16874
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 3]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=b02c52fbd77fd6085a3be343dc9b4485&x-time=1781378160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=1c86549f48e03cea1c6e91a8c0825075&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 4]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781464594-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-73dd38f6dba66a4230c40e990bfe75d3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781469099-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-af7b5aa348f5e8d1827caa19d744da50
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 5]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=8308bfa77576f6fcae630541d583a454&x-time=1781378160
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=1745cba04ffa7fc4133a68c2d029a236&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=1781464595-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-494c2faa06d3cd2e0b3636eb7f77d997
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%206%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 6 | WTA 500 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781464600-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-9aa9bfe1973a297b2e49c512fa312e96
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=London%3A%20Day%206%0AWTA%20500&font=Oswald" group-title="Tennis", London: Day 6 | WTA 500 [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=fb5c03e39c5f45f4ffa527b7fde92f66&x-time=1781378160
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=1781469099-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-4f13c659b03556628b2d84bbd425c886
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=2a321bc06be6ba2a6f55c6e9a3352fca&x-time=1781382660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd/chunks.m3u8?is_vip=false&token=1781469100-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-60777d863c7cd31dffceed4e04a28545
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 9]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd2/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=34d6b647ab930ef7384170143578b470&x-time=1781382660
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qatar%0AVS%0ASwitzerland%0AWorld%20Cup&font=Oswald" group-title="World Cup", Qatar VS Switzerland | World Cup [Server 10]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd2/chunks.m3u8?is_vip=false&token=1781469100-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-4c0783438b1725787530dc83fe4bd7bd
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%201%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC, Le Mans 24hours, Race, part 1 | FIA World Endurance Championship [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781464605-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-cfc711a62ee6d667a8ab5adf4d423797
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781469105-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-221b39236727caa8a3311e00060653db
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=FIA%20WEC%2C%20Le%20Mans%2024hours%2C%20Race%2C%20part%201%0AFIA%20World%20Endurance%20Championship&font=Oswald" group-title="Auto Racing", FIA WEC, Le Mans 24hours, Race, part 1 | FIA World Endurance Championship [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=8f95ccaf53f43d9edfbfb84ebe867d21&x-time=1781378160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Aalborg%0AVS%0ABarcelona%0AEHF%20Champions%20League&font=Oswald" group-title="Handball", Aalborg VS Barcelona | EHF Champions League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781464610-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-d87128ad32fbca4b12ac06daa2de84e2
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Aalborg%0AVS%0ABarcelona%0AEHF%20Champions%20League&font=Oswald" group-title="Handball", Aalborg VS Barcelona | EHF Champions League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=6a0eb3fe37b116837d77d1fcaa4b8cb5&x-time=1781378160
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=f36bab9ad9aa67fc72ee0b07299b1387&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=cc5aadbbda62509f0ed26d3ed9afad85&x-time=1781378160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Midland%0AVS%0AAtlanta%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Midland VS Atlanta | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993e/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=7efdae894150632f915b8e77eed6e388&x-time=1781378160
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Midland%0AVS%0AAtlanta%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Midland VS Atlanta | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993e/chunks.m3u8?is_vip=false&token=1781464619-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-3608519757fe845a82ae3cadee011b21
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Colegiales%0AVS%0ASan%20Martin%20Tucuman%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Colegiales VS San Martin Tucuman | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fea/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=802ec07fbd395667c1598339347aa846&x-time=1781378220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Colegiales%0AVS%0ASan%20Martin%20Tucuman%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Colegiales VS San Martin Tucuman | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fea/chunks.m3u8?is_vip=false&token=1781464625-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-34af3d3e4c9b44587cbfe6386521f39c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Dinamo%20Brest%0AVS%0ANeman%0APremier%20League&font=Oswald" group-title="Premier League", Dinamo Brest VS Neman | Premier League [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e4/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=e2c83dcc15ffd5b583486c75714ea085&x-time=1781378220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Dinamo%20Brest%0AVS%0ANeman%0APremier%20League&font=Oswald" group-title="Premier League", Dinamo Brest VS Neman | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e4/chunks.m3u8?is_vip=false&token=1781464629-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-2c2ef4f4cf0d90a2b691a56bfd2d18d7
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nueva%20Chicago%0AVS%0AChacarita%20Juniors%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Nueva Chicago VS Chacarita Juniors | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929939/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=744079d15db6b099bbb85f9c86da71ed&x-time=1781378220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nueva%20Chicago%0AVS%0AChacarita%20Juniors%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Nueva Chicago VS Chacarita Juniors | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929939/chunks.m3u8?is_vip=false&token=1781464634-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-7d87cfa7e7dd6409363e7e5162e7c895
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Comunicaciones%0AVS%0ADeportivo%20Laferrere%0APrimera%20B%20Metropolitana&font=Oswald" group-title="Primera B Metropolitana", Comunicaciones VS Deportivo Laferrere | Primera B Metropolitana [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f659/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=df7ec495ae64c47e142db84f5851c72b&x-time=1781378220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Comunicaciones%0AVS%0ADeportivo%20Laferrere%0APrimera%20B%20Metropolitana&font=Oswald" group-title="Primera B Metropolitana", Comunicaciones VS Deportivo Laferrere | Primera B Metropolitana [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f659/chunks.m3u8?is_vip=false&token=1781464639-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-f7876b6ddf49a250fbe530fcc9de89c1
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Defensores%20Unidos%0AVS%0ABrown%20DE%20Adrogue%0APrimera%20B%20Metropolitana&font=Oswald" group-title="Primera B Metropolitana", Defensores Unidos VS Brown DE Adrogue | Primera B Metropolitana [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f658/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=9df667c1d124856899972a6d500519ec&x-time=1781378220
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Defensores%20Unidos%0AVS%0ABrown%20DE%20Adrogue%0APrimera%20B%20Metropolitana&font=Oswald" group-title="Primera B Metropolitana", Defensores Unidos VS Brown DE Adrogue | Primera B Metropolitana [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f658/chunks.m3u8?is_vip=false&token=1781464644-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-5769153d0864e8e9c65e5c524aafc92f
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=b8849e8ce38b280a7b9b932bbfb4cba6&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bulgaria%0AVS%0AArgentina%0ANations%20League&font=Oswald" group-title="Volleyball", Bulgaria VS Argentina | Nations League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=2d75580a9097987d93ecfd5de33434cc&x-time=1781378220
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=b707cb243c8ff775ee370ed29e9f7df6&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Amazonas%0AVS%0AAn%C3%A1polis%0ASerie%20C&font=Oswald" group-title="Serie C", Amazonas VS Anápolis | Serie C [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=0258ca37c090f2a99a2a1aa732239ba3fc8dddb6&x-sign=e12bb788f050b5fdc294f24a567d259c&x-time=1781378220
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc&x-sign=1936263393f67078af3e262067b933b7&x-time=1781382660
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Amazonas%0AVS%0AAn%C3%A1polis%0ASerie%20C&font=Oswald" group-title="Serie C", Amazonas VS Anápolis | Serie C [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=1781464654-Kv4cPTAAP5YTi-0258ca37c090f2a99a2a1aa732239ba3fc8dddb6-6d043ef4d6a867c2b48bef5b09fabefb
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=1781469120-Kv4cPTAAP5YTi-7240ce1ebf6af2114afd6ad36ed7acb1ffe229fc-8a41ee11dc9ee259e9aca03d783e8637
 # Playlist Name: Tapmad bd
-# Last Update: 01:10 AM 14-06-2026
+# Last Update: 02:40 AM 14-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -394,15 +370,11 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tap5tju8g1i/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:15:20 AM 14-06-2026
-#last update time: 01:15:17 AM 14-06-2026
+# last_update: 02:45:19 AM 14-06-2026
+#last update time: 02:45:23 AM 14-06-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 3   Featured Groups | RBC Canadian Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___featured_groups_143215_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 3   World Feed | RBC Canadian Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_143211_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 3   Main Feed | RBC Canadian Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_143212_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 3   Featured Holes | RBC Canadian Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___featured_holes_143214_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 3   Marquee Group | RBC Canadian Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___marquee_group_143213_english.m3u8
