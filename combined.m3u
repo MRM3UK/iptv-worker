@@ -309,35 +309,29 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:34 AM 13-06-2026
+#last update time: 06:00:39 AM 13-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=zUCGPRV-HnhXVyUzZ2oFcQ&expires=1781308235
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=CRWHuXTaHr51Cx9QLaLq0A&expires=1781308235
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=7WopfCPcn8qPAVw4AYluAA&expires=1781313640
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=gBjt93dRYplMSwjig-WQ6Q&expires=1781308235
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=box7rWbq9DUrXZ5cs8BA8g&expires=1781313641
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=wIdHeQ1JAKFdHUpmMjADDg&expires=1781313641
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 4:46:33 AM 13-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="World Cup of Darts", World Cup of Darts | World Cup of Darts [Server 1]
+#last update time: 6:16:31 AM 13-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Minnesota%20Aurora%20W%0AVS%0AEdgewater%20Castle%20W%0AUSL%20W%20League&font=Oswald" group-title="USL W League", Minnesota Aurora W VS Edgewater Castle W | USL W League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=8d60945238bd9f998b1ea17fc3a1b0c1&x-time=1781304360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Aymor%C3%A9s%0AVS%0AIpatinga%0AMineiro%20-%202&font=Oswald" group-title="Mineiro - 2", Aymorés VS Ipatinga | Mineiro - 2 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a24834cbce9b2b9e525c714/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=42135ae96bf2fe7548988e9d1c5e35a8&x-time=1781304360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Aymor%C3%A9s%0AVS%0AIpatinga%0AMineiro%20-%202&font=Oswald" group-title="Mineiro - 2", Aymorés VS Ipatinga | Mineiro - 2 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a24834cbce9b2b9e525c714/chunks.m3u8?is_vip=false&token=1781390801-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-766619d3b4c8538b03c72f87f5eb7e14
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nacional%20Potos%C3%AD%0AVS%0AReal%20Oruro%0APrimera%20Divisi%C3%B3n&font=Oswald" group-title="Football", Nacional Potosí VS Real Oruro | Primera División [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25c6bc09143f2c854212ae/chunks.m3u8?is_vip=false&token=c5eea52b873d02e081cf30136c2b9f251ae46a28&x-sign=ac685deb757e9472d18286fb0fcf1145&x-time=1781304360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Nacional%20Potos%C3%AD%0AVS%0AReal%20Oruro%0APrimera%20Divisi%C3%B3n&font=Oswald" group-title="Football", Nacional Potosí VS Real Oruro | Primera División [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25c6bc09143f2c854212ae/chunks.m3u8?is_vip=false&token=1781390807-Kv4cPTAAP5YTi-c5eea52b873d02e081cf30136c2b9f251ae46a28-ea73a7ac7d6367ce61882bd737f98a18
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2b44ffbce9b2b9e5705648/chunks.m3u8?is_vip=false&token=ea419cba3cdc5c11dbde0d84582e82dfa2ae83ea&x-sign=6849c4aefacdf1079731be006ee85629&x-time=1781309760
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Minnesota%20Aurora%20W%0AVS%0AEdgewater%20Castle%20W%0AUSL%20W%20League&font=Oswald" group-title="USL W League", Minnesota Aurora W VS Edgewater Castle W | USL W League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2b44ffbce9b2b9e5705648/chunks.m3u8?is_vip=false&token=1781396195-Kv4cPTAAP5YTi-ea419cba3cdc5c11dbde0d84582e82dfa2ae83ea-4e9de3d05705544ef035d7dd6e96d154
 # Playlist Name: Tapmad bd
-# Last Update: 04:40 AM 13-06-2026
+# Last Update: 06:10 AM 13-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:45:28 AM 13-06-2026
+# last_update: 06:15:20 AM 13-06-2026
