@@ -309,93 +309,91 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:36 AM 15-06-2026
+#last update time: 02:30:38 AM 15-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=sBEHl98pWgI3-Zh9yRcBXQ&expires=1781468437
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=4WNxRxeoUZX0rinqBkbt1A&expires=1781473839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=PFdMIvmQ0vgesqM7ynmuRw&expires=1781468437
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=ig1lUDSnMFFw9YZEnbeTjg&expires=1781473839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=BJXbHuX-Jg_4pTAYuVT2lg&expires=1781468438
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
-https://cdn3.zohanayaan.com:1686/hls/willowextra.m3u8?md5=ujvovy8TlJJatWNA8Jc9Jg&expires=1781468438
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=8M4i1ho8PfAAFjBa-NA49Q&expires=1781473839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP1)
-https://cdn2.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=McAI_xlHvsZ52lYxfOkP-Q&expires=1781468438
+https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=37L5_m6o4sCRFHT7qm_pYA&expires=1781473839
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
+https://cdn3.zohanayaan.com:1686/hls/willowextra.m3u8?md5=xtJk5SA0eTEV6YEUT9wPMQ&expires=1781473839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWUSA)
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=S-EMq3i9s58ZxUr4ekyqZA&expires=1781468439
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=_qi6VHdOVemUCvotoz-Ilg&expires=1781473839
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:16:30 AM 15-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 1]
+#last update time: 2:31:33 AM 15-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=4608fc10ee83c044eccdd589189c864e&x-time=1781464560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=World%20Cup%20of%20Darts%0AWorld%20Cup%20of%20Darts&font=Oswald" group-title="Darts", World Cup of Darts | World Cup of Darts [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781550993-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-baa9e019019ba604599f06f014e223c5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Almirante%20Brown%0AVS%0AGodoy%20Cruz%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Almirante Brown VS Godoy Cruz | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fec/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=61619e999ce65612d683792b489ba094&x-time=1781464560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Almirante%20Brown%0AVS%0AGodoy%20Cruz%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Almirante Brown VS Godoy Cruz | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fec/chunks.m3u8?is_vip=false&token=1781550998-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-c685c984a25320504a992e859ef73694
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Madryn%0AVS%0ASan%20Miguel%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Deportivo Madryn VS San Miguel | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe9/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=2e22b40172e8e11c43b53e22597bb15c&x-time=1781464560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Madryn%0AVS%0ASan%20Miguel%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Deportivo Madryn VS San Miguel | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe9/chunks.m3u8?is_vip=false&token=1781551003-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-478e0a501c2e9e6b8408ea0acb383904
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=1d9afbc483ba66addb74b312470be34f&x-time=1781469060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781555497-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-9fd33781cd53c1bc9f537a9818f03c6b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 3]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=201a703c1a5f9cf46f0820cd81c29b80&x-time=1781469060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 4]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=1781555498-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-abb827566af895ba0b06da9cb0678007
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 5]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781555498-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-fb9524c6bbab345c45eae08ebad327e9
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 6]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=3b989603b7af9345a6551aab26a02f2f&x-time=1781469060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e7a/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=87c8e176fce6c7c0674d3829b520085b&x-time=1781469060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Netherlands%0AVS%0AJapan%0AWorld%20Cup&font=Oswald" group-title="Football", Netherlands VS Japan | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e7a/chunks.m3u8?is_vip=false&token=1781555499-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-ec0b4bd716643b9e4299411506247d11
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Defensores%20W%0AVS%0AAtl.%20Andahuaylas%20W%0ALiga%20Women&font=Oswald" group-title="Liga Women", Defensores W VS Atl. Andahuaylas W | Liga Women [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=77282a83ae865f008569cc4d478c0ada&x-time=1781464560
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=8cc3d4dfd9f019250e4e810952fa98a6&x-time=1781469060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Defensores%20W%0AVS%0AAtl.%20Andahuaylas%20W%0ALiga%20Women&font=Oswald" group-title="Liga Women", Defensores W VS Atl. Andahuaylas W | Liga Women [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1781551008-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-f6dd33df9369feb9764a2bdb39774f52
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1781555505-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-a3ce5440cdd3e6d64dede787bc18e9db
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ferro%20Carril%20Oeste%0AVS%0AAcassuso%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Ferro Carril Oeste VS Acassuso | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=78c7ce2a5332da19127cb6b2156b5664&x-time=1781464560
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=9b23fe325adb3cc6341ac5d7835a0370&x-time=1781469060
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ferro%20Carril%20Oeste%0AVS%0AAcassuso%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Ferro Carril Oeste VS Acassuso | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=1781551013-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-4e6e29e892a772bfc08f670ac13f99e5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liniers%0AVS%0AReal%20Pilar%0APrimera%20B%20Metropolitana&font=Oswald" group-title="Primera B Metropolitana", Liniers VS Real Pilar | Primera B Metropolitana [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=ee8b65c6e524132d8d15c8d76aa8d58b&x-time=1781464560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Liniers%0AVS%0AReal%20Pilar%0APrimera%20B%20Metropolitana&font=Oswald" group-title="Primera B Metropolitana", Liniers VS Real Pilar | Primera B Metropolitana [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=1781551018-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-1cab45f51375eb95f2c3c8062d8dbf27
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bulgaria%0AVS%0ASerbia%0AVolleyball%20Nations%20League&font=Oswald" group-title="Volleyball", Bulgaria VS Serbia | Volleyball Nations League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=d33611911459e09a2653399bb081293e&x-time=1781464620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Bulgaria%0AVS%0ASerbia%0AVolleyball%20Nations%20League&font=Oswald" group-title="Volleyball", Bulgaria VS Serbia | Volleyball Nations League [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1781551023-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-4b3f05098dfaee1f3eb908c7edc0ac73
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0AGoias%0ASerie%20B&font=Oswald" group-title="Serie B", Athletic Club VS Goias | Serie B [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929949/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=dda0184e9e4558d8d170e40bd49af367&x-time=1781464620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Athletic%20Club%0AVS%0AGoias%0ASerie%20B&font=Oswald" group-title="Serie B", Athletic Club VS Goias | Serie B [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929949/chunks.m3u8?is_vip=false&token=1781551029-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-28ed1e4821273c6df472bd8896d5c44e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=1781555511-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-775115b12ef35ec30709a160624ae49a
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Mitre%0AVS%0ALos%20Andes%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Atletico Mitre VS Los Andes | Primera Nacional [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e75/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=d5bdda46536b28e2d2797626f7d6bbe3&x-time=1781469060
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Atletico%20Mitre%0AVS%0ALos%20Andes%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Atletico Mitre VS Los Andes | Primera Nacional [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e75/chunks.m3u8?is_vip=false&token=1781555516-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-cec654f314813f4ffddd28c60bf3402b
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Racing%20Cordoba%0AVS%0AChaco%20For%20Ever%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Racing Cordoba VS Chaco For Ever | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=884d9a1c2caba7e58760b827f969be6e&x-time=1781464620
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=e6b9cf4aa1e102eea1497ba5e4d3bc02&x-time=1781469120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Racing%20Cordoba%0AVS%0AChaco%20For%20Ever%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Racing Cordoba VS Chaco For Ever | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=1781551034-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-9296670acf2fe95af9cb36b539f48968
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=1781555522-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-fe8d455accad366cad47be29d2018521
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0AAlmeria%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="Football", Malaga VS Almeria | Segunda División [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781551038-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-ae08fb77f6bbb70c57be54f4a4d33a32
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781555527-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-77c5c19faa4caa4d524abe166f90bab4
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Malaga%0AVS%0AAlmeria%0ASegunda%20Divisi%C3%B3n&font=Oswald" group-title="Football", Malaga VS Almeria | Segunda División [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=6b779e161d6b52bd9f23dcbfc0909b0a&x-time=1781464620
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=93a808c807edd4695aa5dd26d638b08f&x-time=1781469120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paysandu%0AVS%0AInter%20De%20Limeira%0ASerie%20C&font=Oswald" group-title="Serie C", Paysandu VS Inter De Limeira | Serie C [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=415f4852c5dc905d38273f3988f1738c&x-time=1781464620
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=5123c02cd3fec28749f6273c0e78657e&x-time=1781469120
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Paysandu%0AVS%0AInter%20De%20Limeira%0ASerie%20C&font=Oswald" group-title="Serie C", Paysandu VS Inter De Limeira | Serie C [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=1781551044-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-a7ac07bdbbccee33571b52f4943273e0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Long%20Island%20Rough%20Riders%20W%0AVS%0ANew%20Jersey%20Copa%20W%0AUSL%20W%20League&font=Oswald" group-title="USL W League", Long Island Rough Riders W VS New Jersey Copa W | USL W League [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072dad5/chunks.m3u8?is_vip=false&token=6070ea447a722aa42091fe6a4bb645c571d33257&x-sign=3462fb3fb802dfddee92664ca9b4dc9c&x-time=1781464620
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Long%20Island%20Rough%20Riders%20W%0AVS%0ANew%20Jersey%20Copa%20W%0AUSL%20W%20League&font=Oswald" group-title="USL W League", Long Island Rough Riders W VS New Jersey Copa W | USL W League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072dad5/chunks.m3u8?is_vip=false&token=1781551049-Kv4cPTAAP5YTi-6070ea447a722aa42091fe6a4bb645c571d33257-0ca3c09c8593787b2add5d4c8e5955c0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=1781555532-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-c304449aa4605e423cd98f58af07f4f8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Maipu%0AVS%0ATristan%20Suarez%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Deportivo Maipu VS Tristan Suarez | Primera Nacional [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e78/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=6422f64a0a47674bc4ed901e5ab36311&x-time=1781469120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Deportivo%20Maipu%0AVS%0ATristan%20Suarez%0APrimera%20Nacional&font=Oswald" group-title="Primera Nacional", Deportivo Maipu VS Tristan Suarez | Primera Nacional [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e78/chunks.m3u8?is_vip=false&token=1781555538-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-3fa32b1c01103943f59428e2b6339798
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AO%20Itabaiana%0AVS%0AItuano%0ASerie%20C&font=Oswald" group-title="Serie C", AO Itabaiana VS Ituano | Serie C [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994f/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=f28455b4a989a6a8d69398ff2f17b4b3&x-time=1781469120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=AO%20Itabaiana%0AVS%0AItuano%0ASerie%20C&font=Oswald" group-title="Serie C", AO Itabaiana VS Ituano | Serie C [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994f/chunks.m3u8?is_vip=false&token=1781555543-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-ccd3c850d48c9b2226cdec8abc8ac86e
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chicago%20Fire%20II%0AVS%0AInter%20Miami%20II%0AMLS%20Next%20Pro&font=Oswald" group-title="MLS Next Pro", Chicago Fire II VS Inter Miami II | MLS Next Pro [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072dad8/chunks.m3u8?is_vip=false&token=14fe4413934321cc4dc8b2730edca5367e08db83&x-sign=b2bd9254ef83e7ec25fb68b1d730fffe&x-time=1781469120
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chicago%20Fire%20II%0AVS%0AInter%20Miami%20II%0AMLS%20Next%20Pro&font=Oswald" group-title="MLS Next Pro", Chicago Fire II VS Inter Miami II | MLS Next Pro [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072dad8/chunks.m3u8?is_vip=false&token=1781555548-Kv4cPTAAP5YTi-14fe4413934321cc4dc8b2730edca5367e08db83-827d81f9e3bb1436c3cf9fc4c4e8dfd0
 # Playlist Name: Tapmad bd
-# Last Update: 01:20 AM 15-06-2026
+# Last Update: 02:40 AM 15-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:15:22 AM 15-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090534739" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026
-https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-#last update time: 01:15:34 AM 15-06-2026
+# last_update: 02:45:27 AM 15-06-2026
+#last update time: 02:45:21 AM 15-06-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_SPORTY_APP.png" group-title="Football", Málaga Vs Almería | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/m_laga_vs_almer_a_143391_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 4   Featured Groups | RBC Canadian Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___featured_groups_143220_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 4   Main Feed | RBC Canadian Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___main_feed_143217_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 4   Featured Holes | RBC Canadian Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___featured_holes_143219_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 4   Marquee Group | RBC Canadian Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___marquee_group_143218_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png" group-title="Golf", Day 4   World Feed | RBC Canadian Open 2026 (ENGLISH)
