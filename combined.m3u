@@ -309,58 +309,70 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:43 PM 14-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=DO-mQh41KPmv1U8lbgn2EQ&expires=1781436045
+#last update time: 06:00:43 PM 14-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=H6kQzswvuWT42ICKvGOzWg&expires=1781436046
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=sUlqx9fD10absOArzSTdEw&expires=1781443244
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mozWlniimb8BESbJM3bv1A&expires=1781436046
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=11JZBpRpQoUHdJoKuU1OZQ&expires=1781443244
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=__VdIaIrzHmGblUfRo4gIA&expires=1781443244
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP1)
-https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=4FqqW6rC_s_FQ-rU9eOhXg&expires=1781436046
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=_XkOeY8WthTz0OlmqHc-sg&expires=1781436047
+https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=mqLvZ9wDjlXTr0Ne1RsfgQ&expires=1781443245
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWUSA)
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=dNkcVuV26kb-T6O6bwC1jA&expires=1781436047
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=QXb8Z33zHCZL4XuYeDLqnA&expires=1781443245
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=nzBWPR8qOuoCWzFNttLqdg&expires=1781443245
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP1)
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 3:46:35 PM 14-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qingdao%20Red%20Lions%0AVS%0AShanghai%20Port%20II%0ALeague%20Two&font=Oswald" group-title="League Two", Qingdao Red Lions VS Shanghai Port II | League Two [Server 1]
+#last update time: 6:01:28 PM 14-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cross-country%20Olympic%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Cross-country Olympic: Leogang | UCI Mountain Bike World Series [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b10-cnhd/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=f03e40452590a9662c649ee9129cd11b&x-time=1781430360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Qingdao%20Red%20Lions%0AVS%0AShanghai%20Port%20II%0ALeague%20Two&font=Oswald" group-title="League Two", Qingdao Red Lions VS Shanghai Port II | League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b10-cnhd/chunks.m3u8?is_vip=false&token=1781516799-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-c52b3f76e68ff138ecf478a1bb3661bd
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ural%20II%0AVS%0AOrenburg%20II%0ASecond%20League%20-%20Group%204&font=Oswald" group-title="Second League - Group 4", Ural II VS Orenburg II | Second League - Group 4 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b8/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=18a70cf7aabe0a1ea4d42f3dd07da027&x-time=1781430360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ural%20II%0AVS%0AOrenburg%20II%0ASecond%20League%20-%20Group%204&font=Oswald" group-title="Second League - Group 4", Ural II VS Orenburg II | Second League - Group 4 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b8/chunks.m3u8?is_vip=false&token=1781516804-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-9fa64af96976d3cab22d7c627031c0a0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rockdale%20Ilinden%20U20%0AVS%0ASD%20Raiders%20U20%0ANpl%20Nsw%20U20&font=Oswald" group-title="Npl Nsw U20", Rockdale Ilinden U20 VS SD Raiders U20 | Npl Nsw U20 [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27183efbf7a5b2507291c3/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=3488c8fa744c8a5f472d9db77b3ee586&x-time=1781430360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Rockdale%20Ilinden%20U20%0AVS%0ASD%20Raiders%20U20%0ANpl%20Nsw%20U20&font=Oswald" group-title="Npl Nsw U20", Rockdale Ilinden U20 VS SD Raiders U20 | Npl Nsw U20 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27183efbf7a5b2507291c3/chunks.m3u8?is_vip=false&token=1781516810-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-3f9354ab20efe3167eda3459b60a1359
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Canberra%20Juventus%0AVS%0ACooma%20Tigers%20FC%0ACapital%20Territory%20NPL&font=Oswald" group-title="Capital Territory NPL", Canberra Juventus VS Cooma Tigers FC | Capital Territory NPL [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b05/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=44cff94bf18a7b74d5f71ca372b9a59b&x-time=1781430360
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Canberra%20Juventus%0AVS%0ACooma%20Tigers%20FC%0ACapital%20Territory%20NPL&font=Oswald" group-title="Capital Territory NPL", Canberra Juventus VS Cooma Tigers FC | Capital Territory NPL [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b05/chunks.m3u8?is_vip=false&token=1781516816-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-83f4243fe4399d4dd75ef36ce4838699
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%2C%20Spain%0AFIA%20Formula%202%20Championship%20Feature%20Race&font=Oswald" group-title="Auto Racing", Barcelona, Spain | FIA Formula 2 Championship Feature Race [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/136343/720p/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=692ea8084a731194bd31e565c0543369&x-time=1781430420
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cross-country%20Olympic%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Cross-country Olympic: Leogang | UCI Mountain Bike World Series [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781516825-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-006ddb78c8fa07be92c831bd50aa9bb2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781524891-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-62cafca3ba3a68751b81847da889c545
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Cross-country%20Olympic%3A%20Leogang%0AUCI%20Mountain%20Bike%20World%20Series&font=Oswald" group-title="Cycling", Cross-country Olympic: Leogang | UCI Mountain Bike World Series [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=2b24368015c564ee9b925dd2d021541c&x-time=1781430420
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Valencia%20-%20Race%202%0ATCR%20World%20Tour%202026&font=Oswald" group-title="TCR World Tour 2026", Valencia - Race 2 | TCR World Tour 2026 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781516831-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-75cdf7c476e01a6d6674c07a3ff43098
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Valencia%20-%20Race%202%0ATCR%20World%20Tour%202026&font=Oswald" group-title="TCR World Tour 2026", Valencia - Race 2 | TCR World Tour 2026 [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=93ffc7b0e680f387ae282f3b153a6e49&x-time=1781430420
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=6ec8df69fed1fba72ff827fee0971d3e&x-time=1781438460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Flora%20II%0AVS%0ATallinna%20Kalev%0AEsiliiga%20A&font=Oswald" group-title="Esiliiga A", Flora II VS Tallinna Kalev | Esiliiga A [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b18/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=923c9639c6a6f73f3d9dc1fd59bfae50&x-time=1781438460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Flora%20II%0AVS%0ATallinna%20Kalev%0AEsiliiga%20A&font=Oswald" group-title="Esiliiga A", Flora II VS Tallinna Kalev | Esiliiga A [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b18/chunks.m3u8?is_vip=false&token=1781524897-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-62143c3b10c81495e04655054637f727
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Final%3A%20Lib%C3%A9ma%20Open%0ALibema%20Open&font=Oswald" group-title="Tennis", Final: Libéma Open | Libema Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781516836-Kv4cPTAAP5YTi-928da67e755787e8e696df4afed554eaff734ddf-70e2c3cbecbdfd30cfb85663bfabb945
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781524902-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-3348ea624918c988e1a9ecf632e39bc5
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Final%3A%20Lib%C3%A9ma%20Open%0ALibema%20Open&font=Oswald" group-title="Tennis", Final: Libéma Open | Libema Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=928da67e755787e8e696df4afed554eaff734ddf&x-sign=06aadd9f18912171876793932008fad7&x-time=1781430420
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=bad3a9e501809f292592ad2478bd00c8&x-time=1781438460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wuxi%20Wugou%0AVS%0AMeizhou%20Kejia%0ALeague%20One&font=Oswald" group-title="League One", Wuxi Wugou VS Meizhou Kejia | League One [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b21/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=46bd33d1bf24776d1e35cf642d7d2390&x-time=1781438460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Wuxi%20Wugou%0AVS%0AMeizhou%20Kejia%0ALeague%20One&font=Oswald" group-title="League One", Wuxi Wugou VS Meizhou Kejia | League One [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b21/chunks.m3u8?is_vip=false&token=1781524907-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-2973d18fcd37d698ae781e3a567b5221
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sotra%0AVS%0ABrattv%C3%A5g%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="2. Division - Group 1", Sotra VS Brattvåg | 2. Division - Group 1 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adae/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=360a251305602f7a359bd4dddc12030b&x-time=1781438460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sotra%0AVS%0ABrattv%C3%A5g%0A2.%20Division%20-%20Group%201&font=Oswald" group-title="2. Division - Group 1", Sotra VS Brattvåg | 2. Division - Group 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adae/chunks.m3u8?is_vip=false&token=1781524912-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-033b3c15466ff108689b0a8c019dae06
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Barcelona%20Grand%20Prix%202026%0AGrand%20Prix%20Sunday&font=Oswald" group-title="Auto Racing", Barcelona Grand Prix 2026 | Grand Prix Sunday [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/136343/720p/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=987b27c972dcabdc71238065b176b18b&x-time=1781438460
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Guizhou%20Zhucheng%0AVS%0AGuangzhou%20Dandelion%0ALeague%20Two&font=Oswald" group-title="League Two", Guizhou Zhucheng VS Guangzhou Dandelion | League Two [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b2a/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=0d68c74cea9716795797fddfd498d8fe&x-time=1781438520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Guizhou%20Zhucheng%0AVS%0AGuangzhou%20Dandelion%0ALeague%20Two&font=Oswald" group-title="League Two", Guizhou Zhucheng VS Guangzhou Dandelion | League Two [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b2a/chunks.m3u8?is_vip=false&token=1781524922-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-6fb00f52b7723717133f0e4e5fa657ee
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hubei%20Chufeng%20Heli%0AVS%0AShenzhen%202028%0ALeague%20Two&font=Oswald" group-title="League Two", Hubei Chufeng Heli VS Shenzhen 2028 | League Two [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b2b/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=3f8794cfa496f3b17ed2cb498ddb229b&x-time=1781438520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hubei%20Chufeng%20Heli%0AVS%0AShenzhen%202028%0ALeague%20Two&font=Oswald" group-title="League Two", Hubei Chufeng Heli VS Shenzhen 2028 | League Two [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0b2b/chunks.m3u8?is_vip=false&token=1781524927-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-4f61bccaa4ae9d8ba21012aa6e237bcb
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ben%20Shelton%0AVS%0ATaylor%20Fritz%20(Men's%20Singles)%20-%20Final%0ABOSS%20Open&font=Oswald" group-title="Tennis", Ben Shelton VS Taylor Fritz (Men's Singles) - Final | BOSS Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781524931-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-80f7a467843c089d1ae5f422d1099273
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Ben%20Shelton%0AVS%0ATaylor%20Fritz%20(Men's%20Singles)%20-%20Final%0ABOSS%20Open&font=Oswald" group-title="Tennis", Ben Shelton VS Taylor Fritz (Men's Singles) - Final | BOSS Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=ff0842eb7c6335fbb31d9e26c5c6407d&x-time=1781438520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tupan%0AVS%0AS%C3%A3o%20Jos%C3%A9%20MA%0AMaranhense%20-%202&font=Oswald" group-title="Maranhense - 2", Tupan VS São José MA | Maranhense - 2 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27183efbf7a5b2507291c5/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=2fea2d2134aca857eb00c9d412ff6812&x-time=1781438520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tupan%0AVS%0AS%C3%A3o%20Jos%C3%A9%20MA%0AMaranhense%20-%202&font=Oswald" group-title="Maranhense - 2", Tupan VS São José MA | Maranhense - 2 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27183efbf7a5b2507291c5/chunks.m3u8?is_vip=false&token=1781524937-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-4d31d8561112dc43dfa8ead3d1583491
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=L%C3%B8renskog%0AVS%0ATromsdalen%20Uil%0A2.%20Division%20-%20Group%202&font=Oswald" group-title="2. Division - Group 2", Lørenskog VS Tromsdalen Uil | 2. Division - Group 2 [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ada8/chunks.m3u8?is_vip=false&token=69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8&x-sign=f27fe13cd4a49448d85d8a5e2d216ee7&x-time=1781438520
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=L%C3%B8renskog%0AVS%0ATromsdalen%20Uil%0A2.%20Division%20-%20Group%202&font=Oswald" group-title="2. Division - Group 2", Lørenskog VS Tromsdalen Uil | 2. Division - Group 2 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ada8/chunks.m3u8?is_vip=false&token=1781524942-Kv4cPTAAP5YTi-69d36d2eed9bd8dcc9a95d8f03aa238101e8b9d8-c21b74d77b363d44979344ad3783ebe9
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 PM 14-06-2026
+# Last Update: 06:10 PM 14-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -369,15 +381,29 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/ma
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:31 PM 14-06-2026
-#last update time: 04:00:30 PM 14-06-2026
+# last_update: 06:00:31 PM 14-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090534746" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198966873129_ArcheryWC26_Antalya_Turkiye_Compound_mixed_Team_landscape_thumb.jpg" group-title="Archery", Hyundai Archery World Cup Stage 3 - Antalya, Turkiye | Compound Mixed Team And Individual Finals - 14 Jun 2026
+https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090534704" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071038987762_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day4_6jun_landscape_thumb.jpg" group-title="Golf", Asian Tour 2026 | International Series Morocco - Day 4 - 14 Jun 2026
+https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8
+#last update time: 06:00:28 PM 14-06-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142967_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022377/143084_CASACARDS_SPORTY_APP.png" group-title="Cricket", Royal Nimar Eagles Vs Ujjain Falcons | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_eagles_vs_ujjain_falcons_143084_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-app.jpg" group-title="Cricket", Amritsar Alligators Vs Ludhiana Lions | Punjab T10 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amritsar_alligators_vs_ludhiana_lions_143031_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-app.jpg" group-title="Cricket", Patiala Panthers Vs Bathinda Bulls | Punjab T10 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/patiala_panthers_vs_bathinda_bulls_143032_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg" group-title="Motorsports", Feature Race | F2 BARCELONA 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/feature_race_139629_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png" group-title="Tennis", Final   Center Court | ATP 250 - BOSS OPEN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final___center_court_143124_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png" group-title="Tennis", Final   Center Court | ATP 250 - Libema Open (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final___center_court_143131_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3506555e8cd94450bb1dadf6dd19614b:1afffe9401229d41ab8e58c46a0837ce
+https://bd-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=36a181b20a884c4482d0c4bf146b9e79:449e94fdd2d85320902d763dd33aeab7
+https://bd-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg" group-title="Formula 1", Race | F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA  (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_key=574eed3b7a444b9894be7394371ef904:bedbdda130683cd9375278f2cc94135c
+https://bd-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd
