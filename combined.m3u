@@ -309,64 +309,32 @@ http://103.204.43.87:8080/live/1/1/319.m3u8
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:33 AM 15-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=M6P318wuof8V7f6S1TETqw&expires=1781493634
+#last update time: 01:30:36 PM 15-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=0y0YGbdh30WwKqBwCoGxlw&expires=1781493635
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=nImZ4DCHZvvmN8ezv0K-Ng&expires=1781513437
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=fZ4RQ3sHgNlh57QdSzlP7w&expires=1781513437
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=H9CUnz-mUM06hRJKEu_rFg&expires=1781493635
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=6fcvbZWYLwFW4u7oPwqedA&expires=1781513437
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP2)
-https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=-hu7pZpuKCRWpvRtyp1BpQ&expires=1781493635
+https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=ii_b9WkZP_PDrmYi_Q6hjg&expires=1781513438
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 8:01:31 AM 15-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781575294-Kv4cPTAAP5YTi-6381521bb33b8207020eb9afb288bea549080204-a125631cb0f78625fa84181601e6fc9c
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=ff400ced58b54f62cd2d86580f8a0486&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 3]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=cd297bb26594fc9c1b9ec34b16e0fba5&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 4]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=87db5078bc88131a64420f42a57e35be&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 5]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82/chunks.m3u8?is_vip=false&token=1781575295-Kv4cPTAAP5YTi-6381521bb33b8207020eb9afb288bea549080204-5874149103a202c3df207c5eb5e88427
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 6]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82-hd/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=bb6368daf19d59df9539039ddb995984&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 7]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82-hd/chunks.m3u8?is_vip=false&token=1781575296-Kv4cPTAAP5YTi-6381521bb33b8207020eb9afb288bea549080204-39673aef9c2f4444aadf78002a3b10d3
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 8]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82-cnhd/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=373a8ec61eb689e0af49f1adc03d72ac&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 9]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82-cnhd/chunks.m3u8?is_vip=false&token=1781575296-Kv4cPTAAP5YTi-6381521bb33b8207020eb9afb288bea549080204-ccea2176f92efca6eb393bcf33b41055
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 10]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82-fhd/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=e2e24ce0e0342156fea5ed1094e0d89d&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Sweden%0AVS%0ATunisia%0AWorld%20Cup&font=Oswald" group-title="Football", Sweden VS Tunisia | World Cup [Server 11]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e82-fhd/chunks.m3u8?is_vip=false&token=1781575297-Kv4cPTAAP5YTi-6381521bb33b8207020eb9afb288bea549080204-4acd4b757a62f1794ae4ba0819710c42
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=TOPURIA%0AVS%0AGAETHJE%0AUFC&font=Oswald" group-title="UFC", TOPURIA VS GAETHJE | UFC [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=f46f5cff1072b47931a5c2f065fba4c5&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Snohomish%20United%0AVS%0AWest%20Seattle%20Junction%0AUSL%20League%20Two&font=Oswald" group-title="USL League Two", Snohomish United VS West Seattle Junction | USL League Two [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072daf2/chunks.m3u8?is_vip=false&token=6381521bb33b8207020eb9afb288bea549080204&x-sign=4afafa6bf9dbcdbd9eb473ae11aadabd&x-time=1781488860
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Snohomish%20United%0AVS%0AWest%20Seattle%20Junction%0AUSL%20League%20Two&font=Oswald" group-title="USL League Two", Snohomish United VS West Seattle Junction | USL League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072daf2/chunks.m3u8?is_vip=false&token=1781575306-Kv4cPTAAP5YTi-6381521bb33b8207020eb9afb288bea549080204-e0200412459aa84e11d21dd48f0b053c
+#last update time: 1:31:30 PM 15-06-2026
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 AM 15-06-2026
+# Last Update: 01:30 PM 15-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14144" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17811780811020x576.jpg" group-title="Mma", Topuria vs Gaethje | UFC 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17814402971020x576.jpg" group-title="Cricket", West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14371" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17815060481020x576.jpg" group-title="Cricket", Stockholm City vs Malmo Mavericks | Nordic Smash 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781509506~acl=/hls/*~hmac=cb2c54471f049126ac534b046547a3ad762ad176ecf94c9026036ca4e7bce55a
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:00:30 AM 15-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090534705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019536/1781175347180423_UFC_Freedom_250_Topuria_vs_Gaethje_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Freedom 250 - Topuria vs Gaethje | UFC Freedom 250 - Topuria vs Gaethje - 15 Jun 2026
-https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
-#last update time: 08:00:35 AM 15-06-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL-T20I-Series_fc-web.jpg" group-title="Cricket", West Indies Vs Sri Lanka | Sri Lanka tour of West Indies 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_sri_lanka_142977_english.m3u8
+# last_update: 01:30:29 PM 15-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090534767" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019542/1781183311802152_Tri_Series26_SL_A_vs_IND_A_landscape_thumb.jpg" group-title="Cricket", Talent TV Cup | Sri Lanka A vs India A - 15 Jun 2026
+https://dai.google.com/ssai/event/LdAF3qixR7m1e_v000QMHA/master.m3u8
+#last update time: 01:30:20 PM 15-06-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png" group-title="Cricket", Stockholm City Vs Malmo Mavericks | Nordic Smash T20 Cup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_city_vs_malmo_mavericks_143175_english.m3u8
