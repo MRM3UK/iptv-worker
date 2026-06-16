@@ -187,58 +187,62 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:40 PM 16-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=7tu65mxVwpzqwO1il2Y4Ew&expires=1781635841
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bUeNqGTxnx8fcQ02lsVYyA&expires=1781635841
+#last update time: 02:30:40 AM 17-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=ST1h21Y4JnmuvJRsynmTTQ&expires=1781635841
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=psNgVHZI-Pg85uKhbycq2w&expires=1781646641
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=8KMraZuxuQU4OP_JjNZFYg&expires=1781646641
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=MM4ImkEzlX3coDcIV4s0qg&expires=1781646641
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 11:46:36 PM 16-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%3A%20Berlin%20Open%0ABerlin%20Open&font=Oswald" group-title="Tennis", Day 2: Berlin Open | Berlin Open [Server 1]
+#last update time: 2:31:44 AM 17-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781718399-Kv4cPTAAP5YTi-ceda2295ed8f515d6dece781d6655f54d9d79e3f-cfd220a88fd45174a418b8f42d8ba8d7
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%202%3A%20Berlin%20Open%0ABerlin%20Open&font=Oswald" group-title="Tennis", Day 2: Berlin Open | Berlin Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=ceda2295ed8f515d6dece781d6655f54d9d79e3f&x-sign=c8576b03bc598ac68738ea5f025fecc5&x-time=1781631960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=2026%20Players%20Championship%2021%0APlayers%20Championship&font=Oswald" group-title="Darts", 2026 Players Championship 21 | Players Championship [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=ceda2295ed8f515d6dece781d6655f54d9d79e3f&x-sign=a1c5e27509afe1c284e5296595ae2900&x-time=1781631960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Grobi%C5%86a%0AVS%0AFK%20Liepaja%0AVirsliga&font=Oswald" group-title="Virsliga", Grobiņa VS FK Liepaja | Virsliga [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc55a/chunks.m3u8?is_vip=false&token=ceda2295ed8f515d6dece781d6655f54d9d79e3f&x-sign=0b38ed26065b6e84a340787d6c180dc0&x-time=1781631960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Grobi%C5%86a%0AVS%0AFK%20Liepaja%0AVirsliga&font=Oswald" group-title="Virsliga", Grobiņa VS FK Liepaja | Virsliga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc55a/chunks.m3u8?is_vip=false&token=1781718411-Kv4cPTAAP5YTi-ceda2295ed8f515d6dece781d6655f54d9d79e3f-ce196a400f9a491ef40fbf14cd7ea4b2
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Dila%0AVS%0ASpaeri%0AErovnuli%20Liga&font=Oswald" group-title="Erovnuli Liga", Dila VS Spaeri | Erovnuli Liga [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc57b/chunks.m3u8?is_vip=false&token=ceda2295ed8f515d6dece781d6655f54d9d79e3f&x-sign=dab866eabe37a13fdeadb65123064728&x-time=1781631960
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Dila%0AVS%0ASpaeri%0AErovnuli%20Liga&font=Oswald" group-title="Erovnuli Liga", Dila VS Spaeri | Erovnuli Liga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc57b/chunks.m3u8?is_vip=false&token=1781718416-Kv4cPTAAP5YTi-ceda2295ed8f515d6dece781d6655f54d9d79e3f-79df0e084546032b795547562b03eead
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Vaprus%0AVS%0AFlora%20Tallinn%0AMeistriliiga&font=Oswald" group-title="Meistriliiga", Vaprus VS Flora Tallinn | Meistriliiga [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc55b/chunks.m3u8?is_vip=false&token=ceda2295ed8f515d6dece781d6655f54d9d79e3f&x-sign=e973b8cd4b83d8d2ad574e94b0198a9e&x-time=1781632020
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Vaprus%0AVS%0AFlora%20Tallinn%0AMeistriliiga&font=Oswald" group-title="Meistriliiga", Vaprus VS Flora Tallinn | Meistriliiga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc55b/chunks.m3u8?is_vip=false&token=1781718421-Kv4cPTAAP5YTi-ceda2295ed8f515d6dece781d6655f54d9d79e3f-83e721646cff8a6e043cf0a76ee84f42
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kuressaare%0AVS%0ATrans%20Narva%0AMeistriliiga&font=Oswald" group-title="Meistriliiga", Kuressaare VS Trans Narva | Meistriliiga [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc586/chunks.m3u8?is_vip=false&token=ceda2295ed8f515d6dece781d6655f54d9d79e3f&x-sign=b6cd3bc6d015309eac3efdd9ac9873af&x-time=1781632020
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Kuressaare%0AVS%0ATrans%20Narva%0AMeistriliiga&font=Oswald" group-title="Meistriliiga", Kuressaare VS Trans Narva | Meistriliiga [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc586/chunks.m3u8?is_vip=false&token=1781718427-Kv4cPTAAP5YTi-ceda2295ed8f515d6dece781d6655f54d9d79e3f-5721cbdc9052d7cb81ff6e5391da6e13
+https://livecdn-bp-iptv.rumsport7.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=60639c2149fc1a36762db5e1df0ba5c5&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=1781728306-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-c15b6f50e6a858a37bb5fad8be0ce42f
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781728307-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-e49f97101e2d70d09690908cec7c11a1
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=da2331037f816ec975c7c28e4f24b87c&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 5]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=a75cbdcec9f2a05b43a1647fd0f88d9d&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 6]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565/chunks.m3u8?is_vip=false&token=1781728308-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-53ad0d4f56ce986e7683af1f8bc360b1
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-hd/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=b7cc890535410d334443df8a5318244c&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-hd/chunks.m3u8?is_vip=false&token=1781728308-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-4f4d13fca54aa6250dffd0d965bbd404
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 9]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-cnhd/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=b57de1aa5995b1ef0d7f2cf9ccc94650&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 10]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-cnhd/chunks.m3u8?is_vip=false&token=1781728309-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-2e7c926b1ad815092c6bf3828ccf4531
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 11]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-cnhd2/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=76e2ba59e803eca98ddfcaed870a9376&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 12]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-cnhd2/chunks.m3u8?is_vip=false&token=1781728310-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-e648020396a17e1189025317d3078e98
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 13]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-fhd/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=bc1b2a9b15c11e9347a10f7dfdb57ce2&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=France%0AVS%0ASenegal%0AWorld%20Cup&font=Oswald" group-title="Football", France VS Senegal | World Cup [Server 14]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a11c80099221959562bc565-fhd/chunks.m3u8?is_vip=false&token=1781728310-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-55ecba5e9fd10da22a38fe9b54d5c0ab
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=IA%20Akranes%0AVS%0AValur%20Reykjavik%0A%C3%9Arvalsdeild&font=Oswald" group-title="Úrvalsdeild", IA Akranes VS Valur Reykjavik | Úrvalsdeild [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e70/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=32631cb65f9f9bc6bcaa6c6f6c13b3e0&x-time=1781641860
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=IA%20Akranes%0AVS%0AValur%20Reykjavik%0A%C3%9Arvalsdeild&font=Oswald" group-title="Úrvalsdeild", IA Akranes VS Valur Reykjavik | Úrvalsdeild [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e70/chunks.m3u8?is_vip=false&token=1781728315-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-1a756d91e8773054277ca6cf4c9c5d74
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Stjarnan%0AVS%0ABreidablik%0A%C3%9Arvalsdeild&font=Oswald" group-title="Úrvalsdeild", Stjarnan VS Breidablik | Úrvalsdeild [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e77/chunks.m3u8?is_vip=false&token=76be3daa86c7201d042d1c545ba9a6073277a49f&x-sign=65d157466a945277bdc97b9bd9a02c4d&x-time=1781641920
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Stjarnan%0AVS%0ABreidablik%0A%C3%9Arvalsdeild&font=Oswald" group-title="Úrvalsdeild", Stjarnan VS Breidablik | Úrvalsdeild [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e77/chunks.m3u8?is_vip=false&token=1781728320-Kv4cPTAAP5YTi-76be3daa86c7201d042d1c545ba9a6073277a49f-0c505e2926a447406f3b8615459028b6
 # Playlist Name: Tapmad bd
-# Last Update: 11:40 PM 16-06-2026
+# Last Update: 02:40 AM 17-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14401" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17815995411020x576.jpg" group-title="Cricket", Stockholm City vs Vasteras United | Nordic Smash 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781632508~acl=/hls/*~hmac=4751beb64c6dd155b57fe403c21cb7f9c9a3ec9b1ebc2ab3032e848e1e07fd13
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:45:28 PM 16-06-2026
-#last update time: 11:45:28 PM 16-06-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022367/143088_CASACARDS_SPORTY_APP.png" group-title="Cricket", Rewa Jaguars Vs Jabalpur Royal Lions | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rewa_jaguars_vs_jabalpur_royal_lions_143088_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143180_6109_VTU_STY_FC-WEB.jpg" group-title="Cricket", Vasteras United Vs Stockholm City | Nordic Smash T20 Cup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/vasteras_united_vs_stockholm_city_143180_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 2   Court 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___court_1_143133_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 2   World Feed | ATP 500 - HSBC Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_143136_english.m3u8
+# last_update: 02:45:24 AM 17-06-2026
+#last update time: 02:45:24 AM 17-06-2026
