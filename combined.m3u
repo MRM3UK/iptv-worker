@@ -235,81 +235,39 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:47 PM 17-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=8CIryXk8uzGnWf9hPdmGNQ&expires=1781720449
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=Fxm3l28LK46vMpcPtKj4hA&expires=1781720449
+#last update time: 01:30:42 AM 18-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5yr2ZY8X3YiqNmCZWfxtJA&expires=1781720449
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=otADZGmffGoaFDREAXM8kQ&expires=1781729443
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=BchwN3_aA78VAxSqrHXNfw&expires=1781729443
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=OIjAOs-uUt0n9SFEwLFilA&expires=1781729443
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
-https://cdn9.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=pXctmfvt0SLTWHyQBZYTKQ&expires=1781720449
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=P5ZnPzhiyPs2V4AtJiJsSA&expires=1781720449
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=KbW8n_59szeICoYPaLZpWw&expires=1781720449
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=VlBE2zeQhqF_rHZBDPpe3A&expires=1781729443
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=PhmB_FJpqJhd0NQKjWh9iQ&expires=1781720450
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=CXrWHV9S_Ln4G3A8T-A9Bg&expires=1781729443
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=54jolmDKko5Xb_g4b_EtFA&expires=1781729443
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6HqNn6djOMr9Focd7wrcYA&expires=1781729443
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP3)
-https://cdn9.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=CSMzY_5425MZJuwlneMrxQ&expires=1781720450
+https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=MZwHpFV1UUeOqv9GCrUs7Q&expires=1781729444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
-https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=xL6wyh2Jl2wUVOjo8OQuWQ&expires=1781720450
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
+https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=5tceTQjFEForpxvIxVSnqQ&expires=1781729444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 11:16:33 PM 17-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ACongo%20DR%0AWorld%20Cup&font=Oswald" group-title="Football", Portugal VS Congo DR | World Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/544565/720p/chunks.m3u8?is_vip=false&token=1781802996-Kv4cPTAAP5YTi-afde2cd312f349dc0cca271a7629de982f5165bb-b8c16e6c5339dfd892e14e26b0b5946a
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ACongo%20DR%0AWorld%20Cup&font=Oswald" group-title="Football", Portugal VS Congo DR | World Cup [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/544565/720p/chunks.m3u8?is_vip=false&token=afde2cd312f349dc0cca271a7629de982f5165bb&x-sign=870df310cba5c3b09975985ae7653376&x-time=1781716560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ACongo%20DR%0AWorld%20Cup&font=Oswald" group-title="Football", Portugal VS Congo DR | World Cup [Server 3]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=afde2cd312f349dc0cca271a7629de982f5165bb&x-sign=1d8aebe1b6e87f2f5e8e8c474eef59c3&x-time=1781716560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ACongo%20DR%0AWorld%20Cup&font=Oswald" group-title="Football", Portugal VS Congo DR | World Cup [Server 4]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=1781802998-Kv4cPTAAP5YTi-afde2cd312f349dc0cca271a7629de982f5165bb-83ef1790e806c7a99adca65c4f335164
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ACongo%20DR%0AWorld%20Cup&font=Oswald" group-title="Football", Portugal VS Congo DR | World Cup [Server 5]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781802998-Kv4cPTAAP5YTi-afde2cd312f349dc0cca271a7629de982f5165bb-9039bd1f4a4ab5e323bac751ad693ba5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Portugal%0AVS%0ACongo%20DR%0AWorld%20Cup&font=Oswald" group-title="Football", Portugal VS Congo DR | World Cup [Server 6]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=afde2cd312f349dc0cca271a7629de982f5165bb&x-sign=1333cc7872776098627fd1bda27bcbec&x-time=1781716560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ANDY%20MURRAY%20ARENA%0AHSBC%20Championships&font=Oswald" group-title="Tennis", ANDY MURRAY ARENA | HSBC Championships [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781803003-Kv4cPTAAP5YTi-afde2cd312f349dc0cca271a7629de982f5165bb-974d549abfacd513aa819b7709d33334
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ANDY%20MURRAY%20ARENA%0AHSBC%20Championships&font=Oswald" group-title="Tennis", ANDY MURRAY ARENA | HSBC Championships [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=afde2cd312f349dc0cca271a7629de982f5165bb&x-sign=e04994acb7e4db2ff2d7fe82338bbc36&x-time=1781716560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=2026%20Players%20Championship%2022%0APlayers%20Championship&font=Oswald" group-title="Darts", 2026 Players Championship 22 | Players Championship [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=afde2cd312f349dc0cca271a7629de982f5165bb&x-sign=049d92eafb8ce4140a9eb0afc70275ed&x-time=1781716560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=T%C3%BCrkiye%0AVS%0ABelgium%0ANations%20League&font=Oswald" group-title="Volleyball", Türkiye VS Belgium | Nations League [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=afde2cd312f349dc0cca271a7629de982f5165bb&x-sign=3bfb867c2fe73f78982518f7c19b2f77&x-time=1781716560
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=T%C3%BCrkiye%0AVS%0ABelgium%0ANations%20League&font=Oswald" group-title="Volleyball", Türkiye VS Belgium | Nations League [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1781803012-Kv4cPTAAP5YTi-afde2cd312f349dc0cca271a7629de982f5165bb-c54ec3709a81ab5b5cff73e78eb4b6c6
+#last update time: 1:31:43 AM 18-06-2026
 # Playlist Name: Tapmad bd
-# Last Update: 11:20 PM 17-06-2026
+# Last Update: 01:30 AM 18-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
-https://serieAleague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816816601020x576.jpg" group-title="Cricket", Stockholm City vs Stockholm United | Nordic Smash 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-FiFa-SPNvsCPV/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:32 PM 17-06-2026
-#EXTINF:-1 tvg-id="sonyliv-1090534885" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260901751832_ENGvsNZ_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket", New Zealand Tour of England 2026 | 2nd Test - Day 1 - 17 Jun 2026 
-https://dai.google.com/ssai/event/HmOHAZlJRby5Ipkfo5Wx1g/master.m3u8
-#last update time: 11:15:21 PM 17-06-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022399/143090_CASACARDS_SPORTY_APP.png" group-title="Cricket", Chambal Ghariyals Vs Bundelkhand Bulls | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chambal_ghariyals_vs_bundelkhand_bulls_143090_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143183_6109_HMU_STY_FC-WEB.jpg" group-title="Cricket", Stockholm United Vs Stockholm City | Nordic Smash T20 Cup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_stockholm_city_143183_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 3   World Feed | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_143258_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 3   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___schauinsland_reisen_court_143257_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 3   World Feed | ATP 500 - HSBC Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_143134_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 3   Court 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___court_1_143140_english.m3u8
+# last_update: 01:30:29 AM 18-06-2026
+#last update time: 01:30:20 AM 18-06-2026
