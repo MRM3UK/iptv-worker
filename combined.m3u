@@ -235,65 +235,67 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:43 PM 18-06-2026
+#last update time: 11:00:39 PM 18-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=7XfIJ3z2c98sGn8Z6SKyUg&expires=1781796044
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bbVevEC6CF4LIaHf51VG5Q&expires=1781796044
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=HN-i8qDgNMI5sJW5E9sGPA&expires=1781806840
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=HdM7oFiBHvUPauL5f15tOw&expires=1781796044
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=AKlGE76WnG0IIIatSO7IDA&expires=1781806841
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=CIXC4b-XkLxBi-CtJQmbBg&expires=1781806841
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn6.zohanayaan.com:1686/hls/willowextra.m3u8?md5=dlGwRzwQzjAOoTGuHd-5ow&expires=1781796044
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=EohJmsANbUf7odWgErrG2A&expires=1781806841
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 8:01:32 PM 18-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 1]
+#last update time: 11:16:31 PM 18-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781877695-Kv4cPTAAP5YTi-60993bda29fa9dcefa008f77e34f1c2380f926b9-6b937c657f72aa2e109ab456a07e3919
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=17985ff7b77f36f8d056f3da8e5cd35e&x-time=1781791260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 2 | SANDS CHINA LTD Macau Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781877699-Kv4cPTAAP5YTi-60993bda29fa9dcefa008f77e34f1c2380f926b9-403ead5a94cb5614092c9a323d92f5a4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 2 | SANDS CHINA LTD Macau Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=e38d49c144e550415627b02ee01ce170&x-time=1781791260
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781889394-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-c9b3426b344b72f161abff39d8e351f6
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=f0ca22edc1fbdcfe28feb57cacde3799&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781889395-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-884481dfe8b1a0c925bd600340736d15
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=802ef890407e9453291e3fff7600b74e&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 5]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb4c-cnhd2/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=08945144782f30c8c83ba27a36fc99e9&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 6]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb4c-cnhd2/chunks.m3u8?is_vip=false&token=1781889396-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-3ab44e955dd406b2400898a01be03e94
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb4c-fhd/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=340600a6aa72ab9b9bb68fbb20838bed&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Czechia%0AVS%0ASouth%20Africa%0AWorld%20Cup&font=Oswald" group-title="Football", Czechia VS South Africa | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb4c-fhd/chunks.m3u8?is_vip=false&token=1781889396-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-5f6ed0b195668f240c99e2e55b10eb41
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%3A%20Berlin%20Open%0ABerlin%20Open&font=Oswald" group-title="Tennis", Day 4: Berlin Open | Berlin Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781877704-Kv4cPTAAP5YTi-60993bda29fa9dcefa008f77e34f1c2380f926b9-143f3d86b3db4272fed905168111254e
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781889400-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-81d2542d446b7ee2375288f3bd66cdd1
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%204%3A%20Berlin%20Open%0ABerlin%20Open&font=Oswald" group-title="Tennis", Day 4: Berlin Open | Berlin Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=d13f07ae4f980f0f761b23e6d4ad8865&x-time=1781791260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Day%206%3A%20Halle%20Germany%0ATerra%20Wortmann%20Open&font=Oswald" group-title="Terra Wortmann Open", Day 6: Halle Germany | Terra Wortmann Open [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=7717c6795922de75d50bd96b147970c1&x-time=1781791260
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=fd5c51fb71fb2adee759c0957825dc16&x-time=1781802960
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ANDY%20MURRAY%20ARENA%0AHSBC%20Championships&font=Oswald" group-title="Tennis", ANDY MURRAY ARENA | HSBC Championships [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781877713-Kv4cPTAAP5YTi-60993bda29fa9dcefa008f77e34f1c2380f926b9-ed236b19143cc73ce6f9e06628651f1f
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1781889405-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-3cb8bbf712df5ed9a99736cac6e683d4
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ANDY%20MURRAY%20ARENA%0AHSBC%20Championships&font=Oswald" group-title="Tennis", ANDY MURRAY ARENA | HSBC Championships [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=f08324198be0123f3219c9da0491060e&x-time=1781791260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20Tour%20of%20Slovenia%2C%20Stage%202%0AUCI%20Pro%20Series&font=Oswald" group-title="Cycling", ES1, Tour of Slovenia, Stage 2 | UCI Pro Series [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=360590308188641dd1be7a62bbe722ce&x-time=1781791260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Serbia%0AVS%0AItaly%0ANations%20League&font=Oswald" group-title="Nations League", Serbia VS Italy | Nations League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781877722-Kv4cPTAAP5YTi-60993bda29fa9dcefa008f77e34f1c2380f926b9-d149074f47b9cb6f36224511d007a9e1
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Serbia%0AVS%0AItaly%0ANations%20League&font=Oswald" group-title="Nations League", Serbia VS Italy | Nations League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=60993bda29fa9dcefa008f77e34f1c2380f926b9&x-sign=6014b4bf1b3ec4d8ba71a13806430f96&x-time=1781791320
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=4e05a6acf01aa996ce2c5bdb92d1cbdc&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=ES1%2C%20Tour%20of%20Switzerland%2C%20Stage%202%0AUCI%20World%20Tour&font=Oswald" group-title="Cycling", ES1, Tour of Switzerland, Stage 2 | UCI World Tour [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=3c21e9f1bc44ee7c8f8a6166c9bd0bc9&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=T%C3%BCrkiye%0AVS%0AFrance%0ANations%20League&font=Oswald" group-title="Volleyball", Türkiye VS France | Nations League [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=0d0522fba50e7588028fe46bfaa8e255bf924b12&x-sign=bddfb53cc23bf65e2343203cffc91302&x-time=1781802960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=T%C3%BCrkiye%0AVS%0AFrance%0ANations%20League&font=Oswald" group-title="Volleyball", Türkiye VS France | Nations League [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1781889414-Kv4cPTAAP5YTi-0d0522fba50e7588028fe46bfaa8e255bf924b12-625d9fe3bb35ba4c2c15ddfd326deaad
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 PM 18-06-2026
+# Last Update: 11:20 PM 18-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14437" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17817651051020x576.jpg" group-title="Cricket", Stockholm United vs Malmo Mavericks | Nordic Smash 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:00:38 PM 18-06-2026
+# last_update: 11:15:30 PM 18-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090534887" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260915712832_ENGvsNZ_2nd_test_day2_landscape_thumb.jpg" group-title="Cricket", New Zealand Tour of England 2026 | 2nd Test - Day 2 - 18 Jun 2026 
 https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8
-#last update time: 08:00:36 PM 18-06-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318029/143314_CASACARDS_SPORTY_APP.png" group-title="Cricket", Nigeria Vs Hong Kong China | Men's T20I Tri series in Namibia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hong_kong__china_143314_english.m3u8
+#last update time: 11:15:16 PM 18-06-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022386/143092_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jabalpur Royal Lions Vs Royal Nimar Eagles | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_royal_nimar_eagles_143092_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg" group-title="Cricket", Malmo Mavericks Vs Stockholm United | Nordic Smash T20 Cup 2026 (ENGLISH)
@@ -302,7 +304,5 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malmo_maverick
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143259_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day.4   World Feed | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143141_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 4   Court 1 | ATP 500 - HSBC Championship 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___court_1_143142_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   Schauinsland Reisen Court | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___schauinsland_reisen_court_143260_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png" group-title="Golf", Day 1 | US Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143293_english.m3u8
