@@ -235,54 +235,52 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:32 AM 19-06-2026
+#last update time: 02:00:38 PM 19-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=UlFM-lJopVmlqZV0gzbazw&expires=1781841033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=Mlw8XHV0br2UIql3aU-TJQ&expires=1781841033
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=4tPEUK7JgSMkuXuOkUfMCQ&expires=1781860839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=p2MV6V3t5Us1zSPc2zwTJQ&expires=1781841033
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=SBJxFei8DTZV32TTIsGMzg&expires=1781860839
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=aP6gawZtmCl61lDjOIJZ1w&expires=1781860839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=nxX0nA2nDKKS-hNmyAsjig&expires=1781841033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=OjUkKQqVAtM2iSox7T0sCw&expires=1781860839
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 8:31:29 AM 19-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 1]
+#last update time: 2:16:30 PM 19-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781922692-Kv4cPTAAP5YTi-8b1ce2da59f5a9e1ca52d192040aacfce8f0e658-6ceb3d67208926370168164f0c48500d
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8b1ce2da59f5a9e1ca52d192040aacfce8f0e658&x-sign=c7e35561fe0aa91b05a20c7e19558c82&x-time=1781836260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 3]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=1781922693-Kv4cPTAAP5YTi-8b1ce2da59f5a9e1ca52d192040aacfce8f0e658-2af8d40029e015f6199761fe99bbb153
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=8b1ce2da59f5a9e1ca52d192040aacfce8f0e658&x-sign=a115456d0bd83ca14081d43c03de6873&x-time=1781836260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 5]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57/chunks.m3u8?is_vip=false&token=8b1ce2da59f5a9e1ca52d192040aacfce8f0e658&x-sign=6f95ae1dcef627350f813bc8bdb7d683&x-time=1781836260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57/chunks.m3u8?is_vip=false&token=1781922694-Kv4cPTAAP5YTi-8b1ce2da59f5a9e1ca52d192040aacfce8f0e658-854a02337fc0706085ea3b0989bac8b5
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 7]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-hd/chunks.m3u8?is_vip=false&token=8b1ce2da59f5a9e1ca52d192040aacfce8f0e658&x-sign=a7f1660385cc95bc853e575cc4aac4ca&x-time=1781836260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 8]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-hd/chunks.m3u8?is_vip=false&token=1781922694-Kv4cPTAAP5YTi-8b1ce2da59f5a9e1ca52d192040aacfce8f0e658-3d44af88d34bf7ce186fdd2483c634f6
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 9]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd/chunks.m3u8?is_vip=false&token=8b1ce2da59f5a9e1ca52d192040aacfce8f0e658&x-sign=62a18e1f84a5fc3d54f0dd247c59eaef&x-time=1781836260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 10]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd/chunks.m3u8?is_vip=false&token=1781922695-Kv4cPTAAP5YTi-8b1ce2da59f5a9e1ca52d192040aacfce8f0e658-717efd8683d850ac0078a1727a3fdb77
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 11]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd2/chunks.m3u8?is_vip=false&token=8b1ce2da59f5a9e1ca52d192040aacfce8f0e658&x-sign=4901cd698868c3a965d293e2858dff0f&x-time=1781836260
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mexico%0AVS%0ASouth%20Korea%0AWorld%20Cup&font=Oswald" group-title="Football", Mexico VS South Korea | World Cup [Server 12]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a146afb3be73d31bca9bb57-cnhd2/chunks.m3u8?is_vip=false&token=1781922696-Kv4cPTAAP5YTi-8b1ce2da59f5a9e1ca52d192040aacfce8f0e658-d0ca900fcab0e5f40c41b8418081e4e0
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781943393-Kv4cPTAAP5YTi-c5c8bd0b831ceb80197f5081f1cfcf80609691f4-5d9d55d14301b7105258567c0956cce0
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=c5c8bd0b831ceb80197f5081f1cfcf80609691f4&x-sign=316a0a7f7f277e2fcbcc85607a80b88f&x-time=1781856960
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 2 | SANDS CHINA LTD Macau Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781943398-Kv4cPTAAP5YTi-c5c8bd0b831ceb80197f5081f1cfcf80609691f4-e0d30d4c25fe4d37485a827d05a175e3
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%202%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 2 | SANDS CHINA LTD Macau Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=c5c8bd0b831ceb80197f5081f1cfcf80609691f4&x-sign=68f657d08fcfb71e472561b88e22a531&x-time=1781856960
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 AM 19-06-2026
+# Last Update: 02:10 PM 19-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-14135" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816859931020x576.jpg" group-title="Cricket", Bangladesh vs Australia | Australia Tour of Bangladesh 2026
+https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781857507~acl=/hls/*~hmac=b7a328e5b48def6cf520f1e06fb6be7507afefca10e9c82e48b302298413459c
+#EXTINF:-1 tvg-id="tapmad-14443" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17817657471020x576.jpg" group-title="Cricket", Stockholm United vs Vasteras United | Nordic Smash 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781857507~acl=/hls/*~hmac=b7a328e5b48def6cf520f1e06fb6be7507afefca10e9c82e48b302298413459c
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:30:58 AM 19-06-2026
-#last update time: 08:30:22 AM 19-06-2026
+# last_update: 02:15:23 PM 19-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090534984" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="Cricket", Talent TV Cup | Sri Lanka A vs Afghanistan A - 19 Jun 2026
+https://dai.google.com/ssai/event/6P0P03P2QiezxLJz8jmyyw/master.m3u8
+#last update time: 02:15:20 PM 19-06-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg" group-title="Cricket", Australia Vs Bangladesh | Australia tour of Bangladesh 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australia_vs_bangladesh_142969_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143187_6109_VTU_HMU_FC-WEB.jpg" group-title="Cricket", Stockholm United Vs Vasteras United | Nordic Smash T20 Cup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/stockholm_united_vs_vasteras_united_143187_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143041_6095_JJ_FFA_fc-app.jpg" group-title="Cricket", Jalandhar Jaguars Vs Firozpur Falcons | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jalandhar_jaguars_vs_firozpur_falcons_143041_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139951_english.m3u8
