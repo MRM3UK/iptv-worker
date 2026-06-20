@@ -235,66 +235,68 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:32 AM 20-06-2026
+#last update time: 12:00:41 PM 20-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=gC3j8QBfiBCT_4TXaQQxFw&expires=1781923833
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=E9TEj8NCMMT7BKuFRqEitg&expires=1781923833
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=thPOSa_sbOLfdRFNR4-E7g&expires=1781940042
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=lRYDuduaBupxwu5u3-b1gQ&expires=1781923833
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-4BNlwB10tDFFe4yQfilzA&expires=1781940043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=u_Y3ct35k8UDOcCTIRzPEw&expires=1781940043
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=9x6qLsf6O6bS2jaBHexDJA&expires=1781923834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=-CwLjqC2FvLIEJFUY1qENg&expires=1781940044
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:31:29 AM 20-06-2026
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 1]
+#last update time: 12:01:32 PM 20-06-2026
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Melbourne%0AVS%0AAdelaide%20Crows%0AAFL%20Premiership&font=Oswald" group-title="Football", Melbourne VS Adelaide Crows | AFL Premiership [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782005491-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-aad7a6d9412d730756577238d45621f4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=68bc561d904f0e9eeb256e0ec9303ac8&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 3]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782005492-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-e5674a6cbfa761822aaa1a9d129ba0b9
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=f43bb47bbdfc9280de885fd568de641a&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 5]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=581fa9499720e56d11853feb1011dfc4&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7/chunks.m3u8?is_vip=false&token=1782005493-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-8299e52d1eaa9c1285bb8640609bf3ae
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 7]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7-cnhd/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=631a96277a0163d8a33a4b1e5b3f24f2&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 8]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7-cnhd/chunks.m3u8?is_vip=false&token=1782005494-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-10f0f37ed655ba28e78f63f18c7c0fd8
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 9]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7-cnhd2/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=a96ba3a0f4b7583d6607c856f8658f4a&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 10]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7-cnhd2/chunks.m3u8?is_vip=false&token=1782005495-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-6a998b2b929a61c2379fba40895f8cf0
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 11]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7-fhd/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=b25a494a0549c1edee98621a19bd8ee5&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Brazil%0AVS%0AHaiti%0AWorld%20Cup&font=Oswald" group-title="World Cup", Brazil VS Haiti | World Cup [Server 12]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c1a7-fhd/chunks.m3u8?is_vip=false&token=1782005495-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-69fe6659832d0a3cdc8d7362a662226d
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CAGE%20FURY%20FC%20155%0AMMA&font=Oswald" group-title="MMA", CAGE FURY FC 155 | MMA [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782005500-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-b885cd9c6e369e42560746642c8dad21
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=CAGE%20FURY%20FC%20155%0AMMA&font=Oswald" group-title="MMA", CAGE FURY FC 155 | MMA [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=10b8abae5d6d63b805d10e5060f6674c&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Free%20Practice%202%3A%20Sanya%0AFormula%20E&font=Oswald" group-title="Auto Racing", Free Practice 2: Sanya | Formula E [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782005505-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-ea223441597568994f1d2ea613283db4
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Free%20Practice%202%3A%20Sanya%0AFormula%20E&font=Oswald" group-title="Auto Racing", Free Practice 2: Sanya | Formula E [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=91ea1c4b4c05d90adb87a1448b54cc67&x-time=1781919060
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chiefs%20Manawa%0AVS%0ABlues%0ASuper%20Rugby%20Aupiki&font=Oswald" group-title="Rugby", Chiefs Manawa VS Blues | Super Rugby Aupiki [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782005510-Kv4cPTAAP5YTi-99acef17440710179cd91c310ec03defca341318-8ab7530be8e1fc6e9d70ba8f222556f6
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Chiefs%20Manawa%0AVS%0ABlues%0ASuper%20Rugby%20Aupiki&font=Oswald" group-title="Rugby", Chiefs Manawa VS Blues | Super Rugby Aupiki [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=99acef17440710179cd91c310ec03defca341318&x-sign=7b1fcfdfa7c90e359b7aa38a63728273&x-time=1781919060
+https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=25b7b701d3f265163c4bc034cacdd9c0&x-time=1781935260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782021699-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-0e04101da24e5eb95efec109ca3b5205
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Court%201%0ASANDS%20CHINA%20LTD%20Macau%20Open&font=Oswald" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=cc639e72eac235835c01b12387685dbd&x-time=1781935260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782021704-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-c70044bb6847c16f409a389d318d5fd0
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hokkaido%20Nippon-Ham%20Fighters%0AVS%0AFukuoka%20SoftBank%20Hawks%0ANPB&font=Oswald" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS Fukuoka SoftBank Hawks | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=82c09cd500431532341d41964214fa42&x-time=1781935260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS ORIX Buffaloes | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782021709-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-9996df587b440484675c48cb82e45028
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Saitama%20Seibu%20Lions%0AVS%0AORIX%20Buffaloes%0ANPB&font=Oswald" group-title="Baseball", Saitama Seibu Lions VS ORIX Buffaloes | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=3e6916c97535c71130f80b19ed8bd088&x-time=1781935260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Hiroshima Toyo Carp | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1782021714-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-44dbeaae01eb955d51b1a10592d13e07
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Tokyo%20Yakult%20Swallows%0AVS%0AHiroshima%20Toyo%20Carp%0ANPB&font=Oswald" group-title="Baseball", Tokyo Yakult Swallows VS Hiroshima Toyo Carp | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=7fc0ef0e8e02b7dee25a4dbc46e8a9a4&x-time=1781935260
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hurricanes%0AVS%0AChiefs%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Hurricanes VS Chiefs | Super Rugby Pacific [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1782021719-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-d8f76fcf66f56fd7b95879557acc2df8
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Hurricanes%0AVS%0AChiefs%0ASuper%20Rugby%20Pacific&font=Oswald" group-title="Rugby", Hurricanes VS Chiefs | Super Rugby Pacific [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=a8523d037a96ab929d48706ce3fcbb18&x-time=1781935320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Dolphins%0AVS%0AWests%20Tigers%0ANRL%20Rugby&font=Oswald" group-title="Rugby", Dolphins VS Wests Tigers | NRL Rugby [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=e0d225e4c9621fe9075dd4801790b137&x-time=1781935320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Western%20Force%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Women's&font=Oswald" group-title="Rugby", Western Force VS Queensland Reds | Super Rugby Women's [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782021729-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-2649e9d6b56f8fee509084998313a88b
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Western%20Force%0AVS%0AQueensland%20Reds%0ASuper%20Rugby%20Women's&font=Oswald" group-title="Rugby", Western Force VS Queensland Reds | Super Rugby Women's [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=4d65e8935a7fcc871b60cc63c33b8dba&x-time=1781935320
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%3A%20Sanya%0AFormula%20E&font=Oswald" group-title="Auto Racing", Race: Sanya | Formula E [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782021734-Kv4cPTAAP5YTi-18741cf2029ce0a10a4b79aa025353cbe965a2e5-ed510f384f56f683c3d7929fb54ed08c
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Race%3A%20Sanya%0AFormula%20E&font=Oswald" group-title="Auto Racing", Race: Sanya | Formula E [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=18741cf2029ce0a10a4b79aa025353cbe965a2e5&x-sign=71499b7cd4a800e37e6e89894cd676f7&x-time=1781935320
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 AM 20-06-2026
+# Last Update: 12:00 PM 20-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:30:25 AM 20-06-2026
-#last update time: 07:30:21 AM 20-06-2026
+# last_update: 12:00:33 PM 20-06-2026
+#EXTINF:-1 tvg-id="sonyliv-1090535044" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018954/1780272663082965_ABB_FIA_FormulaE_WC26_RD11_Sanya_EPrix_Final_Race_landscape_thumb.jpg" group-title="Racing", ABB FIA Formula E World Championship | Round 11 - Sanya E-Prix - Final  Race - 20 Jun 2026
+https://dai.google.com/ssai/event/934pbKVOSeGwcztb05y3dg/master.m3u8
+#last update time: 12:00:23 PM 20-06-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png" group-title="Motorsports", Australasia   Race 1 | Ferrari Challenge Series 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/australasia___race_1_143406_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_SPORTY_APP.png" group-title="Cricket", Ludhiana Lions Vs Jalandhar Jaguars | Punjab T10 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ludhiana_lions_vs_jalandhar_jaguars_143043_english.m3u8
