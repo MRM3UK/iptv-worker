@@ -235,76 +235,78 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:38 AM 21-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Sqw_tTm5EFZsnfWhkVlxbQ&expires=1781988639
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=b91H44C3bpWMEiUc-LZrWA&expires=1781988639
+#last update time: 03:00:40 AM 21-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=nF8zItbFQcw8SlKUaT-UFQ&expires=1781988639
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=eRWoKpY_S7V8NpjrDpyZUw&expires=1781994041
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-4fMmYBjkcgpUN6K5akf6g&expires=1781994042
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=uGY8N_iOLD2PC1f6_rkcPw&expires=1781994042
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=4f9yOiYNJKlEfkR6NqqZeg&expires=1781988640
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=-5I1AvYy398PTPjjVaPrHw&expires=1781988640
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=SavDFt1Y42s-gTCZYO8ANg&expires=1781988640
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=cBj_tIRNGUemFBOR7jefQg&expires=1781994042
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
-https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=BBvpsD2IyxS1gBgeaOd6qA&expires=1781988641
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=v_iw1jrWJ0pkttYoB6mCUQ&expires=1781994043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=fyztsl2Zvv5JkN5pjCWA1w&expires=1781994043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=jUce7DQV9Hc3P6odI7qKcg&expires=1781994044
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=QOHC9QP-NKDz7J3GBGvQRQ&expires=1781988641
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=aBBJDcOIdl3qbm8vaSUazw&expires=1781994044
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:46:31 AM 21-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_8_Halle_Germany_Terra_Wortmann_Open.jpg" group-title="Tennis", Day 8: Halle Germany | Terra Wortmann Open [Server 1]
+#last update time: 3:16:33 AM 21-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782071193-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-ff53b0fd4125e1494361b76a586ef90f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_8_Halle_Germany_Terra_Wortmann_Open.jpg" group-title="Tennis", Day 8: Halle Germany | Terra Wortmann Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=28b600bf10e0350a61231f80f7a0d623&x-time=1781984760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782071198-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-4f0421405c01d61ef395dee604705d34
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=b247a503739facb8f0138d5c7b6f218b&x-time=1781984760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San_Telmo_VS_Racing_Cordoba_Primera_Nacional.jpg" group-title="Primera Nacional", San Telmo VS Racing Cordoba | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-698df1fe14caa75d720f52db/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=1857dc087b07b6dcbc3af71831e48207&x-time=1781984760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San_Telmo_VS_Racing_Cordoba_Primera_Nacional.jpg" group-title="Primera Nacional", San Telmo VS Racing Cordoba | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-698df1fe14caa75d720f52db/chunks.m3u8?is_vip=false&token=1782071203-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-d9ddfa5c88e4797d0959e68f3a95aff8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera Nacional", San Martin S.J. VS Agropecuario | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-698df1fe952272c52c6d6825/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=2d7b09131f3f703e42e6376c1dddbc09&x-time=1781984760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera Nacional", San Martin S.J. VS Agropecuario | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-698df1fe952272c52c6d6825/chunks.m3u8?is_vip=false&token=1782071208-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-5fb86d5f5726d684abce2c711673603b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almeria_VS_Malaga_Segunda_Divisi%C3%B3n.jpg" group-title="Football", Almeria VS Malaga | Segunda División [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=c95ec57353ec1eb299fa313d8e19eadf&x-time=1781984760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almeria_VS_Malaga_Segunda_Divisi%C3%B3n.jpg" group-title="Football", Almeria VS Malaga | Segunda División [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1782071212-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-6f510ff5d0951a44d108d9e9e82a6b5e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Halifax_Canada_Sail_Grand_Prix.jpg" group-title="Sailing", Day 1 | Halifax Canada Sail Grand Prix [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782071216-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-bc13053a4f5f21938a4d8825e3bcf3f6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Halifax_Canada_Sail_Grand_Prix.jpg" group-title="Sailing", Day 1 | Halifax Canada Sail Grand Prix [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=8d4d80ad8fb50e510ffc713bee5355d6&x-time=1781984760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782071221-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-b95cf33c6a32be9dcbf1d831ee55609f
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782076597-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-f791662546ccbfc4899accae0af73aae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=3223c4fa5e982aa67a4aa1e71cdc93ef&x-time=1781984820
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=3f6e37c8c0940aec73be5a5e0dce9e3b&x-time=1781990160
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 3]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782071222-Kv4cPTAAP5YTi-772f58d4546a44c30407f72ba2137ea01c4da834-950877d56a915afe031e38e8a80af2ac
+https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782076598-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-2b4d30b8cac67ba0b8991a10cb2ab8c7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 4]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=772f58d4546a44c30407f72ba2137ea01c4da834&x-sign=5c3c75db24e060b5ac68e957a1072556&x-time=1781984820
+https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=cb45d899fd0073ad637138a5e5ec75ab&x-time=1781990160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 5]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a114a-hd/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=66ef79f3974f0758d9c239e2db1542b6&x-time=1781990160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 6]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a114a-hd/chunks.m3u8?is_vip=false&token=1782076599-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-b94d1c0028f70217a857608ff7b36283
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a114a-cnhd2/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=d1fbab9ea7fce82507e0bf48e22d3cff&x-time=1781990160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Ivory_Coast_World_Cup.jpg" group-title="World Cup", Germany VS Ivory Coast | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a114a-cnhd2/chunks.m3u8?is_vip=false&token=1782076600-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-d21e319866b74c6b00af7f664f3fc5fa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_8_Halle_Germany_Terra_Wortmann_Open.jpg" group-title="Tennis", Day 8: Halle Germany | Terra Wortmann Open [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782076605-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-9849fee7f0baf40820fe5ae15e7753ea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_8_Halle_Germany_Terra_Wortmann_Open.jpg" group-title="Tennis", Day 8: Halle Germany | Terra Wortmann Open [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=0bec092db2166fdadf7d7d9919868bbf&x-time=1781990160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782076610-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-9dc8a4442783e5428f18141419b21a04
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=177b047680f034d00d9c89d2906ce376&x-time=1781990160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almeria_VS_Malaga_Segunda_Divisi%C3%B3n.jpg" group-title="Football", Almeria VS Malaga | Segunda División [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=382dde9f10934943f0b9986bcf807c6d&x-time=1781990160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almeria_VS_Malaga_Segunda_Divisi%C3%B3n.jpg" group-title="Football", Almeria VS Malaga | Segunda División [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1782076616-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-ac45d96feb771fe01ecf5348add84212
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CAGE_WARRIORS_207_MMA.jpg" group-title="MMA", CAGE WARRIORS 207 | MMA [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782076621-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-9b12c51ec94a132b38ec8f5243b242af
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CAGE_WARRIORS_207_MMA.jpg" group-title="MMA", CAGE WARRIORS 207 | MMA [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=cc616e6a107245e120ad7a1cd9d56fb1&x-time=1781990220
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS_UFC_FIGHT_NIGHT.jpg" group-title="MMA", PRELIMS | UFC FIGHT NIGHT [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782076626-Kv4cPTAAP5YTi-355c798cff30feb5b7ffd924a2bff2b39af341bc-0c7e9ca21f1c6e4f94e4700c0fe092c3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS_UFC_FIGHT_NIGHT.jpg" group-title="MMA", PRELIMS | UFC FIGHT NIGHT [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=355c798cff30feb5b7ffd924a2bff2b39af341bc&x-sign=6390bf680faa18812bb63a926f27aaf3&x-time=1781990220
 # Playlist Name: Tapmad bd
-# Last Update: 01:50 AM 21-06-2026
+# Last Update: 03:10 AM 21-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:45:22 AM 21-06-2026
-#last update time: 01:45:23 AM 21-06-2026
+# last_update: 03:15:22 AM 21-06-2026
+#last update time: 03:15:19 AM 21-06-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781434867302/143392_CASACARDS_SPORTY_APP.png" group-title="Football", Almería Vs Málaga | LALIGA Hypermotion 2025-26 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/almer_a_vs_m_laga_143392_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143295_6121_PGA_LOC_FC-WEB.png" group-title="Golf", Day 3 | US Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143295_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 4   Doubles Semifinal 2 | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___doubles_semifinal_2_143541_english.m3u8
