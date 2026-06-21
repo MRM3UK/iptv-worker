@@ -235,59 +235,81 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:35 PM 21-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=eTaT1mZ1feqGjoRAGYPm1Q&expires=1782033637
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=oFbBiry53vrgKiGXg-0lTg&expires=1782033637
+#last update time: 05:30:33 PM 21-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=k2FRA1LikV6mRBb0xNHptg&expires=1782033637
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=HR7qDrcZSQWdKBedKRxDfw&expires=1782033638
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=CEHb3_kaOEZ-O7ViFoJYTg&expires=1782046234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=US92zg3qSvnjHs_ZuhY7wQ&expires=1782046234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=JkL9VsV1czs7RQwyLcDCpw&expires=1782046234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
+https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=jpC7Dg1eO4SqfyWWq6S38Q&expires=1782046234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTESPN)
-https://cdn6.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=ajxUF30J2LeM1o6Kge7GYQ&expires=1782033639
+https://cdn3.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=ykXqWU3XY0Royd5HhQH0tQ&expires=1782046235
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:16:34 PM 21-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_SANDS_CHINA_LTD_Macau_Open.jpg" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 1]
+#last update time: 5:16:36 PM 21-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg" group-title="Baseball", Chiba Lotte Marines VS Tohoku Rakuten Golden Eagles | NPB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782116197-Kv4cPTAAP5YTi-c444b68094a4bd31814b0c41f871b44a4ecf30f5-956a84c21117790b0e17f116795d24bb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_SANDS_CHINA_LTD_Macau_Open.jpg" group-title="Badminton", Court 1 | SANDS CHINA LTD Macau Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=c444b68094a4bd31814b0c41f871b44a4ecf30f5&x-sign=a3f707541cf3f03dbafb05ce724d8123&x-time=1782029760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri_Giants_VS_Chunichi_Dragons_NPB.jpg" group-title="Baseball", Yomiuri Giants VS Chunichi Dragons | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782116202-Kv4cPTAAP5YTi-c444b68094a4bd31814b0c41f871b44a4ecf30f5-be446d514bf712ded08694f01448f31c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri_Giants_VS_Chunichi_Dragons_NPB.jpg" group-title="Baseball", Yomiuri Giants VS Chunichi Dragons | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c444b68094a4bd31814b0c41f871b44a4ecf30f5&x-sign=28dd7897fd56b5c8a20eb8c523106b35&x-time=1782029760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza_-_Race_3_Italian_Formula_4_Championship.jpg" group-title="Auto Racing", Monza - Race 3 | Italian Formula 4 Championship [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782116208-Kv4cPTAAP5YTi-c444b68094a4bd31814b0c41f871b44a4ecf30f5-021dcda55e183560c3b950bfde2e5f4d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza_-_Race_3_Italian_Formula_4_Championship.jpg" group-title="Auto Racing", Monza - Race 3 | Italian Formula 4 Championship [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c444b68094a4bd31814b0c41f871b44a4ecf30f5&x-sign=4ec238bf90f979107d56d6e7cc98462e&x-time=1782029760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg" group-title="Baseball", Chiba Lotte Marines VS Tohoku Rakuten Golden Eagles | NPB [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782116213-Kv4cPTAAP5YTi-c444b68094a4bd31814b0c41f871b44a4ecf30f5-8f1d0e932b3c68fa379f5ecd10af42f6
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782126999-Kv4cPTAAP5YTi-5b46a35131ba400938359b07d3d74bf200ab41fa-abd558fd392406488c692f186682bd33
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba_Lotte_Marines_VS_Tohoku_Rakuten_Golden_Eagles_NPB.jpg" group-title="Baseball", Chiba Lotte Marines VS Tohoku Rakuten Golden Eagles | NPB [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c444b68094a4bd31814b0c41f871b44a4ecf30f5&x-sign=0ec46463b9367e8702de37e5b7e728a2&x-time=1782029760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cronulla-Sutherland_Sharks_VS_Sydney_Roosters_NRL_Rugby.jpg" group-title="Rugby", Cronulla-Sutherland Sharks VS Sydney Roosters | NRL Rugby [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=c444b68094a4bd31814b0c41f871b44a4ecf30f5&x-sign=7935269c837f1bfcd61ea1739fb205b9&x-time=1782029760
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=a3c5a6c685d5afc9dae60bfb38c4d506&x-time=1782040560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women's_Series_15_%26_16_-_Wigan_Women's_Series.jpg" group-title="Darts", Women's Series 15 & 16 - Wigan | Women's Series [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=954580004b9ec451b2dcf9333b909f45&x-time=1782040560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Bad_Homburg_Open.jpg" group-title="Tennis", Day 1: Bad Homburg | Bad Homburg Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782127009-Kv4cPTAAP5YTi-5b46a35131ba400938359b07d3d74bf200ab41fa-6eb3e88ef58d53d8bbb9a477ef0d48ea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Bad_Homburg_Open.jpg" group-title="Tennis", Day 1: Bad Homburg | Bad Homburg Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=550c79756578fd51ed1b803f4b297db7&x-time=1782040560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA_DeNA_BAYSTARS_VS_Hanshin_Tigers_NPB.jpg" group-title="Baseball", YOKOHAMA DeNA BAYSTARS VS Hanshin Tigers | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782127014-Kv4cPTAAP5YTi-5b46a35131ba400938359b07d3d74bf200ab41fa-bf727d77ab9aa3b313e16319ccd69f72
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA_DeNA_BAYSTARS_VS_Hanshin_Tigers_NPB.jpg" group-title="Baseball", YOKOHAMA DeNA BAYSTARS VS Hanshin Tigers | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=d23480fd7158da627710b74c8946d3bb&x-time=1782040560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg" group-title="Tennis", Day 7: Berlin Open | Berlin Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782127019-Kv4cPTAAP5YTi-5b46a35131ba400938359b07d3d74bf200ab41fa-911fdd6f6dce36d9ba164a8322acb0ac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg" group-title="Tennis", Day 7: Berlin Open | Berlin Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=025d811ea25800a4c29c52986c5f12a0&x-time=1782040620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race_Day_Part_1_Italy_MXGP.jpg" group-title="Auto Racing", Race Day Part 1: Italy | MXGP [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782127025-Kv4cPTAAP5YTi-5b46a35131ba400938359b07d3d74bf200ab41fa-8c035f5994f819bcd675f3dcd704095c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race_Day_Part_1_Italy_MXGP.jpg" group-title="Auto Racing", Race Day Part 1: Italy | MXGP [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=e651fd0974ad65db9b15fed8d4e80155&x-time=1782040620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Slovenia%2C_Stage_5_UCI_Pro_Series.jpg" group-title="Cycling", ES1, Tour of Slovenia, Stage 5 | UCI Pro Series [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=029203e6ee2e99a665eed0aff23af5fe&x-time=1782040620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782127035-Kv4cPTAAP5YTi-5b46a35131ba400938359b07d3d74bf200ab41fa-f7ea2dec6d7130e1821478af5a5d88b9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=95aa206a5a4c1e61c45b48a84e0dc424&x-time=1782040620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cross-country_Olympic_Lenzerheide_UCI_Mountain_Bike_World_Series.jpg" group-title="Cycling", Cross-country Olympic: Lenzerheide | UCI Mountain Bike World Series [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=5b46a35131ba400938359b07d3d74bf200ab41fa&x-sign=35e83d5ce007247d1f8e98d3c49a84e8&x-time=1782040620
 # Playlist Name: Tapmad bd
-# Last Update: 02:20 PM 21-06-2026
+# Last Update: 05:30 PM 21-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816861971020x576.jpg" group-title="Cricket", Bangladesh vs Australia | Australia Tour of Bangladesh 2026
-https://serieAleague.akamaized.net/hls/live/2107107/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="Cricket", England vs New Zealand | New Zealand Tour of England 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:15:22 PM 21-06-2026
+# last_update: 05:30:24 PM 21-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090535198" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019786/1781957347670552_Tri_Series_final_SL_A_vs_IND_A_landscape_thumb.jpg" group-title="Cricket", Talent TV Cup | Sri Lanka A vs India A - Final - 21 Jun 2026
 https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8
-#last update time: 02:15:18 PM 21-06-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg" group-title="Cricket", Bangladesh Vs Australia | Australia tour of Bangladesh 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_australia_142970_english.m3u8
+#last update time: 05:30:17 PM 21-06-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hubli Tigers Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_coastal_kings_mangaluru_143417_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143417_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hubli Tigers Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_coastal_kings_mangaluru_143417_kannada.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jabalpur Royal Lions Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_gwalior_cheetahs_143095_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139953_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 1 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143270_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 7   Doubles Finals | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___doubles_finals_143266_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png" group-title="Motorsports", Day 3 Race 2   Dekra Lausitzring | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_race_2___dekra_lausitzring_143306_english.m3u8
