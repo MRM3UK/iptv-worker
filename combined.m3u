@@ -235,73 +235,73 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:36 PM 21-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Yzw4tFnSkbUsoLjFfkJRQQ&expires=1782051636
+#last update time: 09:00:34 PM 21-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=Ci4APutMltJt-yC7PO0iqg&expires=1782051637
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=sOS3gYt2hRa0RhKQYkQQuQ&expires=1782058835
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mny-NtlFmWzSD7dq4nuiCQ&expires=1782058835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=R2-TDwJxIAj4_tQ2dIFGxA&expires=1782051637
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=zgqkVVg3ywRlm8VOZ8OlQw&expires=1782058835
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
+https://cdn7.zohanayaan.com:1686/hls/willowextra.m3u8?md5=YmFehGZ24yPPGYJnz0zbZQ&expires=1782058836
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
-https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=L0bYeVJQFT13rCUOmk8mjg&expires=1782051637
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTESPN)
-https://cdn10.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=pa8MX_0NlHAtTOJOaq_2kQ&expires=1782051637
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTESPN)
+https://cdn2.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=wjvmYq8SksJ92hIC-7PrPA&expires=1782058836
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:16:33 PM 21-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Slovenia%2C_Stage_5_UCI_Pro_Series.jpg" group-title="Cycling", ES1, Tour of Slovenia, Stage 5 | UCI Pro Series [Server 1]
+#last update time: 9:16:34 PM 21-06-2026
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Berlin Open", Day 7: Berlin Open | Berlin Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=e40321c9a068fa00a2ba420cbd7aeac7&x-time=1782047760
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782141397-Kv4cPTAAP5YTi-63c3df41c552c6a284f36858489428180d739178-4b05484352c3754f3444b93139ebbff8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Berlin Open", Day 7: Berlin Open | Berlin Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=63c3df41c552c6a284f36858489428180d739178&x-sign=fb71ac46fab32620a9e96322b365e18c&x-time=1782054960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1782134200-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-7e5651ea7de7289d8f30208570b8c625
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1782141402-Kv4cPTAAP5YTi-63c3df41c552c6a284f36858489428180d739178-f6db8cb44b1dde7ba26d5fbcd5c0b33b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slovak_Darts_Open_Slovak_Darts_Open.jpg" group-title="Darts", Slovak Darts Open | Slovak Darts Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=a1200899f8d033b71dad4371adfcf095&x-time=1782047760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cross-country_Olympic_Lenzerheide_UCI_Mountain_Bike_World_Series.jpg" group-title="Cycling", Cross-country Olympic: Lenzerheide | UCI Mountain Bike World Series [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=4b3004c33efa2c88df0415582ef69959&x-time=1782047760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg" group-title="Volleyball", Japan VS Italy | Nations League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782134209-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-327a0f48f501e27a46483a42a3547022
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg" group-title="Volleyball", Japan VS Italy | Nations League [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=903e59fdc15b6675b2df7d80e619f7f8&x-time=1782047760
+https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=63c3df41c552c6a284f36858489428180d739178&x-sign=5244ca627db8fcd7db97fc388f539a16&x-time=1782054960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Francisco_Cerundolo_VS_Tommy_Paul_-_(Men's_Singles)_Final_HSBC_Championships.jpg" group-title="Tennis", Francisco Cerundolo VS Tommy Paul - (Men's Singles) Final | HSBC Championships [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782134214-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-6cfa4e88e022201de68e2532d4d85ab5
+https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782141407-Kv4cPTAAP5YTi-63c3df41c552c6a284f36858489428180d739178-9d0b85eabc999aba87540d421b70e4ed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Francisco_Cerundolo_VS_Tommy_Paul_-_(Men's_Singles)_Final_HSBC_Championships.jpg" group-title="Tennis", Francisco Cerundolo VS Tommy Paul - (Men's Singles) Final | HSBC Championships [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=6383592d60d53d70762319f9b2cdb29e&x-time=1782047760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier League", Kyzyl-Zhar VS Kairat Almaty | Premier League [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfef5f1ba441fbc3acf/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=b26fc6f227a20e1783696687fa0f9fdd&x-time=1782047760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier League", Kyzyl-Zhar VS Kairat Almaty | Premier League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfef5f1ba441fbc3acf/chunks.m3u8?is_vip=false&token=1782134220-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-29a33b4e04b5b2d06fe3ab949e5bdfda
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_(Men's_Singles)_Final_Terra_Wortmann_Open.jpg" group-title="Tennis", Taylor Fritz VS Frances Tiafoe - (Men's Singles) Final | Terra Wortmann Open [Server 1]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782134225-Kv4cPTAAP5YTi-97fcf678be3be5154d7811556357afd95fd1b6a4-581df9e7418deae2d74ded1bd4969221
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_(Men's_Singles)_Final_Terra_Wortmann_Open.jpg" group-title="Tennis", Taylor Fritz VS Frances Tiafoe - (Men's Singles) Final | Terra Wortmann Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=97f9d994845d0629166a8647801a3a4e&x-time=1782047820
+https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=63c3df41c552c6a284f36858489428180d739178&x-sign=efe177117976376d7ac3e0b5a393b452&x-time=1782054960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Switzerland%2C_Stage_5_UCI_World_Tour.jpg" group-title="Cycling", ES1, Tour of Switzerland, Stage 5 | UCI World Tour [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=97fcf678be3be5154d7811556357afd95fd1b6a4&x-sign=62afc6fab96d7704419686142ee4280c&x-time=1782047820
+https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=63c3df41c552c6a284f36858489428180d739178&x-sign=dcfb668414758566d30e48c2728abf65&x-time=1782054960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_(Men's_Singles)_Final_Terra_Wortmann_Open.jpg" group-title="Tennis", Taylor Fritz VS Frances Tiafoe - (Men's Singles) Final | Terra Wortmann Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1782141417-Kv4cPTAAP5YTi-63c3df41c552c6a284f36858489428180d739178-4ffbea96b3216e829e369b85a6d6df18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor_Fritz_VS_Frances_Tiafoe_-_(Men's_Singles)_Final_Terra_Wortmann_Open.jpg" group-title="Tennis", Taylor Fritz VS Frances Tiafoe - (Men's Singles) Final | Terra Wortmann Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=63c3df41c552c6a284f36858489428180d739178&x-sign=1d9ef2ec51da67d318a1ac2391f97f43&x-time=1782054960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race_Day_Part_2_Italy_MXGP.jpg" group-title="MXGP", Race Day Part 2: Italy | MXGP [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782141422-Kv4cPTAAP5YTi-63c3df41c552c6a284f36858489428180d739178-960dbe76961f2348af76ac887ab380d3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race_Day_Part_2_Italy_MXGP.jpg" group-title="MXGP", Race Day Part 2: Italy | MXGP [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=63c3df41c552c6a284f36858489428180d739178&x-sign=eaca0ff8c0d9185b3165c05371f91b37&x-time=1782055020
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 PM 21-06-2026
+# Last Update: 09:20 PM 21-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:15:20 PM 21-06-2026
-#last update time: 07:15:17 PM 21-06-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022414/143095_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gwalior Cheetahs Vs Jabalpur Royal Lions | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gwalior_cheetahs_vs_jabalpur_royal_lions_143095_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318052/143317_CASACARDS_SPORTY_APP.png" group-title="Cricket", Nigeria Vs Hong Kong China | Men's T20I Tri series in Namibia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/nigeria_vs_hong_kong__china_143317_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="MotoGP", Czechia Gp | GRAND PRIX OF CZECHIA 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/czechia_gp_139953_english.m3u8
+# last_update: 09:15:22 PM 21-06-2026
+#last update time: 09:15:18 PM 21-06-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438713/143418_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_shivamogga_yodhas_143418_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438713/143418_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_shivamogga_yodhas_143418_kannada.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022397/143096_CASACARDS_SPORTY_APP.png" group-title="Cricket", Bundelkhand Bulls Vs Ujjain Falcons | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bundelkhand_bulls_vs_ujjain_falcons_143096_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782048897446/143283_CASACARDS_SPORTY_APP.png" group-title="Cricket", Panama Vs Belize | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/panama_vs_belize_143283_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 1 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143270_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 7   Doubles Finals | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___doubles_finals_143266_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 7   Finals | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___finals_143251_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png" group-title="Motorsports", Adac Gt Race 2   Dekra Lausitzring | DTM 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_race_2___dekra_lausitzring_143308_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Tennis", Day 7   Finals | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___finals_143265_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Tennis", Day 7   Doubles Finals | ATP 500 - HSBC Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_7___doubles_finals_143252_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143296_6121_PGA_LOC_FC-WEB.png" group-title="Golf", Day 4 | US Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_143296_english.m3u8
