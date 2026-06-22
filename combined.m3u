@@ -235,36 +235,50 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:37 AM 23-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=8SJOU44A2wlqtUU6cdyPsQ&expires=1782165037
+#last update time: 04:00:40 AM 23-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=u2_t-mMG9d3zx0xflochNA&expires=1782165038
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qEwVYcsUm83M22EzYWFe5g&expires=1782170442
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=yMTxpwpbdK0UDOlExxKuNQ&expires=1782170442
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=bWFkvgYcKJsOyBSYOiwUOA&expires=1782165038
+https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=Eq6TGEgadkzBbU7vuzFF3Q&expires=1782170442
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:31:46 AM 23-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 1]
+#last update time: 4:16:34 AM 23-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782246713-Kv4cPTAAP5YTi-66f683b3fb04b16a6aa0208b8cec9394ac1b8d4e-be135de1caecb2e170246147269cb13a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 2]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=66f683b3fb04b16a6aa0208b8cec9394ac1b8d4e&x-sign=0c99a1f1b3a52f5099ccd776b997d438&x-time=1782160260
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782246714-Kv4cPTAAP5YTi-66f683b3fb04b16a6aa0208b8cec9394ac1b8d4e-4f6523549d032424a4a3557f6ebdfc49
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 4]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=66f683b3fb04b16a6aa0208b8cec9394ac1b8d4e&x-sign=c157b67033d7af4dc7f3a0d1d08097a3&x-time=1782160260
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=a37be4fd815a4fd56f1ac417d4eb10758094325d&x-sign=5b3a622f4b1f74cb5ec97d788f2b11a1&x-time=1782166560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782252998-Kv4cPTAAP5YTi-a37be4fd815a4fd56f1ac417d4eb10758094325d-58bb8a6b1b6772af48bfa9db97106732
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 3]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719/chunks.m3u8?is_vip=false&token=a37be4fd815a4fd56f1ac417d4eb10758094325d&x-sign=90c8a963229e24beee2244b7473bd29c&x-time=1782166560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 4]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719/chunks.m3u8?is_vip=false&token=1782252999-Kv4cPTAAP5YTi-a37be4fd815a4fd56f1ac417d4eb10758094325d-e8f4a54868f12bd3615d2ecd9e6f6be8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 5]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-hd/chunks.m3u8?is_vip=false&token=a37be4fd815a4fd56f1ac417d4eb10758094325d&x-sign=6c5a7fa474dd0c771a40d68533e29475&x-time=1782166560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 6]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-hd/chunks.m3u8?is_vip=false&token=1782252999-Kv4cPTAAP5YTi-a37be4fd815a4fd56f1ac417d4eb10758094325d-be3fa88eb4936496dab5245a80d5912d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-cnhd/chunks.m3u8?is_vip=false&token=a37be4fd815a4fd56f1ac417d4eb10758094325d&x-sign=f24b012c9099ffda93b86e504af69636&x-time=1782166560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-cnhd/chunks.m3u8?is_vip=false&token=1782253000-Kv4cPTAAP5YTi-a37be4fd815a4fd56f1ac417d4eb10758094325d-b124f4a47b5f250a4e45ddd5a80f386f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 9]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-cnhd2/chunks.m3u8?is_vip=false&token=a37be4fd815a4fd56f1ac417d4eb10758094325d&x-sign=cd9fdecf1af0a65a40fc8cc2af3162c8&x-time=1782166560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 10]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-cnhd2/chunks.m3u8?is_vip=false&token=1782253001-Kv4cPTAAP5YTi-a37be4fd815a4fd56f1ac417d4eb10758094325d-60ea2054bc1edc7e471e7c7afb2fe96e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 11]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-fhd/chunks.m3u8?is_vip=false&token=a37be4fd815a4fd56f1ac417d4eb10758094325d&x-sign=30d73b8b612b4b5f248f3fe8fa7fecd6&x-time=1782166560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France_VS_Iraq_World_Cup.jpg" group-title="Football", France VS Iraq | World Cup [Server 12]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f85130103719-fhd/chunks.m3u8?is_vip=false&token=1782253001-Kv4cPTAAP5YTi-a37be4fd815a4fd56f1ac417d4eb10758094325d-83167d70ae3c9593bba7dbf9423d42e6
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 AM 23-06-2026
+# Last Update: 04:20 AM 23-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:29 AM 23-06-2026
-#last update time: 02:30:26 AM 23-06-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143286_6120_BRA_PAN_fc-App_1782137828167.jpg" group-title="Cricket", Brazil Vs Panama | ICC Men's T20 WC Americas Sub-regional Qualifier A (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/brazil_vs_panama_143286_english.m3u8
+# last_update: 04:00:30 AM 23-06-2026
+#last update time: 04:15:22 AM 23-06-2026
