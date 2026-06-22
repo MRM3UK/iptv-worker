@@ -235,26 +235,44 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:46 PM 22-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=-Jeqz1emu6A3kN8y4GSfPA&expires=1782116447
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=auEY141jpt6-IYOZ_-IxlQ&expires=1782116447
+#last update time: 07:00:45 PM 22-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=34AVIy4AqfLmeN6V86GhnA&expires=1782116447
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=BFNiO6_k35cWH2IE6WaG7g&expires=1782138046
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=VOJG9O60bpk5XuJvi2H-iA&expires=1782138046
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=1WEjvWCwghE9a16knbeJ2Q&expires=1782138046
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:01:31 PM 22-06-2026
+#last update time: 7:01:33 PM 22-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782219696-Kv4cPTAAP5YTi-cf97a9db3c7f795d8ad3050e21fc6e67821a4e21-17a38979371cb809e6881272829ce12a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=cf97a9db3c7f795d8ad3050e21fc6e67821a4e21&x-sign=77bd188db60fa801268233b6a88dc2ca&x-time=1782133260
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782219697-Kv4cPTAAP5YTi-cf97a9db3c7f795d8ad3050e21fc6e67821a4e21-ee21ae15b7e0798dbb3e87a4cc5240da
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="Tennis", Day 2 | Bad Homburg Open [Server 4]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=cf97a9db3c7f795d8ad3050e21fc6e67821a4e21&x-sign=32584ccdaf077528c72e3cca1ae72985&x-time=1782133260
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 PM 22-06-2026
+# Last Update: 07:00 PM 22-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:00:30 PM 22-06-2026
-#last update time: 01:00:23 PM 22-06-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_SPORTY_APP.png" group-title="Cricket", Indonesia Vs Thailand | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indonesia_vs_thailand_143543_english.m3u8
+# last_update: 07:00:32 PM 22-06-2026
+#last update time: 07:00:29 PM 22-06-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022364/143097_CASACARDS_SPORTY_APP.png" group-title="Cricket", Royal Nimar Eagles Vs Bhopal Leopards | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/royal_nimar_eagles_vs_bhopal_leopards_143097_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318052/143318_CASACARDS_SPORTY_APP.png" group-title="Cricket", Namibia Vs Hong Kong China | Men's T20I Tri series in Namibia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_hong_kong__china_143318_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540429/143544_CASACARDS_SPORTY_APP.png" group-title="Cricket", Singapore Vs Uzbekistan | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/singapore_vs_uzbekistan_143544_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Day 1 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143277_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 2 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143271_english.m3u8
