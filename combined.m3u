@@ -235,43 +235,37 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:46 PM 23-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=J6Ocu63014-HBuF_lDD5og&expires=1782224447
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=GOTh7U9MT6OIzAjNkVGk7g&expires=1782224447
+#last update time: 10:00:54 PM 23-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=Axhxpf0Tm6Y9EfrPWvg8uQ&expires=1782224448
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=x3zYDXRdd0Wk0v1eZ91TdQ&expires=1782235255
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=r7weHbbDiMbhoitv9GimAQ&expires=1782235255
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=9yIyLQvKFs2pvS2NjR9Vug&expires=1782235256
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:16:33 PM 23-06-2026
+#last update time: 10:01:37 PM 23-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782306996-Kv4cPTAAP5YTi-fd88ff9f3ac3033ac210063617de1100a35e3a56-8bdb1ba71993a698c42fb0148297c0d8
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782316899-Kv4cPTAAP5YTi-7079de700c6058e5e2ce253bc61f76586e3fe83c-87caf7621f711fbca897ba662fae7c95
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=fd88ff9f3ac3033ac210063617de1100a35e3a56&x-sign=ba45d2f33aa0cce59f26b1a7a6969110&x-time=1782220560
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=7079de700c6058e5e2ce253bc61f76586e3fe83c&x-sign=b81638d3fb29208915131d448ea14d1e&x-time=1782230460
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 PM 23-06-2026
+# Last Update: 10:10 PM 23-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:00:35 PM 23-06-2026
-#last update time: 07:15:23 PM 23-06-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438658/143421_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_shivamogga_yodhas_143421_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438658/143421_CASACARDS_SPORTY_APP.png" group-title="Cricket", Gulbarga Mystics Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_shivamogga_yodhas_143421_kannada.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022415/143099_CASACARDS_SPORTY_APP.png" group-title="Cricket", Indore Pink Panthers Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indore_pink_panthers_vs_gwalior_cheetahs_143099_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540405/143546_CASACARDS_SPORTY_APP.png" group-title="Cricket", Thailand Vs Singapore | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/thailand_vs_singapore_143546_english.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png" group-title="Cricket", Namibia Vs Nigeria | Men's T20I Tri series in Namibia 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143319_english.m3u8
+# last_update: 10:00:44 PM 23-06-2026
+#last update time: 10:00:35 PM 23-06-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png" group-title="Cricket", Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438726/143422_CASACARDS_SPORTY_APP.png" group-title="Cricket", Mysore Warriors Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mysore_warriors_vs_kalyani_bengaluru_blasters_143422_kannada.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Day 2 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143278_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 3 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
