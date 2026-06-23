@@ -235,36 +235,94 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:42 AM 24-06-2026
+#last update time: 05:00:48 AM 24-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=7KOcCe4r2InwiLRN2TE27g&expires=1782256843
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=mrwyhTNojDDAjfapdxnnOg&expires=1782260450
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=z0ybNlcalE0CiKJEDIq34g&expires=1782256843
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=QpJLSPbaY3VVefZT400LVQ&expires=1782260450
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=Ih5yePsCSXEsf4shmmMi8Q&expires=1782256843
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=ZC2_jkkcDjb0Ulb8ITkA1w&expires=1782260450
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 4:01:33 AM 24-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 1]
+#last update time: 5:16:30 AM 24-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782338496-Kv4cPTAAP5YTi-3800c3624ba57aab80d1db89c42cdf254447441e-5dd27d8f6f29291ec15a229fa9dd0546
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=3800c3624ba57aab80d1db89c42cdf254447441e&x-sign=c356559ad52223ce606b1955d6566fc9&x-time=1782252060
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782342992-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-5f2d741f5578f538f95a626e482b6161
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=2bfaa663090b9ded3ccbe2bf07a3627e&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 3]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=046bf39080a7fe507c715cd0ff451b92&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 4]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782342993-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-5509d21ac166ee0af0613183042707fe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 5]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=4f90d1d700c4c9ae86f224e4caf7f00b&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 6]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1/chunks.m3u8?is_vip=false&token=1782342994-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-7432f06c22749f3279d465d90c07763f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 7]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-hd/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=8bf9ab6a0bd291bd80783279dc3ad39f&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 8]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-hd/chunks.m3u8?is_vip=false&token=1782342995-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-5a84fb25335d8abae9fceefc9463e7bf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 9]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-cnhd/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=b76b87f7af5cc2fe4e0ad31595c78858&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 10]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-cnhd/chunks.m3u8?is_vip=false&token=1782342995-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-c878f2087cc9d19a9956a283f562f70f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 11]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-cnhd2/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=f58eecfcabf2de422ebdb5e13c757f02&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panama_VS_Croatia_World_Cup.jpg" group-title="Football", Panama VS Croatia | World Cup [Server 12]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce1-cnhd2/chunks.m3u8?is_vip=false&token=1782342996-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-101e8dd817e25928fe0573e83007ca87
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston_Astros_VS_Toronto_Blue_Jays_MLB.jpg" group-title="MLB", Houston Astros VS Toronto Blue Jays | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=3800c3624ba57aab80d1db89c42cdf254447441e&x-sign=319b443a09e71ff5776f3326d9cb9ef1&x-time=1782252060
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera Nacional", Nueva Chicago VS Atletico DE Rafaela | Primera Nacional [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=3800c3624ba57aab80d1db89c42cdf254447441e&x-sign=f4bdda862b760f55671c0e4ce7ebf1ee&x-time=1782252060
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera Nacional", Nueva Chicago VS Atletico DE Rafaela | Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=1782338505-Kv4cPTAAP5YTi-3800c3624ba57aab80d1db89c42cdf254447441e-c5779009666c9e79e32e6ecd923384cb
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=ef01f400e60a80727cbe0d4d205e7b6f&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nueva_Chicago_VS_Atletico_DE_Rafaela_Primera_Nacional.jpg" group-title="Primera Nacional", Nueva Chicago VS Atletico DE Rafaela | Primera Nacional [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=fb3cf5204bc1fb1b3480b72db6fc8eb7&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nueva_Chicago_VS_Atletico_DE_Rafaela_Primera_Nacional.jpg" group-title="Primera Nacional", Nueva Chicago VS Atletico DE Rafaela | Primera Nacional [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=1782343004-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-74289b114cdd1527afa4b4f8a81efb1c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg" group-title="Baseball", Texas Rangers VS Miami Marlins | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=ad6d1461636117b3604f99ea17a43ef1&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="MLB", New York Yankees VS Detroit Tigers | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=2902c36ed1f1d6d6f168366693e4a276&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg" group-title="Baseball", Seattle Mariners VS Pittsburgh Pirates | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=e86231e6ef8b736df393ae1bf3bd6e7a&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg" group-title="Baseball", Kansas City Royals VS Tampa Bay Rays | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=5ef77ff3a5c9267899e87ce8412df620&x-time=1782256560
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="MLB", Philadelphia Phillies VS Washington Nationals | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=dd90a4e8155f6afe98bac0166e20d4e7&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Serie B", America Mineiro VS Criciuma | Serie B [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1148/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=636d54cf790112e13c7c18ba4884eb67&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Serie B", America Mineiro VS Criciuma | Serie B [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1148/chunks.m3u8?is_vip=false&token=1782343027-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-85f64b53735ae5752acd076ccff4c862
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Serie B", America Mineiro VS Criciuma | Serie B [Server 3]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1148-fhd/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=9c10ad36a2db22234d5d31ea217dcaee&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Serie B", America Mineiro VS Criciuma | Serie B [Server 4]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1148-fhd/chunks.m3u8?is_vip=false&token=1782343027-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-924486c5748ee50723ab561528e8090a
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Badminton", Court 1 | YONEX US OPEN [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782343031-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-878f1d5fcf634d55fb718664f1db243f
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Badminton", Court 1 | YONEX US OPEN [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=c5874a44b238e5813240fcc7f9fe41fe&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="Badminton", Court 2 | YONEX US OPEN [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782343035-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-e982433e35c419f7c75f0064d00c047b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="Badminton", Court 2 | YONEX US OPEN [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=21a4f213fb44943fe2b53d56771519c8&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="Badminton", Court 3 | YONEX US OPEN [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782343039-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-ef1155a6400243ffa340062cdd372435
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="Badminton", Court 3 | YONEX US OPEN [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=1c4e73d9c195b2818ce1c7ae4f6d7c69&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="Badminton", Court 4 | YONEX US OPEN [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782343043-Kv4cPTAAP5YTi-120a7a13c2e381a7b122c1e16f2de3aad537edc9-518f3207fa204e2fe13d53f9ec6f6c80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="Badminton", Court 4 | YONEX US OPEN [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=689490a78f861232e63269d255de3af7&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="MLB", Milwaukee Brewers VS Cincinnati Reds | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=24285b985f724b8ae779760cac35a4ea&x-time=1782256620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="MLB", Chicago Cubs VS New York Mets | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=120a7a13c2e381a7b122c1e16f2de3aad537edc9&x-sign=21d38be22b4ce9244069a863168e68ae&x-time=1782256620
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 AM 24-06-2026
+# Last Update: 05:20 AM 24-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:45:23 AM 24-06-2026
-#last update time: 04:00:22 AM 24-06-2026
+# last_update: 05:15:25 AM 24-06-2026
+#last update time: 05:15:17 AM 24-06-2026
