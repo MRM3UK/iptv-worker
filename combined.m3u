@@ -235,60 +235,36 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:39 AM 24-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=paxfFJDcRBqIED-rd_nTcw&expires=1782251440
+#last update time: 04:00:42 AM 24-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=LAkNb8nbMO3fkAn3Ravv_w&expires=1782251440
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=7KOcCe4r2InwiLRN2TE27g&expires=1782256843
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=z0ybNlcalE0CiKJEDIq34g&expires=1782256843
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=5n2sutg5ZbW3qL7U3HKyvw&expires=1782251440
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=Ih5yePsCSXEsf4shmmMi8Q&expires=1782256843
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:16:37 AM 24-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 1]
+#last update time: 4:01:33 AM 24-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782332199-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-7c5e4d345d751105bd5a8b1e37889d83
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=4b5ea62dfedc48eaca787f30a0e228c7&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 3]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=dfc30adccbcb55a24166dc621d02883b&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 4]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782332201-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-c2c9ed35e994cd71e4e6a7023d065a3f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 5]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=0a033f13652161e9c45de7019f08921d&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 6]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0/chunks.m3u8?is_vip=false&token=1782332201-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-4503974914fe1f2b7c595cfb48d30924
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 7]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0-hd/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=7cbbacea59a4bb16fe18d19f131d1fea&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 8]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0-hd/chunks.m3u8?is_vip=false&token=1782332202-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-2d493cfe3487d934a3f0ea1d4379854a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 9]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0-cnhd/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=a5cb24af8dcd0a602431a2572cca2d84&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 10]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0-cnhd/chunks.m3u8?is_vip=false&token=1782332202-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-b2f237fc5b6c752bd2b238646a52a185
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 11]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0-cnhd2/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=02b4edef3ba98571a5106ea45242d9df&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_Ghana_World_Cup.jpg" group-title="Football", England VS Ghana | World Cup [Server 12]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1b02821b157de5f5471ce0-cnhd2/chunks.m3u8?is_vip=false&token=1782332203-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-a382c6769198e65a7bfeeab0baef4306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782332208-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-692d0754f8e5ed79ec1081061034b946
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782338496-Kv4cPTAAP5YTi-3800c3624ba57aab80d1db89c42cdf254447441e-5dd27d8f6f29291ec15a229fa9dd0546
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg" group-title="Tennis", Day 3 | Bad Homburg Open [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=c901489670184cee0ff416455bae0c43&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris_VS_Monaco_LNB_Pro_A.jpg" group-title="Basketball", Paris VS Monaco | LNB Pro A [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=aa78b87cd7d13688f60e1f490a8719b5&x-time=1782245760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris_VS_Monaco_LNB_Pro_A.jpg" group-title="Basketball", Paris VS Monaco | LNB Pro A [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782332213-Kv4cPTAAP5YTi-b00637660a218f1eda43fcb0fe2d8e60dd542714-4edb8aab2458c756efcc7c9ce2dfac54
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="MLB", Houston Astros VS Toronto Blue Jays | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=b00637660a218f1eda43fcb0fe2d8e60dd542714&x-sign=111a93fcb0a23cab8976d61f15a230a8&x-time=1782245760
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=3800c3624ba57aab80d1db89c42cdf254447441e&x-sign=c356559ad52223ce606b1955d6566fc9&x-time=1782252060
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston_Astros_VS_Toronto_Blue_Jays_MLB.jpg" group-title="MLB", Houston Astros VS Toronto Blue Jays | MLB [Server 1]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=3800c3624ba57aab80d1db89c42cdf254447441e&x-sign=319b443a09e71ff5776f3326d9cb9ef1&x-time=1782252060
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera Nacional", Nueva Chicago VS Atletico DE Rafaela | Primera Nacional [Server 1]
+https://livecdn-bp-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=3800c3624ba57aab80d1db89c42cdf254447441e&x-sign=f4bdda862b760f55671c0e4ce7ebf1ee&x-time=1782252060
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera Nacional", Nueva Chicago VS Atletico DE Rafaela | Primera Nacional [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-698ca0826e82682bc2d76894/chunks.m3u8?is_vip=false&token=1782338505-Kv4cPTAAP5YTi-3800c3624ba57aab80d1db89c42cdf254447441e-c5779009666c9e79e32e6ecd923384cb
 # Playlist Name: Tapmad bd
-# Last Update: 02:20 AM 24-06-2026
+# Last Update: 04:00 AM 24-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:28 AM 24-06-2026
-#last update time: 02:30:22 AM 24-06-2026
+# last_update: 03:45:23 AM 24-06-2026
+#last update time: 04:00:22 AM 24-06-2026
