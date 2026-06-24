@@ -235,78 +235,38 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:36 AM 24-06-2026
+#last update time: 11:30:33 AM 24-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=k60z2hE_TxNBlvvOHJIUjQ&expires=1782267637
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=XGE-kejDGENLyTvNZNmfXQ&expires=1782283835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=lV27otUQy-VtPyA8HMxrhg&expires=1782267637
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=rwC4YkYSbrU3Wwncz0Ke9A&expires=1782283835
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=mYie-SMUG7DHFgk-pOo_xg&expires=1782267637
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=xLBE33IKhtchuVTWLyfRWA&expires=1782283835
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:16:36 AM 24-06-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas_Rangers_VS_Miami_Marlins_MLB.jpg" group-title="Baseball", Texas Rangers VS Miami Marlins | MLB [Server 1]
+#last update time: 11:31:29 AM 24-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo_Yakult_Swallows_VS_YOKOHAMA_DeNA_BAYSTARS_NPB_Farm_Leagues.jpg" group-title="Baseball", Tokyo Yakult Swallows VS YOKOHAMA DeNA BAYSTARS | NPB Farm Leagues [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=53387da1036893ff5ae31009b9b06e6d&x-time=1782263760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee_Brewers_VS_Cincinnati_Reds_MLB.jpg" group-title="MLB", Milwaukee Brewers VS Cincinnati Reds | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=a70e78851574589330ed7dc036c6c456&x-time=1782263760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Peoria VS St. Louis Ambush | USL League Two [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88f/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=ad46f25fb5cccf22a37df57a9821578c&x-time=1782263760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Peoria VS St. Louis Ambush | USL League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88f/chunks.m3u8?is_vip=false&token=1782350207-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-9ae12e336178fe8f761575b74a33cb14
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Hill Country Lobos VS Laredo Heat | USL League Two [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb889/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=0e75208ece794844ba4d25119ef27a47&x-time=1782263760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Hill Country Lobos VS Laredo Heat | USL League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb889/chunks.m3u8?is_vip=false&token=1782350212-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-f4b1e197922035af9364ff10d4689b9f
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Louisiana Krewe VS Hattiesburg | USL League Two [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2c5e50df297140c453aec6/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=c9ba644f1a96513666103102c0b44f9a&x-time=1782263760
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Louisiana Krewe VS Hattiesburg | USL League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2c5e50df297140c453aec6/chunks.m3u8?is_vip=false&token=1782350217-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-ccd1e0cf9e77eefae03b12a363a8d47e
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="MLB", Arizona Diamondbacks VS St. Louis Cardinals | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=fde5ef2bd7d447c2083b20412c6e4168&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Southern Soccer Academy VS Montgomery United | USL League Two [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88e/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=d65b9848c242d16da2b75fcdcfa09649&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Southern Soccer Academy VS Montgomery United | USL League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb88e/chunks.m3u8?is_vip=false&token=1782350226-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-ac970b724c7bc096f183c4bee400302e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_Cubs_VS_New_York_Mets_MLB.jpg" group-title="MLB", Chicago Cubs VS New York Mets | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=cf09c09db6f8f53b8e119d93f43738e7&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="Badminton", Court 4 | YONEX US OPEN [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782350234-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-fa4e31804a9690e4ab4bf9103e2e79f4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg" group-title="Badminton", Court 4 | YONEX US OPEN [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=a0512748ba0be697888a14217d7fb1ea&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_York_Yankees_VS_Detroit_Tigers_MLB.jpg" group-title="MLB", New York Yankees VS Detroit Tigers | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=b2e965d0f75344627079ed464db66f07&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="Badminton", Court 3 | YONEX US OPEN [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782350243-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-84f5e99d0290a76cecb3459d5a469817
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg" group-title="Badminton", Court 3 | YONEX US OPEN [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=120c1585165d9f18efada47ef04ba643&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="Badminton", Court 2 | YONEX US OPEN [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782350248-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-9cbcf1d2ae4e5657547172eda0fd6463
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_2_YONEX_US_OPEN.jpg" group-title="Badminton", Court 2 | YONEX US OPEN [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=ddcef74b26321e09ad27a3377b912c59&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="Badminton", Court 1 | YONEX US OPEN [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782350253-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-9e64cca4fc7d58b4fccd912c81308f09
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_YONEX_US_OPEN.jpg" group-title="Badminton", Court 1 | YONEX US OPEN [Server 2]
-https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=4552f0dbdb50178b7c6413ecb7cedd60&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia_Phillies_VS_Washington_Nationals_MLB.jpg" group-title="MLB", Philadelphia Phillies VS Washington Nationals | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=83f8e78696ca995beceb12acbd202941&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas_City_Royals_VS_Tampa_Bay_Rays_MLB.jpg" group-title="Baseball", Kansas City Royals VS Tampa Bay Rays | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=850a34334fe0053a87be75b3e3e1909a&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle_Mariners_VS_Pittsburgh_Pirates_MLB.jpg" group-title="Baseball", Seattle Mariners VS Pittsburgh Pirates | MLB [Server 1]
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=41725e8df1624d60d279b9ab2c61a2e4&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Delaware FC VS Reading United | USL League Two [Server 1]
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb891/chunks.m3u8?is_vip=false&token=f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc&x-sign=5545843657d92d555a965fe98ce82ab1&x-time=1782263820
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", Delaware FC VS Reading United | USL League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb891/chunks.m3u8?is_vip=false&token=1782350270-Kv4cPTAAP5YTi-f41566de1b9bba8d9d8a7ea58c78cf067baa0ddc-8779f66da1551e366a3768d1fa330929
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782365492-Kv4cPTAAP5YTi-4dd930050dc3235deb549b4c70665b580cb3b391-be92d05ab62dd25220b1604a4cb9c2f2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo_Yakult_Swallows_VS_YOKOHAMA_DeNA_BAYSTARS_NPB_Farm_Leagues.jpg" group-title="Baseball", Tokyo Yakult Swallows VS YOKOHAMA DeNA BAYSTARS | NPB Farm Leagues [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4dd930050dc3235deb549b4c70665b580cb3b391&x-sign=d94f0d7c38c48aa52e70215c54539fa9&x-time=1782279060
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Chiba_Lotte_Marines_NPB.jpg" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS Chiba Lotte Marines | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782365496-Kv4cPTAAP5YTi-4dd930050dc3235deb549b4c70665b580cb3b391-599fb921e4d54ca544a990981ca5dd9d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Chiba_Lotte_Marines_NPB.jpg" group-title="Baseball", Hokkaido Nippon-Ham Fighters VS Chiba Lotte Marines | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=4dd930050dc3235deb549b4c70665b580cb3b391&x-sign=cfc4c0e5297327cf7c8cbc2572f72ace&x-time=1782279060
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg" group-title="Baseball", Saitama Seibu Lions VS ORIX Buffaloes | NPB Farm Leagues [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782365500-Kv4cPTAAP5YTi-4dd930050dc3235deb549b4c70665b580cb3b391-036f8e90c8e4b6c706b2a540f5a6f05f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg" group-title="Baseball", Saitama Seibu Lions VS ORIX Buffaloes | NPB Farm Leagues [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=4dd930050dc3235deb549b4c70665b580cb3b391&x-sign=76298e4125c125b5dac67a75cb9bd790&x-time=1782279060
 # Playlist Name: Tapmad bd
-# Last Update: 07:20 AM 24-06-2026
+# Last Update: 11:30 AM 24-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:15:24 AM 24-06-2026
-#last update time: 07:15:17 AM 24-06-2026
+# last_update: 11:30:26 AM 24-06-2026
+#last update time: 11:30:23 AM 24-06-2026
