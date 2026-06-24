@@ -13,7 +13,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://bd-directory.com/Tsports-BD.JPG" group-title="Sports" tvg-logo="https://bd-directory.com/Tsports-BD.JPG" group-title="Sports" tvg-logo="https://bd-directory.com/Tsports-BD.JPG" group-title="Sports",Tsports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-http://30.30.30.138:8088/101/tracks-v1a1/mono.m3u8?token=4fc5cd0b6cb7fce5a6b357a7e2b53cceb3ab9494-08fad10bbefe3d8f810ba1b1eab50eaf-9781662281-1781658681
+https://trs1.aynaott.com/tsports/index.m3u8
+#EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh News",Btv
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh News" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh News" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangladesh News",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladesh News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladesh News" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladesh News",Somoy TV
@@ -235,24 +237,62 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:35 PM 24-06-2026
+#last update time: 05:30:36 PM 24-06-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=bIf5-1LzA0Le6EIOdjngGg&expires=1782294636
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=O-s0ewAJbD7xS88uN2Fpbw&expires=1782305437
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=AYQzrbx-6eKxZBJuRvLyyQ&expires=1782294637
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=1HRFHGiUMbUsy6w3dLIYWw&expires=1782305437
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=iSGZsqSId8Me8zg-YVx9Ow&expires=1782294637
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=tA4iVS30jwEMdts8uIiJ7g&expires=1782305437
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 2:31:30 PM 24-06-2026
+#last update time: 5:16:30 PM 24-06-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka_SoftBank_Hawks_VS_ORIX_Buffaloes_NPB.jpg" group-title="Baseball", Fukuoka SoftBank Hawks VS ORIX Buffaloes | NPB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782386192-Kv4cPTAAP5YTi-f3d56d10e48191fdfede6afda4ccf094dea8ee5b-a9d156004a4bdaef383f6b909b339d3a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka_SoftBank_Hawks_VS_ORIX_Buffaloes_NPB.jpg" group-title="Baseball", Fukuoka SoftBank Hawks VS ORIX Buffaloes | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f3d56d10e48191fdfede6afda4ccf094dea8ee5b&x-sign=197ac9fdecaba138f5953a47ec272519&x-time=1782299760
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi_Dragons_VS_YOKOHAMA_DeNA_BAYSTARS_NPB.jpg" group-title="Baseball", Chunichi Dragons VS YOKOHAMA DeNA BAYSTARS | NPB [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782386196-Kv4cPTAAP5YTi-f3d56d10e48191fdfede6afda4ccf094dea8ee5b-217425527588fa266e12ab6042185603
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi_Dragons_VS_YOKOHAMA_DeNA_BAYSTARS_NPB.jpg" group-title="Baseball", Chunichi Dragons VS YOKOHAMA DeNA BAYSTARS | NPB [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=f3d56d10e48191fdfede6afda4ccf094dea8ee5b&x-sign=4b77afbc1851b236809546f83d76bef0&x-time=1782299760
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="NPB Farm Leagues", Chiba Lotte Marines VS Chunichi Dragons | NPB Farm Leagues [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782386201-Kv4cPTAAP5YTi-f3d56d10e48191fdfede6afda4ccf094dea8ee5b-cb7d6baaa4a41ad48a7e3c0bd4ebe6a1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="NPB Farm Leagues", Chiba Lotte Marines VS Chunichi Dragons | NPB Farm Leagues [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=f3d56d10e48191fdfede6afda4ccf094dea8ee5b&x-sign=4088fd8572f3f779f232d9e2652c99eb&x-time=1782299760
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Bad_Homburg_Open.jpg" group-title="Tennis", Day 4 | Bad Homburg Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782386205-Kv4cPTAAP5YTi-f3d56d10e48191fdfede6afda4ccf094dea8ee5b-41677c146a7fc0db6792c12266da5de6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Bad_Homburg_Open.jpg" group-title="Tennis", Day 4 | Bad Homburg Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=f3d56d10e48191fdfede6afda4ccf094dea8ee5b&x-sign=5959590a9a9bae7fdeb812082d2f7a41&x-time=1782299760
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Eastbourne_Open.jpg" group-title="Tennis", Day 3 | Eastbourne Open [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782386209-Kv4cPTAAP5YTi-f3d56d10e48191fdfede6afda4ccf094dea8ee5b-4da214d5672131f006bb8641a34b4e80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Eastbourne_Open.jpg" group-title="Tennis", Day 3 | Eastbourne Open [Server 2]
+https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=f3d56d10e48191fdfede6afda4ccf094dea8ee5b&x-sign=9ac26e895cb6e396e62e46d9a14a779a&x-time=1782299760
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bulgaria_VS_Italy_Nations_League.jpg" group-title="Volleyball", Bulgaria VS Italy | Nations League [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782386213-Kv4cPTAAP5YTi-f3d56d10e48191fdfede6afda4ccf094dea8ee5b-69fe950050465eb596e3689de466793d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bulgaria_VS_Italy_Nations_League.jpg" group-title="Volleyball", Bulgaria VS Italy | Nations League [Server 2]
+https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=f3d56d10e48191fdfede6afda4ccf094dea8ee5b&x-sign=1e36a439869da89294f3d0a8900fabf9&x-time=1782299760
 # Playlist Name: Tapmad bd
-# Last Update: 02:40 PM 24-06-2026
+# Last Update: 05:20 PM 24-06-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:26 PM 24-06-2026
-#last update time: 02:30:23 PM 24-06-2026
+# last_update: 05:30:29 PM 24-06-2026
+#last update time: 05:30:27 PM 24-06-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438724/143423_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_coastal_kings_mangaluru_143423_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438724/143423_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kalyani Bengaluru Blasters Vs Coastal Kings Mangaluru | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_coastal_kings_mangaluru_143423_kannada.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022366/143101_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jabalpur Royal Lions Vs Bundelkhand Bulls | Madhya Pradesh League T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_bundelkhand_bulls_143101_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Bahadurgarh Royals Vs Aca Gurugram Vipers | Future Star U-15 Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bahadurgarh_royals_vs_aca_gurugram_vipers_143551_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Tennis", Day 3 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143279_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="Tennis", Day 4 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4_143273_english.m3u8
