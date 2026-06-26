@@ -1,18 +1,23 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:45:16 PM 26-06-2026
+#last update time: 06:00:26 PM 26-06-2026
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="Cricket", Rml Sports Vs Kcc | KPL Indo Nepal T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_kcc_143522_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Flying Fire Delhi Chargers Vs Sonipat Kings | Future Star U-15 Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/flying_fire_delhi_chargers_vs_sonipat_kings_143555_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png" group-title="Cricket", Singapore Vs Thailand | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/singapore_vs_thailand_143550_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="Cricket", Rml Sports Vs Kcc | KPL Indo Nepal T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rml_sports_vs_kcc_143522_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="MotoGP", Day 1 | GRAND PRIX OF NETHERLANDS 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_139954_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg" group-title="Motorsports", Practice Session | F2 AUSTRIA 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139630_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Practice 1 | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c809a4eb0e6540b0b8ca3fd4bfb75e71:1de4cc9670561a8baed12e8c2d10f542
+https://bd-mc-flive.fancode.com/mumbai/139457_english_dash_58693_1drmta-di_h264/index.mpd
 
