@@ -3,485 +3,410 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:31:30 PM 27-06-2026
+#last update time: 11:46:31 PM 27-06-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England_VS_New_Zealand_3rd_Test.jpg" group-title="3rd Test", England VS New Zealand | 3rd Test [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/La_Fiorita_VS_Vardar_Skopje_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", La Fiorita VS Vardar Skopje | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=beb43f93bd5c0308ee038cf85791795f&x-time=1782577860
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e77/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=de3666d6bc627ca7a0bcddfdd0fdba77&x-time=1782582360
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UFC FIGHT NIGHT", FIZIEV VS TORRES | UFC FIGHT NIGHT [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/La_Fiorita_VS_Vardar_Skopje_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", La Fiorita VS Vardar Skopje | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=0143aceaf93f15afaa06f30552996bca&x-time=1782577860
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e77/chunks.m3u8?is_vip=false&token=1782668795-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-89ac56f0c043640885e4ed6aa64ba69c
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="3. Division - Girone 2", Byåsen VS Aalesund II | 3. Division - Girone 2 [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WSPG_Wels_VS_Lask_Linz_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", WSPG Wels VS Lask Linz | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a30/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=c000ea87fa2ae2ff189b2249bcab9c59&x-time=1782577860
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b143/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=92bec0f95ff10cf8e07ae68a93d812ff&x-time=1782582360
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="3. Division - Girone 2", Byåsen VS Aalesund II | 3. Division - Girone 2 [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WSPG_Wels_VS_Lask_Linz_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", WSPG Wels VS Lask Linz | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a30/chunks.m3u8?is_vip=false&token=1782664302-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-1b37324da345972865073549dbecdbda
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b143/chunks.m3u8?is_vip=false&token=1782668801-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-d4dda3ef9c166259332e47a81eef39c1
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Division", Molodechno-DYuSSh 4 VS Lida | 1. Division [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Dinamo Minsk VS FC Vitebsk | Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a48/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=9bbbcfdf6f0face7a7b244c8c8f22135&x-time=1782577860
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a3f/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=804d9dbc91921a6194551ec31b360aae&x-time=1782582360
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Division", Molodechno-DYuSSh 4 VS Lida | 1. Division [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Dinamo Minsk VS FC Vitebsk | Premier League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a48/chunks.m3u8?is_vip=false&token=1782664307-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-800213b80d2fba551f73d1044cdd9033
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a3f/chunks.m3u8?is_vip=false&token=1782668806-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-9e8c3d26275873940d4d634643f7e33e
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Liga", CSF Bălți VS Politehnica UTM | Super Liga [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Dunajska Streda VS TSC Backa Topola | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e533c/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=e325a4a1b1a0661e78cf2c0b73ca3575&x-time=1782577860
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b146/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=e150de4f342677b09ae3542dc26e2c81&x-time=1782582360
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Liga", CSF Bălți VS Politehnica UTM | Super Liga [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Dunajska Streda VS TSC Backa Topola | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e533c/chunks.m3u8?is_vip=false&token=1782664313-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-100d4a2314aac5da43eeed19b46259f0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b146/chunks.m3u8?is_vip=false&token=1782668811-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-1088800c9931dbfbc3407203a44b3208
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Cup", Saburtalo VS Dinamo Tbilisi | Super Cup [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", New York Yankees VS Boston Red Sox | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3fad3d005675444159bb67/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=3a0af3c4ad0e081a7674e8d08ca583fe&x-time=1782577860
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=be6105e8ce69d234cc4873c289452289&x-time=1782582360
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Cup", Saburtalo VS Dinamo Tbilisi | Super Cup [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Baseball", Houston Astros VS Detroit Tigers | MLB [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3fad3d005675444159bb67/chunks.m3u8?is_vip=false&token=1782664318-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-54f519e0514e5e60ef479539f58735c7
+https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=a51209e2a7a1b05d63a5d9b0b4c690f5&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Wolfsberger AC VS Nyiregyhaza | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Kursumlijska Banja", Branko Djuric VS Andrea De Marchi | M15 Kursumlijska Banja [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7c/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=4805b7303a10310b238c46938e115710&x-time=1782577920
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ff3fcaed4bb3db0c4b7bf/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=f97b4c94614f28deb30cc853c2dc21e5&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Wolfsberger AC VS Nyiregyhaza | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Kursumlijska Banja", Branko Djuric VS Andrea De Marchi | M15 Kursumlijska Banja [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7c/chunks.m3u8?is_vip=false&token=1782664324-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-70bfc4078841ca071b68a203a80445f6
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ff3fcaed4bb3db0c4b7bf/chunks.m3u8?is_vip=false&token=1782668825-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-05116cd6375978619fc42c9a878c074a
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier League", Dinamo Brest VS FC Minsk | Premier League [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Kayseri", Keshav Chopra VS Rethin Pranav Senthil Kumar | M15 Kayseri [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a3d/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=b8cd90c4399e47f8e9a0b762447efedf&x-time=1782577920
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ff3fc00567544415b68a6/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=4184f791dac2f592dcc851748f0b206a&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier League", Dinamo Brest VS FC Minsk | Premier League [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Kayseri", Keshav Chopra VS Rethin Pranav Senthil Kumar | M15 Kayseri [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a3d/chunks.m3u8?is_vip=false&token=1782664330-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-9730538558f076b0b38ca17ef4314299
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ff3fc00567544415b68a6/chunks.m3u8?is_vip=false&token=1782668830-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-d38ae4e487b2aec428ca525b05ffd688
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Levski Sofia VS Botev Vratsa | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Galati", Giulia Safina Popa VS Chiara Fornasieri | W15 Galati [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e533d/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=bb5fcd5344167499f7cd599760b7579e&x-time=1782577920
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ff3fcf65afa224ed11621/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=d88446abd74450bfc34cc0ae0440be03&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Levski Sofia VS Botev Vratsa | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Galati", Giulia Safina Popa VS Chiara Fornasieri | W15 Galati [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e533d/chunks.m3u8?is_vip=false&token=1782664335-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-d19c9a28eb8436f1fcd422454600070f
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ff3fcf65afa224ed11621/chunks.m3u8?is_vip=false&token=1782668835-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-ca4daeacaa81c5d5f1a00a5ef66b91ba
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Spartak Varna VS Dunav Ruse | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Cup", Dila VS Torpedo Kutaisi | Super Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3fb445774cbee6e5790274/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=1ba85056462bec9db3796ba643c1a377&x-time=1782577920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3fc95ed7f718fae4f824dd/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=a6bfe8eedf6ea10e6caa30d981b8311a&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Spartak Varna VS Dunav Ruse | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Cup", Dila VS Torpedo Kutaisi | Super Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3fb445774cbee6e5790274/chunks.m3u8?is_vip=false&token=1782664340-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-ae2fe12f8e18e6418503163effbdd660
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3fc95ed7f718fae4f824dd/chunks.m3u8?is_vip=false&token=1782668840-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-e8ba12ffc2814df571155a2fea95efec
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera B Metropolitana", Real Pilar VS San Martín Burzaco | Primera B Metropolitana [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Liga", Milsami Orhei VS Zimbru | Super Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520da/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=d9585e22f0e74cf66127cb8b1e825945&x-time=1782577920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a4/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=6fa404d2ae26af72486d09935f579e6a&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera B Metropolitana", Real Pilar VS San Martín Burzaco | Primera B Metropolitana [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Super Liga", Milsami Orhei VS Zimbru | Super Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520da/chunks.m3u8?is_vip=false&token=1782664345-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-2e92945a3f43bdb51ff92b7aeb5390be
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a4/chunks.m3u8?is_vip=false&token=1782668845-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-ae6c272f2802bc9e45986265b752e1e7
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="WRC", EKO Acropolis Rally Greece: Stage 13 | WRC [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Rochefort VS Patro Eisden | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/323/720p/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=cd846152c671aad7ebce05ca01c5a29e&x-time=1782577920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b145/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=886d2874ac22a85093563c21cc161631&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Veres Rivne VS Yarud Mariupol' | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Rochefort VS Patro Eisden | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5412/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=86e57f81c8a9e7ef0e9e117494087c72&x-time=1782577920
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b145/chunks.m3u8?is_vip=false&token=1782668850-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-061b2ebfa4f8363f78214a62111bd6c3
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Veres Rivne VS Yarud Mariupol' | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Merelbeke VS Gent | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5412/chunks.m3u8?is_vip=false&token=1782664355-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-70653d8f31251114a2cd0dcc20fe614d
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b144/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=fac1824d85f52134d34942e9bb3acb9a&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", USC Rohrbach VS Gloggnitz | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Merelbeke VS Gent | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b141/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=f2f5306b0cdda19ab88da49b43d32630&x-time=1782577920
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b144/chunks.m3u8?is_vip=false&token=1782668855-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-d05bd4a2c6c1b1e0182e7a3cdecb0782
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", USC Rohrbach VS Gloggnitz | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Division", Uni Minsk VS Niva | 1. Division [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b141/chunks.m3u8?is_vip=false&token=1782664360-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-e62ea2715ee3628729982ceaaf6c9eb0
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a44/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=d3d7a668b4ddcaf48536206d65a25ca9&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Sporting Hasselt VS Anderlecht | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Division", Uni Minsk VS Niva | 1. Division [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b142/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=4cd9071fe2c269724810c97d54cbfe9d&x-time=1782577920
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a44/chunks.m3u8?is_vip=false&token=1782668861-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-657ef5c5ccbcec3ee892503492d9dd97
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Sporting Hasselt VS Anderlecht | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Ujpest VS Universitatea Cluj | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b142/chunks.m3u8?is_vip=false&token=1782664366-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-00c283eece86b3e9185c2a0402a8a3b0
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3c142357b14e876d23eae6/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=16baba2519c1cd2ed006e25c78061b9a&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Division", Stromsgodset VS ODD Ballklubb | 1. Division [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Ujpest VS Universitatea Cluj | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520be/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=4ece095b8a4719607ebf677264a08555&x-time=1782577920
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3c142357b14e876d23eae6/chunks.m3u8?is_vip=false&token=1782668866-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-31b992e6807477c1bea97d09b0dc7a1b
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Division", Stromsgodset VS ODD Ballklubb | 1. Division [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Darius_Florin_Pop_VS_Marcell_Bartakovics_UTR_Pro_Budapest.jpg" group-title="UTR Pro Budapest", Darius Florin Pop VS Marcell Bartakovics | UTR Pro Budapest [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520be/chunks.m3u8?is_vip=false&token=1782664371-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-5e051998c306fca997b149a8e0a854c2
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fe63a32c497f673491d19/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=6169bcde66fb94c90b9f33b3798331ed&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Veikkausliiga", Turku PS VS FF Jaro | Veikkausliiga [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Darius_Florin_Pop_VS_Marcell_Bartakovics_UTR_Pro_Budapest.jpg" group-title="UTR Pro Budapest", Darius Florin Pop VS Marcell Bartakovics | UTR Pro Budapest [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bc/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=8cfe9c649dae2adbb022c757fad8caea&x-time=1782577920
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fe63a32c497f673491d19/chunks.m3u8?is_vip=false&token=1782668871-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-d014d571c5b0d8bebb9f2677cac7e3c7
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Veikkausliiga", Turku PS VS FF Jaro | Veikkausliiga [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AZ_Alkmaar_VS_Jong_AZ_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", AZ Alkmaar VS Jong AZ | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bc/chunks.m3u8?is_vip=false&token=1782664376-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-061f5c7246f238ff3f7f8f24fd0a9107
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e79/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=60a752eb14bc2c80ab5bd5634f5b7211&x-time=1782582420
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Veikkausliiga", Gnistan VS VPS | Veikkausliiga [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AZ_Alkmaar_VS_Jong_AZ_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", AZ Alkmaar VS Jong AZ | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bd/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=5cd0855bf7c98dd668ffafab849c6e32&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e79/chunks.m3u8?is_vip=false&token=1782668876-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-050bf17596211742aa14b329a58aec85
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Veikkausliiga", Gnistan VS VPS | Veikkausliiga [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/DevSinha_VS_CorneaCukierman_Challenger_Brasov_MD.jpg" group-title="Challenger Brasov MD", Dev/Sinha VS Cornea/Cukierman | Challenger Brasov MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bd/chunks.m3u8?is_vip=false&token=1782664381-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-ab812e38d6b905e13713c6286a5b4f0b
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fe63a8cf753005748314f/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=ffa90353b6060a0c98fc507ea08f7d39&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Second League - Group 3", Strogino VS Kvant | Second League - Group 3 [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/DevSinha_VS_CorneaCukierman_Challenger_Brasov_MD.jpg" group-title="Challenger Brasov MD", Dev/Sinha VS Cornea/Cukierman | Challenger Brasov MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5409/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=614566df7fd3610f1980e67cd753eca6&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fe63a8cf753005748314f/chunks.m3u8?is_vip=false&token=1782668881-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-c2a120f3eb975fb4c785f70a34f5e556
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Second League - Group 3", Strogino VS Kvant | Second League - Group 3 [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sacachispas_VS_Lugano_Primera_C.jpg" group-title="Primera C", Sacachispas VS Lugano | Primera C [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5409/chunks.m3u8?is_vip=false&token=1782664387-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-a5740e7cad81e9eefc27436e37494cb3
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e9/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=df122c178b54cd83da9d5afdced7f4ca&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Supreme Division Women", Spartak Moskva W VS Lokomotiv Moskva W | Supreme Division Women [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sacachispas_VS_Lugano_Primera_C.jpg" group-title="Primera C", Sacachispas VS Lugano | Primera C [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca84619dc/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=ebd21df4a48cff709810250f1ab8f5d2&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e9/chunks.m3u8?is_vip=false&token=1782668886-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-c781074bb657a8e507124d4ab5d2526a
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Supreme Division Women", Spartak Moskva W VS Lokomotiv Moskva W | Supreme Division Women [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vroomshoopse_Boys_VS_Twente_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", Vroomshoopse Boys VS Twente | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca84619dc/chunks.m3u8?is_vip=false&token=1782664392-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-722e6539ec06d2f343136471598e4eda
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e5f/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=d0f04c1458bbd2f879a5958b8f74857b&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Liga", Riga Mariners VS Mārupe | 1. Liga [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vroomshoopse_Boys_VS_Twente_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", Vroomshoopse Boys VS Twente | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c0/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=80a91d9c2552ba9fb9c8d0dff8ad0a21&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e5f/chunks.m3u8?is_vip=false&token=1782668892-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-3070a82ddee7f2e44d5063f41cab83e7
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Liga", Riga Mariners VS Mārupe | 1. Liga [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga_Mariners_VS_M%C4%81rupe_1._Liga.jpg" group-title="1. Liga", Riga Mariners VS Mārupe | 1. Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c0/chunks.m3u8?is_vip=false&token=1782664397-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-6854cc54c5204c46370b094496376547
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c0/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=ba968c35d632382e82fb6ae7595fc03c&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Vroomshoopse Boys VS Twente | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga_Mariners_VS_M%C4%81rupe_1._Liga.jpg" group-title="1. Liga", Riga Mariners VS Mārupe | 1. Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e5f/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=7ab1203f8cb1fb70231dd47f56292760&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c0/chunks.m3u8?is_vip=false&token=1782668897-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-8596c72a9302e02a6b92141b4a95a774
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Vroomshoopse Boys VS Twente | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spartak_Moskva_W_VS_Lokomotiv_Moskva_W_Supreme_Division_Women.jpg" group-title="Supreme Division Women", Spartak Moskva W VS Lokomotiv Moskva W | Supreme Division Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e5f/chunks.m3u8?is_vip=false&token=1782664403-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-0dd663dbec7030b28c72a5b2796e6a9f
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca84619dc/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=3c4a2f53dab20fd8bed10a0bc58648a6&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Liga", Rēzekne FA VS JDFS Alberts | 1. Liga [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spartak_Moskva_W_VS_Lokomotiv_Moskva_W_Supreme_Division_Women.jpg" group-title="Supreme Division Women", Spartak Moskva W VS Lokomotiv Moskva W | Supreme Division Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a42/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=63ef284afb85f80d434768ff6443ca65&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca84619dc/chunks.m3u8?is_vip=false&token=1782668902-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-8275230aebe39cc29ecd128d9e05d9d5
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="1. Liga", Rēzekne FA VS JDFS Alberts | 1. Liga [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strogino_VS_Kvant_Second_League_-_Group_3.jpg" group-title="Second League - Group 3", Strogino VS Kvant | Second League - Group 3 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a42/chunks.m3u8?is_vip=false&token=1782664408-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-90ca4212392b908308fc80551ddc7037
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5409/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=1f6945df3506de5a3b87682ea1cd21bb&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Second League - Group 1", Rostov II VS Astrakhan | Second League - Group 1 [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strogino_VS_Kvant_Second_League_-_Group_3.jpg" group-title="Second League - Group 3", Strogino VS Kvant | Second League - Group 3 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a540e/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=acead01c86608a2a93cd51526dff3319&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5409/chunks.m3u8?is_vip=false&token=1782668907-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-3569493aeaa22e565c19fa192e7a4199
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Second League - Group 1", Rostov II VS Astrakhan | Second League - Group 1 [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gnistan_VS_VPS_Veikkausliiga.jpg" group-title="Veikkausliiga", Gnistan VS VPS | Veikkausliiga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a540e/chunks.m3u8?is_vip=false&token=1782664413-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-1628960af27e20fa419d08abd452ea86
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bd/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=0393ec3f9239a246d09b829653dcb687&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/La_Tour_du_Pin_Women_National_French_Championship.jpg" group-title="National French Championship", La Tour du Pin Women | National French Championship [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gnistan_VS_VPS_Veikkausliiga.jpg" group-title="Veikkausliiga", Gnistan VS VPS | Veikkausliiga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=8379870d18821c01c96a7148db8e19ef&x-time=1782577980
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bd/chunks.m3u8?is_vip=false&token=1782668912-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-eb33338d6c0a27604b8760bd7367b383
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier Padel Valladolid Women", Ustero/Sanchez VS Gonzalez/Josemaria | Premier Padel Valladolid Women [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Turku_PS_VS_FF_Jaro_Veikkausliiga.jpg" group-title="Veikkausliiga", Turku PS VS FF Jaro | Veikkausliiga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0dfd12df158c97718e/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=d993d07b4d666200a5b8c7a63d16b47b&x-time=1782577980
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bc/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=f8203d52396fde6f48f577224d4370f4&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier Padel Valladolid Women", Ustero/Sanchez VS Gonzalez/Josemaria | Premier Padel Valladolid Women [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Turku_PS_VS_FF_Jaro_Veikkausliiga.jpg" group-title="Veikkausliiga", Turku PS VS FF Jaro | Veikkausliiga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0dfd12df158c97718e/chunks.m3u8?is_vip=false&token=1782664422-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-16765d41f23d33fa6582f92a84a76345
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520bc/chunks.m3u8?is_vip=false&token=1782668917-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-4bfcaeb4ec9958f0ffcf4b5cdeee1e32
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Metallurg_Lipetsk_VS_Rodina_Moskva_III_Second_League_-_Group_3.jpg" group-title="Second League - Group 3", Metallurg Lipetsk VS Rodina Moskva III | Second League - Group 3 [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Stromsgodset_VS_ODD_Ballklubb_1._Division.jpg" group-title="1. Division", Stromsgodset VS ODD Ballklubb | 1. Division [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5407/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=c41607a38606d4364f3ecded4c3c7e4a&x-time=1782577980
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520be/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=e2b70a88593d64708b3767eec4ed36f2&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Metallurg_Lipetsk_VS_Rodina_Moskva_III_Second_League_-_Group_3.jpg" group-title="Second League - Group 3", Metallurg Lipetsk VS Rodina Moskva III | Second League - Group 3 [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Stromsgodset_VS_ODD_Ballklubb_1._Division.jpg" group-title="1. Division", Stromsgodset VS ODD Ballklubb | 1. Division [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5407/chunks.m3u8?is_vip=false&token=1782664427-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-a95182315f683c43656f0252c8cd4a93
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520be/chunks.m3u8?is_vip=false&token=1782668922-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-23ca7e49ed270a85e51eb92959101b94
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bossekop_VS_Kongsvinger_II_3._Division_-_Girone_5.jpg" group-title="3. Division - Girone 5", Bossekop VS Kongsvinger II | 3. Division - Girone 5 [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting_Hasselt_VS_Anderlecht_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", Sporting Hasselt VS Anderlecht | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a544c/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=26361b12edcbcb1fdf9130d0b64bef8a&x-time=1782577980
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b142/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=04a27806be768f3215f97e60554c5904&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bossekop_VS_Kongsvinger_II_3._Division_-_Girone_5.jpg" group-title="3. Division - Girone 5", Bossekop VS Kongsvinger II | 3. Division - Girone 5 [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting_Hasselt_VS_Anderlecht_Friendlies_Clubs.jpg" group-title="Friendlies Clubs", Sporting Hasselt VS Anderlecht | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a544c/chunks.m3u8?is_vip=false&token=1782664433-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-a974e8ff150f56cede26046e8c528475
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ad0b930392eaef449b142/chunks.m3u8?is_vip=false&token=1782668927-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-77bfb0feabba9aea026e35c190727470
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Ettan - Norra", Arlanda VS IF Karlstad | Ettan - Norra [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_13_WRC.jpg" group-title="WRC", EKO Acropolis Rally Greece: Stage 13 | WRC [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a5/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=40c72edf5f98c11ca30edf0eeaf314be&x-time=1782577980
+https://livecdn-bp-iptv.rumsport7.live/live_abr/323/720p/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=8d5cc9252b1da1066b84198a9193d958&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Ettan - Norra", Arlanda VS IF Karlstad | Ettan - Norra [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FIZIEV_VS_TORRES_UFC_FIGHT_NIGHT.jpg" group-title="UFC FIGHT NIGHT", FIZIEV VS TORRES | UFC FIGHT NIGHT [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a5/chunks.m3u8?is_vip=false&token=1782664438-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-03bdddd968e882b8c3a1b64aaad00dcc
+https://livecdn-bp-iptv.rumsport7.live/live_abr/53767/720p/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=7b4aaac5c060190ca80434da94b9a41e&x-time=1782582480
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Charlie Underwood VS David Duong | UTR Pro Newport Beach [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real_Pilar_VS_San_Mart%C3%ADn_Burzaco_Primera_B_Metropolitana.jpg" group-title="Primera B Metropolitana", Real Pilar VS San Martín Burzaco | Primera B Metropolitana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0df59507a97ae7bff0/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=fad44b67a84dd69cbc10997a4a184127&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520da/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=35fdfad59321b631d84d8f4ee8e02c62&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Charlie Underwood VS David Duong | UTR Pro Newport Beach [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real_Pilar_VS_San_Mart%C3%ADn_Burzaco_Primera_B_Metropolitana.jpg" group-title="Primera B Metropolitana", Real Pilar VS San Martín Burzaco | Primera B Metropolitana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0df59507a97ae7bff0/chunks.m3u8?is_vip=false&token=1782664443-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-20c2ab5dfecc8378dca469c7da4807b3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520da/chunks.m3u8?is_vip=false&token=1782668941-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-1890d92dcb7c9ff128decd5c2bbbb7cf
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Martin Mazev VS Adam Bain | UTR Pro Newport Beach [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Americano Campos VS CFRJ / Maricá | Carioca A2 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0d30bace3974fd9720/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=f1cd40eff290ccd1556b6af2ef8cf1b0&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a8/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=65caf726a1efafcbcc9feb8636f4ac97&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Martin Mazev VS Adam Bain | UTR Pro Newport Beach [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Americano Campos VS CFRJ / Maricá | Carioca A2 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0d30bace3974fd9720/chunks.m3u8?is_vip=false&token=1782664448-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-141afe7f08abe89a77d895c91112021c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3849d37133406e4ccbb5a8/chunks.m3u8?is_vip=false&token=1782668947-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-71fbf6cff88df56da07b0834604f1de8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Xavier Calvelo VS Aaron Eliscu | UTR Pro Newport Beach [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karvin%C3%A1_VS_Polonia_Bytom_Friendlies_Clubs.jpg" group-title="Football", Karviná VS Polonia Bytom | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0d074b83da01473446/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=2e926d2594f9ea54975787b4475ee238&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e78/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=e850734302d2f4c5bd68a2b606ee20cf&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Xavier Calvelo VS Aaron Eliscu | UTR Pro Newport Beach [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karvin%C3%A1_VS_Polonia_Bytom_Friendlies_Clubs.jpg" group-title="Football", Karviná VS Polonia Bytom | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0d074b83da01473446/chunks.m3u8?is_vip=false&token=1782664454-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-304d1a3ee132bda10804a7d19dccbc35
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e78/chunks.m3u8?is_vip=false&token=1782668952-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-02f06c9556eb7d107065a9eca8baf60c
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Pavel Bushuev VS Andrew Hayduke II | UTR Pro Newport Beach [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CSKA_Sofia_VS_Qarabag_Friendlies_Clubs.jpg" group-title="Football", CSKA Sofia VS Qarabag | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0d818b53788c1cc63e/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=7c333e0cc7a1d0e302089b4dbcd458e8&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7b/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=fdb0c7444ebbaeebd09bd48780974784&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Newport Beach", Pavel Bushuev VS Andrew Hayduke II | UTR Pro Newport Beach [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CSKA_Sofia_VS_Qarabag_Friendlies_Clubs.jpg" group-title="Football", CSKA Sofia VS Qarabag | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0d818b53788c1cc63e/chunks.m3u8?is_vip=false&token=1782664459-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-13e67be30fe49bf60ef88b0652e1a419
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7b/chunks.m3u8?is_vip=false&token=1782668957-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-9f2a182fd3091df1fcf00762ab2c8a75
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Budapest", Botond Nagy VS Peter Sallay | UTR Pro Budapest [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", AC Oulu VS Lahti | Veikkausliiga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0d30bace3974fd9721/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=bfc1311ac609c25ff42e7087308730bb&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c6/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=c51823a85ca66bd924e578afe896aec1&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Budapest", Botond Nagy VS Peter Sallay | UTR Pro Budapest [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", AC Oulu VS Lahti | Veikkausliiga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0d30bace3974fd9721/chunks.m3u8?is_vip=false&token=1782664464-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-60649c0715bcd2fe2aa512b68cee1b7c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c6/chunks.m3u8?is_vip=false&token=1782668962-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-0d77fc21f1d1636b1fb5bc7792588d2d
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Kayseri", Alana Subasic VS Duru Soke | W15 Kayseri [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Comerciantes Unidos VS Juan Pablo II College | Copa De La Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3fca0d074b83da01473447/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=7a628b506709cc05e632038972f25dc5&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2699ae1ddd96f8c528ef1c/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=e15728947dbbf17134f7d5499a28963b&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Kayseri", Alana Subasic VS Duru Soke | W15 Kayseri [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Comerciantes Unidos VS Juan Pablo II College | Copa De La Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3fca0d074b83da01473447/chunks.m3u8?is_vip=false&token=1782664469-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-b117f6b8cad9cf9bcf6d96d31671375d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2699ae1ddd96f8c528ef1c/chunks.m3u8?is_vip=false&token=1782668967-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-2e95aa89f87e060ebf231cc4f52099a5
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Bayern München II VS Legia Warszawa | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sogndal VS Egersund | 1. Division [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e74/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=f02cd81b324278b176863fa6cb8f1357&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c8/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=d50c62a1dd343ed31f16d160502d859a&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", Bayern München II VS Legia Warszawa | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sogndal VS Egersund | 1. Division [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e74/chunks.m3u8?is_vip=false&token=1782664474-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-c9dc14898ca5f2ec63c5a00fd58251b4
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c8/chunks.m3u8?is_vip=false&token=1782668972-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-eec719709c54cb01a3d5771a671e07c0
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Second League - Group 3", FK Spartak Tambov VS Volna Nizhegorodskaya | Second League - Group 3 [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Malmundaria VS Liège | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5404/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=0c713256b1cc8f63a1c86d1f80b73305&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3c142357b14e876d23eae7/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=961e003718cf9b5f3a527e82c34679d0&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Second League - Group 3", FK Spartak Tambov VS Volna Nizhegorodskaya | Second League - Group 3 [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Malmundaria VS Liège | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5404/chunks.m3u8?is_vip=false&token=1782664479-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-773789881986b9f04ab8a4af6bdbf3aa
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3c142357b14e876d23eae7/chunks.m3u8?is_vip=false&token=1782668977-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-d2bd50ff85a313fc05c64b5e2750a2fd
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier League", Kaspiy VS Atyrau | Premier League [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sweden U19 W VS Poland U19 W | UEFA U19 Championship - Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a24/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=0e6c8197989c961ec04d9541798ae50a&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c7/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=99cc8733afa6a1649e401be74b50a14f&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Premier League", Kaspiy VS Atyrau | Premier League [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sweden U19 W VS Poland U19 W | UEFA U19 Championship - Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a24/chunks.m3u8?is_vip=false&token=1782664485-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-737fe97bdb7428b7fd571f15194692fd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c7/chunks.m3u8?is_vip=false&token=1782668983-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-fd68ee97ad2d8cd25d19e44b4c4602a3
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", New Jersey Copa VS Ironbound | USL League Two [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sweden U19 W VS Poland U19 W | UEFA U19 Championship - Women [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e5344/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=e352f3ddb8a5a8cf804f83b25c4398f8&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c7-cnhd/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=a3c2e7d2956d1daf94b993fb686d4e1d&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="USL League Two", New Jersey Copa VS Ironbound | USL League Two [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sweden U19 W VS Poland U19 W | UEFA U19 Championship - Women [Server 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e5344/chunks.m3u8?is_vip=false&token=1782664490-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-e9f2c1942c92edcbdf854b88f0206dc7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c7-cnhd/chunks.m3u8?is_vip=false&token=1782668983-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-625f1a683b9edadad56048088a3cd548
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UEFA U19 Championship - Women", Bosnia-Herzegovina U19 VS Germany U19 W | UEFA U19 Championship - Women [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sweden U19 W VS Poland U19 W | UEFA U19 Championship - Women [Server 5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a39/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=990323e8872668344f1bcca4bd8b48f4&x-time=1782578040
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c7-fhd/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=643a6af224f3bd94731d4815f9a00689&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UEFA U19 Championship - Women", Bosnia-Herzegovina U19 VS Germany U19 W | UEFA U19 Championship - Women [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Sweden U19 W VS Poland U19 W | UEFA U19 Championship - Women [Server 6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a39/chunks.m3u8?is_vip=false&token=1782664495-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-3f6a67f234beb313045200433ab6548f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520c7-fhd/chunks.m3u8?is_vip=false&token=1782668984-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-a52d24ea7f1b671c68487b6bb1d75fed
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", FC Sion VS Étoile Carouge | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Rochester W VS Rockford Raptors W | USL W League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e75/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=eb646fdb94bdfeab497e001114053b52&x-time=1782578100
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a399b54d06bfc50946bafe4/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=cec41ba7472e0a035b8bae2078e45b42&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", FC Sion VS Étoile Carouge | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Rochester W VS Rockford Raptors W | USL W League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e75/chunks.m3u8?is_vip=false&token=1782664501-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-db56aa24f70970471ade1dd0645a5401
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a399b54d06bfc50946bafe4/chunks.m3u8?is_vip=false&token=1782668990-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-42fb5e40db41acc3185995c0ce49efd9
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", La Fiorita VS Vardar Skopje | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Excursionistas VS Deportivo Merlo | Primera B Metropolitana [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e77/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=3d228a95a968445bbffcc76039e29452&x-time=1782578100
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520dd/chunks.m3u8?is_vip=false&token=d5415ae4212505ddc305e985c9ebd83dcbe4b5e7&x-sign=9528dd18ac9170721a74bd775fb603db&x-time=1782582540
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", La Fiorita VS Vardar Skopje | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Excursionistas VS Deportivo Merlo | Primera B Metropolitana [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e77/chunks.m3u8?is_vip=false&token=1782664506-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-60610b5b2b8c014141cd13ee1ee762d0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520dd/chunks.m3u8?is_vip=false&token=1782668995-Kv4cPTAAP5YTi-d5415ae4212505ddc305e985c9ebd83dcbe4b5e7-b0e8f75913ed8c844889ac781f0ebece
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", AZ Alkmaar VS Jong AZ | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Other", Invasion, Episode 2 | True Grit Wrestling
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e79/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=acfe65dc6b60d8a7792ed171964b6629&x-time=1782578100
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Friendlies Clubs", AZ Alkmaar VS Jong AZ | Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e79/chunks.m3u8?is_vip=false&token=1782664511-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-bdf243e8835277df5cfc7cbd409e441b
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Reserve League", River Plate Res. VS Lanús Res. | Reserve League [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a397f396618c8c684cfeb07/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=2797977cd11c64d1bd18a6924949ae8c&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Reserve League", River Plate Res. VS Lanús Res. | Reserve League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a397f396618c8c684cfeb07/chunks.m3u8?is_vip=false&token=1782664516-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-1a10f7a65231972700cf1cf99ea26ae2
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Superettan", GIF Sundsvall VS Ostersunds FK | Superettan [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe1066/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=9d3f11998f8fe4de61063367a14f51a2&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Superettan", GIF Sundsvall VS Ostersunds FK | Superettan [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe1066/chunks.m3u8?is_vip=false&token=1782664522-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-b7dfe2126f5fe10d201757d75150838f
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Superettan", United Nordic VS Oddevold | Superettan [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe1069/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=a43acdcfb0acb56ea0f03ce827b7a06f&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Superettan", United Nordic VS Oddevold | Superettan [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe1069/chunks.m3u8?is_vip=false&token=1782664527-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-3ab0a1575744c734f3288d7e50069605
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera C", Sacachispas VS Lugano | Primera C [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e9/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=e8cf0186e04b9b8b47f61abb77e75b4e&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Primera C", Sacachispas VS Lugano | Primera C [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520e9/chunks.m3u8?is_vip=false&token=1782664532-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-776d3d4f2e043b520ce74c53e1102fb9
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Civil_Service_Strollers_VS_Morton_Friendlies_Clubs.jpg" group-title="Football", Civil Service Strollers VS Morton | Friendlies Clubs [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e6f/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=fd87a9959bd8e89df0023e57db143164&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Civil_Service_Strollers_VS_Morton_Friendlies_Clubs.jpg" group-title="Football", Civil Service Strollers VS Morton | Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e6f/chunks.m3u8?is_vip=false&token=1782664537-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-a07e6369830915c5a920fccfb8fa3d5a
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Karviná VS Polonia Bytom | Friendlies Clubs [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e78/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=9ef7f7da64bb00d9733d232ba8200b4b&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Karviná VS Polonia Bytom | Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e78/chunks.m3u8?is_vip=false&token=1782664542-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-6d58b372051250f6851c5f1a80574e3d
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", CSKA Sofia VS Qarabag | Friendlies Clubs [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7b/chunks.m3u8?is_vip=false&token=c934e165f255ced9db4f20e4348df7e935bb81d0&x-sign=a57db649c8eaf59ddeb1e57e10d8cc22&x-time=1782578100
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", CSKA Sofia VS Qarabag | Friendlies Clubs [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3ac2c230bace3974c21e7b/chunks.m3u8?is_vip=false&token=1782664548-Kv4cPTAAP5YTi-c934e165f255ced9db4f20e4348df7e935bb81d0-ce1b7299494d383d51ce7c7e400cb6a0
 
