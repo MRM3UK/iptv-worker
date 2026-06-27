@@ -1,7 +1,7 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:15:18 PM 27-06-2026
+#last update time: 04:30:22 PM 27-06-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172008/143524_CASACARDS_SPORTY_APP.png" group-title="Cricket", Itahari Super Kings Vs Rml Sports | KPL Indo Nepal T20 2026 (ENGLISH)
@@ -10,9 +10,20 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/itahari_super_
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Cricket", Namibia Vs Nigeria | Nigeria tour of Namibia 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143321_english.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png" group-title="Cricket", Shivamogga Yodhas Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_kalyani_bengaluru_blasters_143427_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438710/143427_CASACARDS_SPORTY_APP.png" group-title="Cricket", Shivamogga Yodhas Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/shivamogga_yodhas_vs_kalyani_bengaluru_blasters_143427_kannada.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Cricket", Karim Capital Chargers Vs Jayqo Panthers Faridabad | Future Star U-15 Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/karim_capital_chargers_vs_jayqo_panthers_faridabad_143557_english.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-Netherlands-old-match-card.png" group-title="MotoGP", Netherlands Gp | GRAND PRIX OF NETHERLANDS 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_gp_139955_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg" group-title="Motorsports", Sprint Race | F3 AUSTRIA 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sprint_race_139727_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Formula 1", Practice 3 | F1 LENOVO AUSTRIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e83d91014d5484f91d2d84458098615:616109e6221550718fe464adfc9d9e3d
+https://bd-mc-flive.fancode.com/mumbai/139459_english_dash_96291_1drmta-di_h264/index.mpd
 
