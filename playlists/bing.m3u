@@ -3,375 +3,475 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:16:34 PM 02-07-2026
+#last update time: 5:01:29 PM 02-07-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Nicolo Toffanin VS Lorenzo Bocchi | M15 Umag [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Universitatea_Cluj_VS_Vojvodina_Friendlies_Clubs.jpg" group-title="Football", Universitatea Cluj VS Vojvodina | Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f43c9c35419bd7d886/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=f04ece0dc5a3d88718e33308f76013dd&x-time=1782980160
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fda/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=3d5b71979229d1a48e88d60f82f469a3&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Nicolo Toffanin VS Lorenzo Bocchi | M15 Umag [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Universitatea_Cluj_VS_Vojvodina_Friendlies_Clubs.jpg" group-title="Football", Universitatea Cluj VS Vojvodina | Friendlies Clubs [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f43c9c35419bd7d886/chunks.m3u8?is_vip=false&token=1783066597-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-c060e785f8c0310e2ee3973b28b25399
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fda/chunks.m3u8?is_vip=false&token=1783076492-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-4867599ed2f6b2772d12ec3acf6bc1e6
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W50 Stuttgart-Vaihingen", Lisa Pigato VS Laima Vladson | W50 Stuttgart-Vaihingen [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Claire Liu VS Coco Gauff | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d12d06bfc509404a6cf/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=26c9b69109d164ba967a9c79cef22935&x-time=1782980160
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4bebc5c3ef2cc82007/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=da166cebae9b920ac16cf8001b7cad0a&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W50 Stuttgart-Vaihingen", Lisa Pigato VS Laima Vladson | W50 Stuttgart-Vaihingen [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Claire Liu VS Coco Gauff | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d12d06bfc509404a6cf/chunks.m3u8?is_vip=false&token=1783066601-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-9816267a4d2182a0d2bc3e6c7831b85e
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4bebc5c3ef2cc82007/chunks.m3u8?is_vip=false&token=1783076496-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-50e1be7daa5ef0798e7f05cb12fa77b3
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Skopje", Valentino Conte VS Yanaki Milev | M25 Skopje [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Hunter/McNally VS Bondar/Frech | Wimbledon WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d12fd12df158ced10e5/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=f1cd1aaac4fbdd0709cfb6568fe56a22&x-time=1782980160
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ecfd12df158c99388b/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=d2f98617265faca9f5025b4dfd9276fc&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Skopje", Valentino Conte VS Yanaki Milev | M25 Skopje [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Hunter/McNally VS Bondar/Frech | Wimbledon WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d12fd12df158ced10e5/chunks.m3u8?is_vip=false&token=1783066605-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-8cf368687ce4300ba556175d8d6d1955
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ecfd12df158c99388b/chunks.m3u8?is_vip=false&token=1783076500-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-9db464b8be9574b54e781223ae1f810e
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Amstelveen", Zhibek Kulambayeva VS Aran Teixido Garcia | W35 Amstelveen [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Dolehide/Parks VS Pridankina/Tang | Wimbledon WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d1230bace3974491a2f/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=048cc903890430011e98e8a8736db34e&x-time=1782980160
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ecf65afa224ed1e284/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=ae63ed411af5627effb225c69a58b9c7&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Amstelveen", Zhibek Kulambayeva VS Aran Teixido Garcia | W35 Amstelveen [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Dolehide/Parks VS Pridankina/Tang | Wimbledon WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d1230bace3974491a2f/chunks.m3u8?is_vip=false&token=1783066609-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-89a7ef3208e73907ad0ddb23b6925223
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ecf65afa224ed1e284/chunks.m3u8?is_vip=false&token=1783076504-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-fa5d25e4baaefa38ededad06825710a2
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Hillcrest", Isabella Kruger VS Astrid Cirotte | W15 Hillcrest [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Daria Kasatkina VS Naomi Osaka | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d12f65afa224e1b78bf/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=96903e021066a3822ac13744ece1cb2c&x-time=1782980160
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a453a1ca536306159cd031b/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=af4c5fb75d2d938171b70d54cf78c2ef&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Hillcrest", Isabella Kruger VS Astrid Cirotte | W15 Hillcrest [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Daria Kasatkina VS Naomi Osaka | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d12f65afa224e1b78bf/chunks.m3u8?is_vip=false&token=1783066613-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-d115c109ebd4247c8c6735b514e759a5
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a453a1ca536306159cd031b/chunks.m3u8?is_vip=false&token=1783076508-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-187a17959276fc47ef1f2ca82e890167
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W50 Stuttgart-Vaihingen", Mona Barthel VS Tessa Johanna Brockmann | W50 Stuttgart-Vaihingen [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Hubert Hurkacz VS Tommy Paul | Wimbledon [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d12d06bfc509404a6ce/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=da0ac98112b09c579cf52d943145e0cf&x-time=1782980160
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a453a1c3c9c35419bce161a/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=52ca2401aea68c202317c8251071776d&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W50 Stuttgart-Vaihingen", Mona Barthel VS Tessa Johanna Brockmann | W50 Stuttgart-Vaihingen [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Hubert Hurkacz VS Tommy Paul | Wimbledon [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d12d06bfc509404a6ce/chunks.m3u8?is_vip=false&token=1783066617-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-4780450731cb10ef2770485620e5579a
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a453a1c3c9c35419bce161a/chunks.m3u8?is_vip=false&token=1783076512-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-cc936089295273c2e6ee3afd37c17adc
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Lea Ma VS Clervie Ngounoue | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Alejandro Davidovich Fokina VS Marton Fucsovics | Wimbledon [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d129a1d202ef699e191/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=f21420fdc83da0e17e32c8827c2b754f&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4548232eb310ffd1fe2a0c/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=0d2977fb023e30183eb7606077b326d7&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Lea Ma VS Clervie Ngounoue | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Alejandro Davidovich Fokina VS Marton Fucsovics | Wimbledon [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d129a1d202ef699e191/chunks.m3u8?is_vip=false&token=1783066621-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-fa1b09ff4387a831b7b9962668883b30
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4548232eb310ffd1fe2a0c/chunks.m3u8?is_vip=false&token=1783076516-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-e1ed7028b73195fd8ee722830917ecf2
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Cadence Brace VS Mia Slama | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Karolina Muchova VS Mananchaya Sawangkaew | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d12ebc5c3ef2cd03c38/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=12730eb76862d562dc305a32d9be56c1&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45560f9a1d202ef689bd1a/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=c39fbecdb93a3a90111b4d00c06febca&x-time=1782990060
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Cadence Brace VS Mia Slama | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Karolina Muchova VS Mananchaya Sawangkaew | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d12ebc5c3ef2cd03c38/chunks.m3u8?is_vip=false&token=1783066625-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-82ab819aa75c11b6237bb1382295f635
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45560f9a1d202ef689bd1a/chunks.m3u8?is_vip=false&token=1783076520-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-c7e8642b5f05626f0adb91bc97b9b25c
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Savannah Broadus VS Fangran Tian | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Jannik Sinner VS Jenson Brooksby | Wimbledon [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d121ceff89491cd02ff/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=09d2d50b96d5b4977a19596bb9c0758d&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a456426074b83da0194ce48/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=aceb4838678a5b836b9d5b86124a116b&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Savannah Broadus VS Fangran Tian | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Jannik Sinner VS Jenson Brooksby | Wimbledon [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d121ceff89491cd02ff/chunks.m3u8?is_vip=false&token=1783066629-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-f36f2a76f4602c78740d361119f1df19
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a456426074b83da0194ce48/chunks.m3u8?is_vip=false&token=1783076524-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-872955aab1ac73ee3e0d99f4c44852e4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aluminij_VS_FK_Partizan_Friendlies_Clubs.jpg" group-title="Football", Aluminij VS FK Partizan | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Aryna Sabalenka VS Jelena Ostapenko | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fd9/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=fa47a66b8fb84a4daac2668ea29b4fbc&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a457228f59507a97a39ecfc/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=69a5d7ff5af66b0d07a955a45c886a44&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aluminij_VS_FK_Partizan_Friendlies_Clubs.jpg" group-title="Football", Aluminij VS FK Partizan | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Aryna Sabalenka VS Jelena Ostapenko | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fd9/chunks.m3u8?is_vip=false&token=1783066633-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-00644e6e1e148597ca666272879b8656
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a457228f59507a97a39ecfc/chunks.m3u8?is_vip=false&token=1783076527-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-4d189157d1a17ebd07a3bbd8b495fe5b
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aluminij_VS_FK_Partizan_Friendlies_Clubs.jpg" group-title="Football", Aluminij VS FK Partizan | Friendlies Clubs [Server 3]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Pavlasek/Rikl VS Hijikata/Polmans | Wimbledon MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fd9-fhd/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=56b061528b99d5ab438e14d5c4c490a9&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4b00567544419ebcb0/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=1a217b0bdffb4cf300460fdbdc1dba52&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aluminij_VS_FK_Partizan_Friendlies_Clubs.jpg" group-title="Football", Aluminij VS FK Partizan | Friendlies Clubs [Server 4]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Pavlasek/Rikl VS Hijikata/Polmans | Wimbledon MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fd9-fhd/chunks.m3u8?is_vip=false&token=1783066634-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-0c985308dd0a03fad0a8139a53aee990
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4b00567544419ebcb0/chunks.m3u8?is_vip=false&token=1783076531-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-17b655735f1ea6024f2dcaa9672f3400
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Haruka Kaji VS Lucrezia Stefanini | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Jessica Pegula VS Jessica Bouzas Maneiro | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d121ceff89491cd0300/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=a68ad8a728ed056f7fcdb1620a82f1a8&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4b30392eaef4c5d261/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=00ca7548cad8c844245dba49c2a7910a&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Haruka Kaji VS Lucrezia Stefanini | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Jessica Pegula VS Jessica Bouzas Maneiro | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d121ceff89491cd0300/chunks.m3u8?is_vip=false&token=1783066638-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-977163f3fd686c4d779af97a0a0382af
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4b30392eaef4c5d261/chunks.m3u8?is_vip=false&token=1783076535-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-bbb63ffb5a66b1144e023a1f99200752
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Mei Yamaguchi VS Ena Koike | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Begu/Cristian VS Mertens/Zhang | Wimbledon WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d127133406e4c70cabf/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=892efbeec68607fed9de2a30c4192ca0&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ec7133406e4c233033/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=7a6b9827a262dbd80a37483802091008&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Mei Yamaguchi VS Ena Koike | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Begu/Cristian VS Mertens/Zhang | Wimbledon WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d127133406e4c70cabf/chunks.m3u8?is_vip=false&token=1783066642-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-5a28f15b1bea3744489faeb103aac1d7
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ec7133406e4c233033/chunks.m3u8?is_vip=false&token=1783076539-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-aece6d3e7415be950678c2cc7ecfe759
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Tatum Evans VS Madison Brengle | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Paul/Seggerman VS Harrison/Skupski | Wimbledon MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d1230392eaef4d5db49/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=86e38cd2549e5007d12e4b6740f67b20&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4bbd8b585150ac6b0f/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=58447eb8d3dbc9be1bbad1a1900630e4&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Tatum Evans VS Madison Brengle | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Paul/Seggerman VS Harrison/Skupski | Wimbledon MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d1230392eaef4d5db49/chunks.m3u8?is_vip=false&token=1783066646-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-6588eebb33ee653c0ff19be0cbac5f62
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4bbd8b585150ac6b0f/chunks.m3u8?is_vip=false&token=1783076543-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-208771bccc5516544a4915f18bf62277
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Kristina Liutova VS Sofia Johnson | W100 Cary [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Nikola Bartunkova VS Barbora Krejcikova | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d12bd8b585150b6de2b/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=caab9e811998c5f64b07370f7b6cd9ec&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4b9a1d202ef68b2cea/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=ef4598e3a8a5fb3964901fecba8e4986&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W100 Cary", Kristina Liutova VS Sofia Johnson | W100 Cary [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Nikola Bartunkova VS Barbora Krejcikova | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d12bd8b585150b6de2b/chunks.m3u8?is_vip=false&token=1783066651-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-bc947402095a0fddae75cfb612ab874d
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4b9a1d202ef68b2cea/chunks.m3u8?is_vip=false&token=1783076547-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-bb81fd0602e6f5efc0ad947cf984872e
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Milan", Francisco Comesana VS Daniel Rincon | Challenger Milan [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Belinda Bencic VS Anna Kalinskaya | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a459c77a536306159d03906/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=e0993ccc3fd9010523bdb356d1114edf&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4b55d8b708a7fc83ba/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=bb505a0ef752761ef134e2d0a23337de&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Milan", Francisco Comesana VS Daniel Rincon | Challenger Milan [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Belinda Bencic VS Anna Kalinskaya | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a459c77a536306159d03906/chunks.m3u8?is_vip=false&token=1783066655-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-c7d499af50e56833372795a88818d86d
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4b55d8b708a7fc83ba/chunks.m3u8?is_vip=false&token=1783076550-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-d712b01c7be4af1f200f885372fbd937
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Aix-les-Bains", Madison Sieg VS Lisa Zaar | W35 Aix-les-Bains [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Ekaterina Alexandrova VS Iva Jovic | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45c69eebc5c3ef2ccc76a7/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=9f225ef78d589fc3577d989fc203d7b4&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a458e4bd06bfc5094faae8f/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=fbdde0d9e64449cb41fa6cc7ddcfd41f&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Aix-les-Bains", Madison Sieg VS Lisa Zaar | W35 Aix-les-Bains [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon Women", Ekaterina Alexandrova VS Iva Jovic | Wimbledon Women [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45c69eebc5c3ef2ccc76a7/chunks.m3u8?is_vip=false&token=1783066659-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-38249eedc3c9f42171f5615711ca79f2
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a458e4bd06bfc5094faae8f/chunks.m3u8?is_vip=false&token=1783076554-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-013d7fea86fc7156243924350ac637af
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Mogyorod", Radka Zelnickova VS Emma Slavikova | W15 Mogyorod [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Roman Safiullin VS Joao Fonseca | Wimbledon [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d1255d8b708a708384c/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=690a94188fdaf0e644dfe6b31f26acc8&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a459c77bb875b4ddf64e480/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=a1045e4bf3bc1b0c540d5d706748774a&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Mogyorod", Radka Zelnickova VS Emma Slavikova | W15 Mogyorod [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Roman Safiullin VS Joao Fonseca | Wimbledon [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d1255d8b708a708384c/chunks.m3u8?is_vip=false&token=1783066663-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-5d2d7f3e917b51a45d8d8622d75ab39b
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a459c77bb875b4ddf64e480/chunks.m3u8?is_vip=false&token=1783076558-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-626d7785314ba14c2bcac444579d05ad
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Brasov", Sascha Gueymard Wayenburg VS Maks Kasnikowski | Challenger Brasov [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Felix Auger Aliassime VS Michael Zheng | Wimbledon [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a453a1cce986c4740a4a1e2/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=85c5f7957a251bcf85ec3c5e12210486&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45b8a56618c8c684666f24/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=9b904c6332964626b2c4713c23da2579&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Brasov", Sascha Gueymard Wayenburg VS Maks Kasnikowski | Challenger Brasov [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Felix Auger Aliassime VS Michael Zheng | Wimbledon [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a453a1cce986c4740a4a1e2/chunks.m3u8?is_vip=false&token=1783066667-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-b835538ab49f06de8f2c6a7307e01c07
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45b8a56618c8c684666f24/chunks.m3u8?is_vip=false&token=1783076561-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-a7360d38ba26b79e90dbd3a66b017ae4
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Jonas Kucera VS Leonardo Borrelli | M15 Umag [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Arthur Rinderknech VS Novak Djokovic | Wimbledon [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f4ce986c4740b077c8/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=d97b614aba7b382fc400260280d54a3a&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45b8a54e6abdac612d5f01/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=0d26360417458f4d175cd9777e1df608&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Jonas Kucera VS Leonardo Borrelli | M15 Umag [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon", Arthur Rinderknech VS Novak Djokovic | Wimbledon [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f4ce986c4740b077c8/chunks.m3u8?is_vip=false&token=1783066671-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-a36717ce09bced6cfa2192d8023af748
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45b8a54e6abdac612d5f01/chunks.m3u8?is_vip=false&token=1783076565-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-64d26ffe2f42aef088115eeed034e514
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag MD", Kajin/Sekachov VS Angelini/Berkieta | M15 Umag MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Arevalo/Pavic VS Stevenson/Willis | Wimbledon MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f4ce986c4740b077c9/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=625dc863860483d7c6b8a49461462480&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45b8a54b4d858b85f007b1/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=c59386678828bef39c73a25d3e7421c9&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag MD", Kajin/Sekachov VS Angelini/Berkieta | M15 Umag MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Arevalo/Pavic VS Stevenson/Willis | Wimbledon MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f4ce986c4740b077c9/chunks.m3u8?is_vip=false&token=1783066675-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-f2a55768152a4665c8409aee8cff849b
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45b8a54b4d858b85f007b1/chunks.m3u8?is_vip=false&token=1783076569-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-798cb70be2ca6bd89cbaa860e6146c76
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Veljko Krstic VS Pietro Orlando Fellin | M15 Umag [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Heliovaara/Patten VS Kiger/Trhac | Wimbledon MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f457b14e876da8fd76/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=517474db3f8a4601d3cbe03be50ed3e2&x-time=1782980220
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45b8a5bb875b4ddf665f8e/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=e5aff522725ff65f9fbaafe8925419c2&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Veljko Krstic VS Pietro Orlando Fellin | M15 Umag [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Heliovaara/Patten VS Kiger/Trhac | Wimbledon MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f457b14e876da8fd76/chunks.m3u8?is_vip=false&token=1783066679-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-8f3a13279f06dbad17e0397b39e7f00a
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45b8a5bb875b4ddf665f8e/chunks.m3u8?is_vip=false&token=1783076572-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-96729e1254a74bfaaa271830df38ed05
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Andrej Martin VS Ivan Biletic | M15 Umag [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Jacquemot/Parry VS Noskova/Sramkova | Wimbledon WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f4a536306159d7e543/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=dcc5e250f9afce9d74d1afae3d3c48f9&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ecf59507a97aeaa680/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=8c5b0c1c87b0a060753f7952cd6fc27a&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag", Andrej Martin VS Ivan Biletic | M15 Umag [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Jacquemot/Parry VS Noskova/Sramkova | Wimbledon WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f4a536306159d7e543/chunks.m3u8?is_vip=false&token=1783066683-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-a04fcd2e26d65c768f4a05b2bb9ccade
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ecf59507a97aeaa680/chunks.m3u8?is_vip=false&token=1783076576-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-97c10a57d1a2ab720f1c3257d2fbfae9
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Marburg MD", Krutykh/Lopez Morillo VS Bassem Sobhy/Purtseladze | M25 Marburg MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Kato/Rakhimova VS Perez/Schuurs | Wimbledon WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f4945e9dbcc7c8ff1d/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=ba8f06e01662be17f3cacc18d2f1ea69&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ec00567544415c17cd/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=e35bf6e54013d1d3820960b1fc45bca7&x-time=1782990120
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Marburg MD", Krutykh/Lopez Morillo VS Bassem Sobhy/Purtseladze | M25 Marburg MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Kato/Rakhimova VS Perez/Schuurs | Wimbledon WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f4945e9dbcc7c8ff1d/chunks.m3u8?is_vip=false&token=1783066687-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-254448d5743a92f101b959a8bfd6df43
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ec00567544415c17cd/chunks.m3u8?is_vip=false&token=1783076580-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-1852d6f25ed8653408f09de8f07f2764
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Marburg MD", Jarvis/Vance VS Friberg/Mridha | M25 Marburg MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Yasmin Ezzat VS Martyna Zaremba | W15 Monastir [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f48cf7530057a12195/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=5f7c3e7b0b7e10dd9899466461e05ea6&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2e6618c8c6846d5f5c/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=728affcbb06257d3a697953ba454b93b&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Marburg MD", Jarvis/Vance VS Friberg/Mridha | M25 Marburg MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Yasmin Ezzat VS Martyna Zaremba | W15 Monastir [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f48cf7530057a12195/chunks.m3u8?is_vip=false&token=1783066691-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-a1baa0b31f59db5070b812af5e2810e2
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2e6618c8c6846d5f5c/chunks.m3u8?is_vip=false&token=1783076583-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-bbaa42b758184b8d19b61aecd3abd09a
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag MD", Biletic/Ivanisevic VS Cerny/Kucera | M15 Umag MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Aix-les-Bains WD", Gimbrere/Sakellaridi VS Ormaechea/Stevens | W35 Aix-les-Bains WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f4d8b0af885e5c4d54/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=a52df56b6089da836cfad82fe570d30f&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f42eb310ffd107f7cb/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=761f50100dd66f31dec5fb6d62b739c6&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag MD", Biletic/Ivanisevic VS Cerny/Kucera | M15 Umag MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Aix-les-Bains WD", Gimbrere/Sakellaridi VS Ormaechea/Stevens | W35 Aix-les-Bains WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f4d8b0af885e5c4d54/chunks.m3u8?is_vip=false&token=1783066695-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-9b7750707649e6d69f2f5e908275a0d1
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f42eb310ffd107f7cb/chunks.m3u8?is_vip=false&token=1783076587-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-71e58393615a00e360511481496dc15e
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag MD", Fellin/Oradini VS Angeloni/Ligniere | M15 Umag MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Milan MD", Damas/Roca Batalla VS Forti/Romano | Challenger Milan MD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45f0f43c9c35419bd7d887/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=fd0ebe25fb72aafae52eb03dc111f732&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2e945e9dbcc7cf113a/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=267b7c6a4d689adfe71ce9bb58eb84f9&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Umag MD", Fellin/Oradini VS Angeloni/Ligniere | M15 Umag MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Milan MD", Damas/Roca Batalla VS Forti/Romano | Challenger Milan MD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45f0f43c9c35419bd7d887/chunks.m3u8?is_vip=false&token=1783066699-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-beffa157a8dd1eeacf73b0b086dc5eaa
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2e945e9dbcc7cf113a/chunks.m3u8?is_vip=false&token=1783076591-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-5826513e11c107e111122995e0f937cb
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Cary MD", Harper/Hilderbrand VS Broady/Hussey | Challenger Cary MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Lamiss Houas VS Eva Shaw | W15 Monastir [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a459c411ceff89491c39ff6/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=2ee1c62aa675aadd01d8019c1f880819&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2e8cb9e8c43b52af9d/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=d4e579e263c191a8a1c4f5a8052724b8&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Cary MD", Harper/Hilderbrand VS Broady/Hussey | Challenger Cary MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Lamiss Houas VS Eva Shaw | W15 Monastir [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a459c411ceff89491c39ff6/chunks.m3u8?is_vip=false&token=1783066703-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-1560b81f130b138b6e5613144d3478c4
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2e8cb9e8c43b52af9d/chunks.m3u8?is_vip=false&token=1783076594-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-caa50f323e21c13e4d8438f12142b292
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Brasov", Andrej Nedic VS Keegan Smith | Challenger Brasov [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Esther Adeshina VS Daniela Darta Feldmane | W15 Monastir [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a453a1c57b14e876d9c6204/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=48e84dfa7fbe86e24e8c23a306f224a4&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2e8cb9e8c43b52af9e/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=02b50dcef04dfa3e015c0e87eab37752&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Brasov", Andrej Nedic VS Keegan Smith | Challenger Brasov [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Esther Adeshina VS Daniela Darta Feldmane | W15 Monastir [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a453a1c57b14e876d9c6204/chunks.m3u8?is_vip=false&token=1783066707-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-278e418835f7a564631d7c14407fb3b4
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2e8cb9e8c43b52af9e/chunks.m3u8?is_vip=false&token=1783076598-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-8b950633c626ac92f69b27253412b2f3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karpaty_VS_Yarud_Mariupol'_Friendlies_Clubs.jpg" group-title="Football", Karpaty VS Yarud Mariupol' | Friendlies Clubs [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Tasnim Ismail VS Nour Sahnoun | W15 Monastir [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe2/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=a1516e755e6ad88dceb031f1dae84894&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2ed8b0af885e5fb892/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=11c9026c28af672cb0e18c70f2d91232&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karpaty_VS_Yarud_Mariupol'_Friendlies_Clubs.jpg" group-title="Football", Karpaty VS Yarud Mariupol' | Friendlies Clubs [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir", Tasnim Ismail VS Nour Sahnoun | W15 Monastir [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe2/chunks.m3u8?is_vip=false&token=1783066711-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-1577b31f633df028f3868dd7f371ca48
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2ed8b0af885e5fb892/chunks.m3u8?is_vip=false&token=1783076601-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-e3e124be30fe2cafa64b9864e3884e72
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Marburg", Leonardo Rossi VS Daniel Siniakov | M25 Marburg [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Figueira da Foz", John Echeverria VS Sebastian Dominko | M25 Figueira da Foz [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45fef957b14e876daad6db/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=ca1d86f8f73e3644d37183d0ce713d2b&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2e8cf7530057a40872/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=a4d1b252119d7b580f617e4fbf143d2b&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Marburg", Leonardo Rossi VS Daniel Siniakov | M25 Marburg [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Figueira da Foz", John Echeverria VS Sebastian Dominko | M25 Figueira da Foz [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45fef957b14e876daad6db/chunks.m3u8?is_vip=false&token=1783066714-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-5c1116498f48c9bd53ad7bc52a7daa5f
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2e8cf7530057a40872/chunks.m3u8?is_vip=false&token=1783076605-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-3e8c64575e32942c2794f631e1b82e9b
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Ajaccio MD", Larue/Pietri VS Dalmasso/Watanabe Eriksson | M25 Ajaccio MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Mogyorod WD", Korhonen/McKenzie VS Bojica/Mettraux | W15 Mogyorod WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45fef9ce986c4740b13553/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=4ea7ae87e9a67fc9bbe646148261006d&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2ebb875b4ddf6c6097/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=e35da44040f0bdcdddb9f44d2501c32c&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Ajaccio MD", Larue/Pietri VS Dalmasso/Watanabe Eriksson | M25 Ajaccio MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Mogyorod WD", Korhonen/McKenzie VS Bojica/Mettraux | W15 Mogyorod WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45fef9ce986c4740b13553/chunks.m3u8?is_vip=false&token=1783066718-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-e1cfd6a84afa29c7fcfa98bfbbf24dc7
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2ebb875b4ddf6c6097/chunks.m3u8?is_vip=false&token=1783076609-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-2b4cfa410e387555aa6be2f339d09e5e
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Oliver Sanchez/Urso VS Gay/Ramos Sierra | W15 Getxo WD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Mogyorod WD", Biro/Nagy VS Artemeva/Golovina | W15 Mogyorod WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45fef98cf7530057a227b7/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=2bccf5c98ef86d78bb13f1856c2266b4&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a461b2e4e6abdac613694ee/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=8e87c767bbb56edb4aa1866375e73fc3&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Oliver Sanchez/Urso VS Gay/Ramos Sierra | W15 Getxo WD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Mogyorod WD", Biro/Nagy VS Artemeva/Golovina | W15 Mogyorod WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45fef98cf7530057a227b7/chunks.m3u8?is_vip=false&token=1783066722-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-31e741f1745f8036d90c47814a014bcf
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a461b2e4e6abdac613694ee/chunks.m3u8?is_vip=false&token=1783076613-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-923a845cff0f09b71dcab3a6f31f38f2
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Murphy/Tse VS Ferrer Perez/Sawant | W15 Getxo WD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Troyes", Lorenzo Giustino VS Igor Marcondes | Challenger Troyes [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45fef92eb310ffd109b56a/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=5de045be5d8c8ca19a9e08b1fd1940d2&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a453a1cd8b0af885e56027e/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=40e34a7b83cdeb698a1d0664e175d226&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Murphy/Tse VS Ferrer Perez/Sawant | W15 Getxo WD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Troyes", Lorenzo Giustino VS Igor Marcondes | Challenger Troyes [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45fef92eb310ffd109b56a/chunks.m3u8?is_vip=false&token=1783066726-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-f64358e327f3f7d8dd2b9dd37c8faef9
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a453a1cd8b0af885e56027e/chunks.m3u8?is_vip=false&token=1783076616-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-78f07a8baa019785c7248f764170cbd3
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Ajaccio MD", Matisse Bobichon/Catry VS Genier/Stepanov | M25 Ajaccio MD [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Troyes", Marvin Moeller VS Marat Sharipov | Challenger Troyes [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45fef93c9c35419bd87a67/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=d249d73694a364efadda72790c85f7df&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45b8a58cf75300579d2238/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=7b5713c3a661acdf96717d695751ec62&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Ajaccio MD", Matisse Bobichon/Catry VS Genier/Stepanov | M25 Ajaccio MD [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Challenger Troyes", Marvin Moeller VS Marat Sharipov | Challenger Troyes [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45fef93c9c35419bd87a67/chunks.m3u8?is_vip=false&token=1783066730-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-ef161a0bdb3385cd3c797215ffedcc3d
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45b8a58cf75300579d2238/chunks.m3u8?is_vip=false&token=1783076620-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-d914265d7f4bcd642842901d4a2d8c06
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Olomouc Women", Megan Heuser VS Tereza Polakova | UTR Pro Olomouc Women [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Kursumlijska Banja", Samantha Imbo Nloga VS Julia Stamatova | W15 Kursumlijska Banja [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a453a1cd7f718fae43394a0/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=8462c9d8cd126961769b8c8b2e78d3d3&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a460d121ceff89491cd02fe/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=6729158ef9a81b3c03e3d6caec369ff3&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="UTR Pro Olomouc Women", Megan Heuser VS Tereza Polakova | UTR Pro Olomouc Women [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Kursumlijska Banja", Samantha Imbo Nloga VS Julia Stamatova | W15 Kursumlijska Banja [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a453a1cd7f718fae43394a0/chunks.m3u8?is_vip=false&token=1783066734-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-f800dfb489fdebf4088de42f498a074a
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a460d121ceff89491cd02fe/chunks.m3u8?is_vip=false&token=1783076624-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-8510d69026a8cfc38f2561bdf7fef08e
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Aix-les-Bains", Alina Granwehr VS Carlota Martinez Cirez | W35 Aix-les-Bains [Server 1]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Osorio/Solana Sierra VS Williams/Williams | Wimbledon WD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45e2b4bb875b4ddf68df7b/chunks.m3u8?is_vip=false&token=38f0cb805ca2b44837eee8a2e6badea384d94ab6&x-sign=a64704127915a6496377b5c84c52fa71&x-time=1782980280
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ec30392eaef48294b1/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=05d2914cd110cd752fc44628cc4ce9ec&x-time=1782990180
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W35 Aix-les-Bains", Alina Granwehr VS Carlota Martinez Cirez | W35 Aix-les-Bains [Server 2]
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Osorio/Solana Sierra VS Williams/Williams | Wimbledon WD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45e2b4bb875b4ddf68df7b/chunks.m3u8?is_vip=false&token=1783066738-Kv4cPTAAP5YTi-38f0cb805ca2b44837eee8a2e6badea384d94ab6-f65ce08cf8da54cbfcb31976cd1ee333
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ec30392eaef48294b1/chunks.m3u8?is_vip=false&token=1783076628-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-26acc41f7cf1a21d310d6f99b0e3b9e5
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir WD", Ezzat/Villet VS Abraham-Nilsen/Russo | W15 Monastir WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a462907945e9dbcc7d18e76/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=a591566c6326fa6fd6564a2808caf9a2&x-time=1782990180
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir WD", Ezzat/Villet VS Abraham-Nilsen/Russo | W15 Monastir WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a462907945e9dbcc7d18e76/chunks.m3u8?is_vip=false&token=1783076631-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-7e5b854f36e97fc99190cf980ddd5344
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir WD", Faustini/Fiorani VS El Sayed/Fouad | W15 Monastir WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4629078cb9e8c43b535f13/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=bdf6c5a6e177a3d1fd7a663a0c07c2d2&x-time=1782990180
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Monastir WD", Faustini/Fiorani VS El Sayed/Fouad | W15 Monastir WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4629078cb9e8c43b535f13/chunks.m3u8?is_vip=false&token=1783076635-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-dbc2d460c2f41d7478321ec437a332af
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Kursumlijska Banja MD", Derepasko/Pankin VS Hamza Reguig/Jonathan Ivarsson | M15 Kursumlijska Banja MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a462907774cbee6e5d74df9/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=58c1b103cf20cb80ce0343c1a1685903&x-time=1782990180
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Kursumlijska Banja MD", Derepasko/Pankin VS Hamza Reguig/Jonathan Ivarsson | M15 Kursumlijska Banja MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a462907774cbee6e5d74df9/chunks.m3u8?is_vip=false&token=1783076639-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-73b54361c12231c69a57dd0047b17601
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Figueira da Foz MD", Leal/Monteiro VS Rocha/Valdoleiros | M25 Figueira da Foz MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a462907a536306159dc6ca8/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=feac23058622071d1765d38536c284ce&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M25 Figueira da Foz MD", Leal/Monteiro VS Rocha/Valdoleiros | M25 Figueira da Foz MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a462907a536306159dc6ca8/chunks.m3u8?is_vip=false&token=1783076643-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-31169a3f3745e5db7b3479caf386b04f
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Hillcrest MD", Ciocca/Garbero VS Duhan/Faucon | M15 Hillcrest MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4638c84b4d858b85fb3fff/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=01eed5ebf298fe589de17baccbe34d3f&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="M15 Hillcrest MD", Ciocca/Garbero VS Duhan/Faucon | M15 Hillcrest MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4638c84b4d858b85fb3fff/chunks.m3u8?is_vip=false&token=1783076647-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-34ba26a4a0e54e0e984befdb15d1cc92
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Kessler/Shnaider VS Detiuc/Khromacheva | Wimbledon WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ecfd12df158c993888/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=a487f940008d80895b9a4c8de8703dd7&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Kessler/Shnaider VS Detiuc/Khromacheva | Wimbledon WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ecfd12df158c993888/chunks.m3u8?is_vip=false&token=1783076650-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-ac6a96e2fe397511c8ba8f93a3973f13
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Cirstea/Kalinskaya VS Kalinina/Yastremska | Wimbledon WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ecf65afa224ed1e281/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=b5428af7cd9ee30714ed9c9fd47d3592&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Cirstea/Kalinskaya VS Kalinina/Yastremska | Wimbledon WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ecf65afa224ed1e281/chunks.m3u8?is_vip=false&token=1783076654-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-29b2cea4c4db0feefd4543c83a4e356f
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Jiang/Xu VS Golubic/Valentova | Wimbledon WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ec818b53788c1ea6f1/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=89c37f91383b9bcb57a184452985255d&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Jiang/Xu VS Golubic/Valentova | Wimbledon WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ec818b53788c1ea6f1/chunks.m3u8?is_vip=false&token=1783076658-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-c390775d615b04c4009c05ef57368bb0
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Chwalinska/Kraus VS Cocciaretto/Li | Wimbledon WD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4024ec30bace397400e599/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=c02f8cd845e35c9d11b937670f263892&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon WD", Chwalinska/Kraus VS Cocciaretto/Li | Wimbledon WD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4024ec30bace397400e599/chunks.m3u8?is_vip=false&token=1783076661-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-b43395215069aeaf8d05e54eeea12baf
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Moutet/Reymond VS Cash/Glasspool | Wimbledon MD [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a45b8a5ce986c4740ac0f55/chunks.m3u8?is_vip=false&token=d3cc6c1761cb7c94bdd425b4366ca6069b8b728d&x-sign=eb26cf31cfa90410863fd8bca1ec892d&x-time=1782990240
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Wimbledon MD", Moutet/Reymond VS Cash/Glasspool | Wimbledon MD [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a45b8a5ce986c4740ac0f55/chunks.m3u8?is_vip=false&token=1783076665-Kv4cPTAAP5YTi-d3cc6c1761cb7c94bdd425b4366ca6069b8b728d-fdb80c52f53170c7c62da154a145e89c
 
