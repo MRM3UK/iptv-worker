@@ -237,14 +237,14 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:52 PM 02-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=pk70fvKZVWq2tceGF6hMbA&expires=1783002052
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yaFSZe31JuEJGk88iOFrzg&expires=1783002053
+#last update time: 09:30:44 PM 02-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=Rcog_uWpKhwvFMR-M7FUnw&expires=1783002053
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=LqoE7Sn01vFIr7zLJ5J3xg&expires=1783011045
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=bLL-DSPrKb3vv29GIGLFRQ&expires=1783011045
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-mHbI95QGbsL0daxgnf0PQ&expires=1783011045
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 5:46:29 PM 02-07-2026
@@ -450,25 +450,25 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a45bf1b9a1d202ef6933f49/chu
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe1/chunks.m3u8?is_vip=false&token=d05b86ac62028c41081881a177cd5b5884e4f65c&x-sign=fc2acb19b3e10e9da880b3e3482596b5&x-time=1782992940
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Football", Transport United VS Drukpa | Premier League [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/1-6a429daf0056754441795fe1/chunks.m3u8?is_vip=false&token=1783079373-Kv4cPTAAP5YTi-d05b86ac62028c41081881a177cd5b5884e4f65c-cc2929d975586324bd636eee345f2cff
-# Playlist Name: Tapmad bd
-# Last Update: 02:00 PM 28-06-2026
-# Telegram: https://t.me/livesportsplay
-# Owner: Md Sohanur Rahman Hady
-# Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Racing", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14773" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825938621020x576.jpg" group-title="Cricket", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+কেউ ডোনেট করতে চাইলে নক করুন t.me/SRHady12
+পক্সি ছাড়া প্লেলিস্ট রান হবে না। কেউ যদি চান প্লেলিস্ট আগের মতো 
+রানিং হোক তাহলে পক্সির খরচটা ডোনেট করুন
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
 # last_update: 02:00:27 PM 28-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090535674" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272150365972_DP_World_Tour_Open_dItalia_day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Open d'Italia - Day 4 - 28 Jun 2026
 https://dai.google.com/ssai/event/VaxG73tqSRSb7D2AZdaoaw/master.m3u8
-#last update time: 07:00:28 PM 02-07-2026
+#last update time: 09:30:33 PM 02-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143628_6150_NAM_VID_fc-web.jpg" group-title="Cricket", Namibia Vs Vidarbha | Vidarbha Cricket Association tour of Namibia (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_vidarbha_143628_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143585_6148_SG_BD_fc-web_1782725011362.jpg" group-title="Cricket", Speen Ghar Tigers Vs Band E Amir Dragons | Shpageeza Cricket League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/speen_ghar_tigers_vs_band_e_amir_dragons_143585_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_shivamogga_yodhas_143436_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438720/143436_CASACARDS_SPORTY_APP.png" group-title="Cricket", Coastal Kings Mangaluru Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_mangaluru_vs_shivamogga_yodhas_143436_kannada.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf", Day 1   Main Feed | John Deere Classic 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___main_feed_143665_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Golf", Day 1 | Hulencourt Women's Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143408_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143578_6147_PGA_LOC_fc-web.jpg" group-title="Golf", Day 1   Am | US Senior Open Championship 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1___am_143578_english.m3u8
