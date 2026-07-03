@@ -180,16 +180,16 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:59 PM 03-07-2026
+#last update time: 11:30:50 PM 03-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=34uIDvZIQMfVr77uKXGwJw&expires=1783099260
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=9HtRARRaM6qtwHEYxuODKg&expires=1783099260
+https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=jyCitd_29l8ckbD7LCqcGQ&expires=1783104650
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=w28aYjaybXDXTp28bKq-uA&expires=1783099260
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=HaKKSW7a9-TQopRAqlS3cA&expires=1783104650
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=ACcq0HjvFrjW-_nTurlINA&expires=1783104651
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP2)
-https://cdn2.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=LbGI4sDe0o7f_jgpxanJjA&expires=1783099261
+https://cdn2.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=np3RPOV9BfhU7yHa0-aW6Q&expires=1783104651
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -400,7 +400,7 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 # last_update: 02:00:27 PM 28-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090535674" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272150365972_DP_World_Tour_Open_dItalia_day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Open d'Italia - Day 4 - 28 Jun 2026
 https://dai.google.com/ssai/event/VaxG73tqSRSb7D2AZdaoaw/master.m3u8
-#last update time: 10:00:31 PM 03-07-2026
+#last update time: 11:45:16 PM 03-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438709/143438_CASACARDS_SPORTY_APP.png" group-title="Cricket", Hubli Tigers Vs Kalyani Bengaluru Blasters | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -409,11 +409,7 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_v
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hubli_tigers_vs_kalyani_bengaluru_blasters_143438_kannada.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf", Day 2   Main Feed | John Deere Classic 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_143667_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/d_1782469797601.png" group-title="Golf", Day 2 | Hulencourt Women's Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143409_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web.jpg" group-title="Formula 1", Sprint Qualifying | F1 PIRELLI BRITISH GRAND PRIX 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5af666ee4b84628964aa31efb35badc:9e1521ab35df1b8f62c26c7e9d8b2723
-https://bd-mc-flive.fancode.com/mumbai/139463_english_dash_69557_1drmta-di_h264/index.mpd
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143579_6147_PGA_LOC_fc-web.jpg" group-title="Golf", Day 2   Am | US Senior Open Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___am_143579_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="Motorsports", Qualifying Session | F1 ACADEMY GREAT BRITAIN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/qualifying_session_139689_english.m3u8
