@@ -237,14 +237,14 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:48 AM 03-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=XMDF20333peJxvoF9lX_Zg&expires=1783056049
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=PDVCOp7SxGK87MT0elbrNQ&expires=1783056049
+#last update time: 01:30:44 PM 03-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=Zk52jpSzBdkJWvHFl3LsaQ&expires=1783056049
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=tHrY4z0UhphLW2-oE0iDcA&expires=1783068645
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=2j5uZRfrNmkb4ov6emWvsg&expires=1783068645
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=B4Z950rjE6Thkh9V4syKXA&expires=1783068645
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -455,6 +455,10 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 # last_update: 02:00:27 PM 28-06-2026
 #EXTINF:-1 tvg-id="sonyliv-1090535674" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272150365972_DP_World_Tour_Open_dItalia_day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Open d'Italia - Day 4 - 28 Jun 2026
 https://dai.google.com/ssai/event/VaxG73tqSRSb7D2AZdaoaw/master.m3u8
-#last update time: 10:00:29 AM 03-07-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869171976/143535_CASACARDS_SPORTY_APP.png" group-title="Cricket", Chhinnamasta Lions Vs Itahari Super Kings | KPL Indo Nepal T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chhinnamasta_lions_vs_itahari_super_kings_143535_english.m3u8
+#last update time: 01:30:25 PM 03-07-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172005/143536_CASACARDS_SPORTY_APP.png" group-title="Cricket", Kcc Vs Mills Cricket Club | KPL Indo Nepal T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kcc_vs_mills_cricket_club_143536_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143586_6148_BD_MAK_fc-web_1782725011378.jpg" group-title="Cricket", Band E Amir Dragons Vs Mis E Ainak Knights | Shpageeza Cricket League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/band_e_amir_dragons_vs_mis_e_ainak_knights_143586_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg" group-title="Motorsports", Practice Session | F1 ACADEMY GREAT BRITAIN 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_139690_english.m3u8
