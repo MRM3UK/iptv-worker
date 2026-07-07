@@ -180,19 +180,19 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:31:02 AM 08-07-2026
+#last update time: 02:31:04 AM 08-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=SW8pgvgHSkFiGIFpaM0YRw&expires=1783453863
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=8o25bf-fOmfmlG8dLGFQxg&expires=1783461064
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=KVWJHtg_8wvTzifvNyaQNA&expires=1783453864
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=_1lwwnoMgarnRlKNwa9Opw&expires=1783461064
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=ARR61WoifwNICLOTL-agUg&expires=1783453864
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=z0Fxi0rd3vBef_vGltU_Tg&expires=1783461065
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP2)
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=rPeUYbJLzRK3qKRfBPpA4g&expires=1783453864
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (WILLOWUSA)
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=T72UweDSi06Ud2n7Leze6Q&expires=1783453865
+https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=jfTAzfcT153ZrNzhID_79Q&expires=1783461065
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (WILLOWUSA)
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=UfqprEe0DgFusiETrWXnfg&expires=1783461065
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -395,7 +395,7 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 12:50 AM 08-07-2026
+# Last Update: 02:50 AM 08-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -403,8 +403,6 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14751" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833444911020x576.jpg" group-title="Tennis", Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17832322841020x576.jpg" group-title="Cricket", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14888" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833352281020x576.jpg" group-title="E Sports", Dota 2 - Day 1 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14889" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833353151020x576.jpg" group-title="E Sports", Dota 2 - Day 1 - Feed 2 | Esports World Cup 2026 (EWC)
@@ -414,7 +412,7 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:23 AM 08-07-2026
-#last update time: 12:45:21 AM 08-07-2026
+# last_update: 02:45:24 AM 08-07-2026
+#last update time: 02:45:16 AM 08-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Cricket", Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8
