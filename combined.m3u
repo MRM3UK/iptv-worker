@@ -180,14 +180,14 @@ http://30.30.30.138:8088/802/index.m3u8?token=83abfe6113ea28dae9f0dd63988786f906
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:01:04 AM 09-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=cnrQlcbPyNFzoXcOlk5jlA&expires=1783545665
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=m6Yh5qutEceQDowzqwJtTQ&expires=1783545665
+#last update time: 03:01:01 AM 09-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=bz6foSojig1VnDBRZDDhjw&expires=1783545665
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=kwqNTMZuGDl2nBKF8YgeCg&expires=1783549262
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=2eTma-9OdhVUkWmNgtcrcA&expires=1783549262
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=gdD25HMvAO3UY5M2RcXoPA&expires=1783549262
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -390,22 +390,12 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 02:00 AM 09-07-2026
+# Last Update: 03:20 AM 09-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-13461" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833325261020x576.jpg" group-title="Cricket", Surrey vs Warwickshire Live | Vitality Blast Men 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14891" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834928611020x576.jpg" group-title="E Sports", Dota 2 - Day 2 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14893" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17834929531020x576.jpg" group-title="E Sports", Dota 2 - Day 2 - Feed 3 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835146931020x576.jpg" group-title="E Sports", Welcome to EWC - Opening Ceremony | Esports World Cup 2026 (EWC)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:00:59 AM 09-07-2026
-#EXTINF:-1 tvg-id="sonyliv-1090535831" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020392/1783439510941166_VB26_mens_surrey_vs_sussex_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Surrey vs Sussex - 8 Jul 2026
-https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
-#last update time: 02:00:51 AM 09-07-2026
+# last_update: 03:15:23 AM 09-07-2026
+#last update time: 03:15:24 AM 09-07-2026
