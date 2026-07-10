@@ -186,14 +186,14 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:57 PM 10-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=jcyMDWvUQmQX_CLWr4iH_A&expires=1783680658
+#last update time: 06:30:56 PM 10-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bQlLhi0hx7eJrK4BEjFiXQ&expires=1783680658
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=LPvNu-G_F8vsEFnV3U4bsQ&expires=1783691457
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=fBKuRke7QC4lIE-i98uc0g&expires=1783691457
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=Y1SByVbQTcEnNZb2pNOMOA&expires=1783680658
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=DzNdTavI7LBhr-ap1L5X8Q&expires=1783691457
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -396,23 +396,31 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 03:50 PM 10-07-2026
+# Last Update: 06:30 PM 10-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-14899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835809081020x576.jpg" group-title="E Sports", Dota 2 - Day 4 - Feed 3 | Esports World Cup 2026 (EWC)
-https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14754" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835080501020x576.jpg" group-title="Tennis", Gentlemen's Singles Semi-Finals | Wimbledon 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835808541020x576.jpg" group-title="E Sports", Dota 2 - Day 4 - Feed 2 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835809081020x576.jpg" group-title="E Sports", Dota 2 - Day 4 - Feed 3 | Esports World Cup 2026 (EWC)
+https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835807981020x576.jpg" group-title="E Sports", Dota 2 - Day 4 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14930" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835817901020x576.jpg" group-title="Racing", Cycling Day 3 - Lienz Live | LIDL Tour of Austria 75 - 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-14829" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835803251020x576.jpg" group-title="E Sports", Valorant Day 8 | Esports World Cup 2026 (EWC)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:53 PM 10-07-2026
+# last_update: 06:30:43 PM 10-07-2026
 #EXTINF:-1 tvg-id="sonyliv-1090536368" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630181321637_Eng_W_vs_Ind_W_2026_one_off_test_day1_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | Day 1 - One-Off Test - 10 Jul 2026
 https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
-#last update time: 04:00:32 PM 10-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090535931" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290177365701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_landscape_thumb.jpg" group-title="Golf", DP World Tour | Genesis Scottish Open - Day 2 - 10 Jul 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
+#last update time: 06:30:31 PM 10-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Romania Vs Gibraltar | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/romania_vs_gibraltar_4246565_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Hungary Vs Estonia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
