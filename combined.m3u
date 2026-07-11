@@ -186,14 +186,14 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:58 PM 11-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=vZ5kFDdGUHh0C-MqzyHSOw&expires=1783772459
+#last update time: 06:00:56 PM 11-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=97Tj07Yc8ADd-DlIXfBAqg&expires=1783772459
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=uTzlJcCeyitF_8_3PNSFEQ&expires=1783776057
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=sfPx0Lc-I8uRclFW3VXidA&expires=1783776057
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=hDr0i-BZLsfaNI1SJK2aOw&expires=1783772460
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=D3_Uf-HaHxuvyLbBvOqF2g&expires=1783776058
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -396,7 +396,7 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 05:00 PM 11-07-2026
+# Last Update: 06:00 PM 11-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -410,15 +410,17 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14830" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836685761020x576.jpg" group-title="E Sports", Valorant Day 9 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14936" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836735211020x576.jpg" group-title="Racing", Cycling Day 4 - Steyr Live | LIDL Tour of Austria 75 - 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:00:48 PM 11-07-2026
+# last_update: 06:00:50 PM 11-07-2026
 #EXTINF:-1 tvg-id="sonyliv-1090536424" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | Day 2 - One-Off Test - 11 Jul 2026
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090536420" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688436687820_ArcheryWC26_MADRID_OPEN_stage4_Compound_Team_finals_landscape_thumb.jpg" group-title="Archery", Hyundai Archery World Cup Stage 4 | Compound Team Finals - 11 Jul 2026
+#EXTINF:-1 tvg-id="sonyliv-1090536420" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688409738820_ArcheryWC26_MADRID_OPEN_stage4_Compound_mixed_Team_landscape_thumb.jpg" group-title="Archery", Hyundai Archery World Cup Stage 4 | Compound Mixed Team & Individual Finals - 11 Jul 2026
 https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
-#last update time: 05:00:32 PM 11-07-2026
+#last update time: 06:00:37 PM 11-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Cricket", Zimbabwe Vs Bangladesh | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143436_6134_CKM_SY_FC-WEB_1782272593179.jpg" group-title="Cricket", Coastal Kings Mangaluru Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
@@ -429,3 +431,5 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/coastal_kings_
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_139958_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143599_6148_BOS_MAK_fc-web_1782725011567.jpg" group-title="Cricket", Bost Defenders Vs Mis E Ainak Knights | Shpageeza Cricket League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bost_defenders_vs_mis_e_ainak_knights_143599_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM-F2-Mini-Web.png" group-title="Motorsports", Adac Gt Master Race 1   Nurburgring | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_master_race_1___nurburgring_143693_english.m3u8
