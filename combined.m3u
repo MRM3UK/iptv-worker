@@ -186,14 +186,14 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:01:00 PM 12-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=cXmnLH1pGQxQAI3oRcKRCw&expires=1783876861
+#last update time: 11:30:59 PM 12-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ATWuYPaWAfsXGnAhFfe4sw&expires=1783876861
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=OHAL6vZ8O_WtrX9kZg6GQw&expires=1783882260
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=2J55gDxGy2YpW9m8vOi8ag&expires=1783876861
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=9ydB0difXTXHWGNEOfkELQ&expires=1783882260
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=a6qGmuG090RytgsfneyLcw&expires=1783882260
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -396,35 +396,27 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 10:20 PM 12-07-2026
+# Last Update: 11:30 PM 12-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-14756" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836889241020x576.jpg" group-title="Tennis", Gentlemen's Singles Final & Ladies' Doubles Final | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17838235981020.jpg" group-title="Racing", Round 9 Race - Vila Real (POR) | Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836913011020x576.jpg" group-title="E Sports", Dota 2 - Day 6 - Feed 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14903" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836912571020x576.jpg" group-title="E Sports", Dota 2 - Day 6 - Feed 1 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-13464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836885041020x576.jpg" group-title="Cricket", Somerset vs Worcestershire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-14831" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836895121020x576.jpg" group-title="E Sports", Valorant Day 10 | Esports World Cup 2026 (EWC)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:15:22 PM 12-07-2026
+# last_update: 11:30:44 PM 12-07-2026
 #EXTINF:-1 tvg-id="sonyliv-1090536447" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630240589637_Eng_W_vs_Ind_W_2026_one_off_test_day3_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | Day 3 - One-Off Test - 12 Jul 2026
 https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090536489" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020475/1783706034559219_VitalityBlast26_Mens_Somerset_vs_Worcestershire_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Somerset vs Worcestershire - 12 Jul 2026
+https://dai.google.com/ssai/event/4P-rGs2vR-aJ-_6DOl9ldQ/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090536448" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290162466701_DP_World_Tour_GENESIS_SCOTTISH_Open_day4_24jun_landscape_thumb.jpg" group-title="Golf", DP World Tour | Genesis Scottish Open - Day 4 - 12 Jul 2026
 https://dai.google.com/ssai/event/dYeQ9c_FS3qDJNz15EkS0w/master.m3u8
-#last update time: 10:15:17 PM 12-07-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png" group-title="Cricket", Ireland Women Vs West Indies Women | West Indies Women tour of Ireland 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/ireland_women_vs_west_indies_women_143144_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Gibraltar Vs Serbia | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gibraltar_vs_serbia_4246574_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/113.png" group-title="Cricket", Hungary Vs Turkiye | ICC Men's T20 World Cup Europe Sub Regional Qualifier B 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hungary_vs_turkiye_4246575_english.m3u8
+#last update time: 11:30:39 PM 12-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Cricket", Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_shivamogga_yodhas_143448_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143418_6134_KBB_SY_FC-WEB_1782272593035.jpg" group-title="Cricket", Kalyani Bengaluru Blasters Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
