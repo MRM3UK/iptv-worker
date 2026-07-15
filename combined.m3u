@@ -186,14 +186,14 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:01:04 AM 15-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=QsaKfrYn0btocC-WTM4yTw&expires=1784078465
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Xafxw5S3KRHBDnbUbUX9-Q&expires=1784078465
+#last update time: 09:30:54 AM 15-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=vPUj1pAqu17aBJbW1QuCkQ&expires=1784078465
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=BsIShOshWjYMqZAQPDXJDQ&expires=1784091055
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=MvXf4Xvg3tQz8LnQpi1TVA&expires=1784091055
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=uYzMnSkI8NPEHRpv6j4yDw&expires=1784091055
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -396,12 +396,14 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 15-07-2026
+# Last Update: 09:30 AM 15-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:00:54 AM 15-07-2026
-#last update time: 06:00:39 AM 15-07-2026
+# last_update: 09:30:45 AM 15-07-2026
+#last update time: 09:30:33 AM 15-07-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="Live Events", Day 8 | Dream UTT Juniors 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_8_4246606_english.m3u8
