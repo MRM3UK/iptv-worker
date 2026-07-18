@@ -186,14 +186,14 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:39 PM 18-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=6B-I-jFVnoyBNv1qe2clpw&expires=1784398840
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=ohIOp_YBlc-P3JsPgouW4g&expires=1784398840
+#last update time: 12:00:35 AM 19-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ehjWgjyantX-ECxVJ2guLg&expires=1784398840
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=74gK3R3raj_ETWPI95uMbw&expires=1784402435
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=sihOYcBL-nYM2TdO0MUDgg&expires=1784402436
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=eyqxBcapcaNXZCMMcZoPHg&expires=1784402436
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -396,21 +396,21 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 11:10 PM 18-07-2026
+# Last Update: 12:00 AM 19-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842875321020x576.jpg" group-title="Racing", GT4 European Race  Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-13474" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17843953851020.jpg" group-title="Cricket", Northamptonshire vs Hampshire Live | Vitality Blast Men 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842885241020x576.jpg" group-title="Racing", GT World Challenge Race  Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-14912" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841080291020x576.jpg" group-title="E Sports", Dota 2 - Day 11 | Esports World Cup 2026 (EWC)
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:10:24 PM 18-07-2026
+# last_update: 11:50:26 PM 18-07-2026
 #EXTINF:-1 tvg-id="sonyliv-1090536700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784384900070862_VB26_final_Northamptonshire_vs_Hampshire_18jul_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Northamptonshire vs Hampshire - Final - 18 Jul 2026
 https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8
-#last update time: 11:00:22 PM 18-07-2026
+#last update time: 12:00:23 AM 19-07-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762343/4246711_CASACARDS_SPORTY_APP.png" group-title="Cricket", Colombo Kaps Vs Galle Gallants | Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/colombo_kaps_vs_galle_gallants_4246711_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-Open-Championship_fc-web.jpg" group-title="Golf", Day 3 | The Open 2026 (ENGLISH)
