@@ -186,12 +186,12 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:31 AM 20-07-2026
+#last update time: 02:00:38 AM 20-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=aepYVYu19iGznr5PUvouiA&expires=1784494232
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=q-VLUdQO6K27dNEcPlZgHg&expires=1784496038
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (SKYSCRIC)
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=F72sjbNEE4qAbfYvpryR8Q&expires=1784494232
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=YdAAJynI-dMerR1hUiM1Gg&expires=1784496038
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/New%20Zealand%20vs%20West%20Indies.png" group-title="Live Cricket", New Zealand vs West Indies (WILLOWUSA)
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
@@ -406,7 +406,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:10:23 AM 20-07-2026
-#last update time: 01:30:23 AM 20-07-2026
+# last_update: 02:10:24 AM 20-07-2026
+#last update time: 02:15:18 AM 20-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png" group-title="Cricket", West Indies Vs New Zealand | New Zealand tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_new_zealand_143606_english.m3u8
