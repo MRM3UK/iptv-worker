@@ -186,7 +186,7 @@ https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/i
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:52 PM 24-07-2026
+#last update time: 06:30:38 PM 24-07-2026
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
@@ -391,26 +391,28 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 05:15 PM 24-07-2026
+# Last Update: 06:45 PM 24-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15410" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847969781020x576.jpg" group-title="Volleyball", Bangladesh vs Kazakhstan | CAVA Men's Volleyball Championship 2026
+#EXTINF:-1 tvg-id="tapmad-15411" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847969131020x576.jpg" group-title="Volleyball", Pakistan vs Nepal | CAVA Men's Volleyball Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:25 PM 24-07-2026
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784890149488_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Glasgow 2026 Commonwealth Games | Men - Gymnastics - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784913630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a829f4eab63bb42ff15ec6c110a4e26b6377cd7623500a473cf9d4a0d709c724
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784887217338_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Northern Ireland vs Nicaragu - Women's Pairs - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784913639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=736daea3a579cd412433858dac3cac1b0dbf3cbc8bf5a0aa378999be7c454702
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784891449426_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | England vs Australia - Wheelchair Women - Basketball - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784913649~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=872d8c853b3a1cf7127819b07ba43d62b2b513234240914367cf24807ea14f23
-#last update time: 05:15:30 PM 24-07-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf", Day 2   World Feed | ISPS Handa Women's Scottish Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___world_feed_4247418_english.m3u8
+# last_update: 06:50:25 PM 24-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784895002596_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Men's Lightweight - Para Powerlifting - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784915447~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45a348c3bbcd616f610bdee765bd1418bdf696179ae95e5d3a2ac9ada32d3c74
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Aquatics", Glasgow 2026 Commonwealth Games | Scotland vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784919040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4a52dbb5a229f358b5ddad3d5768c6a45244791e594f90331b493d392174c67f
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784896637759_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Glasgow 2026 Commonwealth Games | Refiloe Thai vs Ayomide Hassan Foly - Men's 70kg - Boxing - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784919047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bdf2c46b641c40323490c74ad4f760117464cfdba9d27fadc2d774944c90b615
+#EXTINF:-1 tvg-id="sonyliv-1090536997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg" group-title="Golf", LIV Golf | UK - Day 2 - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784919056~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4e7ebb28173a3b8f5def5cb4036e3c332f07469b542de6b6a0ddb4fc03938234
+#last update time: 06:45:22 PM 24-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Tennis", Day 5 | ATP 250 - Generali Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143507_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis", Day 5 | ATP 250 - Millenium Estoril Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143513_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf", Day 2   Main Feed | 3M Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_4246801_english.m3u8
