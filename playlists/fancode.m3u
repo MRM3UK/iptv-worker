@@ -1,15 +1,21 @@
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:45:15 PM 24-07-2026
+#last update time: 10:30:27 PM 24-07-2026
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784653587317/4247438_CASACARDS_SPORTY_APP.png" group-title="Cricket", Lahore Qalandars Vs Desert Vipers | Global Super League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/lahore_qalandars_vs_desert_vipers_4247438_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club-Friendlies-old-match-card.png" group-title="Football", Rosenborg Bk Vs Manchester United | Club Friendlies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/rosenborg_bk_vs_manchester_united_4248010_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis", Day 5 | ATP 250 - Millenium Estoril Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_5_143513_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf", Day 2   Main Feed | 3M Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2___main_feed_4246801_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Motorsports", Practice Session | Porsche Mobil 1 Supercup 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/practice_session_143611_english.m3u8
 
