@@ -228,16 +228,16 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzYbVXA85MGuL-AAcbW94Eg/ts
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:39 PM 26-07-2026
+#last update time: 09:30:31 PM 26-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=PWW0-2tAqH3VDIfoXh27-g&expires=1785081040
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=JVtLRgX8oEhfi5P-JII4qQ&expires=1785084632
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=hpA5x7DBIWinETuhThBTlw&expires=1785081041
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN1)
-https://cdn9.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=7LTtpRKxpaRR7k2dsFVxpA&expires=1785081041
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=iOi5aALnLtfkXsUkuBnRlw&expires=1785084632
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN3)
-https://cdn9.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=O51ayDf3h9BKcYHqlWsaLA&expires=1785081041
+https://cdn8.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=UrOLFjEIw9euFQvqlIjOuw&expires=1785084632
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN1)
+https://cdn10.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=GMpWj9Ebex4sdXOwm6zIwQ&expires=1785084632
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -440,14 +440,12 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 26-07-2026
+# Last Update: 09:45 PM 26-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Cricket", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15362" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848964711020x576.jpg" group-title="Multisports", Men's Semi Final B Session - World Championships Kaunas, Lithuania Live | UIPM 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15189" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848901421020x576men.jpg" group-title="Cricket", Manchester Super Giants vs Birmingham Pheonix | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848938841020x576.jpg" group-title="E Sports", EA Sports FC 26 - Day 5 | Esports World Cup 2026 (EWC)
@@ -455,47 +453,29 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:25 PM 26-07-2026
+# last_update: 09:20:25 PM 26-07-2026
 #EXTINF:-1 tvg-id="sonyliv-1090537309" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022664513874_dc26_India_Army_FT_vs_Samaleswari_Sporting_landscape.jpg" group-title="Football", India Army FT vs Samaleswari Sporting - 26 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000390/IndiaArm2607/ENG/master.m3u8?hdnea=exp=1785095436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6f9aa21804e4dcde9b21088e6297e692fb801887c35c03fcee4acacf1203f80e
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021047/1785018158879648_CWG_BOWLS_and_PARA_BOWLS_INDIA_vs_MALTA_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Putul Sonowal vs Shaun James Parnis - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785078609792_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Malaysia vs Scotland - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=53d2eba5495f92d6e009b0649e1b0831f2602ff7887a97b2889636a260d61a8a
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785073269946_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Izzat Shameer Dzulkeple vs Anwar Hamada - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cc3a829b02cf99b44f7314dbddc1b2fcda2aed6578c1650436e88a53dcf3d86
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785073268358_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Gary Kelly vs Mitchell Graham - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785078612832_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Norfolk Island vs Falkland Islands - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785100832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9b5309233d0d52068485e864e9c46dbb2997585b2f756cdddf2889d9ca536632
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785078612579_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Namibia vs Tonga - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785088724~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ec02c0a460b528f9682b58661cedd039bde6aa2fdcfc91e3ba657e84e7ffc43e
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785078015243_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", South Africa vs Tonga - Netball - Netball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cc3a829b02cf99b44f7314dbddc1b2fcda2aed6578c1650436e88a53dcf3d86
 #EXTINF:-1 tvg-id="sonyliv-1090537311" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660566319499_The_Hundred2026_mens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785093647~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=77e8b2bb89df1e5833f317816f1a6edbf4f54c0c88d59c3e5d28cae2398bd46f
 #EXTINF:-1 tvg-id="sonyliv-1090537306" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662646760499_The_Hundred2026_womens_Trent_Rockets_vs_London_Spirit_21jul_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs London Spirit - 26 Jul 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785093658~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a7dad76c2d5b5b1d6d315e7164ae0ff67f003e5db04a5f4dc8770dd7a4078128
 #EXTINF:-1 tvg-id="sonyliv-1090537304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474007257196_LIV_Golf_UK_Day4_landscape_thumb.jpg" group-title="Golf", UK - Day 4 - 26 Jul 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_LIV2607/ENG/master.m3u8?hdnea=exp=1785088733~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a368f4d151d5f21e3f6a3c2c6dc2d658b1e49ec78e5566b5cfb98872adae16d3
-#last update time: 08:30:20 PM 26-07-2026
+#last update time: 09:45:20 PM 26-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket", West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket", India Vs Zimbabwe | India tour of Zimbabwe 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d271bd6480344bf5938574325cbbfcd7:88b68ebb9588d70ecef11f28c5099205
-https://bd-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket", India Vs Zimbabwe | India tour of Zimbabwe 2026 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4
-https://bd-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Dambulla Sixers | Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_dambulla_sixers_4246713_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png" group-title="Cricket", San Francisco Unicorns Vs Perth Scorchers Xi | Global Super League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_perth_scorchers_xi_4247431_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf", Day 4   World Feed | ISPS Handa Women's Scottish Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_4247420_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=069795cda96d40ad928a3555cca0b01c:6957ebc27c067c274f649b4aca6ad040
-https://bd-mc-flive.fancode.com/mumbai/139476_english_dash_52319_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=c61eefec70f24db49fbe45b90b19b4a6:51d5063903f58456782857ae2f531659
-https://bd-mc-flive.fancode.com/mumbai/139476_hindi_dash_26994_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL) [DRM]
-#KODIPROP:inputstream.adaptive.license_key=33b2d4d1002244419432b0bf3f5674e7:40ffda200e1465b4c5cd69084113123e
-https://bd-mc-flive.fancode.com/mumbai/139476_tamil_dash_93259_1drmta-di_h264/index.mpd
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf", Day 4   Main Feed | 3M Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___main_feed_4246805_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports", Adac Gt Race 2   Oschersleben | DTM 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/adac_gt_race_2___oschersleben_143806_english.m3u8
