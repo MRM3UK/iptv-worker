@@ -228,12 +228,16 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzYbVXA85MGuL-AAcbW94Eg/ts
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:30 PM 26-07-2026
+#last update time: 04:30:31 PM 26-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=cNer3kQp4wYTNRzjWGhxYg&expires=1785059431
+https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=_AkbBXS0Z749bmhGMTyrfQ&expires=1785066632
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=zLg5voj9MGEZ2JRPcJOfkQ&expires=1785059432
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=1BK3cUVRJ-cTJ3FkyOByRQ&expires=1785066633
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN3)
+https://cdn3.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=k-u3qKmWvc09fx6bYAHMnA&expires=1785066633
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN1)
+https://cdn9.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=pvdLwxsJPM5O4rTL49E5yA&expires=1785066633
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
 #last update time: 9:31:29 AM 03-07-2026
@@ -436,22 +440,30 @@ https://livecdn-bp-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/ch
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="W15 Getxo WD", Gay/Ramos Sierra VS Murphy/Tse | W15 Getxo WD [Server 2]
 https://livecdn-tc-livestream.rumsport10.live/sla/13-6a47181757b14e876dc0332e/chunks.m3u8?is_vip=false&token=1783136064-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-442ac71b040195dff10c387c74d1569a
 # Playlist Name: Tapmad bd
-# Last Update: 02:45 PM 26-07-2026
+# Last Update: 04:30 PM 26-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-15356" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848952541020x576.jpg" group-title="Multisports", Men's Semi Final A Session - World Championships Kaunas, Lithuania Live | UIPM 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15416" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849000201020x576.jpg" group-title="Volleyball", Nepal vs Bangladesh | CAVA Men's Volleyball Championship 2026
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:23 PM 26-07-2026
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785051010481_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", India vs Namibia - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+# last_update: 04:20:35 PM 26-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785060887255_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 50m Breaststroke - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785077428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=976a6c8e065f42e015ea97cc9ef77fdff145b2825c9ce6aec5d90056c096d3f6
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785052817684_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Wales vs Scotland - Netball - Netball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785060835360_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Kadijat Ajishola vs Helen Jones - Women's 54kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072028~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=92da98e3ca4f3e6ea56cf7b29eaa1019b63e5b45dd95f50b5c17d70585d86968
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785051006152_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", England vs South Africa - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785056225971_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Day 3 - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cd88002622e1af6224b985c8116b7e7a12f5e31c1380f403b6f5aeda42cb4103
-#last update time: 02:45:18 PM 26-07-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Motorsports", Race | Porsche Mobil 1 Supercup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_143613_english.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090537307" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660530614499_The_Hundred2026_womens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
+#EXTINF:-1 tvg-id="sonyliv-1090537303" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782816764828920_ABB_FIA_FormulaE_WC26_RD15_Tokyo_EPrix_final_Race_landscape_thumb.jpg" group-title="Racing", R15 - Tokyo E-Prix - Final  Race - 26 Jul 2026 | ABB FIA Formula E World Championship
+https://sonydaimenew.akamaized.net/hls/live/20000293/FIA_Form2607/ENG/master.m3u8?hdnea=exp=1785081042~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708fa18f01639b67a14cb967dbbdbcc3ae602622c3d1a0c59394eb2a2f0509f5
+#last update time: 04:30:25 PM 26-07-2026
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_kandy_royals_4246728_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg" group-title="Motorsports", Race | F2 HUNGARY 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139645_english.m3u8
