@@ -228,46 +228,26 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzYbVXA85MGuL-AAcbW94Eg/ts
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:44 AM 27-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=qV88EH-OfURpaqAIGNFASQ&expires=1785118845
+#last update time: 09:00:40 AM 27-07-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
-https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=aiy-ZPcpI7xCNij8OfsakQ&expires=1785118845
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expires=1785126041
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 7:17:30 AM 27-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Spirit%20W%20vs%20Denver%20Summit%20W.jpg" group-title="LIVE", Washington Spirit W vs Denver Summit W - NWSL Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4684116618c8c684712afa/chunks.m3u8?is_vip=false&token=1785201453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdabdab88c84d545655078f456a2042c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Warriors%20vs%20Qalandars.jpg" group-title="LIVE", Warriors vs Qalandars - GSL
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=8a6876c42ef35977d40d01565f61ca7e&x-time=1785105120
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Philadelphia%20Phillies.jpg" group-title="LIVE", New York Yankees vs Philadelphia Phillies - MLB
-https://livecdn-bp-iptv.rumsport7.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=ed0bff7657b2df0096fee34a14b3308e&x-time=1785106920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Amazonas%20vs%20Paysandu.jpg" group-title="LIVE", Amazonas vs Paysandu - Serie C
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4684116618c8c684712afb/chunks.m3u8?is_vip=false&token=1785201454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f97319d80431c9a68f27e065724b26d7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Garcilaso%20vs%20FC%20Cajamarca.jpg" group-title="LIVE", Deportivo Garcilaso vs FC Cajamarca - Primera División
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4684116618c8c684712afc/chunks.m3u8?is_vip=false&token=1785201455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c1e58bc94970014dfe3527b8932796d1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Concepci%C3%B3n%20vs%20O'Higgins.jpg" group-title="LIVE", Concepción vs O'Higgins - Primera División
-https://livecdn-tc-livestream.rumsport10.live/sla/1-69717d9c9f151a19a61f66a2/chunks.m3u8?is_vip=false&token=1785198761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d57a874201233d0f099ea11c7f6103ce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20Women%20vs%20Tigres%20Women.jpg" group-title="LIVE", Club America Women vs Tigres Women - Campeon de Campeones Women
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64f2b48cf753005716d35f/chunks.m3u8?is_vip=false&token=1785198762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-576fe3ad9541091e8501e300469e3872
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Angel%20City%20W%20vs%20Racing%20Louisville%20W.jpg" group-title="LIVE", Angel City W vs Racing Louisville W - NWSL Women
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4684116618c8c684712afe/chunks.m3u8?is_vip=false&token=1785200558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9d732d82bc9335dbce6dd12ad685d99
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Honduras%20U20%20vs%20Jamaica%20U20.jpg" group-title="LIVE", Honduras U20 vs Jamaica U20 - CONCACAF U20
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5bfe709a1d202ef6af459d/chunks.m3u8?is_vip=false&token=1785200559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d7ca9ba20ce9e224e1a510414ce7eee5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Club%20Queretaro.jpg" group-title="LIVE", CF Pachuca vs Club Queretaro - Liga MX
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4684116618c8c684712afd/chunks.m3u8?is_vip=false&token=1785200559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6deb11b447fd8ac9c383d53437367b12
+#last update time: 11:02:36 AM 27-07-2026
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 AM 27-07-2026
+# Last Update: 11:00 AM 27-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-15418" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849004621020x576.jpg" group-title="Volleyball", Nepal vs Uzbekistan | CAVA Men's Volleyball Championship 2026
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:22 AM 27-07-2026
-#last update time: 07:15:15 AM 27-07-2026
+# last_update: 10:50:24 AM 27-07-2026
+#last update time: 11:00:30 AM 27-07-2026
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784653587317/4247433_CASACARDS_SPORTY_APP.png" group-title="Cricket", Guyana Amazon Warriors Vs Lahore Qalandars | Global Super League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_lahore_qalandars_4247433_english.m3u8
