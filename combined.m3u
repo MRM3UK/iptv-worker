@@ -236,43 +236,55 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 9:17:29 PM 27-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brave%20vs%20MI%20London.jpg" group-title="LIVE", Brave vs MI London - The Hundred Women
+#last update time: 11:02:32 PM 27-07-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=21bef0db0587f10e7501712ca4a0cf06&x-time=1785159120
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 1st Test
 https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=828a1c638027cd874873d37891e00c17&x-time=1785159120
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Khor%20SC%20vs%20Ahli%20Al-Fujirah.jpg" group-title="LIVE", Al Khor SC vs Ahli Al-Fujirah - ASEAN Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6708fc8cf75300572d8d82/chunks.m3u8?is_vip=false&token=1785251852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a96546c6e119a32b1529c70422bcfb10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zhenis%20W%20vs%20Yelimay%20Semey%20W.jpg" group-title="LIVE", Zhenis W vs Yelimay Semey W - KAZ Women’s Super League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a65fdd076e7f3c90e28090a/chunks.m3u8?is_vip=false&token=1785250954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02261beb7ef2c650a5193f01b6b77ee2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CFR%201907%20Cluj%20vs%20FC%20Voluntari.jpg" group-title="LIVE", CFR 1907 Cluj vs FC Voluntari - Liga I
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a47b96a30392eaef4f07a07/chunks.m3u8?is_vip=false&token=1785252756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aea7f151c5358d552b3701df45cadc29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Metta%20%20LU%20vs%20Tukums%20II.jpg" group-title="LIVE", Metta / LU vs Tukums II - 1. Liga
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a47d588945e9dbcc7f20c7d/chunks.m3u8?is_vip=false&token=1785258156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01d123b6a8228d661c8d5261ec450689
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Garde%20Republicaine%20SIAF%20vs%20APR%20FC.jpg" group-title="LIVE", Garde Republicaine SIAF vs APR FC - CECAFA Football Associ
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a611a43cc659f8a35a592bb/chunks.m3u8?is_vip=false&token=1785258157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30dc0968d1223d7f576747c44d5e543c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Stabaek%20vs%20hodd.jpg" group-title="LIVE", Stabaek vs hodd - 1. Division
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a47d588945e9dbcc7f20c82/chunks.m3u8?is_vip=false&token=1785258158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fcb30758e4b01677638a3ad8f34e532c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Orebro%20SK%20vs%20Oddevold.jpg" group-title="LIVE", Orebro SK vs Oddevold - Superettan
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4532ab4e6abdac6128aea6/chunks.m3u8?is_vip=false&token=1785258159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c632efd6726f0d6521665468d729ffe6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miedz%20Legnica%20vs%20Podbeskidzie.jpg" group-title="LIVE", Miedz Legnica vs Podbeskidzie - I Liga
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a43e149d8b0af885e430955/chunks.m3u8?is_vip=false&token=1785258160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd808554f58e1aab08a1948a16e980fd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KAMAZ%20vs%20Rotor%20Volgograd.jpg" group-title="LIVE", KAMAZ vs Rotor Volgograd - First League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4a32353c9c35419b1d4ae6/chunks.m3u8?is_vip=false&token=1785258161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b129f17e660f4f336458aa70e62a5e03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Arabi%20SC%20vs%20NEOM%20Sports%20Club.jpg" group-title="LIVE", Al-Arabi SC vs NEOM Sports Club - ASEAN Championship
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63a129c6451c50640838f6/chunks.m3u8?is_vip=false&token=1785258162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa133ace9ebb0889ad695d023acd3ca1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Osters%20IF%20vs%20Varbergs%20BoIS%20FC.jpg" group-title="LIVE", Osters IF vs Varbergs BoIS FC - Superettan
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4532ab4e6abdac6128aea5/chunks.m3u8?is_vip=false&token=1785258163-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f817170b92789bc443b3126d5ff7bf21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MTK%20Budapest%20vs%20Zalaegerszegi%20TE.jpg" group-title="Football", MTK Budapest vs Zalaegerszegi TE - NB I
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a47ab69818b53788c8c49f2/chunks.m3u8?is_vip=false&token=1785258165-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f296e62c3aa92d2298d54a4210f3c3c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brave%20vs%20MI%20London.jpg" group-title="Cricket", Brave vs MI London - The Hundred
+https://livecdn-bp-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=124360aa3a2c9549ec5429daa21c3544&x-time=1785171780
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 PM 27-07-2026
+# Last Update: 11:15 PM 27-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Cricket", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15225" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851365361020x576women.jpg" group-title="Cricket", Southern Brave vs MI London - Women | The Hundred Women's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:25 PM 27-07-2026
-#EXTINF:-1 tvg-id="sonyliv-1090537417" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021137/1785107350129629_DC26_Mohammedan_SC_vs_Baghpat_FC_27jul_landscape.jpg" group-title="Football", Mohammedan SC vs Baghpat FC - 27 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football2707/ENG/master.m3u8?hdnea=exp=1785178229~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f8a6cb26fd2960db472cc4af1d0650c0288bf95ca97adedf870a7c516d6b5029
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785159903763_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Australia vs Northern Ireland - Women's Pairs - Bowls and Para Bowls - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+# last_update: 10:50:23 PM 27-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021108/178509038624338_CWG_26th_July_Bowls_and_Para_Bowls_Kenya_vs_India_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Anwar Hamada vs Putul Sonowal - Men's Singles - Bowls and Para Bowls - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785190831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=84b77c3d0c631f2d3ba439eedd86c9d8c23c29e4098b1744ab29bb634f101233
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785169486154_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Singapore vs England - Men - Basketball - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/master.m3u8?hdnea=exp=1785181836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=078efef4e750243cd9331f0eb3d1bee89ed579a4ce3e7550ba65df59d21d58d0
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785157211440_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", England vs Malawi - Netball - Netball - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785169723494_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Waylon Wentzel vs Royden Aperau - Men's Singles - Bowls and Para Bowls - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785181848~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b134c73f10eb41281c9d9afc1ec5200b7c29c7afa7cfe73d77bb9e42b6a83348
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785160670161_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Men's Pommel Horse - Gymnastics - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785169722079_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Frederrick Tafatu vs Harriman Yuen - Men's Singles - Bowls and Para Bowls - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785181862~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d35952568ab82def49cbe1a9dcf6307fa10527b64e838088aac11ca93c13ac9f
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785154505255_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Women's 53kg - Weightlifting - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785174631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ac25244cc16597c1d726d34535a41591eed051dd0f9462a4b57639271897416
 #EXTINF:-1 tvg-id="sonyliv-1090537414" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784747233508115_The_Hundred2026_womens_Southern_Brave_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", Southern Brave vs MI London - 27 Jul 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785182193~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6953c19687075c1878d5b499e68f7550bbef88d9e247a459a2d58e20bdc6f773
-#last update time: 09:15:20 PM 27-07-2026
+#last update time: 11:15:18 PM 27-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket", West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png" group-title="Cricket", Namibia Vs Nepal | ICC CWC League 2 Netherlands 2026 (ENGLISH)
