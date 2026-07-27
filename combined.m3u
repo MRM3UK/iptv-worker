@@ -236,18 +236,20 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 11:02:36 AM 27-07-2026
+#last update time: 2:32:30 PM 27-07-2026
 # Playlist Name: Tapmad bd
-# Last Update: 11:00 AM 27-07-2026
+# Last Update: 02:45 PM 27-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15418" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849004621020x576.jpg" group-title="Volleyball", Nepal vs Uzbekistan | CAVA Men's Volleyball Championship 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851318142.jpg" group-title="Multisports", Women's Final Session - WC Kaunas, Lithuania Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849006281020x576.jpg" group-title="Volleyball", Bangladesh vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:24 AM 27-07-2026
-#last update time: 11:00:30 AM 27-07-2026
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784653587317/4247433_CASACARDS_SPORTY_APP.png" group-title="Cricket", Guyana Amazon Warriors Vs Lahore Qalandars | Global Super League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/guyana_amazon_warriors_vs_lahore_qalandars_4247433_english.m3u8
+# last_update: 02:20:24 PM 27-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785140106858_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Men's 71kg - Weightlifting - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785158433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=02b5d2ab5adc4f0d441322108abee2dc90f973aa5420bddc208e1a18cba82dd4
+#last update time: 02:45:19 PM 27-07-2026
