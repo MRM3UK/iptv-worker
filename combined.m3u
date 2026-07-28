@@ -236,22 +236,30 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:02:29 PM 28-07-2026
+#last update time: 3:32:41 PM 28-07-2026
 # Playlist Name: Tapmad bd
-# Last Update: 01:00 PM 28-07-2026
+# Last Update: 03:45 PM 28-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15473" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851437391020x576.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15421" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851596231020x576.jpg" group-title="Volleyball", Nepal vs Kazakhstan | CAVA Men's Volleyball Championship 2026
+#EXTINF:-1 tvg-id="tapmad-15422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851597511020x576.jpg" group-title="Volleyball", Uzbekistan vs Bangladesh | CAVA Men's Volleyball Championship 2026
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:32 PM 28-07-2026
-#last update time: 01:00:31 PM 28-07-2026
+# last_update: 03:20:26 PM 28-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785228305745_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Men's 88kg - Weightlifting - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785246629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1838a7aa6009f1a2e604f73ac445dd8cb1c7eabed5a33e4531224fc92e03a586
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg" group-title="Aquatics", Men's 50m Butterfly Heats - Aquatics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785250239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf128efb80584e7ec189dfcf86883c5bd8360adb7e28cf20aa4753a8e2e3f763
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785230190978_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's Heptathlon - Athletics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785250231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c0fd44664d98f8f77d6045d59b4e6085301a209acf606c30fd507305a0d77db9
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", England vs Scotland - Para Mixed Pairs - Final - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785246637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=396f00c6a6b710a29b6f138744e36120c062246ab6e6987399a51b8f9d859657
+#last update time: 03:45:26 PM 28-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Cricket", Pakistan Women Vs Sri Lanka Women | Pakistan Women's tour of Sri Lanka 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/pakistan_women_vs_sri_lanka_women_4247427_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Cricket", Malaysia Xi Vs Sea Hawks Cricket Club | Malaysia and Sea Hawks Cricket Club 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malaysia_xi_vs_sea_hawks_cricket_club_4247199_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_FC-WEB.jpg" group-title="Football", Chelsea Vs Western Sydney Wanderers | Club Friendlies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/chelsea_vs_western_sydney_wanderers_4248011_english.m3u8
