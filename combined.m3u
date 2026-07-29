@@ -236,16 +236,62 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:17:28 PM 29-07-2026
+#last update time: 4:02:31 PM 29-07-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pretoria%2C%20Men's%20%26%20Women's%20Round%20of%2016%20(Secondary%20Court).jpg" group-title="LIVE", Pretoria, Men's & Women's Round of 16 (Secondary Court) - Premier Padel Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=6fb663bbc817e39eab0a90d875c00877&x-time=1785319320
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pretoria%2C%20Men's%20%26%20Women's%20Second%20Round%20(Center%20Court).jpg" group-title="LIVE", Pretoria, Men's & Women's Second Round (Center Court) - Premier Padel Tennis
+https://livecdn-bp-iptv.rumsport10.live/live_abr/274845/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=128ef73e8208e58b9ab95faa456d28ad&x-time=1785318420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celta%20Vigo%20vs%20Academico%20Viseu.jpg" group-title="LIVE", Celta Vigo vs Academico Viseu - Friendlies Clubs
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64f2c28cf753005716d3d6/chunks.m3u8?is_vip=false&token=1785405755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8447b095416bac9df49a88b9953c2d7d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brindabella%20vs%20Queanbeyan%20City.jpg" group-title="LIVE", Brindabella vs Queanbeyan City - Capital Territory NPL
+https://livecdn-tc-livestream.rumsport10.live/sla/1-69de5d81d40f3e2a71ff9dab/chunks.m3u8?is_vip=false&token=1785405757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af2a0870354ac3f6f2046cb9cdbd8af0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tottenham%20vs%20Sydney.jpg" group-title="LIVE", Tottenham vs Sydney - Friendlies Clubs
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a49270b8cb9e8c43b7ed912/chunks.m3u8?is_vip=false&token=1785405759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01db6bd1c9c0b092c9c95f83b7581c56
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Up%20Country%20Lions%20SC%20vs%20Red%20Star%20SC.jpg" group-title="LIVE", Up Country Lions SC vs Red Star SC - LK Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a693b7c7692338187fe2f97/chunks.m3u8?is_vip=false&token=1785405760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f74be130a10be84d66be285320e9aca8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Olympic%20FC%20Women%20vs%20Charlestown%20Azzuri%20Women.jpg" group-title="LIVE", Newcastle Olympic FC Women vs Charlestown Azzuri Women - AUS NSW Women's Premier League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a692d6c357679400ccbff1b/chunks.m3u8?is_vip=false&token=1785405762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1b38f14fc99e6c4feea567394b0eb710
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yeoju%20Sejong%20vs%20Dangjin%20Citizen.jpg" group-title="LIVE", Yeoju Sejong vs Dangjin Citizen - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf09/chunks.m3u8?is_vip=false&token=1785405763-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45f9c0d6dfff547fdba06398df84131d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ulsan%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Ulsan Citizen vs Ulsan Hyundai FC - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf0a/chunks.m3u8?is_vip=false&token=1785405764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-691cfa2803505536459e4b8d09c4baa4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gwangju%20FC%20vs%20Cheonan%20City.jpg" group-title="LIVE", Gwangju FC vs Cheonan City - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf0b/chunks.m3u8?is_vip=false&token=1785405767-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-89a572a7c74cd19553ca269adca40891
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gimpo%20Citizen%20vs%20Incheon%20United.jpg" group-title="LIVE", Gimpo Citizen vs Incheon United - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf0c/chunks.m3u8?is_vip=false&token=1785405768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a39671318038b27f47ef5de7a529ad1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gimcheon%20Sangmu%20FC%20vs%20Suwon%20City%20FC.jpg" group-title="LIVE", Gimcheon Sangmu FC vs Suwon City FC - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf0d/chunks.m3u8?is_vip=false&token=1785405770-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2acccd107bf6bdf1b7ad36517089ab9d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Busan%20Transportation%20vs%20Jinju%20Citizen.jpg" group-title="LIVE", Busan Transportation vs Jinju Citizen - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf0e/chunks.m3u8?is_vip=false&token=1785405771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-72360a024b13e93a8c9a937ca2f121c1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Busan%20I%20Park%20vs%20FC%20Seoul.jpg" group-title="LIVE", Busan I Park vs FC Seoul - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf0f/chunks.m3u8?is_vip=false&token=1785405773-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bba8b692421a2d777ac960f9147a94d2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bucheon%20FC%201995%20vs%20Paju%20Citizen.jpg" group-title="LIVE", Bucheon FC 1995 vs Paju Citizen - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf10/chunks.m3u8?is_vip=false&token=1785405774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88285843ec9061b4992909d39ad2a466
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asan%20Mugunghwa%20vs%20Siheung%20Citizen.jpg" group-title="LIVE", Asan Mugunghwa vs Siheung Citizen - FA Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63af4563a9a14b7d5faf11/chunks.m3u8?is_vip=false&token=1785405775-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3df55f12a6c67d2f3a70dfcd8801fd01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20vs%20Borussia%20Dortmund.jpg" group-title="LIVE", Cerezo Osaka vs Borussia Dortmund - Friendlies Clubs
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a49270b8cb9e8c43b7ed913/chunks.m3u8?is_vip=false&token=1785405777-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1da13b9663dd18b1976d9acca401b6ab
 # Playlist Name: Tapmad bd
-# Last Update: 01:15 PM 29-07-2026
+# Last Update: 04:00 PM 29-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:33 PM 29-07-2026
-#last update time: 01:15:19 PM 29-07-2026
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Tennis", Day 2 | ATP 250 - Mifel Tennis Open by Telcel Oppo 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143517_english.m3u8
+# last_update: 03:50:26 PM 29-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785318216598_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 200m - Athletics - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785334838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=24370180406bd4909ec60c6d746fe2efec96e0f9143f0940c44b8ac19b5bb73b
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785318518293_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 200m Freestyle - Aquatics - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785336636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=48d67ea08cd4ced7a1210ded70b3833689fb7c559fe722124aa8a18b6da1ac97
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Day 6 - Athletics - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785338440~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=09e1d92c456d4c08efe1b7e3ca46a3740fdb23d63f507794e45750bd28dab464
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785314628024_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Women's 77kg - Weightlifting - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785333034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=87b9c420b057a3b9ca79a65492be83f95f49ba6b297b1f6cce5c6551206e3295
+#last update time: 04:00:36 PM 29-07-2026
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246708_52990_NEP_NED_fc-App.png" group-title="Cricket", Netherlands Vs Nepal | ICC CWC League 2 Netherlands 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/netherlands_vs_nepal_4246708_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762381/4246726_CASACARDS_SPORTY_APP.png" group-title="Cricket", Galle Gallants Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_kandy_royals_4246726_english.m3u8
