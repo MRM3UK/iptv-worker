@@ -236,38 +236,46 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 6:47:32 PM 30-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pretoria%2C%20Men's%20%26%20Women's%20Round%20of%2016%20(Center%20Court).jpg" group-title="LIVE", Pretoria, Men's & Women's Round of 16 (Center Court) - Premier Padel Tennis
+#last update time: 9:02:34 PM 30-07-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brave%20vs%20Phoenix.jpg" group-title="LIVE", Brave vs Phoenix - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-bp-iptv.rumsport10.live/live_abr/274845/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=b5b59e5639cfdfa40ad66b3deb86a290&x-time=1785415620
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pretoria%2C%20Men's%20%26%20Women's%20Round%20of%2016%20(Secondary%20Court).jpg" group-title="LIVE", Pretoria, Men's & Women's Round of 16 (Secondary Court) - Premier Padel Tennis
-https://livecdn-bp-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=712a557592e1b9a282bbdaf573474c16&x-time=1785415620
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20l'Ain%20%20Stage%203.jpg" group-title="LIVE", Tour de l'Ain | Stage 3 - UCI Europe Tour
-https://livecdn-bp-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=c788a7cbdf331145c476d69fe9e43b97&x-time=1785415620
+https://livecdn-bp-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=072fdd9f7a80ad25399bee8979103cbd&x-time=1785423720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20of%20Denmark%20%20Stage%202.jpg" group-title="LIVE", Tour of Denmark | Stage 2 - UCI Pro Series
+https://livecdn-bp-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=4d713405ee07c6d734f7c176e46a1237&x-time=1785422820
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pretoria%2C%20Men's%20%26%20Women's%20Round%20of%2016%20(Center%20Court).jpg" group-title="LIVE", Pretoria, Men's & Women's Round of 16 (Center Court) - Premier Padel Tennis
+https://livecdn-bp-iptv.rumsport10.live/live_abr/274845/720p/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=1f66af32e3c3ea99c1adbc68238293c7&x-time=1785423720
 # Playlist Name: Tapmad bd
-# Last Update: 06:45 PM 30-07-2026
+# Last Update: 09:00 PM 30-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853970941020x576.jpg" group-title="Cricket", Sri Lanka Lions vs Afghanistan Pathans | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15229" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853236871020x576women.jpg" group-title="Cricket", Southern Brave vs Birmingham Pheonix - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:26 PM 30-07-2026
+# last_update: 08:50:27 PM 30-07-2026
 #EXTINF:-1 tvg-id="sonyliv-1090537866" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496130047498_Durand_cup_26_Samaleswari-Sporting-vs-Baghpat-FC_landscape_thumb.jpg" group-title="Football", Samaleswari Sporting vs Baghpat FC - 30 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000296/Football3007/ENG/master.m3u8?hdnea=exp=1785437430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb1e8d80292144beeb41312698b200663658c9137b9bca9d43c4ec6f893290b5
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg" group-title="Netball", Netball - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785416409573_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Sports", Day 7 - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785437438~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e80b370b234b84f3b88acbe30c1b71c64d916b7337c776562ef679ee2e9f86dd
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785411903485_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Malaysia vs Niue - Men's Pairs - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021384/1785358422376937_CWG_Bowls_and_Para_Bowls_INDIA_vs_BOTSWANA_landscape_thumb.jpg" group-title="Bowls and Para Bowls", India vs Botswana - Men's Pairs - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785435631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ff15f7820261e18976daa92eaab42a1f958a6ecb23162baed6d91934f814f059
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Weightlifting - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647474588819_CWG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Women's +86kg - Weightlifting - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785433838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f21c89577fe5526b3aa5604e590f5cc7e590a9d519616798cf01158dae0d3636
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785411954612_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Tayla Bruce vs Boikhutso Mooketsi - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785419464066_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Bridget Herselman vs Caroline Whitehead - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785437445~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5853fefe16d852107350eba86e40ac65dcf0e6820a31d9d95d81686dd858e189
-#last update time: 06:45:21 PM 30-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090537849" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751252313115_The_Hundred2026_womens_Southern_Brave_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", Southern Brave vs Birmingham Phoenix - 30 Jul 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785441040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1b5c751745ac9ec1804b0c7ea1d430b4cc4fee780cc67b9a55f1e675441c0faa
+#last update time: 09:00:34 PM 30-07-2026
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg" group-title="Cricket", Sri Lankan Lions Vs Afghanistan Pathans | Asian Legends League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lankan_lions_vs_afghanistan_pathans_4248200_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_kandy_royals_4246720_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Golf", Main Feed   Day 1 | Rocket Classic 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/main_feed___day_1_4248044_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Tennis", World Feed | ATP 500 - Mubadala DC Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/world_feed_143646_english.m3u8
