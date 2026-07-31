@@ -236,29 +236,35 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 1:32:27 PM 31-07-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%203.jpg" group-title="LIVE", Secto Rally Finland: Stage 3 - WRC
+#last update time: 4:02:22 PM 31-07-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alaves%20vs%20Castell%C3%B3n.jpg" group-title="LIVE", Alaves vs Castellón - Friendlies Clubs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785569548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e109cb88327b15e511100c001672f184
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20North%20Harbour.jpg" group-title="LIVE", Tasman vs North Harbour - NPC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1785569550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4b328545828b3af25994cd7efc797b91
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%204.jpg" group-title="LIVE", Secto Rally Finland: Stage 4 - WRC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785569551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4e63a225ac0d02954db36ad2ed641ee
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a68d92b15289307fd1e1128/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=e20b375c11adc22a540c898c4fbc7ec6&x-time=1785492120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%205.jpg" group-title="LIVE", Secto Rally Finland: Stage 5 - WRC
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785578544-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2a0edcf53bf6a1ff063bf86a22102b6b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Timor%20Leste%20vs%20Indonesia.jpg" group-title="LIVE", Timor Leste vs Indonesia - ASEAN Championship
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4bca129a1d202ef6f584b1/chunks.m3u8?is_vip=false&token=1785578548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdb9e8dc3797ac190497f33baf2a5ecf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Melbourne%20Storm.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Melbourne Storm - NRL Rugby
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1785578549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7aa3730313c7964cdcdec688182bfcd8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Broadmeadow%20Magic%20Women%20vs%20New%20Lambton%20FC%20Women.jpg" group-title="LIVE", Broadmeadow Magic Women vs New Lambton FC Women - AUS NSW Women's Premier League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a2a9daf3edc4d301767ec/chunks.m3u8?is_vip=false&token=1785578551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25133b091d2e46423d34d416b58d5949
 # Playlist Name: Tapmad bd
-# Last Update: 01:30 PM 31-07-2026
+# Last Update: 04:15 PM 31-07-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15474" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853990141020x576.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15478" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854072441020x576.jpg" group-title="Cricket", Pakistan Panthers vs Asian Stars | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:28 PM 31-07-2026
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Wales vs Malaysia - Men's Pairs - Bowls And Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+# last_update: 03:50:25 PM 31-07-2026
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785488118042_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Wales vs Malaysia - Men's Pairs - Bowls and Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785504032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=999bc13d4c4c650a91119c828e3936977fd6ed23b7713169464a157829950ae4
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Netball - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785491080887_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's Decathlon - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785507639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=852ec4062b4efc49a07079470af5e4558ba4592ef7c6885ab8f18dc414b50cd1
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021470/1785444541503720_CWG_Boxing_SemiFinal_PREETI_vs_CATHERINE_landscape_thumb.jpg" group-title="Boxing", Preeti Preeti vs Catherine Mwape - Women's 54kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785504039~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3421d55561fcea78b8d3d092813ff514c66479931fc169b6b87f7a422200a5e0
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785490493619_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Women's 4000m Ind. Pursuit - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785507645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=908470857613d75e7e27d6c162a574ccd720e2d0535eff1a75833c257bea2f59
