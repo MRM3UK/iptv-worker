@@ -227,47 +227,53 @@ https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=daqG34SGGxbJL3LxCwYi4Q&expir
 https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kxFB6OLg8JpZfhe98BzwPw&expires=1785126041
 # --- FOOTYSTREAM SECTION ---
 #name: Bingstream Auto Update Playlist
-#last update time: 9:17:39 PM 07-08-2026
+#last update time: 10:17:31 PM 07-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ireland%20vs%20Afghanistan.jpg" group-title="LIVE", Ireland vs Afghanistan - 2nd ODI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786202260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-53531e758502f88cd73f20161e90a118
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786205852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed1226d49cd8c549e622299e0aba5ca5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%207.jpg" group-title="LIVE", Tour de France Femmes - Stage 7 - UCI Women's World Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786202261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-412587b400ce8c98d402f6f6f3275067
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786205854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c78c7eadf9d204ae8e1491cb6927b0f8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20Leeds.jpg" group-title="LIVE", Phoenix vs Leeds - The Hundred Women
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786202273-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-462d462608e937ccda721b626ed1abb8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Naftan%20Novopolotsk%20vs%20FK%20Arsenal%20Dzyarzhynsk.jpg" group-title="LIVE", Naftan Novopolotsk vs FK Arsenal Dzyarzhynsk - Belarus Premier League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed636/chunks.m3u8?is_vip=false&token=1786202279-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-30913ea9236d5af6bcb401e65882ad64
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rodina%20U19%20vs%20Ural%20U19.jpg" group-title="LIVE", FC Rodina U19 vs Ural U19 - Russia Youth Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e003958/chunks.m3u8?is_vip=false&token=1786202283-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92688d9d8dba76925227f9f9d47e2396
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786205856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e537aff181b2b7cec862182dd285e25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786202284-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01e065b0d34290efc882918e0d6fb94c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786205857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-82cdcd4b08586bd8b817dfbfaa4d0815
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Iva%20Jovic%09Alina%20vs%20Korneeva.jpg" group-title="LIVE", Iva Jovic	Alina vs Korneeva - Rogers Cup
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a73b351497eb195e8b57f42/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=c417f34950bf752f4e98ad69a753e908&x-time=1786115880
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a73b351497eb195e8b57f42/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=47b031b6c331fb8dc728024762150293&x-time=1786119420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Unirea%202004%20Slobozia%20vs%20A.C.F.%20Gloria%20Bistrita.jpg" group-title="LIVE", FC Unirea 2004 Slobozia vs A.C.F. Gloria Bistrita - ROM Liga II
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a657f5c818b53788cf93f2c/chunks.m3u8?is_vip=false&token=1786202290-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9e2d607ea2e1f944dd5000611acd9cdd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Etar%20vs%20Marek%20Dupnitza.jpg" group-title="Football", Etar vs Marek Dupnitza - BUL Vtora Liga
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a73b351497eb195e8b57f42/chunks.m3u8?is_vip=false&token=1786202306-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-932d7abfe12d307599c757adae1f39a9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a657f5c818b53788cf93f2c/chunks.m3u8?is_vip=false&token=1786205860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b41b305750094edad9439808dd0845d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MTK%20Budapest%20vs%20Puskas%20Academy.jpg" group-title="LIVE", MTK Budapest vs Puskas Academy - Hungary NB I
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed63d/chunks.m3u8?is_vip=false&token=1786205862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d27a2c4b9f704b4aa8fa2a1b9278a4b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ND%20Beltinci%20vs%20NK%20Rudar%20Velenje.jpg" group-title="LIVE", ND Beltinci vs NK Rudar Velenje - Slovenia 2. SNL
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f92157b14e876daa20ca/chunks.m3u8?is_vip=false&token=1786205864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-40cf1dc36820d993cae10a2146404f86
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Etar%20vs%20Marek%20Dupnitza.jpg" group-title="LIVE", Etar vs Marek Dupnitza - BUL Vtora Liga [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a73b351497eb195e8b57f42/chunks.m3u8?is_vip=false&token=1786205866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9d6c46ec73e3d6d2773bca65cd4ba19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Etar%20vs%20Marek%20Dupnitza.jpg" group-title="LIVE", Etar vs Marek Dupnitza - BUL Vtora Liga [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a73651632d7e68a25fe900f/chunks.m3u8?is_vip=false&token=1786205867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-601af49562227df86853352ad63a38af
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dynamo%20Moscow%20U19%20vs%20Lokomotiv%20Moscow%20U19.jpg" group-title="LIVE", Dynamo Moscow U19 vs Lokomotiv Moscow U19 - Russia Youth Championship
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5504861c2420e96e00395c/chunks.m3u8?is_vip=false&token=1786205869-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9efa6de31c3519728f6e01eefe89c2f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Polonia%20Bytom%20vs%20MKP%20Pogon%20Siedlce.jpg" group-title="LIVE", Polonia Bytom vs MKP Pogon Siedlce - I Liga
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed65c/chunks.m3u8?is_vip=false&token=1786205870-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c0135ebc3cf9ccf41e8fda91cd4a6aed
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LIV%20Golf%20New%20York.jpg" group-title="LIVE", LIV Golf New York - LIV Golf
+https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1786205871-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11ce2861fd34a86350b38f44989d0b5e
 # Playlist Name: Tapmad bd
-# Last Update: 09:15 PM 07-08-2026
+# Last Update: 10:15 PM 07-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15240" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860049531020x576women.jpg" group-title="Cricket", Birmingham Pheonix vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860840241020x576.jpg" group-title="E Sports", PUBG Mobile - Day 2 | Esports World Cup 2026 (EWC)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860838291020x576.jpg" group-title="E Sports", Tekken 8 - Day 3 | Esports World Cup 2026 (EWC)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:34 PM 07-08-2026
-#EXTINF:-1 tvg-id="sonyliv-1090538724" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707723503385_DC26_East_Bengal_FC_vs_South_United_FC_landscape_thumb.jpg" group-title="Football", East Bengal FC vs South United FC - 7 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/master.m3u8?hdnea=exp=1786128637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cfd9f580a4812d08788013df1ac73b662725a28e8b5b05a482da01d9b8012ea5
+# last_update: 10:20:27 PM 07-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090538734" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 2nd T20I - 7 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/master.m3u8?hdnea=exp=1786130433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=652f9d6f4ee74bdf3e659efdbd8b436252388406dbde9db232dfe36e69fe272d
 #EXTINF:-1 tvg-id="sonyliv-1090538725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785345492958191_The_Hundred2026_womens_Birmingham_Phoenix_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs Sunrisers Leeds - 7 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786132233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=083793c1d5fb910f8578ebf3fc94039f5578edf0bcfd79df999f4fea889b7d52
+#EXTINF:-1 tvg-id="sonyliv-1090538732" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785345485508191_The_Hundred2026_mens_Birmingham_Phoenix_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs Sunrisers Leeds - 7 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786141234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e493927419a20c4103f04205dfeb6dd3e28372f2b72634415ebf996084968591
 #EXTINF:-1 tvg-id="sonyliv-1090538745" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg" group-title="Golf", New York - Day 2 - 7 Aug 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/master.m3u8?hdnea=exp=1786135830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=676c7f166b84eb046c3fb2948b5a3c12e88f9b410e2d326029dee5c6aa451676
