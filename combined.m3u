@@ -219,28 +219,28 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-10 05:00:59 PM (BD Time)"
+#"last updated": "2026-08-10 06:01:00 PM (BD Time)"
 # Total Active Links: 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=XVOp9Id7HXehJYOTz_Uk5A&expires=1786364448&ch=willowsd&s=2c14f60b2acd5a12d300a5e6430baea3
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=LiOZ8COyGzVxbXQ9fnZbrw&expires=1786368051&ch=willowsd&s=142a2c1d531ed978ae487af83a1ffb1d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow HD
-https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=fJVOCADhIv8bHGnpSaoSbw&expires=1786364453&ch=hdwillos5&s=48f08cdc4656659597039ff5514f8e56
+https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=yDdVau9NlDebSjWUPYRRFA&expires=1786368055&ch=hdwillos5&s=541d7c32f3514a6eff2e9a9354569f17
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
-https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=o1kEEIz6-aeIwSsdiwqLQw&expires=1786364457&ch=cricgo2&s=14556c473110d20890b70d7c45872ff8
+https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=sFRISKSDgVY-5Od_2H7DxQ&expires=1786368058&ch=cricgo2&s=a71a39631788f03215b58dd04369ea78
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:17:23 PM 10-08-2026
+#last update time: 6:02:27 PM 10-08-2026
 # Playlist Name: Tapmad bd
-# Last Update: 05:15 PM 10-08-2026
+# Last Update: 06:00 PM 10-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:36 PM 10-08-2026
+# last_update: 05:50:29 PM 10-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090538900" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708329156385_DC26_Mohun_Bagan_SG_vs_CISF_Protectors_landscape_thumb.jpg" group-title="Football", Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/master.m3u8?hdnea=exp=1786377031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5fb8b8c0e6f9234aef1b7e5d3bacc813847288f46960ae97f296ca9a6eb36844
