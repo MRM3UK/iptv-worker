@@ -219,36 +219,40 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-10 07:01:15 PM (BD Time)"
+#"last updated": "2026-08-10 08:01:22 PM (BD Time)"
 # Total Active Links: 6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trent%20Rockets%20Women%20vs%20Southern%20Brave%20Women.png" group-title="The Hundred Women's Competition 2026", Trent Rockets Women vs Southern Brave Women - Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Southern%20Brave%20Women%20vs%20Trent%20Rockets%20Women.png" group-title="The Hundred Women's Competition 2026", Southern Brave Women vs Trent Rockets Women - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=_dRE_t-VOKi-OlGruHZIbg&expires=1786371648&ch=willowsd&s=b625c8826e9fd5e4a40678cfe9770240
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trent%20Rockets%20Women%20vs%20Southern%20Brave%20Women.png" group-title="The Hundred Women's Competition 2026", Trent Rockets Women vs Southern Brave Women - Star Sports 2
-https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=tNUPzneYiFDP5225oUclkg&expires=1786371656&ch=star2cl5&s=c65f7128902db3cbf348c0cbf7b302ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Trent%20Rockets%20Women%20vs%20Southern%20Brave%20Women.png" group-title="The Hundred Women's Competition 2026", Trent Rockets Women vs Southern Brave Women - Willow HD
-https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=xcGMExDk3vJFDl9Z96omjg&expires=1786371660&ch=hdwillos5&s=4f288dbca43cb5e5096b73fa65e09501
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=2wOtngVIM1JZYwRPpYQz-w&expires=1786375254&ch=willowsd&s=910d6bbbb3e3e3743b5beacf6ca6d27f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Southern%20Brave%20Women%20vs%20Trent%20Rockets%20Women.png" group-title="The Hundred Women's Competition 2026", Southern Brave Women vs Trent Rockets Women - Star Sports 2
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=Nb_8o6qcOvgLW8xfBNq5lw&expires=1786375266&ch=star2cl5&s=343eeb5a476bd338b5a40548d45563bc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Southern%20Brave%20Women%20vs%20Trent%20Rockets%20Women.png" group-title="The Hundred Women's Competition 2026", Southern Brave Women vs Trent Rockets Women - Willow HD
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=4skFG0rmhmBqo47bdf5Aaw&expires=1786375271&ch=hdwillos5&s=08c496b151927de2618605c4db117f4b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Cricket
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
-https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=trLltD4JAW-ltxp5aOUWUg&expires=1786371672&ch=cricgo2&s=c463aad24c8a267396594f2b34feb696
+https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=tshAsR7uCMe6AyRtLLs58g&expires=1786375280&ch=cricgo2&s=5d214426c7b96c5a699f22ede7c910d2
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:32:32 PM 10-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Brave.jpg" group-title="Cricket", Rockets vs Brave - The Hundred Women
+#last update time: 8:32:36 PM 10-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Brave.jpg" group-title="LIVE", Rockets vs Brave - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1786455153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-74bbfc164f5ca4bb6e758ca031c4d38e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786458758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d0cfee679ea11047f59c4be146608cc
 # Playlist Name: Tapmad bd
-# Last Update: 07:30 PM 10-08-2026
+# Last Update: 08:30 PM 10-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-15245" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17863484271020x576women.jpg" group-title="Cricket", Trent Rockets vs Southern Brave - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:25 PM 10-08-2026
+# last_update: 08:20:34 PM 10-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090538901" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708502815385_DC26_SC_DELHI_vs_Indian_Air_Force_FT_landscape_thumb.jpg" group-title="Football", SC Delhi vs Indian Air Force FT - 10 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000293/Football1008/ENG/master.m3u8?hdnea=exp=1786387832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=43a33de44c8460739236f4ed4404cd86460fe01c3b7b1e3b225154d1ff4fb874
+#EXTINF:-1 tvg-id="sonyliv-1090538909" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021453/1785436888158520_the_hundred_womens_Trent_Rockets_vs_Southern_Brave_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs Southern Brave - 10 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786391444~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e067748688c18d7ff3bb584838dfd53d0dbe92c23cf524cf8c9273f74f5a0b1d
