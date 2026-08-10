@@ -219,56 +219,32 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-10 08:00:55 AM (BD Time)"
-# Total Active Links: 4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Willow Cricket
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=QCsHjvkt7SFUYLstH99_rQ&expires=1786332043&ch=willowsd&s=20e7bf3ed677180b650e871914123afe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Star Sports 2
-https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=mZt85-b5cm6mDA-p6TeOTg&expires=1786332046&ch=star2cl5&s=8d6c1bc98b8911594ef37b97486790d6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Willow HD
-https://dz4.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=gKM-gXYixNCZA6jJCwTffA&expires=1786332049&ch=hdwillos5&s=829e12ac61d27c1db4f067df2cf73841
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - TNT Cricket
-https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=hkQi1gCQX273JTU-nw7mYg&expires=1786332052&ch=bbtsvp2&s=eb62b589d7b423abf01bf9a3c69d0442
+#"last updated": "2026-08-10 10:00:38 AM (BD Time)"
+# Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:32:26 AM 10-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
+#last update time: 10:02:35 AM 10-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Club%20Tijuana.jpg" group-title="LIVE", San Diego vs Club Tijuana - Leagues Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786415547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d995b450b09c699f68cb913720d4666c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20San%20Diego%20Padres.jpg" group-title="LIVE", Houston Astros vs San Diego Padres - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/268280/720p/chunks.m3u8?is_vip=false&token=1786415550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4496b2590f46d0c4cab407ecd6c4f65
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botic%20Van%20De%20Zandschulp%20vs%20Jakub%20Mensik.jpg" group-title="LIVE", Botic Van De Zandschulp vs Jakub Mensik - Rogers Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/13-6a769d51b630e987f3527fe2/chunks.m3u8?is_vip=false&token=1786412874-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2d76124d74dd9e9e1824a2b293f6bb3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Reign%20FC%20W%20vs%20Angel%20City%20W.jpg" group-title="LIVE", Seattle Reign FC W vs Angel City W - NWSL Women
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f9218cb9e8c43b3bb209/chunks.m3u8?is_vip=false&token=1786415555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-182b895a360665880311980bb28d0053
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20Puebla.jpg" group-title="LIVE", Austin vs Puebla - Leagues Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb68/chunks.m3u8?is_vip=false&token=1786415557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cbbd68f1bbc9073489f4cfb37120ccab
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20Puebla.jpg" group-title="LIVE", Austin vs Puebla - Leagues Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb68-hd/chunks.m3u8?is_vip=false&token=1786415558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3ade14f25200585b274ff36fac712339
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Matagalpa%20FC%20vs%20Managua%20FC.jpg" group-title="LIVE", Matagalpa FC vs Managua FC - NIC Liga Primera
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f9218cb9e8c43b3bb20a/chunks.m3u8?is_vip=false&token=1786415559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-44fd5db5bba707f39717e06fb984be19
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lan%20Yue%20vs%20Zhuiqiu%20Person.jpg" group-title="LIVE", Lan Yue vs Zhuiqiu Person - Guizhou Wufeng Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d30138cf75300577c8952/chunks.m3u8?is_vip=false&token=1786415561-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f76b0028be535c80e3289231a2ec85f7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%20de%20Cali%20vs%20Atletico%20Nacional%20Medellin.jpg" group-title="LIVE", America de Cali vs Atletico Nacional Medellin - Categoría Primera A
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f9218cb9e8c43b3bb1d1/chunks.m3u8?is_vip=false&token=1786415562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3c48482f51e97bfd3450e5ef2a84ecb8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Club%20Tijuana.jpg" group-title="LIVE", San Diego vs Club Tijuana - Leagues Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb62/chunks.m3u8?is_vip=false&token=1786415564-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d201eb1d0ed3f1ffb5eb6d17829628d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb62/chunks.m3u8?is_vip=false&token=1786420955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8761ccbbbdaff536ef7f22cda8e65ca0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20vs%20Club%20Tijuana.jpg" group-title="LIVE", San Diego vs Club Tijuana - Leagues Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb62-hd/chunks.m3u8?is_vip=false&token=1786415565-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-884b9568afdcaf677c64d405b59f1ec6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Portland%20Timbers.jpg" group-title="LIVE", Club America vs Portland Timbers - Leagues Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb66/chunks.m3u8?is_vip=false&token=1786415566-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf7551e226dd969e333d7c87e3b323fd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb62-hd/chunks.m3u8?is_vip=false&token=1786420956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aea6001c3ec12df0b7b34c253fff59dc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Portland%20Timbers.jpg" group-title="LIVE", Club America vs Portland Timbers - Leagues Cup [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb66/chunks.m3u8?is_vip=false&token=1786420958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-15876996f760051e54399d749c6c821d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20vs%20Portland%20Timbers.jpg" group-title="LIVE", Club America vs Portland Timbers - Leagues Cup [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5a4a9232c497f673a2cb66-hd/chunks.m3u8?is_vip=false&token=1786420959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-52e91ef29e47652ef5d0938ff987cbfd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Coast%20vs%20Auckland%20City.jpg" group-title="LIVE", Central Coast vs Auckland City - OFC Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a58f9218cb9e8c43b3bb20c/chunks.m3u8?is_vip=false&token=1786420961-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-234b989be7081c67f3060720d45bcb50
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guizhou%20Rongjiang%20vs%20Shaanxi%20Hanzhong%20Xiecunqiao%20Yellow%20Wine.jpg" group-title="LIVE", Guizhou Rongjiang vs Shaanxi Hanzhong Xiecunqiao Yellow Wine - Rural Football Super League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a794b27aec149330f631ebe/chunks.m3u8?is_vip=false&token=1786420963-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4fe0014c9cacc6b19d02c8c018a536d1
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 AM 10-08-2026
+# Last Update: 10:15 AM 10-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15778" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17862505761020x576.jpg" group-title="Cricket", c and Barbuda Falcons vs St Lucia Kings | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:24 AM 10-08-2026
+# last_update: 09:50:29 AM 10-08-2026
