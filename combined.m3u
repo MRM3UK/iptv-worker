@@ -219,24 +219,36 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-12 02:00:43 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-08-12 03:01:11 PM (BD Time)"
+# Total Active Links: 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=akPM10ScXotz-cxmspaBfw&expires=1786530050&ch=willowsd&s=2ec6e7a3861d713f37dcf70d54cf6930
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
+https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=dwqyDGgWnbK2lcXOPlnfYw&expires=1786530070&ch=cricgo2&s=2342f7b030892e336dbd2355a07a0a49
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:32:22 PM 12-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toti%20City%20vs%20ABM%20Galaxy.jpg" group-title="LIVE", Toti City vs ABM Galaxy - OFC Champions League
+#last update time: 3:47:48 PM 12-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="LIVE", APIA Leichhardt Tigers vs Sydney United - Australia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5b9c1debc5c3ef2cd8b01f/chunks.m3u8?is_vip=false&token=1786609943-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6de3527f3c94eaddcc44b295b7e2ad00
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Teremoana%20vs%20Savage.jpg" group-title="Boxing", Teremoana vs Savage - Matchroom Boxing
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1786609946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb56183ad2f628a1f37d843684970a9d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a9/chunks.m3u8?is_vip=false&token=1786614470-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26b001995efe7627525637376c66fc48
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brunswick%20Juventus%20FC%20vs%20Preston%20Lions.jpg" group-title="LIVE", Brunswick Juventus FC vs Preston Lions - Australia Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9aa/chunks.m3u8?is_vip=false&token=1786614471-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e4130a472ce2ce4af805604d4c2dd7f1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Sunshine%20Eagles%20vs%20Heidelberg%20United.jpg" group-title="LIVE", North Sunshine Eagles vs Heidelberg United - Australia Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a6/chunks.m3u8?is_vip=false&token=1786614473-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3bb5a118e1f351c98666f2a4be44ff6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Welsh%20Fire%20vs.%20London%20Spirit.jpg" group-title="Cricket", Welsh Fire vs. London Spirit - The Hundred Women
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1786614475-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58a77aa484b4e9ca32d7e6017c9aed6b
 # Playlist Name: Tapmad bd
-# Last Update: 02:45 PM 12-08-2026
+# Last Update: 03:45 PM 12-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:28 PM 12-08-2026
+# last_update: 03:50:27 PM 12-08-2026
+#EXTINF:-1 tvg-id="sonyliv-1090539028" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg" group-title="Football", Neroca FC vs FC Raengdai FT - 12 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/master.m3u8?hdnea=exp=1786549831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e1f23ba77622534cb00bde863aa686a309716a5f415613b929f7cfc8b4ee5f0e

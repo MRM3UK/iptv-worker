@@ -3,15 +3,25 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:32:22 PM 12-08-2026
+#last update time: 3:47:48 PM 12-08-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toti%20City%20vs%20ABM%20Galaxy.jpg" group-title="LIVE", Toti City vs ABM Galaxy - OFC Champions League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="LIVE", APIA Leichhardt Tigers vs Sydney United - Australia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5b9c1debc5c3ef2cd8b01f/chunks.m3u8?is_vip=false&token=1786609943-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6de3527f3c94eaddcc44b295b7e2ad00
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a9/chunks.m3u8?is_vip=false&token=1786614470-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26b001995efe7627525637376c66fc48
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Teremoana%20vs%20Savage.jpg" group-title="Boxing", Teremoana vs Savage - Matchroom Boxing
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brunswick%20Juventus%20FC%20vs%20Preston%20Lions.jpg" group-title="LIVE", Brunswick Juventus FC vs Preston Lions - Australia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1786609946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb56183ad2f628a1f37d843684970a9d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9aa/chunks.m3u8?is_vip=false&token=1786614471-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e4130a472ce2ce4af805604d4c2dd7f1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Sunshine%20Eagles%20vs%20Heidelberg%20United.jpg" group-title="LIVE", North Sunshine Eagles vs Heidelberg United - Australia Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9a6/chunks.m3u8?is_vip=false&token=1786614473-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3bb5a118e1f351c98666f2a4be44ff6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Welsh%20Fire%20vs.%20London%20Spirit.jpg" group-title="Cricket", Welsh Fire vs. London Spirit - The Hundred Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1786614475-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58a77aa484b4e9ca32d7e6017c9aed6b
 
