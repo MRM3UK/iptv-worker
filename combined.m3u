@@ -219,59 +219,63 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-12 10:01:11 PM (BD Time)"
+#"last updated": "2026-08-12 11:01:07 PM (BD Time)"
 # Total Active Links: 5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Star Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/MI%20London%20vs%20Birmingham%20Phoenix.png" group-title="The Hundred Men's Competition 2026", MI London vs Birmingham Phoenix - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=HAZEDR075NJ3SwNKPLlRhQ&expires=1786555257&ch=star2cl5&s=cce1073ce9a54477e997edf03b8af4dc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Willow HD
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=8OhQBEGAJczIIP4lcbwDyw&expires=1786555260&ch=hdwillos5&s=8031325b5ca0272248835287ca66ae92
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/London%20Spirit%20vs%20Welsh%20Fire.png" group-title="The Hundred Men's Competition 2026", London Spirit vs Welsh Fire - Sky Cricket
-https://oz2.bhalocast.com:7060/hls/dodosky2.m3u8?md5=cBfW55jZNZzRWkcFk-t0sw&expires=1786555264&ch=dodosky2&s=153ae2aeec610d6f161b10188897afb5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - Willow HD
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=SrudPUXmkEamINLXXMC4aw&expires=1786558845&ch=willowsd&s=1251641a5f6687ab31cac4653580f2dd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/MI%20London%20vs%20Birmingham%20Phoenix.png" group-title="The Hundred Men's Competition 2026", MI London vs Birmingham Phoenix - Star Sports 2
+https://dz4.bhalocast.com:7060/hls/star2cl5.m3u8?md5=tbip-ZvS4DZQMwF130ueKg&expires=1786558848&ch=star2cl5&s=849335f7978d13e0a04605ed11d7ac94
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/MI%20London%20vs%20Birmingham%20Phoenix.png" group-title="The Hundred Men's Competition 2026", MI London vs Birmingham Phoenix - Sky Cricket
+https://oz2.bhalocast.com:7060/hls/dodosky2.m3u8?md5=ir8Mp6iKGDEFivZkFQilXg&expires=1786558861&ch=dodosky2&s=ed49280589daf30df34a52ba0f589438
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - Willow Cricket
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20Ireland.png" group-title="Afghanistan tour of Ireland, 2026", Afghanistan vs Ireland - CricGo 2
-https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=l2i0suslbe-q3JZjhwq1HA&expires=1786555270&ch=cricgo2&s=a1ec63b0b3fd1729a091e08127cefc02
+https://dz4.bhalocast.com:7060/hls/cricgo2.m3u8?md5=FqQQ8u_AUWvmQ_vfFB-niA&expires=1786558865&ch=cricgo2&s=9cbb48c3f550b715146c350c9d0e2ac7
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:32:27 PM 12-08-2026
+#last update time: 11:32:26 PM 12-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fire%20vs%20Spirit.jpg" group-title="LIVE", Fire vs Spirit - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1786638748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-520bcb3e8f37565468e67b90f598a735
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1786642347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a533b76041f8e5a4f10ad42c6aa7ba7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Copenhagen%20vs%20Debreceni%20VSC.jpg" group-title="LIVE", FC Copenhagen vs Debreceni VSC - UEFA Europa Conference League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d5a511da39967244c67e7-hd/chunks.m3u8?is_vip=false&token=1786638750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11cabcf58a7debd8c0dfaf52b0d67bf1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d5a511da39967244c67e7-hd/chunks.m3u8?is_vip=false&token=1786642349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7dd947fdeacf21a025594c144bb811f5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Copenhagen%20vs%20Debreceni%20VSC.jpg" group-title="LIVE", FC Copenhagen vs Debreceni VSC - UEFA Europa Conference League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d5a511da39967244c67e7/chunks.m3u8?is_vip=false&token=1786638752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f14724da4150f7b6c3511cb7f8ae028e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d5a511da39967244c67e7/chunks.m3u8?is_vip=false&token=1786642350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f05e020c8d2b5db8b4246598fa23fc5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/GKS%20Katowice%20vs%20Hapoel%20Tel%20Aviv.jpg" group-title="LIVE", GKS Katowice vs Hapoel Tel Aviv - UEFA Europa Conference League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0fd-hd/chunks.m3u8?is_vip=false&token=1786638753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c79154fd70ce9f9054c33e9f967336a8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0fd-hd/chunks.m3u8?is_vip=false&token=1786642351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a36461b5745828e363ac4f8ad71ebe2a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/GKS%20Katowice%20vs%20Hapoel%20Tel%20Aviv.jpg" group-title="LIVE", GKS Katowice vs Hapoel Tel Aviv - UEFA Europa Conference League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0fd/chunks.m3u8?is_vip=false&token=1786638754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90655bfc271b004da97b0fab5a6f4876
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c24e3c4446a894082a0fd/chunks.m3u8?is_vip=false&token=1786642352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d946a2aa79c5562cca539b67eda6b8f5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20vs%20Everton.jpg" group-title="LIVE", Newcastle vs Everton - Friendlies Clubs [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a61fb3f71b44d15da9e0f49-hd/chunks.m3u8?is_vip=false&token=1786638756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b722c4dccfbe14adead3f7ee39b46fc0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1786642353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3eb17593ff6237fb65cf0fcabd9926f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20vs%20Everton.jpg" group-title="LIVE", Newcastle vs Everton - Friendlies Clubs [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a61fb3f71b44d15da9e0f49/chunks.m3u8?is_vip=false&token=1786638757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2197f57776683e62ab909b4479c8427b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1786642355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03e7433dcee0fe389ebc1f5a1001aa97
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20vs%20Everton.jpg" group-title="LIVE", Newcastle vs Everton - Friendlies Clubs [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a61fb3f71b44d15da9e0f49/chunks.m3u8?is_vip=false&token=1786642355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1b70c611642a762d43511babb61fc6b9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FSV%20Frankfurt%20vs%20Eintracht%20Frankfurt.jpg" group-title="LIVE", FSV Frankfurt vs Eintracht Frankfurt - Friendlies Clubs
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79fcb1fae1431b1d11a402/chunks.m3u8?is_vip=false&token=1786642357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b049c7c526a5810083525b97f2e4cd22
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Cincinnati.jpg" group-title="LIVE", ATP Cincinnati - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786638758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e4edac3cf1b3d286c27b380e37ee2c11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="Horse Racing", Saratoga Live - Horse Racing
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786638760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eebb5814e3d767210aa9ada9ece112a6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786642358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd007394303ea99a0d4e8963ff3f1e69
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="LIVE", Saratoga Live - Horse Racing
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786642359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b3a41c1dc796667b7779158d34b5535
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20MI%20London.jpg" group-title="LIVE", Phoenix vs MI London - The Hundred
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786642361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4deb7a84195537f664a3591e2261905d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baltimore%20Orioles%20vs%20Minnesota%20Twins.jpg" group-title="LIVE", Baltimore Orioles vs Minnesota Twins - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1786642362-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-557956351e2469912a97bdaa6227d7db
 # Playlist Name: Tapmad bd
-# Last Update: 10:15 PM 12-08-2026
+# Last Update: 11:30 PM 12-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg" group-title="Cricket", Welsh Fire vs London Spirit | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15248" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864511721020x576women.jpg" group-title="Cricket", Birmingham Pheonix vs MI London - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-id="tapmad-15214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864514161020x576men.jpg" group-title="Cricket", Birmingham Pheonix vs MI London | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:30 PM 12-08-2026
-#EXTINF:-1 tvg-id="sonyliv-1090539031" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631798498131_The_Hundred2026_womens_Birmingham_Phoenix_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs MI London - 12 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WBPMI/master.m3u8?hdnea=exp=1786564264~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ef30285695c9fb11676b16c592fb48af5846b0593298d2a87a84368433893b1a
-#EXTINF:-1 tvg-id="sonyliv-1090539025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631446056131_The_Hundred2026_mens_Welsh_Fire_vs_London_Spirit_landscape_thumb.jpg" group-title="Cricket", Welsh Fire vs London Spirit  - 12 Aug 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786564271~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d7cec12ba3e6f92b467c96ce5cd995ce8b7300ee008cf4f7e98aca40b1c0b3e1
+# last_update: 11:20:26 PM 12-08-2026
+#EXTINF:-1 tvg-id="sonyliv-1090539026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631791014131_The_Hundred2026_mens_Birmingham_Phoenix_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs MI London - 12 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MBPMI/master.m3u8?hdnea=exp=1786576830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4bff79225e0826114970e0d137b1ab76a488cea976f287317e1ed52fe21e878a
 #EXTINF:-1 tvg-id="sonyliv-1090539027" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 4th T20I - 12 Aug 2026 | Vitality Mixed Disability IT20 series
-https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/master.m3u8?hdnea=exp=1786562431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45e0e3ab563a086fb3794ad7e56a5993568635970d97814a43312e37a17d98fb
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/master.m3u8?hdnea=exp=1786576837~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708ccbe34bad30e49cae7f707b954dfa2270779026afaa32ab0ccf12eb0ad516
