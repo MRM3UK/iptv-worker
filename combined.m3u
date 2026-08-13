@@ -219,36 +219,44 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-13 05:01:28 PM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-08-13 07:01:06 PM (BD Time)"
+# Total Active Links: 6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=MBWi-JBLEXqTtuSRbC4xOA&expires=1786623644&ch=willowsd&s=e32fa75c35d65b5c01beffff2e5eebed
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=XxYEDTe1vmZmn99CttmQDA&expires=1786630848&ch=willowsd&s=7bc7353fce4fe72b05054fcae979eca5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow
-https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=2q2qH5cviVhQOaIYMCvV3A&expires=1786623648&ch=willowbuzz&s=80c608d96cf44586297a83cdf2808379
+https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=7og70pq1BuNRzkmcak_DkQ&expires=1786630851&ch=willowbuzz&s=1eab211577faac5683ad9120419cf19f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Star Sports 1
-https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=epQ0_ZRz_GzOUcGQZ2zG-g&expires=1786623651&ch=star1kibich5&s=ba7057adb20df29bbe4318ffb15d9220
+https://dz4.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=cPyJ9Rk4c3nHTCeLu1EEoQ&expires=1786630854&ch=star1kibich5&s=b813e069b866ef625bb0976cb78261f8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow HD
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=aRIl92XQHn3fjSPHGN7vXw&expires=1786630857&ch=hdwillos5&s=ee2cd228ad6437d5683e204d6c8261f3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - T Sports HD
-https://oz2.bhalocast.com:7060/hls/gtvbd.m3u8?md5=HTX1r1D36Wfv1petT97PqQ&expires=1786623670&ch=gtvbd&s=8beb0e5dc0ca150e99af64841ff5958c
+https://oz2.bhalocast.com:7060/hls/gtvbd.m3u8?md5=XikrEbmuTHFs2jsKjNtHFA&expires=1786630859&ch=gtvbd&s=0487ed076a05d662ad60104b30179bcc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Fox Cricket
+https://oz2.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=ruExNQfnDrWyyMnOaVJ26w&expires=1786630862&ch=cf0sp1&s=afd69e903affe6d73d547fb4f5418d5d
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:49:52 PM 13-08-2026
+#last update time: 7:17:31 PM 13-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Birmingham%20Sessione%20mattutina.jpg" group-title="LIVE", Birmingham: Sessione mattutina - Sessione mattutina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786713452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b44c4c8d83f5456a2620dc20a3eeaa5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20of%20Czech%20Republic%20%26%20Arctic%20Tour%2C%20Stage%201.jpg" group-title="LIVE", Tour of Czech Republic & Arctic Tour, Stage 1 - UCI Pro Series
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786713454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03dbe64edce47b4eb36e009f7d983c8c
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 PM 13-08-2026
+# Last Update: 07:15 PM 13-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865192921020x576.jpg" group-title="Padel", Game Changer Lions vs Hubtown Panorama Panthers | World Padel League 2026
+#EXTINF:-1 tvg-id="tapmad-15950" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865194281020x576.jpg" group-title="Padel", Khan Tigers vs Vedanta Leopards | World Padel League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:29 PM 13-08-2026
-#EXTINF:-1 tvg-id="sonyliv-1090539093" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709573895385_DC26_Jamshedpur_FC_vs_Indian_Air_Force_FT_landscape_thumb.jpg" group-title="Football", Jamshedpur FC vs Indian Air Force FT - 13 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football1308/ENG/master.m3u8?hdnea=exp=1786636232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd118d56526adb36bbfcecdc24ed4530ccb7780d1f5f7d0c011244e68acc9a9b
-#EXTINF:-1 tvg-id="sonyliv-1090539092" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709446092385_DC26_Bodoland_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg" group-title="Football", Bodoland FC vs Karbi Anglong Morning Star FC - 13 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1308/ENG/master.m3u8?hdnea=exp=1786636242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c51c72bbfeecfa4ab060fb1297478caaf5acc494cf2d0b2bd4e1b6c98ca2c82c
+# last_update: 07:20:30 PM 13-08-2026
+#EXTINF:-1 tvg-id="sonyliv-1090539094" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709689118385_DC26_Shillong_Lajong_FC_vs_Langsning_FC_landscape_thumb.jpg" group-title="Football", Shillong Lajong FC vs Langsning FC - 13 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/master.m3u8?hdnea=exp=1786647040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fb426bfefbde6a5c4c83d7033f2a28864d8e38d37fe42f5a6fef350a344b58a5
 #EXTINF:-1 tvg-id="sonyliv-1090539134" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703344075390_DP_World_Tour_Danish_Golf_Championship_day1_landscape_thumb.jpg" group-title="Golf", Danish Golf Championship - Day 1 - 13 Aug 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/master.m3u8?hdnea=exp=1786639833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d520e2acae163df37e9dee22d9dfa2fcb256830567b4dd401e90e12a9857e25d

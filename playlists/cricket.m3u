@@ -2,26 +2,36 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-13 05:01:28 PM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-08-13 07:01:06 PM (BD Time)"
+# Total Active Links: 6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=MBWi-JBLEXqTtuSRbC4xOA&expires=1786623644&ch=willowsd&s=e32fa75c35d65b5c01beffff2e5eebed
+https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=XxYEDTe1vmZmn99CttmQDA&expires=1786630848&ch=willowsd&s=7bc7353fce4fe72b05054fcae979eca5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=2q2qH5cviVhQOaIYMCvV3A&expires=1786623648&ch=willowbuzz&s=80c608d96cf44586297a83cdf2808379
+https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=7og70pq1BuNRzkmcak_DkQ&expires=1786630851&ch=willowbuzz&s=1eab211577faac5683ad9120419cf19f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Star Sports 1
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=epQ0_ZRz_GzOUcGQZ2zG-g&expires=1786623651&ch=star1kibich5&s=ba7057adb20df29bbe4318ffb15d9220
+https://dz4.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=cPyJ9Rk4c3nHTCeLu1EEoQ&expires=1786630854&ch=star1kibich5&s=b813e069b866ef625bb0976cb78261f8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=aRIl92XQHn3fjSPHGN7vXw&expires=1786630857&ch=hdwillos5&s=ee2cd228ad6437d5683e204d6c8261f3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - T Sports HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/gtvbd.m3u8?md5=HTX1r1D36Wfv1petT97PqQ&expires=1786623670&ch=gtvbd&s=8beb0e5dc0ca150e99af64841ff5958c
+https://oz2.bhalocast.com:7060/hls/gtvbd.m3u8?md5=XikrEbmuTHFs2jsKjNtHFA&expires=1786630859&ch=gtvbd&s=0487ed076a05d662ad60104b30179bcc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Fox Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://oz2.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=ruExNQfnDrWyyMnOaVJ26w&expires=1786630862&ch=cf0sp1&s=afd69e903affe6d73d547fb4f5418d5d
 
