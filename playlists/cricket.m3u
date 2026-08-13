@@ -2,31 +2,26 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-13 03:01:09 PM (BD Time)"
-# Total Active Links: 5
+#"last updated": "2026-08-13 05:01:28 PM (BD Time)"
+# Total Active Links: 4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=6U28TXTjEU7YW8j5OXxo-Q&expires=1786616451&ch=willowsd&s=581e1ab3fd81711e4ee17be6d9639d4b
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=MBWi-JBLEXqTtuSRbC4xOA&expires=1786623644&ch=willowsd&s=e32fa75c35d65b5c01beffff2e5eebed
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=657ua6KJgHsQTprKUuOrmA&expires=1786616453&ch=willowbuzz&s=bf9ffe785acdb93827e3f05dab405891
+https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=2q2qH5cviVhQOaIYMCvV3A&expires=1786623648&ch=willowbuzz&s=80c608d96cf44586297a83cdf2808379
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Star Sports 1
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=PjR1sZXpaWofjQtmf5jm2Q&expires=1786616456&ch=star1kibich5&s=e9b0bb9f546ca4d8e24e6b111f358093
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow HD
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=xniQd6VYoJu9_iCbdGELtA&expires=1786616459&ch=hdwillos5&s=4eb4d70b1807fde8022050904176877a
+https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=epQ0_ZRz_GzOUcGQZ2zG-g&expires=1786623651&ch=star1kibich5&s=ba7057adb20df29bbe4318ffb15d9220
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - T Sports HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/gtvbd.m3u8?md5=sVMVomf3aJd39Ea5ufRG7Q&expires=1786616461&ch=gtvbd&s=a078049d074b0d8b91d50cb01e1d8a2b
+https://oz2.bhalocast.com:7060/hls/gtvbd.m3u8?md5=HTX1r1D36Wfv1petT97PqQ&expires=1786623670&ch=gtvbd&s=8beb0e5dc0ca150e99af64841ff5958c
 
