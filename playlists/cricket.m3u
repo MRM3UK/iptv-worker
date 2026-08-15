@@ -2,26 +2,31 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-15 05:00:56 AM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-08-15 07:00:50 AM (BD Time)"
+# Total Active Links: 5
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow Xtra
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=PwfMer2bEJW_vcjNJUhMLQ&expires=1786753237&ch=willowsd&s=99f54a181f8dde04b8fcf6bb77be66a5
+https://dz4.bhalocast.com:7060/hls/wextres5.m3u8?md5=Hj4RKQSIRD_HjVjrZ4Pfjg&expires=1786760436&ch=wextres5&s=1f5dd7158ac9710cabc85591cdb58d82
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Star Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=0qAuOB4wxpBU4rRC5VVTzQ&expires=1786753246&ch=star2cl5&s=4aefaaf84fc3d452e67bcabd4e550166
+https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=-H6McCBridhQkknp9IGLHg&expires=1786760438&ch=willowbuzz&s=4717c7e2fb9d7b03603ae72dcb0df790
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - CricGo 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Star Sports 1
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/cricgo5.m3u8?md5=ML0LVwL0ZKrovyoFJKXweg&expires=1786753249&ch=cricgo5&s=c2876c10b7dc9140280ae67b1ce1504b
+https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=oxLCtTMkFZXEoNu1cqMihA&expires=1786760441&ch=star1kibich5&s=0cf9d7675872e7777dfed741078bddac
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - TNT Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - T Sports HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=qBVHosWfJEEebFtZJQcGpQ&expires=1786753253&ch=bbtsvp2&s=49460afa90360d896834ccb813ba45a5
+https://dz4.bhalocast.com:7060/hls/gtvbd.m3u8?md5=EOw03JZbWfHBrQVsNQ_l3w&expires=1786760444&ch=gtvbd&s=3e335765c1bba2524de134669bac1313
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Fox Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://dz4.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=PiipgTT67CyyGhl7GDFXKA&expires=1786760447&ch=cf0sp1&s=3de04974a0f6b9b952b40e9f34b611fa
 

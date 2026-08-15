@@ -219,60 +219,58 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-15 05:00:56 AM (BD Time)"
-# Total Active Links: 4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Willow Cricket
+#"last updated": "2026-08-15 07:00:50 AM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow Xtra
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://dz4.bhalocast.com:7060/hls/willowsd.m3u8?md5=PwfMer2bEJW_vcjNJUhMLQ&expires=1786753237&ch=willowsd&s=99f54a181f8dde04b8fcf6bb77be66a5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - Star Sports 2
-https://oz2.bhalocast.com:7060/hls/star2cl5.m3u8?md5=0qAuOB4wxpBU4rRC5VVTzQ&expires=1786753246&ch=star2cl5&s=4aefaaf84fc3d452e67bcabd4e550166
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - CricGo 5
-https://oz2.bhalocast.com:7060/hls/cricgo5.m3u8?md5=ML0LVwL0ZKrovyoFJKXweg&expires=1786753249&ch=cricgo5&s=c2876c10b7dc9140280ae67b1ce1504b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Antigua and Barbuda Falcons - TNT Cricket
-https://oz2.bhalocast.com:7060/hls/bbtsvp2.m3u8?md5=qBVHosWfJEEebFtZJQcGpQ&expires=1786753253&ch=bbtsvp2&s=49460afa90360d896834ccb813ba45a5
+https://dz4.bhalocast.com:7060/hls/wextres5.m3u8?md5=Hj4RKQSIRD_HjVjrZ4Pfjg&expires=1786760436&ch=wextres5&s=1f5dd7158ac9710cabc85591cdb58d82
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow
+https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=-H6McCBridhQkknp9IGLHg&expires=1786760438&ch=willowbuzz&s=4717c7e2fb9d7b03603ae72dcb0df790
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Star Sports 1
+https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=oxLCtTMkFZXEoNu1cqMihA&expires=1786760441&ch=star1kibich5&s=0cf9d7675872e7777dfed741078bddac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - T Sports HD
+https://dz4.bhalocast.com:7060/hls/gtvbd.m3u8?md5=EOw03JZbWfHBrQVsNQ_l3w&expires=1786760444&ch=gtvbd&s=3e335765c1bba2524de134669bac1313
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Fox Cricket
+https://dz4.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=PiipgTT67CyyGhl7GDFXKA&expires=1786760447&ch=cf0sp1&s=3de04974a0f6b9b952b40e9f34b611fa
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:32:23 AM 15-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Open.jpg" group-title="LIVE", Cincinnati Open - ATP Cincinnati [Server 1]
+#last update time: 6:47:21 AM 15-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Open.jpg" group-title="LIVE", Cincinnati Open - Cincinnati open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786836744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14d95cce0121da60874b2e3de85bd7b5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Open.jpg" group-title="LIVE", Cincinnati Open - ATP Cincinnati [Server 2]
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1786836745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-19f6fd38557cbe5a4346aab7aa0bf3ed
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yulia%20Putintseva%20vs%20Liudmila%20Samsonova.jpg" group-title="LIVE", Yulia Putintseva vs Liudmila Samsonova - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786836747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4ecd7fa7f74bde51cc2ce882e37d45b9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Cincinnati%20Reds.jpg" group-title="LIVE", Miami Marlins vs Cincinnati Reds - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1786836748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f3e6b2329a60774afe80ac02717b098
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daniel%20Merida%20vs%20Marin%20Cilic.jpg" group-title="LIVE", Daniel Merida vs Marin Cilic - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1786836749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d231faf7b959333e7da81bd9355e5da3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786841242-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59deff925eb9fa6e61d36f4a566c4a48
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Detroit%20Tigers.jpg" group-title="LIVE", Chicago White Sox vs Detroit Tigers - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786836751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18ce2ed415d7bc13da0d2baa2182929d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786841244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e06d3169da2f1dc95d48fb1694726d6c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Pittsburgh%20Pirates.jpg" group-title="LIVE", Boston Red Sox vs Pittsburgh Pirates - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786836752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-262b48ff3f04d8cb0a75d7d818381de5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786841246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd7261783b9e943485bd7fd561e66be5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kings%20vs%20Falcons.jpg" group-title="LIVE", Kings vs Falcons - CPL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786836754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b1b6f49594f5286d1c0c8c465ebc208
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786841247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b03c58e71b3b2336846b9762974748c4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Denver%20Broncos%20vs%20Atlanta%20Falcons.jpg" group-title="LIVE", Denver Broncos vs Atlanta Falcons - NFL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52461/720p/chunks.m3u8?is_vip=false&token=1786836755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00d2d670bb4d5ef893ef1683989bc12f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52461/720p/chunks.m3u8?is_vip=false&token=1786841249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fb60d6fa7dfde8f1dc4da905e8ab2fdf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Dolphins%20vs%20Washington%20Commanders.jpg" group-title="LIVE", Miami Dolphins vs Washington Commanders - NFL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1786836756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2387753cf2c9aea45f31a62f6c88271d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jaime%20Faria%20%20vs%20Jenson%20Brooksby.jpg" group-title="LIVE", Jaime Faria  vs Jenson Brooksby - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=1786836758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df3cb2cb05e26dd16b0edfebd4c88049
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52463/720p/chunks.m3u8?is_vip=false&token=1786841250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea52e801362d22d1ec5516dfd7932b62
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Buccaneers%20vs%20New%20York%20Jets.jpg" group-title="LIVE", Tampa Bay Buccaneers vs New York Jets - NFL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52462/720p/chunks.m3u8?is_vip=false&token=1786841252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d16604cb529ce26355705510d228aae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Diego%20Padres%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", San Diego Padres vs Cleveland Guardians - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1786836759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-efad851524b78eb6c2230b8d1dc0f168
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1786841253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eeac53dd6d275899b2eae9283c564048
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20New%20York%20Mets.jpg" group-title="LIVE", Washington Nationals vs New York Mets - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786836760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-db863be0472030fec5ba1ad3e24c93d4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786841255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63b76e8e09608f574199adfa3a354a64
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sloane%20Stephens%20vs%20Sinja%20Kraus.jpg" group-title="LIVE", Sloane Stephens vs Sinja Kraus - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1786836761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ddb49d200d3b5a455ce2a93718c7b53
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786841256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-53850378f945ab03c76ce4575a1b531b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sofia%20Kenin%20vs%20Eva%20Lys.jpg" group-title="LIVE", Sofia Kenin vs Eva Lys - Cincinnati open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1786841259-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6a28f7b593f354f47ee057266b3be3a6
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 AM 15-08-2026
+# Last Update: 06:45 AM 15-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-15958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="Cricket", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15782" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867325191020x576.jpg" group-title="Cricket", St Lucia Kings vs Antigua and Barbuda Falcons | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:28 AM 15-08-2026
+# last_update: 06:50:25 AM 15-08-2026
