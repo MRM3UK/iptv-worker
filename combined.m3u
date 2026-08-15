@@ -219,54 +219,52 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-15 01:01:42 PM (BD Time)"
-# Total Active Links: 12
+#"last updated": "2026-08-15 02:01:15 PM (BD Time)"
+# Total Active Links: 11
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow Xtra
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/wextres5.m3u8?md5=PZIULQ_wvWh0Ni3zJWDlXw&expires=1786782038&ch=wextres5&s=53260f09e0a24f4f7cf5d50e6946b7d6
+https://oz2.bhalocast.com:7060/hls/wextres5.m3u8?md5=vAHdY023dTGlnSP4p3EP_Q&expires=1786785637&ch=wextres5&s=ddbea35a1273ce20cb36003fdacfa70b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Willow
-https://dz4.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=0Q_benQwZ9tdfML206vEgA&expires=1786782042&ch=willowbuzz&s=ce57e8be252c2ebfe7b401ce6347ad7f
+https://oz2.bhalocast.com:7060/hls/willowbuzz.m3u8?md5=dlD4Cfnw2xMJek-NMgAyow&expires=1786785640&ch=willowbuzz&s=376eefd59c4f4de333691abe77efd564
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Star Sports 1
-https://dz4.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=XhPp2v-tH64rSipRLvv5_A&expires=1786782049&ch=star1kibich5&s=efc50926eb1b1a330cfbeb883ef21c18
+https://oz2.bhalocast.com:7060/hls/star1kibich5.m3u8?md5=sEXRvshTyso3zK0lp4n8zA&expires=1786785643&ch=star1kibich5&s=204eafb205f295ac2c4bdccd5252be73
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - T Sports HD
-https://dz4.bhalocast.com:7060/hls/gtvbd.m3u8?md5=-DAu4JPDYhb7TpvRa7M5dg&expires=1786782056&ch=gtvbd&s=aeed17f38481a95adb15e1fdf71d1b97
+https://dz4.bhalocast.com:7060/hls/gtvbd.m3u8?md5=0eshs9yvHVBNi4_d-eIG6g&expires=1786785645&ch=gtvbd&s=9ccc14f854b81318a36df44d59c769e6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Bangladesh.png" group-title="Bangladesh tour of Australia, 2026", Australia vs Bangladesh - Fox Cricket
-https://dz4.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=SWkXLpeLZIlA8NnZwHNIzQ&expires=1786782060&ch=cf0sp1&s=86840e9dc35c70cd0aed4cc17867f916
+https://dz4.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=OdgRvOhPRVkytSsiB3xVeg&expires=1786785649&ch=cf0sp1&s=255a4e1b168c156925d934defdf46d78
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
-https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=eMuiuDfwgoFU6zHyqOjflQ&expires=1786782065&ch=willowsd&s=37b8730734bfe315eab605b9d034a154
+https://oz2.bhalocast.com:7060/hls/willowsd.m3u8?md5=OKSPPeyFTwzFgt9SH7uWSw&expires=1786785655&ch=willowsd&s=86a3dd866bf145130cafd32a9db576ec
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
-https://dz4.bhalocast.com:7060/hls/ten1co.m3u8?md5=Ur48aLjpl_ZBRWgC2jOpZw&expires=1786782067&ch=ten1co&s=9db6e3ba5c0082dfc6044ce6cdca3e84
+https://oz2.bhalocast.com:7060/hls/ten1co.m3u8?md5=YhEtqi9ophzEwokfkB5j2w&expires=1786785658&ch=ten1co&s=92dcba3e6092aa07674981836f8496d1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
-https://dz4.bhalocast.com:7060/hls/ten3sd.m3u8?md5=yfZMI6IR3PlKmAJEOiaE0A&expires=1786782072&ch=ten3sd&s=9bb16457f6762d7beff9b58479d5d2ba
+https://dz4.bhalocast.com:7060/hls/ten3sd.m3u8?md5=Vh1b22UnafAxrKhfp3u8_g&expires=1786785660&ch=ten3sd&s=da43d2ea06ecca3cfdb3972955201ab7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
-https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=KyxcS52XWf6vl5q4ZQt4pw&expires=1786782080&ch=hdwillos5&s=e8e3259338fe8751c2757397e435ccc2
+https://oz2.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=7WC9PCtcteBPpxPVz5gp5w&expires=1786785663&ch=hdwillos5&s=b9540c4fcb1bc44c3567df54bd613f7d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
-https://oz2.bhalocast.com:7060/hls/criclife1.m3u8?md5=fVf5idHKMJjIyoEt1m_bcw&expires=1786782093&ch=criclife1&s=650d825d58c85f0dd7146a4a30fe0a73
+https://dz4.bhalocast.com:7060/hls/criclife1.m3u8?md5=IoNliUlo7o76eMaUVYWebw&expires=1786785665&ch=criclife1&s=8f29d7fa2286796d38cf85aa09f64053
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 4
-https://dz4.bhalocast.com:7060/hls/sonyespnind.m3u8?md5=C7tCI3sRQ6O57Oh5GiuD7g&expires=1786782095&ch=sonyespnind&s=8c6b11c85a5d45c41c4ab66f75d45a90
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - TNT Cricket
-https://oz2.bhalocast.com:7060/hls/bbtsip4a.m3u8?md5=5HLBYedeJbrYsZaCLB_0-Q&expires=1786782098&ch=bbtsip4a&s=8fbeeede0855a161b0723a4c6820fc03
+https://oz2.bhalocast.com:7060/hls/sonyespnind.m3u8?md5=yhGlQ0bWoJ89KkMf-uBl7g&expires=1786785668&ch=sonyespnind&s=4172f411f21904af3a797a22a80c411b
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 1:47:24 PM 15-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20Bangladesh.jpg" group-title="LIVE", Australia vs Bangladesh - test cricket
+#last update time: 2:17:20 PM 15-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1786866445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-669dcda05267133e543cb5e337016e8e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786866446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81f956c5201747c43a7445423636aef2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786867345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6372f2c38312695bd57a578c1cd4ecdf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Geelong%20Cats%20vs%20North%20Melbourne.jpg" group-title="LIVE", Geelong Cats vs North Melbourne - AFL Premiership
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786866448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-26260754325d9fea42fb7ecc3a3a8364
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786867346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-114fce8f022c1f3ebf13c6a4f783dc5f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20SD%20Raiders.jpg" group-title="LIVE", APIA Leichhardt Tigers vs SD Raiders - New South Wales NPL
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f9148945e9dbcc70d7010/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=3bf3814e5f05bd9717771cc82275150b&x-time=1786780020
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f9148945e9dbcc70d7010/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=ee2ae21b565cbf84cde0693022cd9ef2&x-time=1786780920
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="LIVE", Day 2 - World Series of Darts - NZ Darts Masters
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1786866451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc20f2889d8e0d3d9d95553889a13b18
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1786867348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d052e1b9f956a23022b7708a5ab87b91
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manawat%C5%AB%20vs%20Otago.jpg" group-title="LIVE", Manawatū vs Otago - NPC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1786866452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-885250360a10758ac31f2a1e5b47250b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1786867350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-89b18237ff96afa0b645ee95857c9066
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qualifying%201%20London.jpg" group-title="LIVE", Qualifying 1: London - Formula E
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1786867353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-72088f2770ce1928deda9bd929c2204b
 # Playlist Name: Tapmad bd
-# Last Update: 01:45 PM 15-08-2026
+# Last Update: 02:15 PM 15-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -277,6 +275,6 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:25 PM 15-08-2026
+# last_update: 02:20:24 PM 15-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539247" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714995621172_SL_vs_IND_1stTest_Day1_Live_landscape_thumb.jpg" group-title="Cricket", Day 1 - 1st Test - 15 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786789237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e51fb9a97533baa63bf209b2f0ca4cf709482ee79fcf2f524f3f0875d0a3f1a0
