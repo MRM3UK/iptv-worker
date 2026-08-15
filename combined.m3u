@@ -246,61 +246,53 @@ https://dz4.bhalocast.com:7060/hls/cricgo6.m3u8?md5=m1UoKSNJXTi53d3qrvHlnA&expir
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:02:27 PM 15-08-2026
+#last update time: 5:32:22 PM 15-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786878148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-068fc1ba1d92f70cd8aed45dcc0f738c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="LIVE", Day 2 - World Series of Darts - NZ Darts Masters
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1786878150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7c522cbc0acec8f0f5feb7396fc8f63
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20vs%20Gamba%20Osaka.jpg" group-title="LIVE", Mito Hollyhock vs Gamba Osaka - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f9148945e9dbcc70d7014/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=65869d5757fc37042b995af12f6747ec&x-time=1786789020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Blaublitz%20Akita%20vs%20Kataller%20Toyama.jpg" group-title="LIVE", Blaublitz Akita vs Kataller Toyama - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f9148945e9dbcc70d7017/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=977c85196d888dc898dfee84e391d87f&x-time=1786789020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tochigi%20City%20vs%20Vanraure%20Hachinohe.jpg" group-title="LIVE", Tochigi City vs Vanraure Hachinohe - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f9148945e9dbcc70d7016/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=f21904920be8e58958864fefcf36d1c4&x-time=1786789020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Nagoya%20Grampus.jpg" group-title="LIVE", Kashima vs Nagoya Grampus - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f9148945e9dbcc70d7015/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=a28b2358f2c0355b8f50d7335af2520e&x-time=1786789920
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786879942-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2cb4572272c7e1bba015052c6da96d8d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Collingwood%20Magpies%20vs%20Hawthorn.jpg" group-title="LIVE", Collingwood Magpies vs Hawthorn - AFL Premiership
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786878155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47bd1c57cba45b3c4d38f56f230b19b0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20vs%20Yokohama%20F.%20Marinos.jpg" group-title="LIVE", Shimizu S-pulse vs Yokohama F. Marinos - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef5d/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=dbecd33053a8157862cc4b94b45c6b55&x-time=1786791720
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fujieda%20MYFC%20vs%20Iwaki.jpg" group-title="LIVE", Fujieda MYFC vs Iwaki - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef5e/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=a925788d0db201473fe0a081ed04c164&x-time=1786790820
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786879944-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1252f77e7a5a2c20db333c61c1d415b3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20vs%20V-varen%20Nagasaki.jpg" group-title="LIVE", Fagiano Okayama vs V-varen Nagasaki - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef67/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=6cb904e0e005eb1856602ea75eb925ba&x-time=1786790820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20vs%20Cerezo%20Osaka.jpg" group-title="LIVE", Avispa Fukuoka vs Cerezo Osaka - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef69/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=646b35c00b9e9ca165c2dcc6517281df&x-time=1786789020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Sanfrecce%20Hiroshima.jpg" group-title="LIVE", Urawa vs Sanfrecce Hiroshima - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6b/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=2cbc2d835e927cccb25c45f3582361fd&x-time=1786789920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef67/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=bfd33565b2dcc40127ccd9a60f43b88e&x-time=1786793520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Albirex%20Niigata%20vs%20Consadole%20Sapporo.jpg" group-title="LIVE", Albirex Niigata vs Consadole Sapporo - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef72/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=2bdc9161b165307777e4c8276a176840&x-time=1786789920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vegalta%20Sendai%20vs%20Oita%20Trinita.jpg" group-title="LIVE", Vegalta Sendai vs Oita Trinita - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef71/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=e636ccd7c9701d463fe32e82db2ab075&x-time=1786789920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Imabari%20vs%20Omiya%20Ardija.jpg" group-title="LIVE", Imabari vs Omiya Ardija - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef70/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=7f9327cddfca38b7e19cf10c55b5c79a&x-time=1786789920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef72/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=46f5185a7cf3b5ee0527453a3fca547c&x-time=1786793520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ventforet%20Kofu%20vs%20Tegevajaro%20Miyazaki.jpg" group-title="LIVE", Ventforet Kofu vs Tegevajaro Miyazaki - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6f/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=68112c13017ddeb97bfab7abcf920c75&x-time=1786789020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shonan%20Bellmare%20vs%20Montedio%20Yamagata.jpg" group-title="LIVE", Shonan Bellmare vs Montedio Yamagata - J2 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6e/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=e7eab1c3ed166c75c5dc78ee00a9f03a&x-time=1786789920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6f/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=794e3d46e76148d9fddadd3c1cee405d&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20vs%20Cerezo%20Osaka.jpg" group-title="LIVE", Avispa Fukuoka vs Cerezo Osaka - J1 League
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef69/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=374e7dd715da14bed399417d3eea309b&x-time=1786793520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20vs%20FC%20Tokyo.jpg" group-title="LIVE", Vissel Kobe vs FC Tokyo - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6a/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=2c2036bda2138440a61c1c8dcab830bd&x-time=1786790820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6a/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=d438bf7813659653345c4b118d249423&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20vs%20Sanfrecce%20Hiroshima.jpg" group-title="LIVE", Urawa vs Sanfrecce Hiroshima - J1 League
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6b/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=5903bcc962111e28ad383b403a234c3c&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shonan%20Bellmare%20vs%20Montedio%20Yamagata.jpg" group-title="LIVE", Shonan Bellmare vs Montedio Yamagata - J2 League
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6e/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=568326b89652d26dece0b15f0fd2e2e4&x-time=1786793520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kawasaki%20Frontale%20vs%20Kyoto%20Sanga.jpg" group-title="LIVE", Kawasaki Frontale vs Kyoto Sanga - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6c/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=0166edfb66a1f8d5f932ec91d5b1469c&x-time=1786789920
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6c/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=a1066c567c5ac6b9cd69524ea3ce64c4&x-time=1786793520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Machida%20Zelvia.jpg" group-title="LIVE", JEF United Chiba vs Machida Zelvia - J1 League
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6d/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=dcfe0e83091689306e3641ff1469a45e&x-time=1786790820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef6d/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=ad853ccaed393b3b8a5af495197ecf5b&x-time=1786793520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gumi%20Sportstoto%20W%20vs%20Hwacheon%20KSPO%20W.jpg" group-title="LIVE", Gumi Sportstoto W vs Hwacheon KSPO W - WK-League
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef78/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=00f33a1815cfb136e8cac41ba213bd64&x-time=1786791720
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yanbian%20Longding%20vs%20Dalian%20Huayi.jpg" group-title="LIVE", Yanbian Longding vs Dalian Huayi - League One
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef68/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=8891ae3cfd2e37bbe9062a9a162dae37&x-time=1786789920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Busan%20I%20Park%20vs%20Hwaseong.jpg" group-title="LIVE", Busan I Park vs Hwaseong - K League 2
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef80/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=76c7cef8a7732353dc252b812077300c&x-time=1786791720
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeju%20United%20FC%20vs%20FC%20Anyang.jpg" group-title="LIVE", Jeju United FC vs FC Anyang - K League 1
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef7c/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=812009908a604f5c6c20c6a7522df44e&x-time=1786790880
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Osnabr%C3%BCck%20vs%201.%20FC%20Magdeburg.jpg" group-title="LIVE", VfL Osnabrück vs 1. FC Magdeburg - 2. Bundesliga
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef90/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=11c410e8b13a7f13bb794d9fa6b39e9b&x-time=1786791780
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef7c/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=8ce069c2daa821058b896a66847a615c&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Suwon%20Bluewings%20vs%20Suwon%20City%20FC.jpg" group-title="LIVE", Suwon Bluewings vs Suwon City FC - K League 2
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef7d/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=c045040314973d6ab7a9e301bd2c616b&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shaanxi%20Union%20vs%20Changchun%20Yatai.jpg" group-title="LIVE", Shaanxi Union vs Changchun Yatai - League One
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef83-cnhd/chunks.m3u8?is_vip=false&token=1786879079-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3bd79af43b40f3a175742a055ed2c0e0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bolton%20vs%20Preston.jpg" group-title="LIVE", Bolton vs Preston - Championship
+https://livecdn-tc-iptv.rumsport10.live/live_abr/270371/720p/chunks.m3u8?is_vip=false&token=1786879967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-77330bdf3c7635fc84a252617d44f1eb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guangxi%20Hengchen%20vs%20Meizhou%20Kejia.jpg" group-title="LIVE", Guangxi Hengchen vs Meizhou Kejia - League One
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef96/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=2d3d4d7106cc612a10ff8bd9951885cd&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Imabari%20vs%20Omiya%20Ardija.jpg" group-title="LIVE", Imabari vs Omiya Ardija - J2 League
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef70/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=a0727bfcb4aed8ce147d1f905fb42e34&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yanbian%20Longding%20vs%20Dalian%20Huayi.jpg" group-title="LIVE", Yanbian Longding vs Dalian Huayi - League One
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef68/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=4efa4a938bcce1188d332364960758f1&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gimhae%20City%20vs%20Gyeongnam%20FC.jpg" group-title="LIVE", Gimhae City vs Gyeongnam FC - K League 2
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef7e/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=73270eb2055dbce58d018181fe62eefb&x-time=1786793520
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20vs%201.%20FC%20Heidenheim.jpg" group-title="LIVE", Hertha BSC vs 1. FC Heidenheim - 2. Bundesliga
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a5f914823b3c6022d66ef95/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=6d2ac1657f5f85b8c559257091c291b0&x-time=1786793580
 # Playlist Name: Tapmad bd
-# Last Update: 05:15 PM 15-08-2026
+# Last Update: 05:30 PM 15-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -313,10 +305,8 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:25 PM 15-08-2026
+# last_update: 05:20:26 PM 15-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539247" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714995621172_SL_vs_IND_1stTest_Day1_Live_landscape_thumb.jpg" group-title="Cricket", Day 1 - 1st Test - 15 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786805431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=24c7c7db0f8c01aa2db17596ba47574118407936fe41771d5ceb5bd563ab3c3e
-#EXTINF:-1 tvg-id="sonyliv-1090539213" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704546330524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="Racing", R16 - Hankook London E-Prix - Qualifying Race - 15 Aug 2026 | ABB FIA Formula E World Championship
-https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/master.m3u8?hdnea=exp=1786807229~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=043ab753ff5a9cc803693bb89e771287a75243864d2273f1fe61aed26dc581bf
 #EXTINF:-1 tvg-id="sonyliv-1090539270" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Golf", Danish Golf Championship - Day 3 - 15 Aug 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/master.m3u8?hdnea=exp=1786810835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0a7ea25d78f7912b1f3eda7c7e87ecfb492fcc51d5dca03dd76baca0d11fba66
