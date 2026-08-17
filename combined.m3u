@@ -225,52 +225,28 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-17 05:01:03 PM (BD Time)"
-# Total Active Links: 7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=z06endCAD9JxE3mle-EQ3Q&expires=1786969236&ch=willowsd&s=MTAzLjcuMTIwLjE3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
-https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=m405h1JCCUG8p4I_byYZ-Q&expires=1786969239&ch=ten1co&s=MTAzLjE5OC4xMzIuMTM1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
-https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=KGNnkyRMlTcvC9w2KdOnrg&expires=1786969241&ch=ten3sd&s=MTAzLjcuMTIwLjE3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=nAm5pbu7MuSPPHVbH0GqBg&expires=1786969245&ch=hdwillos5&s=NDUuMTI3LjI0Ni4yMTY
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
-https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=QWVVVCnUfBXoEoBQTdFlkQ&expires=1786969247&ch=criclife1&s=MTAzLjcyLjIxMi4xMzc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 4
-https://mz02.playerr03.com:7060/hls/sonyespnind.m3u8?md5=4sT8vY96dfbDFmxzk3Q9zw&expires=1786969251&ch=sonyespnind&s=MTgyLjQ4LjY2LjIxNQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - TNT Cricket
-https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=PCd-7SQnrnerey63lJ_mUA&expires=1786969259&ch=bbtsip1&s=MTAzLjEzMy4xNzUuMTMy
+#"last updated": "2026-08-17 06:00:31 PM (BD Time)"
+# Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:47:21 PM 17-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
+#last update time: 6:32:25 PM 17-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20open.jpg" group-title="LIVE", China open - China open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787053642-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f8a4d3dc8dbe478fb776a85654a9720d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TSL%20FC%20W%20vs%20Phnom%20Penh%20W.jpg" group-title="LIVE", TSL FC W vs Phnom Penh W - AFC Women's Champions League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea059/chunks.m3u8?is_vip=false&token=1787053643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-48a4b54b017937463cfa7bf5ca471094
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Victory%20II%20vs%20Northcote%20City.jpg" group-title="LIVE", Melbourne Victory II vs Northcote City - Victoria NPL 2 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea05b-backup/chunks.m3u8?is_vip=false&token=1787053645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c465caac762a1c9a05c73ad2481e5114
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Victory%20II%20vs%20Northcote%20City.jpg" group-title="LIVE", Melbourne Victory II vs Northcote City - Victoria NPL 2 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea05b/chunks.m3u8?is_vip=false&token=1787053646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7500a45614dbb5db0b1e903a47327645
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1787056346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4b72580da6281483d4f9c1cfdff5e600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ADAC%20Cyclassics%20Hamburg.jpg" group-title="LIVE", ADAC Cyclassics Hamburg - UCI World Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1787053648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-32f76a8ce7354ec5c66b0babe501f758
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1787056348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e3b72e57cfc09760a701339fdfe6ad5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hang%20Yuan%20W%20vs%20No%20Limits%20FC%20W.jpg" group-title="LIVE", Hang Yuan W vs No Limits FC W - AFC Women's Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea056-backup/chunks.m3u8?is_vip=false&token=1787056349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-570bd5dafa451b65bbbb35a94be129b6
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 PM 17-08-2026
+# Last Update: 06:30 PM 17-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Cricket", Sri Lanka vs India | India Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:25 PM 17-08-2026
-#EXTINF:-1 tvg-id="sonyliv-1090539434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875259795377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Cricket", Day 3 - 1st Test - 17 Aug 2026 | India Tour of Sri Lanka 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786976431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=35de000b56c1eb6ccb1da579f26790211f92b432bf08682a3b1cc755da981bec
+# last_update: 06:20:27 PM 17-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539441" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022296/1786877925170364_DurandCup_QF_Mohun_Bagan_vs_Jamshedpur_FC_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000292/Football1708/ENG/master.m3u8?hdnea=exp=1786981832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55335f4da0c4273e4e5dff90ff44e26349b0c7b471ac26cc4e59c2a66b65bbef
