@@ -225,60 +225,54 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-17 08:00:47 AM (BD Time)"
+#"last updated": "2026-08-17 09:00:47 AM (BD Time)"
 # Total Active Links: 5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Barbados Tridents vs Saint Lucia Kings - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=1cv3j2onl_2BcSmubty8Qg&expires=1786936834&ch=willowsd&s=MTgyLjQ4Ljc2LjI2
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=gA3_Jk5zWnizi4BPlCoPHw&expires=1786940435&ch=willowsd&s=MTAzLjE0OC43NC4xMjI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Barbados Tridents vs Saint Lucia Kings - Star Sports 2
-https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=WSn7CJEu61Sm9OZJviljTA&expires=1786936837&ch=star2cl5&s=MTE0LjEzMC4xNDUuMzE
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=-inwF0cU3vZlNLzMWIO4QQ&expires=1786940437&ch=star2cl5&s=MTAzLjcyLjIxMi4xMDM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Barbados Tridents vs Saint Lucia Kings - Willow HD
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=R3xYGgEm5Fk3vc8hB3vbxw&expires=1786936839&ch=hdwillos5&s=MTE4LjE3OS4xODQuNjI
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=wWpYcVlXJcuMd9HLzQWh4g&expires=1786940440&ch=hdwillos5&s=MTAzLjgyLjE3My4xNTQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Barbados Tridents vs Saint Lucia Kings - CricGo 5
-https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=V9qsolq6IXNemfhb50mLQA&expires=1786936842&ch=cricgo5&s=MTUxLjE1OC4xMTEuODc
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=evLZH0ifVFIdgUNgpO-Y7w&expires=1786940442&ch=cricgo5&s=MTAzLjE0OC43NC4xMjI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Barbados Tridents vs Saint Lucia Kings - TNT Cricket
-https://mz02.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=ueVbhFmLGJUc9i4MwdbFfg&expires=1786936845&ch=bbtsvp2&s=MTAzLjE2MC4yMC40Ng
+https://mz02.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=wA6fTFKZ8KWSWYsDbCF5OQ&expires=1786940444&ch=bbtsvp2&s=MjAzLjMxLjE2OS4xNjA
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:32:29 AM 17-08-2026
+#last update time: 9:17:26 AM 17-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Open.jpg" group-title="LIVE", Cincinnati Open - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787020350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df63e9bb2840a5167ff8b1664dd804a6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20FC%20Dallas.jpg" group-title="LIVE", Austin vs FC Dallas - Major League Soccer [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588e2-hd/chunks.m3u8?is_vip=false&token=1787020351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff17be7486b5bc356f74793d37c31925
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20FC%20Dallas.jpg" group-title="LIVE", Austin vs FC Dallas - Major League Soccer [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588e2-backup/chunks.m3u8?is_vip=false&token=1787020352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dc547f8ec0a35eafa6b56b34ce3a31e6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austin%20vs%20FC%20Dallas.jpg" group-title="LIVE", Austin vs FC Dallas - Major League Soccer [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e240d7f718fae49588e2/chunks.m3u8?is_vip=false&token=1787020353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d0a7b2b6cdceed2f550142b735603d1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Angel%20City%20W%20vs%20Washington%20Spirit%20W.jpg" group-title="LIVE", Angel City W vs Washington Spirit W - NWSL Women [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04f-fhd/chunks.m3u8?is_vip=false&token=1787020354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22def1f7f9dec7688db7dcf95bb044bb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Angel%20City%20W%20vs%20Washington%20Spirit%20W.jpg" group-title="LIVE", Angel City W vs Washington Spirit W - NWSL Women [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04f-backup/chunks.m3u8?is_vip=false&token=1787020354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-29f0d4faa61af88df580e773f8fef3ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Angel%20City%20W%20vs%20Washington%20Spirit%20W.jpg" group-title="LIVE", Angel City W vs Washington Spirit W - NWSL Women [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04f/chunks.m3u8?is_vip=false&token=1787020355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b3f2d12851344c9211feec802363861
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20Laguna%20vs%20Guadalajara%20Chivas.jpg" group-title="LIVE", Santos Laguna vs Guadalajara Chivas - Liga MX [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04e-hd/chunks.m3u8?is_vip=false&token=1787020356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-50303a88bcba8431214768c238b396d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20Laguna%20vs%20Guadalajara%20Chivas.jpg" group-title="LIVE", Santos Laguna vs Guadalajara Chivas - Liga MX [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04e-backup/chunks.m3u8?is_vip=false&token=1787020357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60c047a497d0d38a4b1e37066f00109c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20Laguna%20vs%20Guadalajara%20Chivas.jpg" group-title="LIVE", Santos Laguna vs Guadalajara Chivas - Liga MX [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04e/chunks.m3u8?is_vip=false&token=1787020358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5171773aca7c11976ba5ccb434d5c2e2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787023047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4094e934374870752988396659e68c3a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tereza%20Valentova%20vs%20Elina%20Svitolina.jpg" group-title="LIVE", Tereza Valentova vs Elina Svitolina - Cincinnati open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787020359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71f276bc979ac4e14d582643e2488fec
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787023048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-041b4043d473c3843670559fc9202d03
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20FC%20II%20vs%20Tacoma%20Defiance.jpg" group-title="LIVE", Los Angeles FC II vs Tacoma Defiance - MLS Next Pro [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e630-backup/chunks.m3u8?is_vip=false&token=1787020360-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-955cfb3d48e67e4b23566eb41413fa31
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e630-backup/chunks.m3u8?is_vip=false&token=1787023049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-54db3d1fdc90ff7259e51f9c66289d61
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20FC%20II%20vs%20Tacoma%20Defiance.jpg" group-title="LIVE", Los Angeles FC II vs Tacoma Defiance - MLS Next Pro [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e630/chunks.m3u8?is_vip=false&token=1787020361-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-875534086a9cb4f73f4384946c39beab
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e630/chunks.m3u8?is_vip=false&token=1787023051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-243f720572cf8587f71743c05abdc87f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lorenzo%20Sonego%20vs%20Frances%20Tiafoe.jpg" group-title="LIVE", Lorenzo Sonego vs Frances Tiafoe - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1787020362-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6c03af5afc5a8dce597801ca66ff24ca
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Vancouver%20Whitecaps.jpg" group-title="LIVE", Seattle Sounders vs Vancouver Whitecaps - Major League Soccer
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04d-hd/chunks.m3u8?is_vip=false&token=1787020364-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da6f6ab5a7bb120484f268a98e8a4fa1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/The%20Town%20vs%20St.%20Louis%20City%20II.jpg" group-title="LIVE", The Town vs St. Louis City II - MLS Next Pro
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e631-backup/chunks.m3u8?is_vip=false&token=1787020365-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7bbac5c56cf17ed73268708ee8d08413
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1787023052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58a240fa66b571b9d4a3988642f0cf5a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Vancouver%20Whitecaps.jpg" group-title="LIVE", Seattle Sounders vs Vancouver Whitecaps - Major League Soccer [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04d-hd/chunks.m3u8?is_vip=false&token=1787023053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ad3dde7f939da96915ebc45929583af6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Vancouver%20Whitecaps.jpg" group-title="LIVE", Seattle Sounders vs Vancouver Whitecaps - Major League Soccer [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04d-backup/chunks.m3u8?is_vip=false&token=1787023054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4926d940bbe9ff715a21e8b05d41d853
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20vs%20Vancouver%20Whitecaps.jpg" group-title="LIVE", Seattle Sounders vs Vancouver Whitecaps - Major League Soccer [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea04d/chunks.m3u8?is_vip=false&token=1787023055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88cdd5275900218ccc715168ada4ad56
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/The%20Town%20vs%20St.%20Louis%20City%20II.jpg" group-title="LIVE", The Town vs St. Louis City II - MLS Next Pro [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e631-backup/chunks.m3u8?is_vip=false&token=1787023056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc2964d7613ebe763643a3bf9b9590dd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/The%20Town%20vs%20St.%20Louis%20City%20II.jpg" group-title="LIVE", The Town vs St. Louis City II - MLS Next Pro [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7a34e5af3edc4d30f5e631/chunks.m3u8?is_vip=false&token=1787023057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3a2453ddd4b7a888514bf1ea2ea0b03d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Tijuana%20vs%20Cruz%20Azul.jpg" group-title="LIVE", Club Tijuana vs Cruz Azul - Liga MX [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea052-hd/chunks.m3u8?is_vip=false&token=1787023058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b9f61ce114f1e99ed1f1ebb6650ec524
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Tijuana%20vs%20Cruz%20Azul.jpg" group-title="LIVE", Club Tijuana vs Cruz Azul - Liga MX [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea052-fhd/chunks.m3u8?is_vip=false&token=1787023059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-54296a55736c3683e0072d5f52e987e6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Tijuana%20vs%20Cruz%20Azul.jpg" group-title="LIVE", Club Tijuana vs Cruz Azul - Liga MX [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea052/chunks.m3u8?is_vip=false&token=1787023059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8fb93d90bdbcb9777b9b9404afd6a80a
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 AM 17-08-2026
+# Last Update: 09:30 AM 17-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -287,4 +281,4 @@ https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:23 AM 17-08-2026
+# last_update: 09:20:25 AM 17-08-2026
