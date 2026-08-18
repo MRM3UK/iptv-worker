@@ -225,28 +225,42 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-18 09:00:37 PM (BD Time)"
+#"last updated": "2026-08-18 10:00:35 PM (BD Time)"
 # Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:32:27 PM 18-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20open.jpg" group-title="LIVE", Cincinnati open - Cincinnati open
+#last update time: 10:02:30 PM 18-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20United%20II%20vs%20Chicago%20Fire%20II.jpg" group-title="LIVE", Atlanta United II vs Chicago Fire II - MLS Next Pro [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787152730-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-320a2f95ed4d5f65681601c7d10f1603
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7cc9c50bd04a161f7798b4-backup/chunks.m3u8?is_vip=false&token=1787155355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1810ed128729546c095e282826e0b157
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20United%20II%20vs%20Chicago%20Fire%20II.jpg" group-title="LIVE", Atlanta United II vs Chicago Fire II - MLS Next Pro [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7cc9c50bd04a161f7798b4/chunks.m3u8?is_vip=false&token=1787155356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62fb30ea16390f4080a4d8e40801e252
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20open.jpg" group-title="LIVE", Cincinnati open - Cincinnati open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787155358-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-89aed9fb17b0202971c9950daf758135
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Andrey%20Rublev%20vs%20Nuno%20Borges.jpg" group-title="LIVE", Andrey Rublev vs Nuno Borges - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787152732-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a00125c8b646de896df27b1944db33c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Katerina%20Siniakova%20vs%20Madison%20Keys.jpg" group-title="LIVE", Katerina Siniakova vs Madison Keys - Cincinnati open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1787152734-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-227edaeb33dfa615271bd487475adcae
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787155360-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e3ff35547160116dc40fd5507a021d2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Katerina%20Siniakova%20vs%20Madison%20Keys.jpg" group-title="LIVE", Katerina Siniakova vs Madison Keys - Cincinnati open [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1787155362-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-211eb4442f1e4f2348b02cfd680357a5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Katerina%20Siniakova%20vs%20Madison%20Keys.jpg" group-title="LIVE", Katerina Siniakova vs Madison Keys - Cincinnati open [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787155363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4e95f5d168a162e1bf9329e5fd860677
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylor%20Fritz%20vs%20Daniel%20Merida.jpg" group-title="Tennis", Taylor Fritz vs Daniel Merida - ATP Cincinnati
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787155415-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-79bdeaa6b0f18d522fa6d9df31d26b26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Michael%20Zheng%20vs%20Lorenzo%20Musetti.jpg" group-title="Tennis", Michael Zheng vs Lorenzo Musetti - ATP Cincinnati
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1787155416-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4961a4289fffb14d07f6c9d01a5d924a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Janice%20Tjen%20vs%20Mirra%20Andreeva.jpg" group-title="Tennis", Janice Tjen vs Mirra Andreeva - Cincinnati open
+https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1787155416-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e594c2ca8d155cbdc8a1a50aaea1ca12
 # Playlist Name: Tapmad bd
-# Last Update: 09:30 PM 18-08-2026
+# Last Update: 10:00 PM 18-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-16145" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870373421020x576MEN.jpg" group-title="Hockey", Ireland vs South Africa | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16146" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870374151020x576MEN.jpg" group-title="Hockey", Argentina vs Netherlands | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:26 PM 18-08-2026
+# last_update: 09:50:26 PM 18-08-2026
