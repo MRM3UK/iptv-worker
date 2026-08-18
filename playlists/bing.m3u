@@ -3,15 +3,20 @@
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:47:25 PM 18-08-2026
+#last update time: 8:17:26 PM 18-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Thailand%20vs%20Singapore.jpg" group-title="LIVE", Thailand vs Singapore - ASEAN Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a78ff6f3326a2baec414faa-backup/chunks.m3u8?is_vip=false&token=1787147246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-906cce49acd4f0c8d4ec97e62b0c58d3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a78ff6f3326a2baec414faa-backup/chunks.m3u8?is_vip=false&token=1787149047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25a785273f34ad218866da5800654b97
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Thailand%20vs%20Singapore.jpg" group-title="LIVE", Thailand vs Singapore - ASEAN Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a78ff6f3326a2baec414faa/chunks.m3u8?is_vip=false&token=1787147247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11b7c4834fb7c5b314f7db38919c9020
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a78ff6f3326a2baec414faa/chunks.m3u8?is_vip=false&token=1787149048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd7518091e0f2b497429267a8386aa44
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Regar-TadAZ%20vs%20Parvoz.jpg" group-title="LIVE", Regar-TadAZ vs Parvoz - Vysshaya Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a60e24015d865a011317881-backup/chunks.m3u8?is_vip=false&token=1787149049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a88065cd2a8b9ff4ef411d502dd3c9ee
 
