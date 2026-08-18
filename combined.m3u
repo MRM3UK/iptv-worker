@@ -225,30 +225,30 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-18 10:00:36 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-08-18 11:01:08 AM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=ntUNtMUK7bUK1qh9gwraJg&expires=1787034033&ch=willowsd&s=MTE0LjEzMC4xNTYuNzk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
+https://mz01.playerr03.com:7060/hls/ten1co.m3u8?md5=DAxYaqsIFwOmuT3e0v3_xg&expires=1787034037&ch=ten1co&s=MTAzLjk1Ljk3Ljcy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
+https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=rnxdUJQnCC3BFAwRCmZKxQ&expires=1787034040&ch=ten3sd&s=MTAzLjE0OC4xMTQuNTY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=E2T-NlQWeyK8gbhkq9fgWg&expires=1787034043&ch=hdwillos5&s=MjcuMTIzLjI1NS4xNDI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
+https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=GB63SZXVcY48iPZoKHTj2A&expires=1787034047&ch=criclife1&s=MTAzLjEyNC41NC4xMzQ
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:47:22 AM 18-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alexandra%20Eala%20vs%20Amanda%20Anisimova.jpg" group-title="LIVE", Alexandra Eala vs Amanda Anisimova - Cincinnati open
+#last update time: 11:17:25 AM 18-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787114842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e5067e092b8627c2f14af0e69ebab72
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tommy%20Paul%20vs%20Adolfo%20Daniel%20Vallejo.jpg" group-title="LIVE", Tommy Paul vs Adolfo Daniel Vallejo - ATP Cincinnati
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787114844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f06ff7c3a5549992e65142c6325d847b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-hd/chunks.m3u8?is_vip=false&token=1787114846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1f834f697cd575de11195b697794fcf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-fhd/chunks.m3u8?is_vip=false&token=1787114847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d94b9d1697afa108dfd89b7e11cdc2b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-backup/chunks.m3u8?is_vip=false&token=1787114848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc061c44c9a7087538f7cf9cb97757bf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295/chunks.m3u8?is_vip=false&token=1787114849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cd1a90dd8b9cff3659b68b4af5314c7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787114851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3339cb88f5287d95a854b66ca53cdd9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787116646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-89cad1d949dbd402ebbb51e593dc9e5c
 # Playlist Name: Tapmad bd
-# Last Update: 10:45 AM 18-08-2026
+# Last Update: 11:15 AM 18-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -257,6 +257,6 @@ https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:24 AM 18-08-2026
+# last_update: 11:20:28 AM 18-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539532" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963820927151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Cricket", Day 4 - 1st Test - 18 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787046632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2ff818b086332c1b109ae92f58973319a1141f6e99cae4253469fb1402fd525b
