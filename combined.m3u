@@ -225,24 +225,26 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-19 03:01:03 PM (BD Time)"
-# Total Active Links: 4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow Xtra
+#"last updated": "2026-08-19 04:00:49 PM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Xtra
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/wextres5.m3u8?md5=pfrQ3jHMQl4xjPh-qlmMHg&expires=1787134845&ch=wextres5&s=MTE0LjEyOS4xNS4xODU
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow
-https://mz01.playerr03.com:7060/hls/willowbuzz.m3u8?md5=OuqjGO1BVUk4s0ABbl0TwQ&expires=1787134848&ch=willowbuzz&s=MTEzLjExLjM4LjIwMQ
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - PTV Sports
-https://mz01.playerr03.com:7060/hls/ptvskpr.m3u8?md5=bkb5e20DQGKB4L_9yP0unw&expires=1787134852&ch=ptvskpr&s=MTgyLjI1Mi42OC4xNTg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - CricGo 1
-https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=1Dx-DEeTVxdLplv0BQ2Eug&expires=1787134855&ch=cricgo1&s=MTAzLjE3OS4xMjQuNjI
+https://mz01.playerr03.com:7060/hls/wextres5.m3u8?md5=BQ3AP7OMiQh46Qf4af8ggg&expires=1787138435&ch=wextres5&s=MTE2LjIwNi41Ny42NQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow
+https://mz01.playerr03.com:7060/hls/willowbuzz.m3u8?md5=Al8siIAoVb9dw9-i4G3LLA&expires=1787138438&ch=willowbuzz&s=MTQ0LjQ4LjEwOS4xNjY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
+https://mz01.playerr03.com:7060/hls/ptvskpr.m3u8?md5=g0EC1SnZNkWFC-IJ6QjvnQ&expires=1787138441&ch=ptvskpr&s=MTAzLjMxLjE1NC4yMzE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
+https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=wt5l7mPyRXUP2X6E_9D0GA&expires=1787138444&ch=cricgo1&s=MTAzLjMxLjE1NC4yMzE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Sky Cricket
+https://mz02.playerr03.com:7060/hls/dodosky2.m3u8?md5=YPMmkXdcCxr1-SRQ15-50Q&expires=1787138446&ch=dodosky2&s=MTAzLjIwNS42OS40Mw
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:47:23 PM 19-08-2026
+#last update time: 4:32:24 PM 19-08-2026
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 PM 19-08-2026
+# Last Update: 04:30 PM 19-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -250,9 +252,11 @@ https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=1Dx-DEeTVxdLplv0BQ2Eug&expi
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16149" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871312231020x576WOMEN.jpg" group-title="Hockey", Argentina vs Scotland - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16150" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870499701020x576MEN.jpg" group-title="Hockey", England vs Wales | FIH Hockey World Cup 2026
+https://wcemeabackup.akamaized.net/hls/live/2103768/ucl-3tap293/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:26 PM 19-08-2026
+# last_update: 04:20:26 PM 19-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539718" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg" group-title="Cricket", Day 1 - 1st Test - 19 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787154629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2b3fc101aa061ac88ad57578ff3d21d2b65c314a6463a51912a7ab9c7ff50e62
