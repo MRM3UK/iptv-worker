@@ -225,35 +225,35 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-19 08:01:09 PM (BD Time)"
+#"last updated": "2026-08-19 09:00:59 PM (BD Time)"
 # Total Active Links: 4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Xtra
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/wextres5.m3u8?md5=BbaiS8M4XEE1WPMsgUVg1Q&expires=1787152839&ch=wextres5&s=MTAzLjE5NS4xNDEuMjM
+https://mz02.playerr03.com:7060/hls/wextres5.m3u8?md5=d0tWODWZkrZnTDiw2-i--Q&expires=1787156440&ch=wextres5&s=MTE1LjEyNy43Ni4xNjE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow
-https://mz02.playerr03.com:7060/hls/willowbuzz.m3u8?md5=nMyrTn1W66gAeD9dxx7TFQ&expires=1787152846&ch=willowbuzz&s=MTAzLjE3OC4xOTEuMTc1
+https://mz02.playerr03.com:7060/hls/willowbuzz.m3u8?md5=Oe3ayjijzT_wMq7ZcGerfA&expires=1787156444&ch=willowbuzz&s=MzcuMTExLjIwNy4yMzA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
-https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=BItq9dLauE4scbiSQdF8Mw&expires=1787152850&ch=ptvskpr&s=MTAzLjU1LjE0Ni4xNzU
+https://mz01.playerr03.com:7060/hls/ptvskpr.m3u8?md5=OQwVhBRDZZk9U9byHvfcHA&expires=1787156448&ch=ptvskpr&s=NDUuMjQ4LjE1MS41Mw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
-https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=jgFEVavzSmyRWuGfepjSqg&expires=1787152857&ch=cricgo1&s=MTAzLjc0Ljg2LjE0NQ
+https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=wyVnUUzzKCcEWDlxBz0GRA&expires=1787156453&ch=cricgo1&s=MTAzLjE0My4yNDMuMTYy
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:17:26 PM 19-08-2026
+#last update time: 9:02:25 PM 19-08-2026
 # Playlist Name: Tapmad bd
-# Last Update: 08:30 PM 19-08-2026
+# Last Update: 09:00 PM 19-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16152" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870501971020x576MEN.jpg" group-title="Hockey", Pakistan vs India | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16153" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870504611020x576MEN.jpg" group-title="Hockey", France vs Germany | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:33 PM 19-08-2026
+# last_update: 08:50:28 PM 19-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539718" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg" group-title="Cricket", Day 1 - 1st Test - 19 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787170836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf8f48460fa032cb48b25e8121d488dfba4bbb0fda39e1eca80becec4678f53a
 #EXTINF:-1 tvg-id="sonyliv-1090539668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022423/1787043486579998_Durand_cup_S-F_SC-Delhi-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football", SC Delhi vs East Bengal FC - Semi-Final - 19 Aug 2026 | IndianOil Durand Cup 2026
