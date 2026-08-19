@@ -2,26 +2,31 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-19 05:00:52 AM (BD Time)"
-# Total Active Links: 4
+#"last updated": "2026-08-19 07:00:52 AM (BD Time)"
+# Total Active Links: 5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs St Kitts and Nevis Patriots - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=y7iB4DjzptmBNzeP4b1ZXA&expires=1787098837&ch=willowsd&s=NDUuMTI0LjE2OS4yNTE
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=Pbkk-EsNlDSwpsCOIL0tTg&expires=1787106037&ch=willowsd&s=MTAzLjEzMi4xODEuMjAx
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs St Kitts and Nevis Patriots - Star Sports 2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=rrYpWhKNum128KNBo3lCtA&expires=1787098840&ch=star2cl5&s=MTAzLjEyMS4zNi4xNzQ
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=Nren06fFNEnuhp-zDBcoJA&expires=1787106040&ch=star2cl5&s=MTAzLjE1MC42NC41OQ
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs St Kitts and Nevis Patriots - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=kyJnvix65kZLsVUbJ_fU1w&expires=1787098843&ch=hdwillos5&s=MTAzLjQxLjExNC4xMTk
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=SUc_OLQyGRp5xO2E4zGWOw&expires=1787106043&ch=hdwillos5&s=MTAzLjE4Ny45OS4xNzc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs St Kitts and Nevis Patriots - CricGo 5
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=ZzQ_Jw1p-dWrXH6bYolaCg&expires=1787098847&ch=cricgo5&s=MTAzLjMxLjExLjE2NA
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=4amnJt-JCWu3cDlT1lmfvQ&expires=1787106046&ch=cricgo5&s=MTQ0LjQ4LjExMS4yMzk
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20St%20Kitts%20and%20Nevis%20Patriots.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs St Kitts and Nevis Patriots - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/bbtsip3.m3u8?md5=hT9aCl0UP6JnS8WDRm108Q&expires=1787106049&ch=bbtsip3&s=MTAzLjEyMS4yMTcuODM
 
