@@ -225,36 +225,50 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-20 05:00:34 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-08-20 06:01:00 PM (BD Time)"
+# Total Active Links: 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=BuHabqCmwn4e2VnFh6ZfAw&expires=1787232039&ch=willowsd&s=MTAzLjIzMS4xNjEuMjA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=SeLAifMTfit6HNGAtTylFQ&expires=1787232045&ch=ptvskpr&s=MTAzLjEyMi4zMC4xMzk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow HD
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=hQF5SSLMKXrdV68XSwh_hA&expires=1787232049&ch=hdwillos5&s=MjcuMTQ3LjI0My4xNA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=HCYjvJEjwdeHPqINEbfmyA&expires=1787232053&ch=cricgo1&s=MTYwLjMwLjYzLjYy
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:47:24 PM 20-08-2026
+#last update time: 6:32:22 PM 20-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Penrith%20Panthers%20vs%20Melbourne%20Storm.jpg" group-title="LIVE", Penrith Panthers vs Melbourne Storm - NRL Rugby
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787312845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60feb80aa06ffb012f9b79945f9be5ed
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phnom%20Penh%20W%20vs%20Kaya%20W.jpg" group-title="LIVE", Phnom Penh W vs Kaya W - AFC Women's Champions League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280cebc5c3ef2c542af2-backup/chunks.m3u8?is_vip=false&token=1787312846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eba3ed08a1455b3bc2f6af1ade6dd28b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phnom%20Penh%20W%20vs%20Kaya%20W.jpg" group-title="LIVE", Phnom Penh W vs Kaya W - AFC Women's Champions League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280cebc5c3ef2c542af2/chunks.m3u8?is_vip=false&token=1787312848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a8851f1af0564007033e63718f6d3532
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787315543-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b160363a3bf1181425748a8075c20869
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 1st Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787312849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a3f03f9cf2d871c1c23052413926be0e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787315545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a62ff4f17a4942bfb9d1424be16e967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Nassr%20W%20vs%20Bam%20Khatoon%20W.jpg" group-title="LIVE", Al Nassr W vs Bam Khatoon W - AFC Women's Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280cebc5c3ef2c542aef-backup/chunks.m3u8?is_vip=false&token=1787315547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9510b87b126028be766b2e5e027f5c27
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kharaatsai%20W%20vs%20BGC%20Asian%20Scholars%20W.jpg" group-title="LIVE", Kharaatsai W vs BGC Asian Scholars W - AFC Women's Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a66280cebc5c3ef2c542af0-backup/chunks.m3u8?is_vip=false&token=1787315548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e1f0b858cb50cb6e5930235092e8eb72
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Master%20W%20vs%20Banaat%20W.jpg" group-title="LIVE", Master W vs Banaat W - AFC Women's Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69f24f62561902dcfb1bd2-backup/chunks.m3u8?is_vip=false&token=1787315550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4dc1859a65409074903126d11e94b5fb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jurong%20W%20vs%20Hang%20Yuan%20W.jpg" group-title="LIVE", Jurong W vs Hang Yuan W - AFC Women's Champions League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a69f24f62561902dcfb1bce-backup/chunks.m3u8?is_vip=false&token=1787315551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c8fab9f3acf01b9e1b9d2bd23fbab03
 # Playlist Name: Tapmad bd
-# Last Update: 05:45 PM 20-08-2026
+# Last Update: 06:30 PM 20-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16158" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871370921020x576MEN.jpg" group-title="Hockey", New Zealand vs Argentina | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16159" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871388661020x576WOMEN.jpg" group-title="Hockey", New Zealand vs Spain - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:25 PM 20-08-2026
+# last_update: 06:20:30 PM 20-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090539798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" group-title="Cricket", Day 2 - 1st Test - 20 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787241033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b12c6df7b9fae5d69b2e459f828b415061da689369ace3a8381cf367b805710
 #EXTINF:-1 tvg-id="sonyliv-1090539821" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg" group-title="Golf", Nexo Championship - Day 1 - 20 Aug 2026 | DP World Tour
