@@ -225,45 +225,61 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-26 03:01:20 PM (BD Time)"
+#"last updated": "2026-08-26 04:01:17 PM (BD Time)"
 # Total Active Links: 7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=QTBLO_b3NV10SRD9zzfD0A&expires=1787739651&ch=willowsd&s=7e45a308d59d1837f540ac4ea27a7775
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=LY6rtgWeY7Ei-QZC0ryJEg&expires=1787743244&ch=willowsd&s=e6f88766ded27bfd7c608b104d3d32ed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
-https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=5FZEqRU1wsOuIFS3Qr2Hsw&expires=1787739655&ch=ten1co&s=1cf97f18b05190c5da46b56483b585be
+https://mz01.playerr03.com:7060/hls/ten1co.m3u8?md5=zfqQubNEcp-gUU0Of1T3_A&expires=1787743253&ch=ten1co&s=27ebc56323ae6dd9bc11a4705e5cb6cc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
-https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=oYhWImEHxihtPfsJQdWjyQ&expires=1787739661&ch=ten3sd&s=1c0ae7373ac92cd5ecf60983b5538969
+https://mz01.playerr03.com:7060/hls/ten3sd.m3u8?md5=Mttd-akdCWa2FXP7xCFQcQ&expires=1787743258&ch=ten3sd&s=7d347892452474032a89378f2cf498fc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=5OiAj1Os2tXg7CqvRx5FpA&expires=1787739665&ch=hdwillos5&s=b3822c5593b997ad2e609e5a9da9c9d2
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=074AkyDcG_L7rSqHheNHkQ&expires=1787743263&ch=hdwillos5&s=97784c8e8ab0994446cd1dbe6e8ba088
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
-https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=2CVJApcMuojh1JFbbHYXig&expires=1787739671&ch=criclife1&s=7500a8c536e31261f2c064e8b09fdee2
+https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=1s_rgUy3rDIn3xT_ZWLUVA&expires=1787743268&ch=criclife1&s=de16ef6cbe03b994765a7e383a65eb41
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 4
-https://mz01.playerr03.com:7060/hls/sonyespnind.m3u8?md5=Rd2f_YqNugYw6hvVfb3fNg&expires=1787739675&ch=sonyespnind&s=0d1de66844d9ca8c55c640e1d6ab218a
+https://mz01.playerr03.com:7060/hls/sonyespnind.m3u8?md5=FUiJFIR1eZ9bFtGR70eIJQ&expires=1787743272&ch=sonyespnind&s=728564d3d8cfbc2fdaf5aa8a59e29e8a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - TNT Cricket
-https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=DyleqzRPbyM2jcDUDy1uWw&expires=1787739680&ch=bbtsip1&s=e205498460361d4852f640798eafe4f4
+https://mz01.playerr03.com:7060/hls/bbtsip1.m3u8?md5=zGkzxNVRll-xUXIq027TMQ&expires=1787743276&ch=bbtsip1&s=34665fa1dde7d94268793692bfa31317
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:47:27 PM 26-08-2026
+#last update time: 4:17:22 PM 26-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787824048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2e5aa14dd38a36d7367ee8323b73e75
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787825842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92948b652def1e50a9d80531d53569b9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preston%20Lions%20vs%20South%20Melbourne.jpg" group-title="LIVE", Preston Lions vs South Melbourne - Australia Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563e01-backup/chunks.m3u8?is_vip=false&token=1787824051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-405d00747861b111f516896059dce22d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563e01-backup/chunks.m3u8?is_vip=false&token=1787825844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cd7993d62616bd1e10a17bd3154dbe8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preston%20Lions%20vs%20South%20Melbourne.jpg" group-title="LIVE", Preston Lions vs South Melbourne - Australia Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563e01/chunks.m3u8?is_vip=false&token=1787824053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0a1fd51829b3c2a432d60066d3a5dfb
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563e01/chunks.m3u8?is_vip=false&token=1787825846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6bc7c8e20e0802ad855c5bc64f21dffb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20vs%20Okinawa%20SV.jpg" group-title="LIVE", Sanfrecce Hiroshima vs Okinawa SV - Emperor Cup [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fac-backup/chunks.m3u8?is_vip=false&token=1787825848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b5d28bf50f58c11ddd4e93c19d2f838
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20vs%20Okinawa%20SV.jpg" group-title="LIVE", Sanfrecce Hiroshima vs Okinawa SV - Emperor Cup [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fac/chunks.m3u8?is_vip=false&token=1787825849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f879116c5b1b5f948a957edb86eb6ec9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20vs%20Thespakusatsu%20Gunma.jpg" group-title="LIVE", Tokyo Verdy vs Thespakusatsu Gunma - Emperor Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436faf-backup/chunks.m3u8?is_vip=false&token=1787824054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-32239dcb5e9f423fc1778d0843f32225
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436faf-backup/chunks.m3u8?is_vip=false&token=1787825850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a270a6609121c8bbee5bf7c196f6d5c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20vs%20Thespakusatsu%20Gunma.jpg" group-title="LIVE", Tokyo Verdy vs Thespakusatsu Gunma - Emperor Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436faf/chunks.m3u8?is_vip=false&token=1787824055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45da96d2a1435c32f673cf36c39ec43f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436faf/chunks.m3u8?is_vip=false&token=1787825851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d78d16ac17a38d49f3368ab711074c6a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20FC%20vs%20Criacao%20Shinjuku.jpg" group-title="LIVE", Yokohama FC vs Criacao Shinjuku - Emperor Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fae-backup/chunks.m3u8?is_vip=false&token=1787824057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff179c7c1203377d6aae0ff653fd6bc9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fae-backup/chunks.m3u8?is_vip=false&token=1787825852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a9ea70e8ff989794f895281540096d5f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Azul%20Claro%20Numazu.jpg" group-title="LIVE", JEF United Chiba vs Azul Claro Numazu - Emperor Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc7/chunks.m3u8?is_vip=false&token=1787825854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7a3529d6be927cdcce2a772f79adeb9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20vs%20Parceiro%20Nagano.jpg" group-title="LIVE", FC Tokyo vs Parceiro Nagano - Emperor Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb5/chunks.m3u8?is_vip=false&token=1787825855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-35d372a45933db201a6420f99de9d254
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20vs%20Suzuka%20Unlimited.jpg" group-title="LIVE", Kashima vs Suzuka Unlimited - Emperor Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fb4-backup/chunks.m3u8?is_vip=false&token=1787825857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da1285224fa0d017af0f604392118288
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kyoto%20Sanga%20vs%20Maruyasu%20Okazaki.jpg" group-title="LIVE", Kyoto Sanga vs Maruyasu Okazaki - Emperor Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc3-backup/chunks.m3u8?is_vip=false&token=1787825858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1ab5f135a9d912e378f0872ed19bb0c2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20vs%20Kyoto%20Sangyo%20University.jpg" group-title="LIVE", Mito Hollyhock vs Kyoto Sangyo University - Emperor Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fba-backup/chunks.m3u8?is_vip=false&token=1787825859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-616001b7cd4c9551164ec07081b982a0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20vs%20Beluga%20Rosso%20Iwami.jpg" group-title="LIVE", Fagiano Okayama vs Beluga Rosso Iwami - Emperor Cup
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc8/chunks.m3u8?is_vip=false&token=1787825860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-47a565f2dcd872da3db9e8ff21d4e95e
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 PM 26-08-2026
+# Last Update: 04:15 PM 26-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -272,7 +288,7 @@ https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:28 PM 26-08-2026
+# last_update: 04:20:27 PM 26-08-2026
 #EXTINF:-1 tvg-id="sonyliv-1090540360" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022839/178758435102279_SL_vs_IND_2nd_Test_Day4_live_landscape_thumb_clean.jpg" group-title="Cricket", Day 4 - 2nd Test - 26 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787754034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1be751638c7e0b397d0c2238452937d993efbac21b1cf164f08a9c71ccb9beb7
 #EXTINF:-1 tvg-id="sonyliv-1090540376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787647798662385_JPL_26_Bengal-Indians-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Cricket", Bengal Indians vs Indore Hawks - 26 Aug 2026 | JITO Premier League 2026
