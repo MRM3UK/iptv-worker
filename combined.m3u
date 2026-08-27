@@ -225,111 +225,69 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-27 07:00:57 AM (BD Time)"
-# Total Active Links: 5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - Willow Cricket
+#"last updated": "2026-08-27 05:01:05 PM (BD Time)"
+# Total Active Links: 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=gohsn-BcSOblfX32FCqNiQ&expires=1787797238&ch=willowsd&s=62b4e0742ebffcc1ce35511affcc4e84
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - Star Sports 2
-https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=8M-MmM9QXeg2yr0NOAD9Ag&expires=1787797247&ch=star2cl5&s=8331e2010d46cbc5474e37bb219173a4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - Willow HD
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=P_Bc5BrlEkYOT6RZb-xkJg&expires=1787797250&ch=hdwillos5&s=f14d2d6b495a60f71837935ad6eb8295
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - CricGo 5
-https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=ZYrrrDtqfmVQTiE2W95-Pg&expires=1787797253&ch=cricgo5&s=3d6faff8fb3eb7f760ae69702feb2cf6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Saint%20Lucia%20Kings%20vs%20Trinbago%20Knight%20Riders.png" group-title="Caribbean Premier League 2026", Saint Lucia Kings vs Trinbago Knight Riders - TNT Cricket
-https://mz01.playerr03.com:7060/hls/bbtsip1.m3u8?md5=Pcc5CdPYP77LdDjNhJmemQ&expires=1787797256&ch=bbtsip1&s=992b71018411431fe357964f638b890f
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=2GEoL5uPFBotl049l5TG1g&expires=1787833241&ch=willowsd&s=4b26a7bff442d1c5de90114128ab1318
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
+https://mz01.playerr03.com:7060/hls/ten1co.m3u8?md5=uswrqaJZD5eIRUi1X3aeJw&expires=1787833243&ch=ten1co&s=1d4f4c218c145b02cd38d3c101bdebe4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
+https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=A5MJVozrbtPkKpwMD9nXKw&expires=1787833245&ch=ten3sd&s=0ed23e9398a3db81273880ac77237d32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=35mxwjfAe_-oCPpmQoZvDw&expires=1787833247&ch=hdwillos5&s=9ea9c004e6165b4e6337c1e06c996de4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
+https://mz01.playerr03.com:7060/hls/criclife1.m3u8?md5=oCqzNThlAKl7WDnT8eBlig&expires=1787833249&ch=criclife1&s=7f170a3a0b63bb78cca8e7892ccabd4b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 4
+https://mz01.playerr03.com:7060/hls/sonyespnind.m3u8?md5=UzsAMa6UrTm03V30AL16pw&expires=1787833252&ch=sonyespnind&s=5eb0bfbe3fb53d0ae140d07cc41be5fc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - TNT Cricket
+https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=Ta5560C8ixoyTzJWAzMp5g&expires=1787833254&ch=bbtsip1&s=9e965756fa3c1865426ab1bdf3568211
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - PTV Sports
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=QWm4_DKleD93hT3jMdqEkA&expires=1787833257&ch=ptvskpr&s=b745b787e0d31bec1414f4e9fa4665b4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - CricGo 1
+https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=iLvFk0tOsUQ_oCM-YUKsFg&expires=1787833261&ch=cricgo1&s=55ae41e3dc1de3e1a5c6d59089cac94c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Sky Cricket
+https://mz02.playerr03.com:7060/hls/dodosky2.m3u8?md5=Wkn7ZO40tExNetVraAIMJw&expires=1787833264&ch=dodosky2&s=9e286d19b64ab7d323592285cb6f6a72
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 7:02:25 AM 27-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#last update time: 5:02:23 PM 27-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787878945-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc5c942bb34bdd7bf26725368d2f897e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Miami%20Marlins.jpg" group-title="LIVE", Boston Red Sox vs Miami Marlins - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1787878947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8a966691fd02d5777d0e79f701ee1b63
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Washington%20Nationals.jpg" group-title="LIVE", Colorado Rockies vs Washington Nationals - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1787878948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69a48b9d72d016d3d2b15a7006a214c5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Golden%20State%20Valkyries%20vs%20Connecticut%20Sun.jpg" group-title="LIVE", Golden State Valkyries vs Connecticut Sun - WNBA
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510821/720p/chunks.m3u8?is_vip=false&token=1787878950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-43428c8923355769347060573acf95d1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vendula%20Valdmannova%20vs%20Aliaksandra%20Sasnovich.jpg" group-title="LIVE", Vendula Valdmannova vs Aliaksandra Sasnovich - US Open
-https://livecdn-tc-iptv.rumsport10.live/live_abr/136447/720p/chunks.m3u8?is_vip=false&token=1787878951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbbb483a886ffc80d891cd30a1fd9932
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Knight%20Riders%20vs%20Kings.jpg" group-title="LIVE", Knight Riders vs Kings - CPL
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787878953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-91cced3381b3c7bfc0f51ac6f316caba
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Toronto%20Blue%20Jays.jpg" group-title="LIVE", Kansas City Royals vs Toronto Blue Jays - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1787878954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-99b3e7935e34f7d3bde8d76a0e1a91c6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20New%20York%20Yankees.jpg" group-title="LIVE", Houston Astros vs New York Yankees - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1787878955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-395010242f6fa5f14e999d78185efd7e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20New%20York%20Mets.jpg" group-title="LIVE", Milwaukee Brewers vs New York Mets - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1787878956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e13493824e0ddbd3b5dce364b63c9c58
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Dodgers%20vs%20Atlanta%20Braves.jpg" group-title="LIVE", Los Angeles Dodgers vs Atlanta Braves - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1787878958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ddf2ae339e4ef62895638f1566cbf482
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Naples%20vs%20Union%20Omaha.jpg" group-title="LIVE", Naples vs Union Omaha - USL League One [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2abce-backup/chunks.m3u8?is_vip=false&token=1787878959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b0933a0236924075d46820a3cf07f640
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Naples%20vs%20Union%20Omaha.jpg" group-title="LIVE", Naples vs Union Omaha - USL League One [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2abce/chunks.m3u8?is_vip=false&token=1787878960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b89c9b5ceb3882daf9f53cb899628f8c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Chicago%20White%20Sox.jpg" group-title="LIVE", Texas Rangers vs Chicago White Sox - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=1787878962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-344d29d8aa3726ba01196f2e856a1743
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baltimore%20Orioles%20vs%20St.%20Louis%20Cardinals.jpg" group-title="LIVE", Baltimore Orioles vs St. Louis Cardinals - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55850/720p/chunks.m3u8?is_vip=false&token=1787878964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5aa8cc37ec13a4b43a6dcc85d60233d2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Carolina%20Courage%20W%20vs%20Angel%20City%20W.jpg" group-title="LIVE", North Carolina Courage W vs Angel City W - NWSL Women [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2abd2-backup/chunks.m3u8?is_vip=false&token=1787878965-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9eaacdaa621a2b5bd1d7decd4e2701d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Carolina%20Courage%20W%20vs%20Angel%20City%20W.jpg" group-title="LIVE", North Carolina Courage W vs Angel City W - NWSL Women [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2abd2/chunks.m3u8?is_vip=false&token=1787878966-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7009cfd534fbdbebc2d8b2a7d7f98bcf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CS%20Herediano%20vs%20Antigua%20GFC.jpg" group-title="LIVE", CS Herediano vs Antigua GFC - CONCACAF Central American Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dbfb-backup/chunks.m3u8?is_vip=false&token=1787878967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-de382fe4d2147b3dabbc687ff56e79c2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CS%20Herediano%20vs%20Antigua%20GFC.jpg" group-title="LIVE", CS Herediano vs Antigua GFC - CONCACAF Central American Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dbfb/chunks.m3u8?is_vip=false&token=1787878968-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7535971287777cd43eb737a6ff351a38
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20vs%20Austin.jpg" group-title="LIVE", Toluca vs Austin - Leagues Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa9-hd/chunks.m3u8?is_vip=false&token=1787878969-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5318173aacff9e17c59346aa74eb8200
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20vs%20Austin.jpg" group-title="LIVE", Toluca vs Austin - Leagues Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa9-fhd/chunks.m3u8?is_vip=false&token=1787878970-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ce1671b6a9e7c24e49a2ebdcd4b0819
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20vs%20Austin.jpg" group-title="LIVE", Toluca vs Austin - Leagues Cup [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa9-backup/chunks.m3u8?is_vip=false&token=1787878971-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25f39109c6f6f39975c48be944069bbe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20vs%20Austin.jpg" group-title="LIVE", Toluca vs Austin - Leagues Cup [Server 4]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7fb32c5d79ffdae2daefa9/chunks.m3u8?is_vip=false&token=1787878971-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-289f2b0dc55e72383cc4201740ae7336
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20vs%20Vitoria.jpg" group-title="LIVE", Vasco DA Gama vs Vitoria - Copa Do Brasil [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a86206096e1cc910f053588-backup/chunks.m3u8?is_vip=false&token=1787878973-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-663ec2c23980a0218155b9341866b78a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20vs%20Vitoria.jpg" group-title="LIVE", Vasco DA Gama vs Vitoria - Copa Do Brasil [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a86206096e1cc910f053588/chunks.m3u8?is_vip=false&token=1787878974-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-acda032a8d95585e33ac2c713181f344
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palmeiras%20vs%20Santos.jpg" group-title="LIVE", Palmeiras vs Santos - Copa Do Brasil [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a86206096e1cc910f053589-fhd/chunks.m3u8?is_vip=false&token=1787878975-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6fdca6623f262e6d8ce34e5f0b6f1217
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palmeiras%20vs%20Santos.jpg" group-title="LIVE", Palmeiras vs Santos - Copa Do Brasil [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a86206096e1cc910f053589-backup/chunks.m3u8?is_vip=false&token=1787878976-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6635a61c62cb57dafa338dd3e079e020
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palmeiras%20vs%20Santos.jpg" group-title="LIVE", Palmeiras vs Santos - Copa Do Brasil [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a86206096e1cc910f053589/chunks.m3u8?is_vip=false&token=1787878976-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd86bcf4817a45f53446c71087158f52
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20vs%20Santa%20Fe.jpg" group-title="LIVE", River Plate vs Santa Fe - CONMEBOL Sudamericana [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a72ca6394a200e3380b5b23-fhd/chunks.m3u8?is_vip=false&token=1787878978-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8656c922007e25938b5fdead69844233
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20vs%20Santa%20Fe.jpg" group-title="LIVE", River Plate vs Santa Fe - CONMEBOL Sudamericana [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a72ca6394a200e3380b5b23-backup/chunks.m3u8?is_vip=false&token=1787878979-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3307d7d1086fa03100f9aae0d19e1766
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20vs%20Santa%20Fe.jpg" group-title="LIVE", River Plate vs Santa Fe - CONMEBOL Sudamericana [Server 3]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a72ca6394a200e3380b5b23/chunks.m3u8?is_vip=false&token=1787878979-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7eb4685434b0a5cfff06828ce0f027f4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Norte%20vs%20Deportivo%20Moron.jpg" group-title="LIVE", Central Norte vs Deportivo Moron - Primera Nacional [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a32bd828cb9e8c43b71732e-backup/chunks.m3u8?is_vip=false&token=1787878981-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c742eafe39f9af0aa3e481dd7f7a4b3d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Norte%20vs%20Deportivo%20Moron.jpg" group-title="LIVE", Central Norte vs Deportivo Moron - Primera Nacional [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a32bd828cb9e8c43b71732e/chunks.m3u8?is_vip=false&token=1787878982-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-75b91a5873872e82f8ba129ca0301273
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CD%20Marathon%20vs%20Real%20Estel%C3%AD.jpg" group-title="LIVE", CD Marathon vs Real Estelí - CONCACAF Central American Cup [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca26-backup/chunks.m3u8?is_vip=false&token=1787878983-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6141fd5a497054371478a3e831af99e7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CD%20Marathon%20vs%20Real%20Estel%C3%AD.jpg" group-title="LIVE", CD Marathon vs Real Estelí - CONCACAF Central American Cup [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca26/chunks.m3u8?is_vip=false&token=1787878984-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f6f6528a49559545511629362e7c179d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20Athletics.jpg" group-title="LIVE", Minnesota Twins vs Athletics - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=1787878988-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6fc1f860840a4d5bce44d3b626a3675f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/El%20Paso%20Locomotive%20vs%20Pittsburgh%20Riverhounds.jpg" group-title="LIVE", El Paso Locomotive vs Pittsburgh Riverhounds - USL Championship
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2abd4/chunks.m3u8?is_vip=false&token=1787878991-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f924f35bddaff28b94473199747196fc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20Whitecaps%20II%20vs%20Los%20Angeles%20FC%20II.jpg" group-title="LIVE", Vancouver Whitecaps II vs Los Angeles FC II - MLS Next Pro
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3303cff59507a97a4fb892/chunks.m3u8?is_vip=false&token=1787878991-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-537725804a9d475b49fc98f68c901644
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787914944-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b5bcbcaf29140beb273cbe8b0f204c3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Queensland%20Cowboys%20vs%20Newcastle%20Knights.jpg" group-title="LIVE", North Queensland Cowboys vs Newcastle Knights - NRL Rugby
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787914945-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6930ae0da5f91e65ced415af35865ab0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 2nd Test
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1787914947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-faa87b344c2080e32280ddbd64637409
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/World%20Snooker%20Tour.jpg" group-title="Billiards", World Snooker Tour - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787914950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4958aa9fd3330f10e41ea7a529b2fc18
 # Playlist Name: Tapmad bd
-# Last Update: 07:00 AM 27-08-2026
+# Last Update: 05:00 PM 27-08-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-15792" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876380711020x576.jpg" group-title="Cricket", Trinbago Knight Riders vs St Lucia Kings | Caribbean Premier League 2026
+#EXTINF:-1 tvg-id="tapmad-15926" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg" group-title="Cricket", Sri Lanka vs India | India Tour of Sri Lanka 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16197" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878105971020x576WOMEN.jpg" group-title="Hockey", Chile vs New Zealand - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16689" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876652061020x576.jpg" group-title="Cricket", Belfast Wolves vs Dublin Guardians | European T20 Premier League 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16198" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878107161020x576WOMEN.jpg" group-title="Hockey", Japan vs Scotland - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16289" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876416771020x576.jpg" group-title="Tennis", Mixed Doubles Semifinals & Championship | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:27 AM 27-08-2026
+# last_update: 04:50:30 PM 27-08-2026
+#EXTINF:-1 tvg-id="sonyliv-1090540507" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736122550960_SL_vs_IND_2nd_Test_Day5_clean_landscape_thumb.jpg" group-title="Cricket", Day 5 - 2nd Test - 27 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787840432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8bbd932c5e019706915aad0fe8a0fbe17509e9838a132f532b249f2f5ff0537d
+#EXTINF:-1 tvg-id="sonyliv-1090540508" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket", Day 1 - 2nd Test - 27 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/master.m3u8?hdnea=exp=1787845833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4148a0751f6f47cb3768e69a7050b4d1f1622b9a6b434871f3a8680151e7bca2
+#EXTINF:-1 tvg-id="sonyliv-1090540510" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Cricket", Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787840443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3016e57a90f65269790eda721b51f42fe2b84dfa1b843026c3e3d07ed8513dc6
