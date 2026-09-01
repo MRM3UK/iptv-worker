@@ -225,23 +225,53 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-01 12:00:32 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-01 05:00:37 PM (BD Time)"
+# Total Active Links: 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Zimbabwe.png" group-title="Namibia T20I Tri-Series 2026", South Africa vs Zimbabwe - CricGo 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=sLkWBiA0SdC8SSZsAHdpGQ&expires=1788265236&ch=cricgo2&s=c9764b7e168d5a35fb23c037d5ff6c22
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:17:25 PM 01-09-2026
+#last update time: 5:47:25 PM 01-09-2026
+#EXTINF:-1 tvg-id="51137" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dalian%20Zhixing%20vs%20Shanghai%20Shenhua.jpg" group-title="LIVE", Dalian Zhixing vs Shanghai Shenhua - FA Cup [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e15-backup/chunks.m3u8?is_vip=false&token=1788349647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a39cebc8b2e5f9da7faebd4d0061ecb7
+#EXTINF:-1 tvg-id="51137" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dalian%20Zhixing%20vs%20Shanghai%20Shenhua.jpg" group-title="LIVE", Dalian Zhixing vs Shanghai Shenhua - FA Cup [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e15-cnhd/chunks.m3u8?is_vip=false&token=1788349648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0bbfd96b73b775d276f66bf6532be681
+#EXTINF:-1 tvg-id="51137" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dalian%20Zhixing%20vs%20Shanghai%20Shenhua.jpg" group-title="LIVE", Dalian Zhixing vs Shanghai Shenhua - FA Cup [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e15/chunks.m3u8?is_vip=false&token=1788349649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1cf2929d65d7feb9facc37ea69bc3a11
+#EXTINF:-1 tvg-id="51138" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shandong%20Luneng%20vs%20SHANGHAI%20SIPG.jpg" group-title="LIVE", Shandong Luneng vs SHANGHAI SIPG - FA Cup [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e16-backup/chunks.m3u8?is_vip=false&token=1788349654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6979922651e1165340cd8af9d76fa427
+#EXTINF:-1 tvg-id="51138" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shandong%20Luneng%20vs%20SHANGHAI%20SIPG.jpg" group-title="LIVE", Shandong Luneng vs SHANGHAI SIPG - FA Cup [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e16-cnhd/chunks.m3u8?is_vip=false&token=1788349656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0cc6791817d54009dcf374899501ed1f
+#EXTINF:-1 tvg-id="51138" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shandong%20Luneng%20vs%20SHANGHAI%20SIPG.jpg" group-title="LIVE", Shandong Luneng vs SHANGHAI SIPG - FA Cup [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e16/chunks.m3u8?is_vip=false&token=1788349656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb1c61b0a8e6ae3e875b9f0935fa88f7
+#EXTINF:-1 tvg-id="51136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Rizhao%20Yuqi.jpg" group-title="LIVE", Beijing Guoan vs Rizhao Yuqi - FA Cup [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e14-backup/chunks.m3u8?is_vip=false&token=1788349658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a972f0cd0951fba333faa32030b5cd0
+#EXTINF:-1 tvg-id="51136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Rizhao%20Yuqi.jpg" group-title="LIVE", Beijing Guoan vs Rizhao Yuqi - FA Cup [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e14-cnhd/chunks.m3u8?is_vip=false&token=1788349659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6925bea3ed3b16d82b6a2e8b6ef67138
+#EXTINF:-1 tvg-id="51136" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Rizhao%20Yuqi.jpg" group-title="LIVE", Beijing Guoan vs Rizhao Yuqi - FA Cup [Server 3]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a75fa10497eb195e8cf1e14/chunks.m3u8?is_vip=false&token=1788349660-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c726a158d1a9a9f68226fe7c7395d5de
+#EXTINF:-1 tvg-id="55734" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20W%20vs%20Ireland%20W.jpg" group-title="LIVE", England W vs Ireland W - 1st ODI
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1788349661-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-35babcfcb529c5479bb6ff81fe539c14
+#EXTINF:-1 tvg-id="59678" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secondo%20turno.jpg" group-title="LIVE", Secondo turno - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788349663-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2a10ee6dfa1e8ab985ae33081efa467
 # Playlist Name: Tapmad bd
-# Last Update: 12:15 PM 01-09-2026
+# Last Update: 05:45 PM 01-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-16295" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg" group-title="Tennis", Men's & Women's Singles 1st Round | US Open 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:26 PM 01-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787991155507882_JPL_26_Chennai-Strikers-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Cricket", Chennai Strikers vs Indore Hawks - 1 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788258033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ea6236b54caa6f288ace3bfbbffb089005194e11b1b52362ba474660568056fb
+# last_update: 05:50:28 PM 01-09-2026
+#EXTINF:-1 tvg-id="sonyliv-1090541059" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg" group-title="Cricket", Bathinda Royals vs Ludhiana Lions - 1 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788283231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9f61e27994e5fbd5b38a8c4994e4402ab15480cd9cc16a94181370c1a473e9cf
+#EXTINF:-1 tvg-id="sonyliv-1090541157" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg" group-title="Cricket", 1st ODI - 1 Sep 2026 | Ireland Women's Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/master.m3u8?hdnea=exp=1788285037~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a8a9012da629d24855c87285586f13b5d031fbd293bd4ae89301a37be66891a6
+#EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023295/1788246025224942_JPL_26_Pagariya-Strikers-vs-Bangalore-Blasters_live_landscape_thumb.jpg" group-title="Cricket", Pagariya Strikers vs Bangalore Blasters - 1 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788274234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd2fb83570dc20c4b38a9a97affa5bc0b7cebf9f88d40771c87926f10ff40f64
