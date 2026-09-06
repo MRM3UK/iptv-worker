@@ -2,6 +2,31 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-06 11:00:32 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-07 02:00:45 AM (BD Time)"
+# Total Active Links: 5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/St%20Kitts%20and%20Nevis%20Patriots%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", St Kitts and Nevis Patriots vs Guyana Amazon Warriors - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=gEs6JoQaboyfZZGEU0APjg&expires=1788729633&ch=willowsd&s=492d69b589eae7c751a2840a23e69cd9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/St%20Kitts%20and%20Nevis%20Patriots%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", St Kitts and Nevis Patriots vs Guyana Amazon Warriors - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=63zcaxJgdprixmZd6OM6qA&expires=1788729636&ch=star2cl5&s=c6692daa025f5522f8dc6dbffb3755af
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/St%20Kitts%20and%20Nevis%20Patriots%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", St Kitts and Nevis Patriots vs Guyana Amazon Warriors - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=2naAJZhSt1w7MrbGJiFCKA&expires=1788729639&ch=hdwillos5&s=45226d8df09a9830c152e9fa64e61f70
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/St%20Kitts%20and%20Nevis%20Patriots%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", St Kitts and Nevis Patriots vs Guyana Amazon Warriors - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=5i7-hK3J3Pcm_b7Ihqow5Q&expires=1788729642&ch=cricgo5&s=c7f6700224c26fbf8c913cc8866363c8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/St%20Kitts%20and%20Nevis%20Patriots%20vs%20Guyana%20Amazon%20Warriors.png" group-title="Caribbean Premier League 2026", St Kitts and Nevis Patriots vs Guyana Amazon Warriors - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=mui8t-44_XiYYpNXc7xqMA&expires=1788729645&ch=bbtsip1&s=63a76e1155bdb037526d2b11005caf84
 
