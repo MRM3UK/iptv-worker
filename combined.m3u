@@ -225,25 +225,34 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-08 02:00:34 PM (BD Time)"
+#"last updated": "2026-09-08 06:00:36 PM (BD Time)"
 # Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 2:17:23 PM 08-09-2026
-#EXTINF:-1 tvg-id="65086" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Test.jpg" group-title="LIVE", Test - US Open
+#last update time: 6:47:22 PM 08-09-2026
+#EXTINF:-1 tvg-id="60251" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Porto%20U19%20vs%20Manchester%20City%20U19.jpg" group-title="LIVE", Porto U19 vs Manchester City U19 - UEFA Youth League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788941844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bbc1a23d6ccbd8bea8220fd7c3bb0701
-# Playlist Name: Tapmad bd
-# Last Update: 12:00 PM 08-09-2026
-# Telegram: https://t.me/livesportsplay
-# Owner: Md Sohanur Rahman Hady
-# Special thanks to Shuvo vai for contributing his premium Tapmad account.
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca115f-backup/chunks.m3u8?is_vip=false&token=1788958043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b751f40901858ba48f3916832530b6f
+#EXTINF:-1 tvg-id="60251" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Porto%20U19%20vs%20Manchester%20City%20U19.jpg" group-title="LIVE", Porto U19 vs Manchester City U19 - UEFA Youth League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca115f/chunks.m3u8?is_vip=false&token=1788958044-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d59281f7e925825408f58ebf7e636d19
+#EXTINF:-1 tvg-id="63631" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Olympic%20Kingsway%20vs%20Perth.jpg" group-title="LIVE", Olympic Kingsway vs Perth - Western Australia NPL [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9e6800eee29798ba624977-backup/chunks.m3u8?is_vip=false&token=1788958046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-520de6d3f207901de33ee42b00e5526c
+#EXTINF:-1 tvg-id="63631" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Olympic%20Kingsway%20vs%20Perth.jpg" group-title="LIVE", Olympic Kingsway vs Perth - Western Australia NPL [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9e6800eee29798ba624977/chunks.m3u8?is_vip=false&token=1788958046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da4cb28a0781dd231a23d3df6d1a4b7b
+#EXTINF:-1 tvg-id="60249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20U19%20vs%20Aston%20Villa%20U19.jpg" group-title="LIVE", Club Brugge U19 vs Aston Villa U19 - UEFA Youth League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1160-backup/chunks.m3u8?is_vip=false&token=1788958048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-755680e430a7ee83a60d70154d411f2a
+#EXTINF:-1 tvg-id="60249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20U19%20vs%20Aston%20Villa%20U19.jpg" group-title="LIVE", Club Brugge U19 vs Aston Villa U19 - UEFA Youth League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1160/chunks.m3u8?is_vip=false&token=1788958049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7d2b3ab0bd4a9254ae4ab35800e6606d
+#EXTINF:-1 tvg-id="55212" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2016.jpg" group-title="LIVE", Vuelta a España, Stage 16 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788958050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a92960eb46e3c165e2e723f4c54f551
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:30 PM 08-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="Cricket", Amritsar Soormas vs Mohali Kings - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788871835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=10cf5d3a15309f5b89c1066280050907f473c4aecc63e954b43bfc40331b85ab
+# last_update: 06:50:28 PM 08-09-2026
+#EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Cricket", Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788888035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d14ada67badfaa85eb975bd42abbeccedcee276480bc5b24d8530829de0fa876
+#EXTINF:-1 tvg-id="sonyliv-1090541752" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Football", Club Brugge vs Aston Villa - 8 Sep 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/master.m3u8?hdnea=exp=1788889835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c76a8dbf7366c66fd385d2aa3c857a4832814feeee68440da5c66f374c6c09cd
