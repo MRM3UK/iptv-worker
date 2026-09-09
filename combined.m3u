@@ -225,30 +225,57 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-09 03:00:57 PM (BD Time)"
+#"last updated": "2026-09-09 07:01:11 PM (BD Time)"
 # Total Active Links: 6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Namibia.png" group-title="South Africa tour of Namibia, 2026", South Africa vs Namibia - CricGo 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=59bOi3hHOPOzWrEReQ6BmA&expires=1788949237&ch=cricgo2&s=56cefeec37aac6d2001134c319068f67
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow Cricket
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=cBfG2PTIHhO2ovywTw0aIQ&expires=1788949240&ch=willowsd&s=062f66761320e024181bcda73a102186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - PTV Sports
-https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=4fHsTgQsNws4ilLlp1afIw&expires=1788949243&ch=ptvskpr&s=a88400fbea82abe2514cea775abda6d2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow HD
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=qUYHWRs7sxjCmQ5jjjpVkQ&expires=1788949246&ch=hdwillos5&s=f4f3293de6f424a49cf240301bd85cde
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - CricGo 1
-https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=j7H11_djj2ktq9saGO2t-A&expires=1788949249&ch=cricgo1&s=a7648c46f4507a03dcbecc99924eed50
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Sky Cricket
-https://mz02.playerr03.com:7060/hls/dodosky2.m3u8?md5=WTGHsG0HScZ9Z3GMVyAj9Q&expires=1788949257&ch=dodosky2&s=b53650bf2c68de6e32150fb1a6b42c91
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=SJcW_nW0D39WmyTyqkmA0g&expires=1788963650&ch=cricgo2&s=9bbed970c286abf29f0a6f976434c698
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Cricket
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=gW73oWhN-y73LlZdKGB12Q&expires=1788963654&ch=willowsd&s=9fe48e821cdb639ea33538ccf9896c60
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=GmT_7vaIaTaBQVmyhjnQ1A&expires=1788963657&ch=ptvskpr&s=a07fa55925ee4b1f9038d7dd96ad9e52
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow HD
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=pjsAeDC8gip0unk-h4mnsg&expires=1788963660&ch=hdwillos5&s=49ef1fccb6704d402b67e9d7181a0082
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
+https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=ZP2gzjazMfBWgu0HLKMzUQ&expires=1788963664&ch=cricgo1&s=1c2e4884582c684306d36aba94efa612
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Sky Cricket
+https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=j0wF7Qhq_tyAD5wjNgKQsw&expires=1788963670&ch=dodosky2&s=2d3afa4429ae2c1c7ba45cb95c9a5abe
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:17:26 PM 09-09-2026
+#last update time: 7:47:25 PM 09-09-2026
+#EXTINF:-1 tvg-id="65134" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789048046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f00f781583921f844dc4650d89a9cd6
+#EXTINF:-1 tvg-id="65135" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secondo%20turno.jpg" group-title="LIVE", Secondo turno - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789048048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2f8ac9b7e6f5b2c751319583ad5efc6
+#EXTINF:-1 tvg-id="60257" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSG%20U19%20vs%20Slovan%20Bratislava%20U19.jpg" group-title="LIVE", PSG U19 vs Slovan Bratislava U19 - UEFA Youth League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199654-backup/chunks.m3u8?is_vip=false&token=1789048049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd42cd45b049c3d13b7a7ff8879869d1
+#EXTINF:-1 tvg-id="60257" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSG%20U19%20vs%20Slovan%20Bratislava%20U19.jpg" group-title="LIVE", PSG U19 vs Slovan Bratislava U19 - UEFA Youth League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199654/chunks.m3u8?is_vip=false&token=1789048050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d866f664a67583af290334621d9b43cb
+#EXTINF:-1 tvg-id="55213" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2017.jpg" group-title="LIVE", Vuelta a España, Stage 17 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789048052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4fe5ab2d36e6bfe78cec6d7adb0a458
+#EXTINF:-1 tvg-id="60258" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20U19%20vs%20Galatasaray%20U18.jpg" group-title="LIVE", Sporting CP U19 vs Galatasaray U18 - UEFA Youth League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199653-backup/chunks.m3u8?is_vip=false&token=1789048053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-470adee6c0634a814f145d12755a9d51
+#EXTINF:-1 tvg-id="60258" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20U19%20vs%20Galatasaray%20U18.jpg" group-title="LIVE", Sporting CP U19 vs Galatasaray U18 - UEFA Youth League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199653/chunks.m3u8?is_vip=false&token=1789048054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d5182aebd4fe427515466b7977a8e09
+# Playlist Name: Tapmad bd
+# Last Update: 07:45 PM 09-09-2026
+# Telegram: https://t.me/livesportsplay
+# Owner: Md Sohanur Rahman Hady
+# Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16705" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg" group-title="Cricket", Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:33 PM 09-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Cricket", Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 | Sher-E-Punjab T20 League
+# last_update: 07:50:29 PM 09-09-2026
+#EXTINF:-1 tvg-id="sonyliv-1090541741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Cricket", Day 1 - 3rd Test - 9 Sep 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
+#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Cricket", Mohali Kings vs Bathinda Royals - 9 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
