@@ -225,24 +225,30 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-09 10:00:29 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-09 03:00:57 PM (BD Time)"
+# Total Active Links: 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Namibia.png" group-title="South Africa tour of Namibia, 2026", South Africa vs Namibia - CricGo 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=59bOi3hHOPOzWrEReQ6BmA&expires=1788949237&ch=cricgo2&s=56cefeec37aac6d2001134c319068f67
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow Cricket
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=cBfG2PTIHhO2ovywTw0aIQ&expires=1788949240&ch=willowsd&s=062f66761320e024181bcda73a102186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - PTV Sports
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=4fHsTgQsNws4ilLlp1afIw&expires=1788949243&ch=ptvskpr&s=a88400fbea82abe2514cea775abda6d2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Willow HD
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=qUYHWRs7sxjCmQ5jjjpVkQ&expires=1788949246&ch=hdwillos5&s=f4f3293de6f424a49cf240301bd85cde
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - CricGo 1
+https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=j7H11_djj2ktq9saGO2t-A&expires=1788949249&ch=cricgo1&s=a7648c46f4507a03dcbecc99924eed50
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20Pakistan.png" group-title="Pakistan tour of England 2026", England vs Pakistan - Sky Cricket
+https://mz02.playerr03.com:7060/hls/dodosky2.m3u8?md5=WTGHsG0HScZ9Z3GMVyAj9Q&expires=1788949257&ch=dodosky2&s=b53650bf2c68de6e32150fb1a6b42c91
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:47:30 AM 09-09-2026
-#EXTINF:-1 tvg-id="65087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789015651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-84cb5a09906a7077a980f41d0a94ce6d
-#EXTINF:-1 tvg-id="55206" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Texas%20Rangers%20vs%20Seattle%20Mariners.jpg" group-title="LIVE", Texas Rangers vs Seattle Mariners - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1789015652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9f87bfec819421b689952ded565e1ab
-#EXTINF:-1 tvg-id="55209" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="LIVE", Cincinnati Reds vs Los Angeles Dodgers - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=1789015653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8509cf222284a54efd11a559570a2881
-#EXTINF:-1 tvg-id="60865" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vanuatu%20United%20vs%20Central%20Coast%20Mariners.jpg" group-title="LIVE", Vanuatu United vs Central Coast Mariners - Friendlies Clubs
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a99cad55c0020a997bbbdab-backup/chunks.m3u8?is_vip=false&token=1789015654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d3459a7b31cabd07cd8c9905fafa0a6
+#last update time: 3:17:26 PM 09-09-2026
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:27 AM 09-09-2026
+# last_update: 03:20:33 PM 09-09-2026
+#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Cricket", Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
