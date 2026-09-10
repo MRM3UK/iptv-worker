@@ -225,23 +225,45 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-10 03:00:38 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-10 08:00:53 PM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=pBTIvsNQJsKWhqzi_D0akg&expires=1789053639&ch=willowsd&s=74c2767a8e3e40391b1003f29e63778d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=9KeVxFh1vbHkQqi9VhyY5Q&expires=1789053643&ch=ptvskpr&s=63ae29f10accb28a6a29fc707953ef7f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow HD
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=CkaYL8JIrySvvgh9fJbyjQ&expires=1789053646&ch=hdwillos5&s=6afaa267d75073078e159021f9260942
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=5dBx2JWKdJyRleKDAs79zg&expires=1789053650&ch=cricgo1&s=4f31101d32e292aafede4ed9ce891b9c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Sky Cricket
+https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=oCuzb-Q-LaNGhOUTwPWM4A&expires=1789053653&ch=dodosky2&s=81ce0d7645cf52bbce0cfcf552e4cafa
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:47:26 PM 10-09-2026
-#EXTINF:-1 tvg-id="55779" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manawat%C5%AB%20vs%20Taranaki.jpg" group-title="LIVE", Manawatū vs Taranaki - NPC
+#last update time: 8:02:24 PM 10-09-2026
+#EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789120047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a11692f3faadb9a84fe7063fee2642d
-#EXTINF:-1 tvg-id="61004" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Sydney%20Roosters.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Sydney Roosters - NRL Women's Premiership
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789120049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-077c4e2fa658da0db9ec2fb0af81cfe9
-#EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789120050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-632001aec5244f2dae8ef0c592721c23
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789135345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06e071a966fba1e15dd598da7fed2873
+#EXTINF:-1 tvg-id="55781" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2018.jpg" group-title="LIVE", Vuelta a España, Stage 18 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789135348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-faac0d56cd881c07c8f89b401400d502
+#EXTINF:-1 tvg-id="60263" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20U19%20vs%20Sabah%20U19.jpg" group-title="LIVE", Manchester United U19 vs Sabah U19 - UEFA Youth League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349ada-backup/chunks.m3u8?is_vip=false&token=1789135350-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f09a725d383ea33f626fbca8560e14b6
+#EXTINF:-1 tvg-id="56837" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Jazira%20vs%20Al%20Nasr.jpg" group-title="LIVE", Al-Jazira vs Al Nasr - Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0a-backup/chunks.m3u8?is_vip=false&token=1789135352-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-abb0e0c8c5bf8d7d15e135e141a763bf
+#EXTINF:-1 tvg-id="56837" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Jazira%20vs%20Al%20Nasr.jpg" group-title="LIVE", Al-Jazira vs Al Nasr - Pro League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0a/chunks.m3u8?is_vip=false&token=1789135353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e0c14f2cadaaac21b6b0c31ed47626c
+#EXTINF:-1 tvg-id="56838" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dubai%20United%20vs%20Shabab%20Al%20Ahli%20Dubai.jpg" group-title="LIVE", Dubai United vs Shabab Al Ahli Dubai - Pro League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fbd5751b97c1e61609a0b/chunks.m3u8?is_vip=false&token=1789135354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffa70e8f4df6401cdc16c34572c9b10a
+#EXTINF:-1 tvg-id="60260" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20U19%20vs%20Bod%C3%B8%20%20Glimt%20U19.jpg" group-title="LIVE", Bayern München U19 vs Bodø / Glimt U19 - UEFA Youth League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adc-backup/chunks.m3u8?is_vip=false&token=1789135355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f52fb04820b92775d727a49303c3fe1f
+#EXTINF:-1 tvg-id="65177" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/English%20Open%20Terzo%20turno.jpg" group-title="Billiards", English Open: Terzo turno - World Snooker Tour
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789135363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b0f1296cae8a095c92f884c07d00c77
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 PM 10-09-2026
+# Last Update: 07:30 PM 10-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -252,8 +274,14 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:31 PM 10-09-2026
+# last_update: 07:50:32 PM 10-09-2026
 #EXTINF:-1 tvg-id="sonyliv-1090541867" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="Cricket", Day 2 - 3rd Test - 10 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789069831~acl=/*~id=19927657169765548910464109461033~hmac=77d66150a6c4232949488650dcc1c86557054f4f8843c69f7deca967b4b1aa7f
-#EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg" group-title="Cricket", Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8?hdnea=exp=1789069831~acl=/*~id=19927657169765548910464109461033~hmac=77d66150a6c4232949488650dcc1c86557054f4f8843c69f7deca967b4b1aa7f
+https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Cricket", Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541953" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Cricket", India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 | DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541939" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023755/17890249560548_UYL26_Bayern_vs_Bodo_10sep_landscape_thumb.jpg" group-title="Football", Bayern vs Bodo/Glimt - MD 1 - 10 Sep 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541930" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg" group-title="Golf", Amgen Irish Open - Day 1 - 10 Sep 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
