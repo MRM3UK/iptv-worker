@@ -225,51 +225,73 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-11 03:00:51 PM (BD Time)"
-# Total Active Links: 1
+#"last updated": "2026-09-11 08:00:56 PM (BD Time)"
+# Total Active Links: 6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Namibia.png" group-title="South Africa tour of Namibia, 2026", South Africa vs Namibia - CricGo 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=O-ancBj-CtS_GwSMO5sxlQ&expires=1789122050&ch=cricgo2&s=f762587bbd941dfb969af73c092863b5
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=8ZkdkZ8r7lgs8RirnmPdZw&expires=1789140037&ch=cricgo2&s=6c27149798141ff69bf8b8ddfcb0b14a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow Cricket
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=TNDJxmRB73ukRTI7yXrbqA&expires=1789140041&ch=willowsd&s=135c618c6f7a4d45b5582a06df6aec01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - PTV Sports
+https://mz02.playerr03.com:7060/hls/ptvskpr.m3u8?md5=QSRIROfs-p3ltvgO6m3dfw&expires=1789140044&ch=ptvskpr&s=7d47ef4e5e1997e41b4f253d76b3b305
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Willow HD
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=XKx6ohvZvahv6f64C9qagQ&expires=1789140046&ch=hdwillos5&s=20a5956954d2ea6a786de4eed331e5e5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - CricGo 1
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=lK3dk7gjLNKLyrd_zHKOFg&expires=1789140049&ch=cricgo1&s=198f61d399f8a90190ce004173961952
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20England.png" group-title="Pakistan tour of England 2026", Pakistan vs England - Sky Cricket
+https://mz01.playerr03.com:7060/hls/dodosky2.m3u8?md5=GV_t9wWq-W428Qi9BWYocw&expires=1789140055&ch=dodosky2&s=fb83dec507e234358ae3eb40fb509efa
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:47:24 PM 11-09-2026
-#EXTINF:-1 tvg-id="61005" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20Raiders%20vs%20Wests%20Tigers.jpg" group-title="LIVE", Canberra Raiders vs Wests Tigers - NRL Women's Premiership
+#last update time: 7:47:25 PM 11-09-2026
+#EXTINF:-1 tvg-id="60973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weekend%206%2C%20Day%201.jpg" group-title="LIVE", Weekend 6, Day 1 - Australian Darts Association
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789206445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b57d505269118fe9ca9baf2ba8cabcd2
-#EXTINF:-1 tvg-id="60973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weekend%206%2C%20Day%201.jpg" group-title="LIVE", Weekend 6, Day 1 - Australian Darts Association
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789206448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-09a90e9fed7bbf8296f37460f24df802
-#EXTINF:-1 tvg-id="57632" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Garudayaksa%20vs%20Persik%20Kediri.jpg" group-title="LIVE", Garudayaksa vs Persik Kediri - Liga 1
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969a94/chunks.m3u8?is_vip=false&token=1789206449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed3d3efce3f9e2cd75402e62e06d67cd
-#EXTINF:-1 tvg-id="64120" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Madrid%2C%20Spain.jpg" group-title="LIVE", Madrid, Spain - FIA Formula 2 Championship Practice
-https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789206451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5eeefc65b309f0623f7e426678453cee
-#EXTINF:-1 tvg-id="60266" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Victory%20II%20vs%20Eltham%20Redbacks%20FC.jpg" group-title="LIVE", Melbourne Victory II vs Eltham Redbacks FC - Victoria NPL 2 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb8-backup/chunks.m3u8?is_vip=false&token=1789206452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-907af8b5e22b1767170420a337d3c502
-#EXTINF:-1 tvg-id="60266" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Victory%20II%20vs%20Eltham%20Redbacks%20FC.jpg" group-title="LIVE", Melbourne Victory II vs Eltham Redbacks FC - Victoria NPL 2 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb8/chunks.m3u8?is_vip=false&token=1789206453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2a24afb85b3bcbfde68b80459f12e660
-#EXTINF:-1 tvg-id="60267" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northcote%20City%20vs%20Bulleen%20Lions.jpg" group-title="LIVE", Northcote City vs Bulleen Lions - Victoria NPL 2 [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb7-backup/chunks.m3u8?is_vip=false&token=1789206455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3c36a569712b574275f522d4f4e0e090
-#EXTINF:-1 tvg-id="60267" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northcote%20City%20vs%20Bulleen%20Lions.jpg" group-title="LIVE", Northcote City vs Bulleen Lions - Victoria NPL 2 [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9c6ddbe8a66eebd8f09eb7/chunks.m3u8?is_vip=false&token=1789206455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63b5306573f9219daf22666cbce48c5d
-#EXTINF:-1 tvg-id="65124" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Geelong%20Cats%20vs%20Fremantle.jpg" group-title="LIVE", Geelong Cats vs Fremantle - AFL Premiership
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789206457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-251c080e9cc3708c8a5eada89a75847d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789220846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-914ef7d49561a8a97e1c43e6ef0ccb44
 #EXTINF:-1 tvg-id="55730" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789206458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2be9e6960e7d52b33d2802755ce85018
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789220848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-50ef27bd3c48e8220c8576bb5d4a26d7
+#EXTINF:-1 tvg-id="55782" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2019.jpg" group-title="LIVE", Vuelta a España, Stage 19 - La Vuelta
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789220850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bdb3938ec1f02ae48b3f5a03f33455d2
+#EXTINF:-1 tvg-id="57647" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ratchaburi%20vs%20Bangkok%20United.jpg" group-title="LIVE", Ratchaburi vs Bangkok United - Thai League 1 [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969aa3-backup/chunks.m3u8?is_vip=false&token=1789220851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-12266daa605127ddd19fd70f25b77a42
+#EXTINF:-1 tvg-id="57647" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ratchaburi%20vs%20Bangkok%20United.jpg" group-title="LIVE", Ratchaburi vs Bangkok United - Thai League 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969aa3/chunks.m3u8?is_vip=false&token=1789220853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bac7b135762953ae3b4c203e34530bd7
+#EXTINF:-1 tvg-id="57648" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dewa%20United%20vs%20Bhayangkara%20FC.jpg" group-title="LIVE", Dewa United vs Bhayangkara FC - Liga 1 [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969aa4-backup/chunks.m3u8?is_vip=false&token=1789220854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88a37dff3d00ecfe262b024cb192dcf2
+#EXTINF:-1 tvg-id="57648" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dewa%20United%20vs%20Bhayangkara%20FC.jpg" group-title="LIVE", Dewa United vs Bhayangkara FC - Liga 1 [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969aa4/chunks.m3u8?is_vip=false&token=1789220855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-095309c0e60e0ce9bf67892a861bcf06
+#EXTINF:-1 tvg-id="57649" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Negeri%20Sembilan.jpg" group-title="LIVE", Johor Darul Takzim FC vs Negeri Sembilan - Super League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969aa9-backup/chunks.m3u8?is_vip=false&token=1789220856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1696fd7354aa3a294d766833005e6f46
+#EXTINF:-1 tvg-id="57649" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Negeri%20Sembilan.jpg" group-title="LIVE", Johor Darul Takzim FC vs Negeri Sembilan - Super League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a832905f23cddb5af969aa9/chunks.m3u8?is_vip=false&token=1789220857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4a074ff51b4e855ad693aef047f15ec0
+#EXTINF:-1 tvg-id="64122" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Madrid%2C%20Spain.jpg" group-title="LIVE", Madrid, Spain - FIA Formula 2 Championship Qualifying
+https://livecdn-tc-iptv.rumsport10.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=1789220858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-32d7a2a3e63e4ac79fe16e05f0cd9c97
+#EXTINF:-1 tvg-id="57650" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hatta%20SC%20vs%20Al-Dhafra.jpg" group-title="LIVE", Hatta SC vs Al-Dhafra - Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18981-backup/chunks.m3u8?is_vip=false&token=1789220860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be0f04103afd56aa77fbf34560ee3a33
+#EXTINF:-1 tvg-id="57650" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hatta%20SC%20vs%20Al-Dhafra.jpg" group-title="LIVE", Hatta SC vs Al-Dhafra - Pro League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18981/chunks.m3u8?is_vip=false&token=1789220861-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1532b80b009ed6d1182edb239c9a43c5
+#EXTINF:-1 tvg-id="57651" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khorfakkan%20vs%20Baniyas%20SC.jpg" group-title="LIVE", Khorfakkan vs Baniyas SC - Pro League [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18980-backup/chunks.m3u8?is_vip=false&token=1789220862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cbd7f002f1d26be7360479f76983ec59
+#EXTINF:-1 tvg-id="57651" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Khorfakkan%20vs%20Baniyas%20SC.jpg" group-title="LIVE", Khorfakkan vs Baniyas SC - Pro League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8fcb66eee29798bad18980/chunks.m3u8?is_vip=false&token=1789220863-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-752f0632a8edc28e95c0f14d02ad7690
 # Playlist Name: Tapmad bd
-# Last Update: 03:45 PM 11-09-2026
+# Last Update: 07:45 PM 11-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16708" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890193811020x576.jpg" group-title="Cricket", Dublin Guardians vs Edinburgh Castle Rockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:30 PM 11-09-2026
+# last_update: 07:50:31 PM 11-09-2026
 #EXTINF:-1 tvg-id="sonyliv-1090542071" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434963836794_eng_vs_pak_3test_D3_live_landscape_thumb.jpg" group-title="Cricket", Day 3 - 3rd Test - 11 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
+https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789170635~acl=/*~id=95647733748040008340595701256300~hmac=28ca2faed88591f6fbec29cc60005335279ce1969e4739a9bd465da1c122bdce
+#EXTINF:-1 tvg-id="sonyliv-1090542087" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg" group-title="Cricket", Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 | Sher-E-Punjab T20 League 2026 
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/master.m3u8?hdnea=exp=1789174241~acl=/*~id=74423049729237392307499434524176~hmac=4051d019020f56c49007e86d3e74c833923ff4ca223703de39faba43f2189c5d
 #EXTINF:-1 tvg-id="sonyliv-1090542075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035247082649_DP_World_Tour_Amgen_Irish_Open_Day2_Session1_landscape_thumb.jpg" group-title="Golf", Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
+https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789170635~acl=/*~id=95647733748040008340595701256300~hmac=28ca2faed88591f6fbec29cc60005335279ce1969e4739a9bd465da1c122bdce
