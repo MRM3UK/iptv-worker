@@ -225,27 +225,49 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-14 04:00:41 PM (BD Time)"
+#"last updated": "2026-09-14 10:00:36 PM (BD Time)"
 # Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 4:17:20 PM 14-09-2026
-#EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="LIVE", Asian Championship - Asian Tour
+#last update time: 10:17:25 PM 14-09-2026
+#EXTINF:-1 tvg-id="44150" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20vs%20Parma.jpg" group-title="LIVE", Como vs Parma - Serie A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789467441-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4caacfc29b984ad4777d68e0dca7d66
-#EXTINF:-1 tvg-id="60274" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seoul%20W%20vs%20Hwacheon%20KSPO%20W.jpg" group-title="LIVE", Seoul W vs Hwacheon KSPO W - WK-League [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e26-backup/chunks.m3u8?is_vip=false&token=1789467443-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81ca3f8f2f93f8dcc92396608f156fde
-#EXTINF:-1 tvg-id="60274" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seoul%20W%20vs%20Hwacheon%20KSPO%20W.jpg" group-title="LIVE", Seoul W vs Hwacheon KSPO W - WK-League [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e26/chunks.m3u8?is_vip=false&token=1789467445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-713f99876764300637207bd54d396185
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a497-hd/chunks.m3u8?is_vip=false&token=1789489046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d251073cdd349534c4fd778697efa2ea
+#EXTINF:-1 tvg-id="44148" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torino%20vs%20AS%20Roma.jpg" group-title="LIVE", Torino vs AS Roma - Serie A
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd00dc-hd/chunks.m3u8?is_vip=false&token=1789489048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-99fe772fd73631492587c537b344878d
+#EXTINF:-1 tvg-id="58673" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Universitatea%20Cluj%20vs%20O%C5%A3elul.jpg" group-title="LIVE", Universitatea Cluj vs Oţelul - Liga I [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd9-fhd/chunks.m3u8?is_vip=false&token=1789489049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a497ce4ff0509819c912e55bcb8240a4
+#EXTINF:-1 tvg-id="58673" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Universitatea%20Cluj%20vs%20O%C5%A3elul.jpg" group-title="LIVE", Universitatea Cluj vs Oţelul - Liga I [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11faccffd9/chunks.m3u8?is_vip=false&token=1789489051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6adea5655b9650e445de066a086b889e
+#EXTINF:-1 tvg-id="58604" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KAMAZ%20vs%20Chelyabinsk.jpg" group-title="LIVE", KAMAZ vs Chelyabinsk - First League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465de/chunks.m3u8?is_vip=false&token=1789489052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-de4e785e9c42c7a4c9b0ea3e734d46e7
+#EXTINF:-1 tvg-id="58607" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spartak%20Kostroma%20vs%20FK%20Neftekhimik.jpg" group-title="LIVE", Spartak Kostroma vs FK Neftekhimik - First League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465db/chunks.m3u8?is_vip=false&token=1789489054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c23922a212619df46a49c8f719eab79d
+#EXTINF:-1 tvg-id="58610" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shinnik%20Yaroslavl%20vs%20Ural.jpg" group-title="LIVE", Shinnik Yaroslavl vs Ural - First League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465d8/chunks.m3u8?is_vip=false&token=1789489057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b894c3be21e6e1b1834df93336e2cb3a
+#EXTINF:-1 tvg-id="58592" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/HNK%20Gorica%20vs%20NK%20Varazdin.jpg" group-title="LIVE", HNK Gorica vs NK Varazdin - HNL [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fc-fhd/chunks.m3u8?is_vip=false&token=1789489058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cdcb4e7e23f12f5aa2fcdc80154a5af4
+#EXTINF:-1 tvg-id="58592" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/HNK%20Gorica%20vs%20NK%20Varazdin.jpg" group-title="LIVE", HNK Gorica vs NK Varazdin - HNL [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a847abb6c031c11fac465fc/chunks.m3u8?is_vip=false&token=1789489060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3dd4695dd11c20945a36d884721038ef
+#EXTINF:-1 tvg-id="60281" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shabab%20Al%20Ahli%20Dubai%20vs%20Tractor%20Sazi.jpg" group-title="LIVE", Shabab Al Ahli Dubai vs Tractor Sazi - AFC Champions League Elite
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abd-fancode/chunks.m3u8?is_vip=false&token=1789489062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-074b82abacbe9a509e6e2c74cf373b9e
+#EXTINF:-1 tvg-id="60282" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Shamal%20vs%20Al-Ittihad%20FC.jpg" group-title="LIVE", Al Shamal vs Al-Ittihad FC - AFC Champions League Elite [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abc/chunks.m3u8?is_vip=false&token=1789489063-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c418c9ae9d1dfaed61850c67b98dc455
+#EXTINF:-1 tvg-id="60282" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Shamal%20vs%20Al-Ittihad%20FC.jpg" group-title="LIVE", Al Shamal vs Al-Ittihad FC - AFC Champions League Elite [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351abc-fancode/chunks.m3u8?is_vip=false&token=1789489065-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9667f10421d438ac11dbb304bdecabdb
 # Playlist Name: Tapmad bd
-# Last Update: 04:00 PM 14-09-2026
+# Last Update: 10:15 PM 14-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-17302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893731781020x576.jpg" group-title="Football", Shabab Al Ahli vs Tractor FC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17307" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893699901020x576.jpg" group-title="Football", Al Shamal SC vs Al Ittihad Club Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:29 PM 14-09-2026
+# last_update: 10:20:34 PM 14-09-2026
