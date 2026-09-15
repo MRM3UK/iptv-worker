@@ -225,53 +225,59 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-15 06:00:46 PM (BD Time)"
-# Total Active Links: 2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Zimbabwe.png" group-title="Australia tour of Zimbabwe 2026", Australia vs Zimbabwe - CricGo 2
+#"last updated": "2026-09-15 10:00:56 PM (BD Time)"
+# Total Active Links: 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=12bZcbVTz4ulFKLHB3-v-A&expires=1789478442&ch=cricgo2&s=4064aa62b4caa63dd4230ac4dabb5d76
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Zimbabwe.png" group-title="Australia tour of Zimbabwe 2026", Australia vs Zimbabwe - Fox Cricket
-https://mz01.playerr03.com:7060/hls/cf0sp1.m3u8?md5=eq_DjqVrr2ZVYo5ovScFHg&expires=1789478445&ch=cf0sp1&s=60811b8383622983fd812bf038ab00a1
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=Nt3VfrI-pGNPP7G3Iqfr7Q&expires=1789492838&ch=willowsd&s=bb077efdbd47b86304c1431ec97a5ce3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - Sony Sports Ten 5
+https://mz02.playerr03.com:7060/hls/sonyssix.m3u8?md5=OFwZSwVe8hZeSJg66vWrRQ&expires=1789492842&ch=sonyssix&s=d40acc9165e03d29ee06ca538f54f46f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - Sony Sports Ten 3
+https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=AWmhPZKzonyiYZJgOhtclQ&expires=1789492845&ch=ten3sd&s=d895535555ddb5b2228215bf6aefe99c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - Willow HD
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=Qo5xNmU3ImXVPXPKD0hs4g&expires=1789492847&ch=hdwillos5&s=7fba3a16f3177e089eec5a6b39e621a5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - Astro Cricket
+https://mz01.playerr03.com:7060/hls/astrocric.m3u8?md5=I5Z03-1NlGPq5fSGKMEmDQ&expires=1789492850&ch=astrocric&s=0d1c229ef1b7ad7e28d43b64c34d3d2b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - CricGo 1
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=mCVk2Rav-qDD_rUV59hN3A&expires=1789492852&ch=cricgo1&s=e42f884f76e3f995ce65f87e2c5cbe7a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Afghanistan%20vs%20India.png" group-title="Afghanistan vs India in India 2026", Afghanistan vs India - CricGo 4
+https://mz01.playerr03.com:7060/hls/cricgo4.m3u8?md5=WYo-j6rIQyAywjW1qJcVMQ&expires=1789492855&ch=cricgo4&s=15dd5f68763994613443eb84c028f815
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:02:25 PM 15-09-2026
-#EXTINF:-1 tvg-id="64079" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flames%20vs%20Guardians.jpg" group-title="LIVE", Flames vs Guardians - ETPL
+#last update time: 10:47:56 PM 15-09-2026
+#EXTINF:-1 tvg-id="60890" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Ain%20vs%20Al-Nassr.jpg" group-title="LIVE", Al Ain vs Al-Nassr - AFC Champions League Elite [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789560146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dec34160b53ee56db893ae80c4f2b7fa
-#EXTINF:-1 tvg-id="66603" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qatar%20U23%20vs%20Korea%20Republic%20U23.jpg" group-title="LIVE", Qatar U23 vs Korea Republic U23 - Asian Games
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351ae8/chunks.m3u8?is_vip=false&token=1789560149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-563689969d4b54ac8aab127884d71b97
-#EXTINF:-1 tvg-id="64117" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20Giro%20d'Abruzzo%2C%20Stage%201.jpg" group-title="LIVE", ES1, Giro d'Abruzzo, Stage 1 - UCI Pro Series
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789560150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0c9031dc60bc6f5c8a085faf8777e0b
-#EXTINF:-1 tvg-id="60884" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Pohang%20Steelers.jpg" group-title="LIVE", Beijing Guoan vs Pohang Steelers - AFC Champions League Elite [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aef-fancode/chunks.m3u8?is_vip=false&token=1789560156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-85256033a3013abaa39740ac327da457
-#EXTINF:-1 tvg-id="60884" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Beijing%20Guoan%20vs%20Pohang%20Steelers.jpg" group-title="LIVE", Beijing Guoan vs Pohang Steelers - AFC Champions League Elite [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aef/chunks.m3u8?is_vip=false&token=1789560156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a7643a99ce308984fe92e06bc1a309c
-#EXTINF:-1 tvg-id="60885" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Buriram%20United.jpg" group-title="LIVE", Johor Darul Takzim FC vs Buriram United - AFC Champions League Elite [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aee-fancode/chunks.m3u8?is_vip=false&token=1789560157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ea50d225b1106dffe47e9bf88c7dda1
-#EXTINF:-1 tvg-id="60885" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Buriram%20United.jpg" group-title="LIVE", Johor Darul Takzim FC vs Buriram United - AFC Champions League Elite [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a886f1ffbc4c8ef09351aee/chunks.m3u8?is_vip=false&token=1789560157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f7ae768c792b814c9d130b497d797ea
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c098fd629e492f245b4d-fancode/chunks.m3u8?is_vip=false&token=1789577278-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0e3c5e6b3f33675cc7e002fa22f01b0b
+#EXTINF:-1 tvg-id="60890" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Ain%20vs%20Al-Nassr.jpg" group-title="LIVE", Al Ain vs Al-Nassr - AFC Champions League Elite [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c098fd629e492f245b4d/chunks.m3u8?is_vip=false&token=1789577279-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9c520c7cf3d4533af18e24eada0ef9e8
+#EXTINF:-1 tvg-id="64081" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Afghanistan%20vs%20India.jpg" group-title="LIVE", Afghanistan vs India - 2nd T20I
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789577280-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2b02992d93d360822f00e933ac65b24
+#EXTINF:-1 tvg-id="60889" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rak%C3%B3w%20Cz%C4%99stochowa%20vs%20Zaglebie%20Lubin.jpg" group-title="LIVE", Raków Częstochowa vs Zaglebie Lubin - Ekstraklasa
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787e5/chunks.m3u8?is_vip=false&token=1789577284-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-301000f205b2ae52c7a789fce5419719
+#EXTINF:-1 tvg-id="51732" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genoa%20vs%20Sudtirol.jpg" group-title="LIVE", Genoa vs Sudtirol - Coppa Italia [Server 1]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a853f66018287f1cee2af18-hd/chunks.m3u8?is_vip=false&token=1789577285-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36fe5188b293ce2b29c4f0af90546647
+#EXTINF:-1 tvg-id="51732" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genoa%20vs%20Sudtirol.jpg" group-title="LIVE", Genoa vs Sudtirol - Coppa Italia [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a853f66018287f1cee2af18/chunks.m3u8?is_vip=false&token=1789577287-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-566b04edb58b5fa153fe3ffa4e950fbe
+#EXTINF:-1 tvg-id="64082" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="LIVE", England vs Sri Lanka - 1st T20I
+https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1789577289-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33e1a40f8464da2f30eb7919ab8acb38
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 PM 15-09-2026
+# Last Update: 10:45 PM 15-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-17374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="Cricket", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Cricket", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg" group-title="Football", Kashima Antlers vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-16714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg" group-title="Cricket", Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg" group-title="Cricket", India vs Afghanistan | India Tour of Afghanistan 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17357" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894564651020x576.jpg" group-title="Football", Al Ain FC vs Al Nassr Club Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg" group-title="Football", Daejeon Hana Citizen vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg" group-title="Football", Gamba Osaka vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894543791020x576.jpg" group-title="Football", Ratchaburi FC vs Shanghai Port FC Live | AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg" group-title="Football", Rayo Vallecano vs Espanyol | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:28 PM 15-09-2026
+# last_update: 10:50:30 PM 15-09-2026
