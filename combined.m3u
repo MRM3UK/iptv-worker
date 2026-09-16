@@ -225,45 +225,41 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-16 05:00:36 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-16 09:01:00 PM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=pj7ELnBivtSSm0b5UAGe6w&expires=1789575644&ch=willowsd&s=d59faf329e664388cf78152e01fc437a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Star Sports 2
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=2dRax8Re0BtP4Uoxkfgi6Q&expires=1789575648&ch=star2cl5&s=58127a7d484d44db226a9dd67a915ffd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Willow HD
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=swDHlSBjXzgbYZUKPgWORQ&expires=1789575651&ch=hdwillos5&s=700f05445085f750840babf67b164d83
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - CricGo 5
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=fgTMh4-A6FgiH-7xvMyUNw&expires=1789575656&ch=cricgo5&s=bfa1f43ebfebfe8de31fda98cc4e9537
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - TNT Cricket
+https://mz01.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=d8gZZp6XKz2uiG6cP24YLA&expires=1789575659&ch=bbtsvp2&s=e2b0023c21a9ef5a12e7220c59a41994
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:17:21 PM 16-09-2026
-#EXTINF:-1 tvg-id="69066" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="LIVE", Day 2 - FIBA 3x3 U23 World Cup
+#last update time: 9:17:25 PM 16-09-2026
+#EXTINF:-1 tvg-id="64083" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cosmics%20vs%20Flames.jpg" group-title="LIVE", Cosmics vs Flames - ETPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789643842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6fe295f9dfe2f84a3a7c21b58919821f
-#EXTINF:-1 tvg-id="61629" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeonbuk%20Motors%20vs%20Kashiwa%20Reysol.jpg" group-title="LIVE", Jeonbuk Motors vs Kashiwa Reysol - AFC Champions League Elite [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e64-fancode/chunks.m3u8?is_vip=false&token=1789643846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-597f48e4e2ff3a785068bf9b16d3c397
-#EXTINF:-1 tvg-id="61629" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeonbuk%20Motors%20vs%20Kashiwa%20Reysol.jpg" group-title="LIVE", Jeonbuk Motors vs Kashiwa Reysol - AFC Champions League Elite [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e64/chunks.m3u8?is_vip=false&token=1789643847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02e8d32ee4bc9f77fce7d17160afed88
-#EXTINF:-1 tvg-id="61630" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20vs%20Persib%20Bandung.jpg" group-title="LIVE", FC Seoul vs Persib Bandung - AFC Champions League Two [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e65-fancode/chunks.m3u8?is_vip=false&token=1789643849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-66247dfb208fafee9eeb79cd9d8aecf6
-#EXTINF:-1 tvg-id="61630" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20vs%20Persib%20Bandung.jpg" group-title="LIVE", FC Seoul vs Persib Bandung - AFC Champions League Two [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e65/chunks.m3u8?is_vip=false&token=1789643851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4a107e1e8610ff350011ab715bbf92ea
-#EXTINF:-1 tvg-id="67352" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20PR%20U23%20vs%20Korea%20DPR%20U23.jpg" group-title="LIVE", China PR U23 vs Korea DPR U23 - Asian Games
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c098fd629e492f245bb0/chunks.m3u8?is_vip=false&token=1789643852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb9473e2c5a62c66ccddac8a2129a37c
-#EXTINF:-1 tvg-id="67353" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20U23%20vs%20Hong%20Kong%20U23.jpg" group-title="LIVE", Japan U23 vs Hong Kong U23 - Asian Games
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89c0988f7c293f9f116e60/chunks.m3u8?is_vip=false&token=1789643855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e99cd9d22361c9dcbbec0d30f334e68
-#EXTINF:-1 tvg-id="61654" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sinopspor%20vs%20Arit%20Kayadibi.jpg" group-title="LIVE", Sinopspor vs Arit Kayadibi - Türkiye Kupası [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96630093add94b37a7fc06-backup/chunks.m3u8?is_vip=false&token=1789642962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-402aff2126780807890fbf72746f46c3
-#EXTINF:-1 tvg-id="61654" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sinopspor%20vs%20Arit%20Kayadibi.jpg" group-title="LIVE", Sinopspor vs Arit Kayadibi - Türkiye Kupası [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96630093add94b37a7fc06/chunks.m3u8?is_vip=false&token=1789642962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cc1be94868714e719ddaeb2925895e45
-#EXTINF:-1 tvg-id="64118" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C%20Giro%20d'Abruzzo%2C%20Stage%202.jpg" group-title="Cycling", ES1, Giro d'Abruzzo, Stage 2 - UCI Pro Series
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789643860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-565649821c08214e924296af4b8763ae
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789658246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a5452c108caadf455f576fafe00bae4
+#EXTINF:-1 tvg-id="61643" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bucaspor%201928%20vs%20Gaziemirspor.jpg" group-title="LIVE", Bucaspor 1928 vs Gaziemirspor - Türkiye Kupası
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96630093add94b37a7fc11/chunks.m3u8?is_vip=false&token=1789658248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-42f8d3683b700441374201c243b70d91
 # Playlist Name: Tapmad bd
-# Last Update: 05:15 PM 16-09-2026
+# Last Update: 09:30 PM 16-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-#EXTINF:-1 tvg-id="tapmad-17367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895385631020x576.jpg" group-title="Football", Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895379421020x576.jpg" group-title="Football", FC Seoul vs Persib Bandung Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894622951020x576.jpg" group-title="Cricket", Glasgow Cosmic vs Amsterdam Flames | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17057" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894619701020x576.jpg" group-title="Cricket", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:32 PM 16-09-2026
+# last_update: 09:20:32 PM 16-09-2026
