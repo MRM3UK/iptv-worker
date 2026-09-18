@@ -225,35 +225,51 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-18 10:00:31 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-18 03:00:43 PM (BD Time)"
+# Total Active Links: 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Zimbabwe.png" group-title="Australia tour of Zimbabwe 2026", Australia vs Zimbabwe - CricGo 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=pY1iCv_JsKX81fpp9Z_IKw&expires=1789726840&ch=cricgo2&s=e42d8f270e72f2af5da5c167cca2e9f2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Zimbabwe.png" group-title="Australia tour of Zimbabwe 2026", Australia vs Zimbabwe - Fox Cricket
+https://mz02.playerr03.com:7060/hls/cf0sp1.m3u8?md5=YAImt11v4qPWzOd5sDVCzg&expires=1789726843&ch=cf0sp1&s=bd18df9aa71b0b4cd785c206817ec832
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:47:24 AM 18-09-2026
-#EXTINF:-1 tvg-id="70056" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Guadalajara.jpg" group-title="LIVE", WTA Guadalajara - WTA Guadalajara
+#last update time: 3:17:24 PM 18-09-2026
+#EXTINF:-1 tvg-id="70929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan.jpg" group-title="LIVE", Wuhan - FIBA 3x3 U23 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789793246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a338d43373dd917b988195762cbfeca6
-#EXTINF:-1 tvg-id="70929" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan.jpg" group-title="LIVE", Wuhan - FIBA 3x3 U23 World Cup
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/720p/chunks.m3u8?is_vip=false&token=1789793247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c1d1d43357c1ed7e6e2f88a88150ab4
-#EXTINF:-1 tvg-id="65049" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20Mercury%20vs%20Portland%20Fire.jpg" group-title="LIVE", Phoenix Mercury vs Portland Fire - WNBA
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510825/720p/chunks.m3u8?is_vip=false&token=1789793249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e3312c4802fbe1dba6e6734053a8ca1b
-#EXTINF:-1 tvg-id="62936" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CD%20Olimpia%20vs%20Firpo.jpg" group-title="LIVE", CD Olimpia vs Firpo - CONCACAF Central American Cup
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9905ea5c0020a997b4adeb/chunks.m3u8?is_vip=false&token=1789793250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-54101b405dc74cb69caafba067149272
-#EXTINF:-1 tvg-id="62937" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vanraure%20Hachinohe%20vs%20Tegevajaro%20Miyazaki.jpg" group-title="LIVE", Vanraure Hachinohe vs Tegevajaro Miyazaki - J2 League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f3885f7/chunks.m3u8?is_vip=false&token=1789793252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b21db1892e44c18b117137214a1ed60
-#EXTINF:-1 tvg-id="70110" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women's%20Cricket%20India%20vs.%20Japan.jpg" group-title="LIVE", Women's Cricket: India vs. Japan - Women's Asian Games 2026
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789793254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d718abd9226a542b0bc1379accba0d4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274843/720p/chunks.m3u8?is_vip=false&token=1789809445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be0ee0f75849fdfa4a4724389cf7e12c
+#EXTINF:-1 tvg-id="65080" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20Auckland.jpg" group-title="LIVE", Tasman vs Auckland - NPC
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789809447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71bc00b1d628d59c8f6f7e01201f9c82
+#EXTINF:-1 tvg-id="65081" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Melbourne%20Kangaroos%20vs%20Hawthorn%20Hawks.jpg" group-title="LIVE", North Melbourne Kangaroos vs Hawthorn Hawks - AFL Womens Premiership
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789809448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a488f28503f64fb78ebc1eb78f7962bd
+#EXTINF:-1 tvg-id="70928" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%204.jpg" group-title="LIVE", Day 4 - FIBA 3x3 U23 World Cup
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789809450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14e499961fd6e0be2690e21823692b35
+#EXTINF:-1 tvg-id="62938" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arema%20FC%20vs%20Persik%20Kediri.jpg" group-title="LIVE", Arema FC vs Persik Kediri - Liga 1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f3885fa/chunks.m3u8?is_vip=false&token=1789809453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-766cb892aff010457a9b578a90553134
+#EXTINF:-1 tvg-id="67564" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fremantle%20Dockers%20vs%20Sydney%20Swans.jpg" group-title="LIVE", Fremantle Dockers vs Sydney Swans - AFL Premiership
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789809455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aae48d7688ed3d85d0dd1f524b634092
+#EXTINF:-1 tvg-id="62945" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ural%20U20%20vs%20Dynamo%20Makhachkala%20U19.jpg" group-title="LIVE", Ural U20 vs Dynamo Makhachkala U19 - Youth Championship
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f388601/chunks.m3u8?is_vip=false&token=1789809457-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-931dbfa0d457e1342c739120d4e41025
 # Playlist Name: Tapmad bd
-# Last Update: 10:45 AM 18-09-2026
+# Last Update: 03:30 PM 18-09-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
+#EXTINF:-1 tvg-id="tapmad-17375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg" group-title="Cricket", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17641" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897160501020x576.jpg" group-title="Football", Fortis FC Ltd. vs Chattogram City FC | Bangladesh Football League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17642" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg" group-title="Football", Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg" group-title="Football", Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17645" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163231020x576.jpg" group-title="Football", PWD Sports Club vs Abahani Ltd. Dhaka | Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:27 AM 18-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg" group-title="Cricket", India Women vs Japan Women - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/master.m3u8?hdnea=exp=1789746633~acl=/*~id=99124452301996973151426864728567~hmac=af40513c86134359697890e268a93a6b64ef36388e080848f92e85ae440e1e5b
+# last_update: 03:20:25 PM 18-09-2026
