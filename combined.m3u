@@ -233,20 +233,64 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-22 06:00:38 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-22 11:00:47 AM (BD Time)"
+# Total Active Links: 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20India.png" group-title="India tour of Japan, 2026", Japan vs India - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=ZEFE0ebbni1ic7Zin7q_pw&expires=1790058035&ch=willowsd&s=49bb4c2c0cad8d67779ed7da7bfb5fb3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20India.png" group-title="India tour of Japan, 2026", Japan vs India - Willow HD
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=8S8ITL2rL4HeaO5kbbiJXA&expires=1790058038&ch=hdwillos5&s=5704b7967a4be233c5d61d2e64a75e2d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20India.png" group-title="India tour of Japan, 2026", Japan vs India - CricGo 1
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=zP750VAS0ipv62Z3egSoOg&expires=1790058041&ch=cricgo1&s=c02a95285b4464048fb7802752a2d53d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Queensland%20vs%20New%20South%20Wales.png" group-title="Australia Domestic One-Day Cup 2026-27", Queensland vs New South Wales - CricGo 6
+https://mz01.playerr03.com:7060/hls/cricgo6.m3u8?md5=wilJwfy1-0NK59SJJD2jIQ&expires=1790058045&ch=cricgo6&s=2b234fbc44e370b29c64836954f2cb9b
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:48:59 AM 21-09-2026
+#last update time: 11:02:28 AM 22-09-2026
+#EXTINF:-1 tvg-id="66617" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Minnesota Twins vs San Francisco Giants - MLB [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144992/720p/chunks.m3u8?is_vip=false&token=1790139751-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-179c01ddbf06653c149ccc366ef2c991
+#EXTINF:-1 tvg-id="66617" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Minnesota Twins vs San Francisco Giants - MLB [Server 2]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790139754-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-86b1d39a3d4d4dcedcf5b913d88c84b1
+#EXTINF:-1 tvg-id="73903" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Singapore.jpg" group-title="LIVE", WTA Singapore - WTA Singapore
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1790139761-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a38937c47a0fb8024738b3170db0dea4
+#EXTINF:-1 tvg-id="74809" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taylah%20Preston%20vs%20Himeno%20Sakatsume.jpg" group-title="LIVE", Taylah Preston vs Himeno Sakatsume - WTA Seoul
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510511/720p/chunks.m3u8?is_vip=false&token=1790139767-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5a99ae3517deffcd0ab43caeee4486e4
+#EXTINF:-1 tvg-id="74807" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sohyun%20Park%20vs%20Robin%20Montgomery.jpg" group-title="LIVE", Sohyun Park vs Robin Montgomery - WTA Seoul
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=1790139776-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8e3c92336b5cdc24562ba410480f5787
+#EXTINF:-1 tvg-id="74810" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20India.jpg" group-title="LIVE", Japan vs India - T20 cricket
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1790139783-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7fcef026ea91177df7ae38357e03e126
+#EXTINF:-1 tvg-id="74811" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Anna%20Bondar%20vs%20Renata%20Zarazua.jpg" group-title="LIVE", Anna Bondar vs Renata Zarazua - WTA Seoul
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510514/720p/chunks.m3u8?is_vip=false&token=1790139790-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3377cdaed67adb2356a21c59d050fc1e
+#EXTINF:-1 tvg-id="67362" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20U23%20vs%20Uzbekistan%20U23.jpg" group-title="LIVE", Vietnam U23 vs Uzbekistan U23 - Asian Games
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d639d/chunks.m3u8?is_vip=false&token=1790139797-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2fef3edd42877b2886b0dd277f0d568f
+#EXTINF:-1 tvg-id="67363" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philippines%20U23%20vs%20Kuwait%20U23.jpg" group-title="LIVE", Philippines U23 vs Kuwait U23 - Asian Games
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a91a987cf074f0d503d639c/chunks.m3u8?is_vip=false&token=1790139806-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1c6f9663bfabb2809535f77e57ebf7e4
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:30 AM 22-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024405/1790017191370573_AG26_pakW_vs_bangW_live_landscape_thumb.jpg" group-title="Cricket", Pakistan Women vs Bangladesh Women - Bronze Medal Match - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/master.m3u8?hdnea=exp=1790077839~acl=/*~id=51702763969373267717654005782884~hmac=05eb7843fa143bb2caa253cdd8478ae8f3f0dca2f69fd6b33928657e1914cf54
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Pakistan vs Uzbekistan - Men's Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+# last_update: 10:50:26 AM 22-09-2026
+#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024374/1789994269611612_INDvsSL_Finla_live_landscpae_thumb.jpg" group-title="Cricket", Sri Lanka Women vs India Women - Gold Medal Match - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/master.m3u8?hdnea=exp=1790092234~acl=/*~id=84816493645182971157665171809221~hmac=7454cfe59de79a9be331f0779b79936bc97910339415988ff11253da8095cb0c
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024412/1790026339390518_AG26_22Sep_Table_Tennis_Mens_Republic_of_Korea_vs_India_live_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22109/ENG/master.m3u8?hdnea=exp=1790079676~acl=/*~id=92565862841745163665135729349020~hmac=f237a1c78d628332f5579f0775d731b7a6f6e4d8eb2cbc0658989d2483e89ebd
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Beach Volleyball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22109/ENG/master.m3u8?hdnea=exp=1790079639~acl=/*~id=73294745606785922392101524604329~hmac=b811f2d900cce0d41bcc8e7f1653f2bd695c0a79df25fd46b9e9aeb395ef84e8
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Artistic Gymnastics", Artistic Gymnastics - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22109/ENG/master.m3u8?hdnea=exp=1790081442~acl=/*~id=80711268328792724063348950009586~hmac=8bc21dc6e597911614dd5d2c840de3ccd2655802d47c3cbb2d90a81bf0186461
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789299380374741_AG26_Karate_pictogram_landscape_thumb.jpg" group-title="Karate", Karate - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX4_22109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790049538282_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Thailand vs People's Republic of China - Men - Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX2_22109/ENG/master.m3u8?hdnea=exp=1790077851~acl=/*~id=05017656500958446491746433329452~hmac=2321dd44689df3f7b1c38b11594cf10e4102c3dfb0cc09c503d6115ff9d4254f
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Pakistan vs Uzbekistan - Men’s Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1790045689513_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Thailand vs Nepal - Women's Team - Kabaddi - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX3_22109/ENG/master.m3u8?hdnea=exp=1790079639~acl=/*~id=73294745606785922392101524604329~hmac=b811f2d900cce0d41bcc8e7f1653f2bd695c0a79df25fd46b9e9aeb395ef84e8
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293150940348_AG26_Baseball_pictogram_landscape_thumb.jpg" group-title="Baseball", Baseball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790077859~acl=/*~id=32735495888506557784911283262229~hmac=9384079dfc55ee8fd6d11e3552028060888c5b72f3c59c9f0155d10b5d1c41c9
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300294846741_AG26_Shooting_pictogram_landscape_thumb.jpg" group-title="Shooting", Shooting - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
