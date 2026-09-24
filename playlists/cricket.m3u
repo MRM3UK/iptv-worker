@@ -2,36 +2,66 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-24 03:00:55 PM (BD Time)"
-# Total Active Links: 6
+#"last updated": "2026-09-24 08:01:13 PM (BD Time)"
+# Total Active Links: 12
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=qYECoO3N1bB7eYLO6Kpa0w&expires=1790263246&ch=willowsd&s=e9811b7171763c206bd7db4321b6ab4b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=30Mmhw6HNaXcagx7Q_ki5Q&expires=1790263249&ch=wextres5&s=a18cd1de0b9847da612694bc037e48c9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=3Yn32c_dwPkDkgsPCLb-rg&expires=1790263253&ch=ten1co&s=841d105fa17d74a8ca562c1ddc517a85
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=KjIAoKVzjlSM0gpBKDaxnQ&expires=1790263256&ch=hdwillos5&s=8d00f7044e342aa741bdc8d6f90eb8a8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - CricLife 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/criclife1.m3u8?md5=xM_IqIDUPA2uWzeAID3XQw&expires=1790263258&ch=criclife1&s=4a4132e3a7d2f64632380a94e88fb41e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Sky Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/dodosky2.m3u8?md5=Qp6n7fF39Nfort3T6OaO1Q&expires=1790263262&ch=dodosky2&s=18188acf2b6a92eaa2d4f692bb4bb620
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=BrsoPSOVC-7_31qCL1ss8g&expires=1790245238&ch=willowsd&s=b802115ea0454259e32c39c1281c82f1
+https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=qYECoO3N1bB7eYLO6Kpa0w&expires=1790263246&ch=willowsd&s=e9811b7171763c206bd7db4321b6ab4b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - A Sports HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/asportspk.m3u8?md5=D34hhNfBwEiFSHAsl4gqaA&expires=1790245241&ch=asportspk&s=94f8dc64b08a8b939a765503d24d4f80
+https://mz02.bhalocast.com:7060/hls/asportspk.m3u8?md5=ZhgFYEkFiKCD3d4fq91FTA&expires=1790263265&ch=asportspk&s=6ac4ae4c41f307c9a19d71ac565b414b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=Z3EmOfEJhpwpbjPSXU2nGw&expires=1790245244&ch=hdwillos5&s=adbad57fcad6ada04b12044445bb8a17
+https://mz01.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=KjIAoKVzjlSM0gpBKDaxnQ&expires=1790263256&ch=hdwillos5&s=8d00f7044e342aa741bdc8d6f90eb8a8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - CricGo 5
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/cricgo5.m3u8?md5=Y9cSk3OWwjmRpL3LxId5WQ&expires=1790245247&ch=cricgo5&s=93db10e43837d7bd924faeed0e7e98a1
+https://mz01.bhalocast.com:7060/hls/cricgo5.m3u8?md5=mj031D8PAReJlpmFERCUPA&expires=1790263269&ch=cricgo5&s=085b654a4d8fd1722f4ed79225c03818
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Fox Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=SZ1Rhfzvy37qTPqW-R1d4Q&expires=1790245250&ch=cf0sp1&s=dd91d909c7011df73bfc191dbf5dc8a3
+https://mz01.bhalocast.com:7060/hls/cf0sp1.m3u8?md5=UMiQ47t1JvSwSiUzA5YG9A&expires=1790263272&ch=cf0sp1&s=399be6c844e2bc8da8d1832906565fc9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Australia.png" group-title="Australia tour of South Africa, 2026", South Africa vs Australia - Sky Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/dodosky2.m3u8?md5=9hCzDU_A9397m59V0yravA&expires=1790245254&ch=dodosky2&s=68f7fa03276076db440546a94dce7d37
+https://mz01.bhalocast.com:7060/hls/dodosky2.m3u8?md5=Qp6n7fF39Nfort3T6OaO1Q&expires=1790263262&ch=dodosky2&s=18188acf2b6a92eaa2d4f692bb4bb620
 
