@@ -233,62 +233,20 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-25 12:00:54 AM (BD Time)"
-# Total Active Links: 6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=Xm0Rog4TuMS4WZ5ZzvK64Q&expires=1790277639&ch=willowsd&s=fadaac06b26c52dcc3d0f4c2a20fe1d6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow Xtra
-https://mz02.bhalocast.com:7060/hls/wextres5.m3u8?md5=u6OGx7Cauac0WOCQiJyKzQ&expires=1790277642&ch=wextres5&s=4275326978a565cc19674ef548258600
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Sony Sports Ten 1
-https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=def-JKGOVdA-5W1ivllN0g&expires=1790277645&ch=ten1co&s=dcf22e26354be56f2829f32f680bfaeb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Willow HD
-https://mz01.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=7IGMRIsL9X-4cEdeasW9yQ&expires=1790277648&ch=hdwillos5&s=e667d718dc3f9b7467924761b2d7476c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - CricLife 1
-https://mz01.bhalocast.com:7060/hls/criclife1.m3u8?md5=XCZI3I_V-iSzdpOqWhCoKA&expires=1790277651&ch=criclife1&s=a3f5ce7fbd61d79ba5af69dcf2c7bfa0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sri%20Lanka%20vs%20England.png" group-title="Sri Lanka tour of England, 2026", Sri Lanka vs England - Sky Cricket
-https://mz02.bhalocast.com:7060/hls/dodosky2.m3u8?md5=GeCIElxdMXrhGA6tpiaytg&expires=1790277653&ch=dodosky2&s=faa1eec28d4602ab39cb3d739f2cb9ea
+#"last updated": "2026-09-25 03:00:37 AM (BD Time)"
+# Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:17:28 AM 25-09-2026
-#EXTINF:-1 tvg-id="79185" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Chicago%20White%20Sox.jpg" group-title="LIVE", Kansas City Royals vs Chicago White Sox - MLB
+#last update time: 3:32:24 AM 25-09-2026
+#EXTINF:-1 tvg-id="79188" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Colorado Rockies vs Arizona Diamondbacks - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790360253-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0faf5c21354ee952f5d6cb6fc2c9b0c5
-#EXTINF:-1 tvg-id="79186" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Miami%20Marlins.jpg" group-title="LIVE", Chicago Cubs vs Miami Marlins - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790360259-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-687f1d8d4e4c88bd84ce89195a81fc97
-#EXTINF:-1 tvg-id="67507" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="LIVE", England vs Sri Lanka - 2nd ODI
-https://livecdn-tc-iptv.rumsport10.live/live_abr/289/720p/chunks.m3u8?is_vip=false&token=1790360266-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8cbf6ea16a8cfa20da8e9163ba27b895
-#EXTINF:-1 tvg-id="79184" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pittsburgh%20Pirates%20vs%20St.Louis%20Cardinals.jpg" group-title="LIVE", Pittsburgh Pirates vs St.Louis Cardinals - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790360272-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-91c4111ece015418a521bfa45ba0be07
-#EXTINF:-1 tvg-id="66213" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qatar%20vs%20Bahrain.jpg" group-title="LIVE", Qatar vs Bahrain - Gulf Cup of Nations
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a959e10cfbac0cba8de38d2/chunks.m3u8?is_vip=false&token=1790360277-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-08fe2b088f507064389712364e2e9cc7
-#EXTINF:-1 tvg-id="67546" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crvena%20Zvezda%20Meridianbet%20Belgrade%20vs%20Zalgiris%20Kaunas.jpg" group-title="LIVE", Crvena Zvezda Meridianbet Belgrade vs Zalgiris Kaunas - EuroLeague
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1790360283-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c3f6e5e2436fa05c939e983032132d0d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790371947-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-efa106350f0f34b2e499948749739654
 #EXTINF:-1 tvg-id="67556" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20%20Day%201.jpg" group-title="LIVE", Chicago | Day 1 - PGA Tour
-https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790360288-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-67f848de8cc6dcbcb172b46802a64721
-#EXTINF:-1 tvg-id="67547" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Panathinaikos%20AKTOR%20Athens%20vs%20Paris%20Basketball.jpg" group-title="LIVE", Panathinaikos AKTOR Athens vs Paris Basketball - EuroLeague
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1790360299-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b72bb32b4e6e69cf7a0ac5fa210dab5e
-#EXTINF:-1 tvg-id="67549" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Barcelona%20vs%20Anadolu%20Efes%20Istanbul.jpg" group-title="LIVE", FC Barcelona vs Anadolu Efes Istanbul - EuroLeague
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1790360306-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-c1b0c038513d1813774c53d199860f2d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1790371953-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-26a6ed3c92aa6be872f3fa6bf5ebe541
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:48 AM 25-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090543937" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023534/1788617523847612_UNL26_Portugal_vs_Wales_live_landscape_thumb.jpg" group-title="Football", Portugal vs Wales - 25 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2409/ENG/master.m3u8?hdnea=exp=1790317260~acl=/*~id=79767437262495589425266008488527~hmac=ee131d5ec0d385b1101c63ce69840761d1afbed2cf95ec50ce2aa842da17afff
-#EXTINF:-1 tvg-id="sonyliv-1090543938" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023535/1788618296586899_UNL26_Netherlands_vs_Germany_live_landscape_thumb.jpg" group-title="Football", Netherlands vs Germany - 25 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2409/ENG/master.m3u8?hdnea=exp=1790317268~acl=/*~id=56215624117035763547618140385831~hmac=38a269dfa265d4ff448e08441c3712ab6e7fbda36d1100858622b86ffedd95d7
-#EXTINF:-1 tvg-id="sonyliv-1090543916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" group-title="Cricket", 2nd ODI - 24 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8?hdnea=exp=1790292043~acl=/*~id=05322469157612312410549884814841~hmac=837fa35a9f1f7d96f1568a98c3ca27e3e16271fb54320066ace1545b4fa69bf2
-#EXTINF:-1 tvg-id="sonyliv-1090543944" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023552/1788629830077120_UNL26_Norway_vs_Denmark_live_landscape_thumb.jpg" group-title="Football", Norway vs Denmark - 25 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2409/ENG/master.m3u8?hdnea=exp=1790317278~acl=/*~id=88838315128847821834256271674771~hmac=482dac42672f3d6c05c150febb65994eef1d124144bf3bf9cc02b51873b15a85
-#EXTINF:-1 tvg-id="sonyliv-1090543947" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023553/1788630525483440_UNL26_Austria_vs_Israel_live_landscape_thumb.jpg" group-title="Football", Austria vs Israel - 25 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037141/footlive2409/ENG/master.m3u8?hdnea=exp=1790317306~acl=/*~id=70425131978046743609164957780282~hmac=69489396b58f747b5e7b875a8877bdd3f4810cd804dcc04620c6a77b2cdab2a1
-#EXTINF:-1 tvg-id="sonyliv-1090543948" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023559/178863630759699_UNL26_Kosovo_vs_Republic_of_Ireland_live_landscape_thumb.jpg" group-title="Football", Kosovo vs Republic of Ireland - 25 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/master.m3u8?hdnea=exp=1790317323~acl=/*~id=40655376014218349761650836882736~hmac=9271b0f760c910823252b1038b66bcc6ad4eabb4e6dfac091e84418820a96878
-#EXTINF:-1 tvg-id="sonyliv-1090543949" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023560/1788637005172990_UNL26_Liechtenstein_vs_Lithuania_live_landscape_thumb.jpg" group-title="Football", Liechtenstein vs Lithuania - 25 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/footlive2409/ENG/master.m3u8?hdnea=exp=1790317340~acl=/*~id=45026087936546150401395916236391~hmac=6a0ed08fc81d6c98e7ce116c7ed3e5fffe9b7b1e1efe52a5e567464cfef5e1b7
+# last_update: 03:20:28 AM 25-09-2026
