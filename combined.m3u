@@ -233,31 +233,91 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-26 04:00:35 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-26 06:00:54 AM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=aLjP_-c8qddBrorOPBWLiQ&expires=1790385642&ch=willowsd&s=3f01de7034b1e0a7c0d59d9eee6d6fcb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Willow Xtra
+https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=sfftV25nZctwSZxL3uBIMw&expires=1790385645&ch=wextres5&s=428e18a63bccbc3d85cf1d0e61666925
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Sony Sports Ten 1
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=Lmk5wSqhwh3gj-cr1es97Q&expires=1790385648&ch=ten1co&s=24ae9914315695556449430e5c11cc05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Willow HD
+https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=ChPVNiE6mqOhW_bJrTUS4g&expires=1790385651&ch=hdwillos5&s=c236ab138a9000b91ce05dbb2bea7fdc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - CricGo 1
+https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=Dz1SOl6tSrse5s4WLbfFEQ&expires=1790385653&ch=cricgo1&s=cd098826fe2bad6ad716c18804f9018c
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 4:17:29 AM 26-09-2026
-#EXTINF:-1 tvg-id="79199" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Yankees%20vs%20Baltimore%20Orioles.jpg" group-title="LIVE", New York Yankees vs Baltimore Orioles - MLB
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790461051-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-0d1798048639d528ed06113df81623ee
+#last update time: 6:32:24 AM 26-09-2026
 #EXTINF:-1 tvg-id="79201" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20Red%20Sox%20vs%20Chicago%20Cubs.jpg" group-title="LIVE", Boston Red Sox vs Chicago Cubs - MLB
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790461054-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e2fc7b31fb2f3272366daad75087f1e
-#EXTINF:-1 tvg-id="69935" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grenada%20vs%20Cuba.jpg" group-title="LIVE", Grenada vs Cuba - CONCACAF Nations League
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a6a/chunks.m3u8?is_vip=false&token=1790461057-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-bcfaeedbdf366de556b62ad0bf39816f
-#EXTINF:-1 tvg-id="66570" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mercedes%20vs%20Puerto%20Nuevo.jpg" group-title="LIVE", Mercedes vs Puerto Nuevo - Primera C
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9841275d79ffdae2c3e470/chunks.m3u8?is_vip=false&token=1790461060-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a8fd397a93115ea2504ff5793bbeecc3
-#EXTINF:-1 tvg-id="70003" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nacional%20Asuncion%20vs%20Sportivo%20Ameliano.jpg" group-title="LIVE", Nacional Asuncion vs Sportivo Ameliano - Division Profesional - Clausura
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9d870cfd629e492fe0db00/chunks.m3u8?is_vip=false&token=1790461063-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f02451a6be6b68f19ff891b9372dcdc5
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://iframe.rumsport8.live/"}
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790469147-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-e0ab35536265d30e6d0054a4e638092d
+#EXTINF:-1 tvg-id="79196" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Tigers%20vs%20Pittsburgh%20Pirates.jpg" group-title="LIVE", Detroit Tigers vs Pittsburgh Pirates - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790469149-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-18f0dc698d5136c0aea242168aaf5b5d
+#EXTINF:-1 tvg-id="79197" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20Tampa%20Bay%20Rays.jpg" group-title="LIVE", Philadelphia Phillies vs Tampa Bay Rays - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1790469152-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-aae91f7b8cf6921bd32816b0d53cf8e5
+#EXTINF:-1 tvg-id="79198" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20New%20York%20Mets.jpg" group-title="LIVE", Washington Nationals vs New York Mets - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=1790469154-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6d30572f9683fc09e286871fda9cc3e1
+#EXTINF:-1 tvg-id="80041" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Capitals%20vs%20Boston%20Bruins.jpg" group-title="LIVE", Washington Capitals vs Boston Bruins - NHL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/262816/720p/chunks.m3u8?is_vip=false&token=1790469156-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f50474770ec5b1dfafb5b9ca5f843aae
+#EXTINF:-1 tvg-id="79200" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Cincinnati%20Reds.jpg" group-title="LIVE", Toronto Blue Jays vs Cincinnati Reds - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1790469159-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1db7790d9deff5e5efed9a84ca06adb1
+#EXTINF:-1 tvg-id="79202" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Atlanta%20Braves.jpg" group-title="LIVE", Miami Marlins vs Atlanta Braves - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=1790469161-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2e5aaf0c38f51af983683eedc71ff35a
+#EXTINF:-1 tvg-id="80042" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Islanders%20vs%20New%20York%20Rangers.jpg" group-title="LIVE", New York Islanders vs New York Rangers - NHL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/262817/720p/chunks.m3u8?is_vip=false&token=1790469164-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2be8ee68c4472d13b1cfced89240e78d
+#EXTINF:-1 tvg-id="79203" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Colorado%20Rockies.jpg" group-title="LIVE", Chicago White Sox vs Colorado Rockies - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1790469167-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2fad955f9d39bf47a3cedcbbf8c28bc6
+#EXTINF:-1 tvg-id="79204" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", Kansas City Royals vs Cleveland Guardians - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1790469170-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-47bf414d12ae9452aebfceb59efbc8c1
+#EXTINF:-1 tvg-id="79205" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20St.Louis%20Cardinals.jpg" group-title="LIVE", Milwaukee Brewers vs St.Louis Cardinals - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55846/720p/chunks.m3u8?is_vip=false&token=1790469173-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2b5fd6dd4ec121f1b0e2a5f8ba6e23e3
+#EXTINF:-1 tvg-id="80043" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Wild%20vs%20Dallas%20Stars.jpg" group-title="LIVE", Minnesota Wild vs Dallas Stars - NHL
+https://livecdn-tc-iptv.rumsport10.live/live_abr/262819/720p/chunks.m3u8?is_vip=false&token=1790469176-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8c3c9ac35c4a9f5746117209a3929b46
+#EXTINF:-1 tvg-id="79206" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20Texas%20Rangers.jpg" group-title="LIVE", Minnesota Twins vs Texas Rangers - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55847/720p/chunks.m3u8?is_vip=false&token=1790469178-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-607cfce599626d9a74655782f9f759f4
 #EXTINF:-1 tvg-id="66290" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Racing%20Louisville%20W%20vs%20San%20Diego%20Wave%20W.jpg" group-title="LIVE", Racing Louisville W vs San Diego Wave W - NWSL Women
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9db/chunks.m3u8?is_vip=false&token=1790461065-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-50223047f7e6cbde35d61b34a02b04f0
-#EXTINF:-1 tvg-id="66291" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Novorizontino%20vs%20S%C3%A3o%20Bernardo.jpg" group-title="LIVE", Novorizontino vs São Bernardo - Serie B
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9da/chunks.m3u8?is_vip=false&token=1790461068-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-f3e54953b339786478990d4467e1964a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9db/chunks.m3u8?is_vip=false&token=1790469181-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fc0b0fbaefe0849ad8647699a1c27f02
+#EXTINF:-1 tvg-id="66292" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hartford%20Athletic%20vs%20Louisville%20City.jpg" group-title="LIVE", Hartford Athletic vs Louisville City - USL Championship
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9dc/chunks.m3u8?is_vip=false&token=1790469184-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2562c3cc353868eed0ac318a93ee5159
+#EXTINF:-1 tvg-id="68323" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SHOOTO%20BRAZIL%20140.jpg" group-title="LIVE", SHOOTO BRAZIL 140 - MMA
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1790469186-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-89320a294ad2814d2f10d512d34e73a3
+#EXTINF:-1 tvg-id="66293" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20JAX%20vs%20Loudoun%20United.jpg" group-title="LIVE", Sporting JAX vs Loudoun United - USL Championship
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9df/chunks.m3u8?is_vip=false&token=1790469188-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1b958e2c481bdba5cf74ef7fbd9b581e
+#EXTINF:-1 tvg-id="66295" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lexington%20W%20vs%20Dallas%20Trinity%20W.jpg" group-title="LIVE", Lexington W vs Dallas Trinity W - USL Super League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6ab550257cb66c539a3987c6/chunks.m3u8?is_vip=false&token=1790469190-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-68700ef1caa9d53a6bc73002b41fd174
+#EXTINF:-1 tvg-id="66294" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vila%20Nova%20vs%20Londrina.jpg" group-title="LIVE", Vila Nova vs Londrina - Serie B
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9de/chunks.m3u8?is_vip=false&token=1790469193-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4c7b5312b0e4453c161c5d28657d3379
+#EXTINF:-1 tvg-id="69938" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jamaica%20vs%20Guatemala.jpg" group-title="LIVE", Jamaica vs Guatemala - CONCACAF Nations League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a6b/chunks.m3u8?is_vip=false&token=1790469195-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-196c1b2f1dadbcf823e7646a79fe851d
+#EXTINF:-1 tvg-id="69937" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bonaire%20vs%20St.%20Kitts%20and%20Nevis.jpg" group-title="LIVE", Bonaire vs St. Kitts and Nevis - CONCACAF Nations League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a6c/chunks.m3u8?is_vip=false&token=1790469197-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-b7bd778ac8ed0f9b577e4b09a747a59f
+#EXTINF:-1 tvg-id="69936" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barbados%20vs%20St.%20Lucia.jpg" group-title="LIVE", Barbados vs St. Lucia - CONCACAF Nations League
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fc7a96c031c11face1a6d/chunks.m3u8?is_vip=false&token=1790469200-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-6c44566b63124e50f97a63648efaca74
+#EXTINF:-1 tvg-id="66296" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NJNY%20Gotham%20FC%20W%20vs%20Chicago%20Red%20Stars%20W.jpg" group-title="LIVE", NJ/NY Gotham FC W vs Chicago Red Stars W - NWSL Women
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e1/chunks.m3u8?is_vip=false&token=1790469202-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-7755a1d9414b82428da386c077eccd18
+#EXTINF:-1 tvg-id="68350" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Reese's%20150.jpg" group-title="LIVE", Reese's 150 - ARCA Menards Series
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1790469205-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-cd7ee342b478e0862b91a64091f0f601
+#EXTINF:-1 tvg-id="68347" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Free%20Practice%203%206%20Hours%20of%20Fuji.jpg" group-title="LIVE", Free Practice 3: 6 Hours of Fuji - WEC
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1790469208-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-627a9b9b055345cdff0a569450761e8c
+#EXTINF:-1 tvg-id="66297" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Reign%20FC%20W%20vs%20Boston%20Legacy%20W.jpg" group-title="LIVE", Seattle Reign FC W vs Boston Legacy W - NWSL Women
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96efa0e9d80a100cb2e9e2/chunks.m3u8?is_vip=false&token=1790469211-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-4fb40787cba99b49391f893f8ebaaf31
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:28 AM 26-09-2026
+# last_update: 06:20:27 AM 26-09-2026
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024841/179037011151861_AG26_26Sep_Athletics_Mens_Marathon_live_landscape_thumb.jpg" group-title="MARATHON", Men's Marathon - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
+#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345206713331_AG_26_JAPAN_VS_NEPAL_LIVE_landscape_thumb.jpg" group-title="Cricket", Japan vs Nepal - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368607376894_AG26_Generic_Stream4_live_landscape_thumb_clean.jpg" group-title="Badminton", Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg" group-title="Equestrian", Equestrian - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/AG_EDX_22509/ENG/master.m3u8?hdnea=exp=1790423442~acl=/*~id=28016161674685848809904521944532~hmac=905cd25d6d56e01574154cb9b166e82c4bd34e7350e55dc0d93ba85ef7bbedca
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790380441827_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Oman vs Thailand - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e
