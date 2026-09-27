@@ -233,8 +233,20 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-28 02:00:34 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-28 05:00:59 AM (BD Time)"
+# Total Active Links: 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=-LB8qQDIdLnoizvwBPh9ew&expires=1790554839&ch=willowsd&s=4dea2c7d991dba330aca784fc2376bf5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow Xtra
+https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=p9l8HxvmBhyqcGBXwtVFYQ&expires=1790554842&ch=wextres5&s=bf44af0dbb0af97c08b6b321c73ff507
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Sony Sports Ten 1
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=169F8j6kKPQciqgeg2MpFg&expires=1790554848&ch=ten1co&s=4a0cd81477e33df1a2cd1257f49c2872
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow HD
+https://mz02.bhalocast.com:7060/hls/willowhd.m3u8?md5=XplvaoVEQVYMuHPlpDU0tQ&expires=1790554856&ch=willowhd&s=6457626bb22bc931051b78c2924afe63
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - CricGo 1
+https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=q63qZNGNIXX8_GNKhvAa_w&expires=1790554858&ch=cricgo1&s=256c99d3a4584e0d1f0ae6ba0d01a8ca
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -317,10 +329,4 @@ https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:28 AM 28-09-2026
-#EXTINF:-1 tvg-id="sonyliv-1090544916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg" group-title="Football", Norway vs Portugal - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2
-#EXTINF:-1 tvg-id="sonyliv-1090544915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg" group-title="Football", Germany vs Greece - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781
-#EXTINF:-1 tvg-id="sonyliv-1090544917" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" group-title="Football", Israel vs Republic of Ireland - 28 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03
+# last_update: 05:20:27 AM 28-09-2026
