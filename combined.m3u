@@ -233,20 +233,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-28 05:00:59 AM (BD Time)"
-# Total Active Links: 5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=-LB8qQDIdLnoizvwBPh9ew&expires=1790554839&ch=willowsd&s=4dea2c7d991dba330aca784fc2376bf5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow Xtra
-https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=p9l8HxvmBhyqcGBXwtVFYQ&expires=1790554842&ch=wextres5&s=bf44af0dbb0af97c08b6b321c73ff507
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Sony Sports Ten 1
-https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=169F8j6kKPQciqgeg2MpFg&expires=1790554848&ch=ten1co&s=4a0cd81477e33df1a2cd1257f49c2872
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow HD
-https://mz02.bhalocast.com:7060/hls/willowhd.m3u8?md5=XplvaoVEQVYMuHPlpDU0tQ&expires=1790554856&ch=willowhd&s=6457626bb22bc931051b78c2924afe63
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - CricGo 1
-https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=q63qZNGNIXX8_GNKhvAa_w&expires=1790554858&ch=cricgo1&s=256c99d3a4584e0d1f0ae6ba0d01a8ca
+#"last updated": "2026-09-28 07:00:34 AM (BD Time)"
+# Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -329,4 +317,26 @@ https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:27 AM 28-09-2026
+# last_update: 07:50:29 AM 28-09-2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025112/1790549496833446_AG26_28Sep_Volleyball_Mens_India_vs_HongKong_live_landscape_thumb.jpg" group-title="Volleyball", India vs Hong Kong, China - Volleyball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/master.m3u8?hdnea=exp=1790599834~acl=/*~id=06235574132159815601145124041233~hmac=157ee460105beecc54096ca81200610e06ebfaf9465756601fffe5e71972176e
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Sepaktakraw - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/ag_dx3_22709/ENG/master.m3u8?hdnea=exp=1790596232~acl=/*~id=24093294659110603680939944176123~hmac=da28033c9dd2adf0c7146d37ff3dacce0739287f3da60dfc1a07ba6467430379
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285244661348_AG26_Diving_pictogram_landscape_thumb.jpg" group-title="Diving", Diving - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790557216658_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", India vs Hong Kong, China - Men - Volleyball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/ag_dx6_22709/ENG/master.m3u8?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790559918460_1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Worrapot vs MUHAMMAD ERRY HIDAYAT - Men's 85kg - Weightlifting - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_dx8_22709/ENG/master.m3u8?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's, Women's & Mixed Semifinals - Badminton - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8?hdnea=exp=1790598035~acl=/*~id=38418569009342767078254525662211~hmac=c89deca2789dad98f02c7b853239d65fa3ffc6e1bbea3786adf5f232488eb22e
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790557230844_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Indonesia vs Kyrgyzstan - Men - Volleyball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094587/ag_dx7_22709/ENG/master.m3u8?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Softball", Singapore vs Chinese Taipei - Softball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/ag_mds3_2709/ENG/master.m3u8?hdnea=exp=1790596232~acl=/*~id=24093294659110603680939944176123~hmac=da28033c9dd2adf0c7146d37ff3dacce0739287f3da60dfc1a07ba6467430379
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790553238383_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", People's Republic of China vs Malaysia - Men - Hockey - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22709/ENG/master.m3u8?hdnea=exp=1790596253~acl=/*~id=48939564415433349488408988225956~hmac=5670f33f0c1922489e7c5438c9177de90ccd84704554fc68922a341789abf245
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Prelims - Beach Volleyball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037139/ag_mds4_2709/ENG/master.m3u8?hdnea=exp=1790596232~acl=/*~id=24093294659110603680939944176123~hmac=da28033c9dd2adf0c7146d37ff3dacce0739287f3da60dfc1a07ba6467430379
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Chinese Taipei vs People's Republic of China - Badminton - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/ag_mds2_2709/ENG/master.m3u8?hdnea=exp=1790599883~acl=/*~id=15997905684868562848308481139703~hmac=b36fef59d4db6ca2bb49d8f2bdc0088e53ada7eab2fb48d3bf9a2d859a2d71a4
