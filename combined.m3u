@@ -233,43 +233,13 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-10-01 11:01:16 AM (BD Time)"
-# Total Active Links: 5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="Asian Games 2026", India vs Sri Lanka - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.bhalocast.com:7060/hls/willowsd.m3u8?md5=fCrkGuFmol8F6YFne80ZHA&expires=1790835642&ch=willowsd&s=8f605693fb1792c5fcf706511eaa6b69
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="Asian Games 2026", India vs Sri Lanka - Willow Xtra
-https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=HVzMuNZ-mZNW_RoiLOL8fQ&expires=1790835648&ch=wextres5&s=aa28b4ce1ff56cf2853b85336e3535e4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="Asian Games 2026", India vs Sri Lanka - Sony Sports Ten 1
-https://mz01.bhalocast.com:7060/hls/ten1co.m3u8?md5=1u6kO1BKMvnqS3eVzwqv2g&expires=1790835655&ch=ten1co&s=b7b1e1c0a0c0795e3b6f892ee8f75a73
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="Asian Games 2026", India vs Sri Lanka - Willow HD
-https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=qpsz1q09SpvfrBjzopMRww&expires=1790835669&ch=hdwillos5&s=fad0bcf62d16b415831a1cbd034e11d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="Asian Games 2026", India vs Sri Lanka - CricGo 1
-https://mz01.bhalocast.com:7060/hls/cricgo1.m3u8?md5=wfeKP6LnG_-MKoOZr8ntJA&expires=1790835674&ch=cricgo1&s=6399ff9f733dd8c6f2f9350459cdce07
+#"last updated": "2026-10-01 06:00:37 PM (BD Time)"
+# Total Active Links: 0
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:28 AM 01-10-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025454/1790806510223810_AG26_1stOct_Archery_Mens_Individual_Bronze_Match_live_landscape_thumb.jpg" group-title="Archery", India In Action - Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790855434~acl=/*~id=85920699754924198705640911730828~hmac=faebb41a5244429060e64c5b5e27e9bb755ca1e38da6eef5b8a31611d1148dfc
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket", India vs Sri Lanka - Semifinal - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/master.m3u8?hdnea=exp=1790871639~acl=/*~id=16063157075646356756283926938030~hmac=84887ca2b740c77cfd061dac57d450c3df0e34d66aad8500e2c63b7700b0cffc
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 13 - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Judo", Judo - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/ag_mds4_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790826314431_1789300066350741_AG26_Rugby_pictogram_landscape_thumb.jpg" group-title="Rugby Sevens", People's Republic of China vs Malaysia - Women - Rugby Sevens - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx7_03009/ENG/master.m3u8?hdnea=exp=1790857236~acl=/*~id=47923604069966017783007303785662~hmac=de0914e66ecd701c97a684630f6095acc1b5aa258e0d011fdcd4a71e19c98e75
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Sepaktakraw - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds1_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Hockey - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx2_03009/ENG/master.m3u8?hdnea=exp=1790862633~acl=/*~id=52469549066928850239267539656950~hmac=81b439d89ccc08ea6b357a9c5d63b2547a14bf13f4d42add06f60ac73bc84cf6
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Squash", Squash - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/ag_edx1_3009/ENG/master.m3u8?hdnea=exp=1790860848~acl=/*~id=53239537297521591387912619401960~hmac=83cfc7e72ded3e9f6a06d9db1308b46decee22e0315947ae590be14559a3097a
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Men's & Women's Finals - Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx4_00110/ENG/master.m3u8?hdnea=exp=1790871648~acl=/*~id=25844689994461484402075426127658~hmac=5ee865efca16f1b369702e24bb8c4d53ec514b2dcf471ab8581ad10e556c72f3
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790827211916_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Korea vs IR Iran - Men - Volleyball - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_dx8_00110/ENG/master.m3u8?hdnea=exp=1790871671~acl=/*~id=10087233319163503923055706777241~hmac=c83802562907147ddf3d6b60f8ce373e60b2a4dc51e1b64a6bf20f83a6e506fd
+# last_update: 06:20:31 PM 01-10-2026
+#EXTINF:-1 tvg-id="sonyliv-1090546010" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="Sports", Day 13 - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790880634~acl=/*~id=04688349102589832231584920972393~hmac=4b321ffdb3d9a04d442e7da4ab283e78f248aaa61e964fb23358808a4eca7c13
+#EXTINF:-1 tvg-id="sonyliv-1090545726" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561740000673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day1_landscape_thumb.jpg" group-title="Golf", Alfred Dunhill Links Championship - Day 1 - 1 Oct 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/master.m3u8?hdnea=exp=1790900442~acl=/*~id=12310054921308077528541891910238~hmac=2b5a339e526524c7c3e2785aef1c414f4e2dc3c871105833c4db8836a76e7d47
