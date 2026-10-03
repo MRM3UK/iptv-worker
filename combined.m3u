@@ -233,26 +233,18 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-10-03 02:01:37 PM (BD Time)"
-# Total Active Links: 13
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Pakistan.png" group-title="Asian Games 2026", India vs Pakistan - Willow Cricket
+#"last updated": "2026-10-03 07:01:30 PM (BD Time)"
+# Total Active Links: 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=willow
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Pakistan.png" group-title="Asian Games 2026", India vs Pakistan - Willow Xtra
-https://playerso.top/embed2.php?id=willowextra
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Pakistan.png" group-title="Asian Games 2026", India vs Pakistan - Sony Sports Ten 1
-https://playerso.top/embed2.php?id=ten1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Pakistan.png" group-title="Asian Games 2026", India vs Pakistan - Willow HD
-https://playerso.top/embed2.php?id=willowhd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Pakistan.png" group-title="Asian Games 2026", India vs Pakistan - CricGo 1
-https://playerso.top/embed2.php?id=cricgo1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Willow Cricket
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Star Sports 2
 https://playerso.top/embed2.php?id=starsp2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Star Sports 2 Hindi
 https://playerso.top/embed2.php?id=starsp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Willow HD
+https://playerso.top/embed2.php?id=willowhd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Astro Cricket
 https://playerso.top/embed2.php?id=astrocric
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - TNT Cricket
@@ -261,6 +253,12 @@ https://playerso.top/embed2.php?id=crich12
 https://playerso.top/embed2.php?id=starsp1tam
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Star Sports 1 Telugu
 https://playerso.top/embed2.php?id=starsp1tel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20Australia%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs Australia Champions - Willow Xtra
+https://playerso.top/embed2.php?id=willowextra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20Australia%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs Australia Champions - Star Sports 1
+https://playerso.top/embed2.php?id=starsp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20Australia%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs Australia Champions - Star Sports Hindi
+https://playerso.top/embed2.php?id=starsp3
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -269,22 +267,26 @@ https://playerso.top/embed2.php?id=starsp1tel
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:28 PM 03-10-2026
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg" group-title="Cricket", India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4
-#EXTINF:-1 tvg-id="sonyliv-1090543297" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports", Day 15 - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1791003565492_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Japan vs People's Republic of China - Men - Hockey - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_dx2_00210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297941567348_AG26_Golf_pictogram_landscape_thumb.jpg" group-title="Golf", Golf - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+# last_update: 07:20:26 PM 03-10-2026
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8ENG/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8HIN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8TAM/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8TEL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8KAN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Malayalam]
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8MAL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
+#EXTINF:-1 tvg-id="sonyliv-1090546669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 (Bengali) - India's International Friendlies 2026 [Bengali]
+https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/std_mdh-800300010.m3u8BEN/master.m3u8?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6
+#EXTINF:-1 tvg-id="sonyliv-1090546613" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747681984683_UNL2627_Finland_vs_Albania_landscape_thumb.jpg" group-title="Football", Finland vs Albania - 3 Oct 2026 - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0310/ENG/std_mdh-800300010.m3u8ENG/master.m3u8?hdnea=exp=1791076124~acl=/*~id=37021490200030125360992437427294~hmac=0f98b7f16b9d618ea47e956108ba66b2f123eea2636d07b82f8381e89c35c7c9
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
 https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx5_00310/ENG/master.m3u8?hdnea=exp=1791042635~acl=/*~id=16654853601436551659895089208426~hmac=4bfb75f021ce40a83675b13bbd15e063d42715a9532c6febbd8a08c606a47451
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 15 - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791024644~acl=/*~id=46657219117778403527314187298168~hmac=51e42ffe7fc4506657ba9d46dfe6829ca18ceb250956c73d2b61fe4a182a4b15
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg" group-title="Taekwondo", Taekwondo - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Archery - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791028262~acl=/*~id=98601785485711092808063264943013~hmac=52b9670e28542601eac5f3735aae5cb1fc8f5b338ee628c0e2fa41e9ebf02b7d
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg" group-title="Rugby Sevens", Rugby 7s - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4
+#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Golf", Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 - DP World Tour [English]
+https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60
