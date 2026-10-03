@@ -233,8 +233,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-10-03 07:01:30 PM (BD Time)"
-# Total Active Links: 11
+#"last updated": "2026-10-03 11:01:19 PM (BD Time)"
+# Total Active Links: 8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -253,12 +253,6 @@ https://playerso.top/embed2.php?id=crich12
 https://playerso.top/embed2.php?id=starsp1tam
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20West%20Indies.png" group-title="West Indies tour of India, 2026", India vs West Indies - Star Sports 1 Telugu
 https://playerso.top/embed2.php?id=starsp1tel
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20Australia%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs Australia Champions - Willow Xtra
-https://playerso.top/embed2.php?id=willowextra
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20Australia%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs Australia Champions - Star Sports 1
-https://playerso.top/embed2.php?id=starsp
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20Champions%20vs%20Australia%20Champions.png" group-title="World Championship of Legends 2026", India Champions vs Australia Champions - Star Sports Hindi
-https://playerso.top/embed2.php?id=starsp3
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -267,26 +261,12 @@ https://playerso.top/embed2.php?id=starsp3
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:26 PM 03-10-2026
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8ENG/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8HIN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8TAM/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8TEL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8KAN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Malayalam]
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_mdh-800300010.m3u8MAL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg" group-title="Football", India vs Brazil - 3 Oct 2026 (Bengali) - India's International Friendlies 2026 [Bengali]
-https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/std_mdh-800300010.m3u8BEN/master.m3u8?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6
-#EXTINF:-1 tvg-id="sonyliv-1090546613" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747681984683_UNL2627_Finland_vs_Albania_landscape_thumb.jpg" group-title="Football", Finland vs Albania - 3 Oct 2026 - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0310/ENG/std_mdh-800300010.m3u8ENG/master.m3u8?hdnea=exp=1791076124~acl=/*~id=37021490200030125360992437427294~hmac=0f98b7f16b9d618ea47e956108ba66b2f123eea2636d07b82f8381e89c35c7c9
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx5_00310/ENG/master.m3u8?hdnea=exp=1791042635~acl=/*~id=16654853601436551659895089208426~hmac=4bfb75f021ce40a83675b13bbd15e063d42715a9532c6febbd8a08c606a47451
-#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Golf", Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 - DP World Tour [English]
-https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60
+# last_update: 11:20:27 PM 03-10-2026
+#EXTINF:-1 tvg-id="sonyliv-1090546628" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg" group-title="Football", Croatia vs England - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100
+#EXTINF:-1 tvg-id="sonyliv-1090546637" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg" group-title="Football", Iceland vs Bulgaria - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084048~acl=/*~id=11421288747896566546231094062447~hmac=e502e4edca80037663e0b7e400adbab922881f00bede2797ee64defcc7dc1437
+#EXTINF:-1 tvg-id="sonyliv-1090546671" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg" group-title="Football", Estonia vs Luxembourg - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084060~acl=/*~id=64890104261540344446004052037941~hmac=2c23b7986b8831a105b1f3955311386be562d428293855f41cf2e8f0325b2d1a
+#EXTINF:-1 tvg-id="sonyliv-1090546635" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg" group-title="Football", Belarus vs San Marino - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc
