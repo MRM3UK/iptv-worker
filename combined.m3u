@@ -233,22 +233,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-10-05 12:01:01 AM (BD Time)"
-# Total Active Links: 6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20Champions%20vs%20India%20Champions.png" group-title="World Championship of Legends 2026", England Champions vs India Champions - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=willow
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20Champions%20vs%20India%20Champions.png" group-title="World Championship of Legends 2026", England Champions vs India Champions - Willow Xtra
-https://playerso.top/embed2.php?id=willowextra
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20Champions%20vs%20India%20Champions.png" group-title="World Championship of Legends 2026", England Champions vs India Champions - Star Sports 1
-https://playerso.top/embed2.php?id=starsp
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20Champions%20vs%20India%20Champions.png" group-title="World Championship of Legends 2026", England Champions vs India Champions - Star Sports Hindi
-https://playerso.top/embed2.php?id=starsp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20Champions%20vs%20India%20Champions.png" group-title="World Championship of Legends 2026", England Champions vs India Champions - Willow HD
-https://playerso.top/embed2.php?id=willowhd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20Champions%20vs%20India%20Champions.png" group-title="World Championship of Legends 2026", England Champions vs India Champions - CricGo 1
-https://playerso.top/embed2.php?id=cricgo1
+#"last updated": "2026-10-05 03:00:36 AM (BD Time)"
+# Total Active Links: 0
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -257,8 +243,4 @@ https://playerso.top/embed2.php?id=cricgo1
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:33 PM 04-10-2026
-#EXTINF:-1 tvg-id="sonyliv-1090547001" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795255287993_UNL2627_MD4_Kosovo_vs_Austria_landscape_thumb.jpg" group-title="Football", Kosovo vs Austria - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170438~acl=/*~id=08922464962888233002080627803239~hmac=f47b2b14697e97819a2e0088a3a3e0a267f1aff6d21e671deaa9bbb128f8fbbb
-#EXTINF:-1 tvg-id="sonyliv-1090547002" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795407473993_UNL2627_MD4_Malta_vs_Andorra_landscape_thumb.jpg" group-title="Football", Malta vs Andorra - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170451~acl=/*~id=49942054377503995884123288737081~hmac=5e44a13982713fc689270f1eb6dea66addaaf5bf1560fa51c98b5337111b5278
+# last_update: 03:20:30 AM 05-10-2026
