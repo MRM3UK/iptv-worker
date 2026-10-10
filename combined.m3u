@@ -233,8 +233,26 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-10-10 11:00:36 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-10-10 05:01:01 PM (BD Time)"
+# Total Active Links: 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=willowextra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - T Sports HD
+https://playerso.top/embed2.php?id=gtv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Afghanistan.png" group-title="Afghanistan vs Bangladesh in UAE, 2026", Bangladesh vs Afghanistan - CricGo 3
+https://playerso.top/embed2.php?id=cricgo3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Willow Cricket
+https://playerso.top/embed2.php?id=willow
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - A Sports HD
+https://playerso.top/embed2.php?id=asports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - CricGo 5
+https://playerso.top/embed2.php?id=cricgo5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Fox Cricket
+https://playerso.top/embed2.php?id=fox501
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20South%20Africa.png" group-title="Australia tour of South Africa, 2026", Australia vs South Africa - Sky Cricket
+https://playerso.top/embed2.php?id=crich2
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -243,4 +261,10 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:24 AM 10-10-2026
+# last_update: 05:50:24 PM 10-10-2026
+#EXTINF:-1 tvg-id="sonyliv-1090547633" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg" group-title="Football", Bengaluru FC vs Sporting Club Delhi - MG Indian Super League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/master.m3u8?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e
+#EXTINF:-1 tvg-id="sonyliv-1090547633" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg" group-title="Football", Bengaluru FC vs Sporting Club Delhi - MG Indian Super League 2026-27 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/HIN/master.m3u8?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e
+#EXTINF:-1 tvg-id="sonyliv-1090547534" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649388803310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day3_landscape_thumb.jpg" group-title="Golf", Open de Espana Presented By Madrid - Day 3 - DP World Tour [English]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/master.m3u8?hdnea=exp=1791674435~acl=/*~id=18423025070604368853146253552318~hmac=c733fe8020f2098016f432363ceab06a50931d15e6dece2a7593d8b2965771de
